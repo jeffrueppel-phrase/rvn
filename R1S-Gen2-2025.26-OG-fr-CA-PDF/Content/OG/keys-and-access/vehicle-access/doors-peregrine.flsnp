@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+    </head>
+    <body>
+        <h2>Open from the Outside</h2>
+        <p class="KeepWithNext">When you <a href="../lock-and-unlock/about-lock-and-unlock.htm">unlock the vehicle</a>, the exterior door handles present. Pull a handle to open a door. </p>
+        <p>
+            <img src="../../../Resources/Images/print/door-handles-exterior-manual-open-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Exterior handles retract and lock when you drive the vehicle.</p>
+                </li>
+                <li>
+                    <p>In below freezing conditions, it's possible for the door handles to freeze and not present during unlock. To unfreeze and open a handle, press in on the rearward end of it a few times until it "breaks" the ice and opens.</p>
+                </li>
+                <li>
+                    <p>To open an unlocked door if a handle doesn't present, push the indentation at the back of the door handle, and then pull the handle as usual to open the door.</p>
+                    <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                        <img src="../../../Resources/Images/print/door-handles-exterior-manual-open-press-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                    </p>
+                </li>
+            </ul>
+        </div>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.Print-8x11" />
+        <h2 class="KeepWithNext">Open from the Inside</h2>
+        <p class="KeepWithNext">Press the open door button to open the door.</p>
+        <div class="note">
+            <p>In the unlikely event that the vehicle loses power, you can use the <a href="../../troubleshooting-help/help/manually-open-doors-peregrine.htm">manual releases</a> to open a front or rear door from the inside.</p>
+        </div>
+        <p>
+            <img src="../../../Resources/Images/print/door-handles-interior-button-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>The following power outlets are available in the vehicle:</p>
+        <ul>
+            <li>
+                <p>12 V</p>
+            </li>
+            <li>
+                <p>120 V</p>
+            </li>
+            <li>
+                <p>USB-C</p>
+            </li>
+            <li>
+                <p>
+                    <a href="../../phone-media/device-charging/wireless-charger.htm">Wireless Charger</a>
+                </p>
+            </li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Use the USB-C outlets within the storage bin of the center console to charge  and  store data, such as security footage from the <a href="../../storage-security/security/gear-guard-video/about-gear-guard-video.htm">Gear Guard</a>. These USB-C ports can support up to 60 W from a single port, with a total maximum capacity of 67.5 W for two ports.</p>
+                </li>
+                <li>
+                    <p>Use the USB-C outlets at the back of the head restraints, below the rear display screen, and near the armrests of the rear outboard seats for charging only. They are best suited for smaller electronic devices such as a phone or tablet. These USB-C ports can charge a max of 15&#160;W from a single port, with a total maximum capacity of 30 W.</p>
+                </li>
+                <li>
+                    <p>Depending on your vehicle, not all outlets may be available.</p>
+                </li>
+            </ul>
+        </div>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <!-- power-outlets-v04-vehicle-R1S -->
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/power-outlets-vehicle-r1s-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../Resources/Images/day/power-outlets-vehicle-r1s-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/power-outlets-vehicle-r1s-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/120-v-gear-tunnel-danger.flsnp" />
+        <table class="TableStyle-callout-table" style="margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Outlet</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Power State</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>120 V</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Power is off by default. After you turn them on from the <b>Energy</b> app <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/energy/ic_energy_charging_20_unselected.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-energy-off-inline-day.svg" alt="energy app" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/app-energy-off-inline-night.svg" alt="energy app" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> on the center display, they all remain on.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">
+                        <p>12 V</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">
+                        <p>Power is off when the vehicle is not being used and the 120 V outlets are turned off. Power is on while the vehicle is in use. 12 V outlet power can be extended by turning on the 120 V outlets.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/120-v-max-power.flsnp" />
+    </body>
+</html>

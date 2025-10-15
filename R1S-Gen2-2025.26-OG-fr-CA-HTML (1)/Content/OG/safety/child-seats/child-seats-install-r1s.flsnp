@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim" MadCap:fileTags="TechPubsAuthors.Daisy Luu" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext" MadCap:conditions="RegionSpecificConditions.CA,R1GuideSpecificConditions.OwnersGuide">Follow the guidelines of the seat manufacturer and the guidelines of your province or territory for whether to install the child seat rear- or forward-facing. These rules are often based on the child's age, height, and&#160;weight.</p>
+        <p class="warning ">If a child seat can't be installed securely in the rear-center seating position due to seat size, space limitations, or seat contours, install the child seat on either side position of the outboard seats near the windows. The rear&#8209;center seating position may best accommodate a smaller booster seat or an infant bucket seat with a bottom base that fits snugly against the contours of the seat cushions. These types of child seats should be secured snugly with the vehicle's seat belt.</p>
+        <ol>
+            <li style="page-break-inside:avoid;">
+                <p>Position the child seat either rear-facing or forward-facing on the vehicle's seat.</p>
+                <div class="important " MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+                    <p>If a forward-facing child seat requires a top tether, latch the hook into the tether anchorage behind the seat and tighten the belt.</p>
+                    <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+                        <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1">
+                        </col>
+                        <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1">
+                        </col>
+                        <tbody>
+                            <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                                <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                                    <!-- child-seats-v06-R1S-top-tether-anchor -->
+                                    <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-top-tether-anchor-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-top-tether-anchor-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-top-tether-anchor-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                </td>
+                                <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                                    <!-- child-seats-v06-R1S-single-top-tether-config -->
+                                    <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-single-top-tether-config-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-single-top-tether-config-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-single-top-tether-config-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <!-- LB note 6/4/25: to get this on one page in the English (en-US and en-CA), may need to replace style in below image with style="margin-top: -8pt;margin-bottom: -8pt;" and make sure no extra spacing between image tags throughout topic-->
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+        </ol>
+        <ol MadCap:continue="true">
+            <li>
+                <p style="margin-bottom: -10pt;">Run the vehicle's seat belt through the belt path as instructed by the child seat manufacturer instructions.</p>
+                <div class="note">
+                    <p>If installing a seat base that accompanies an infant bucket seat, you may need to clip the seat belt in place with the belt lock off as directed by the seat manufacturer.</p>
+                </div>
+            </li>
+            <li>
+                <p>Insert the tongue plate of the seat belt into the buckle until it clicks.</p>
+            </li>
+            <li>
+                <p>Pull on the lap belt to take up the slack and ensure a tight fit.</p>
+            </li>
+            <li>
+                <p>Pull out the shoulder belt fully from the retractor and then allow the belt to retract. The seat belt locks into place as it retracts.</p>
+            </li>
+            <li>
+                <p>Push the child seat down and toward the back cushion of the vehicle seat, taking out as much slack from the seat belt as possible. </p>
+            </li>
+        </ol>
+        <!-- LB note 5/6/25: to get this on one page in the Canadian English (en-CA), replace inline style in below important p tag style="margin-top: -5pt;margin-bottom: -10pt;" -->
+        <div class="important" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p style="margin-bottom: -10pt;">Install the child seat snugly so that its base at the belt path cannot move more than <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:1,;measure.imperial-unit:in,;measure.metric-value:2.5,;measure.metric-unit:cm,"></MadCap:snippetText> from side to side. Ensure that the seat is firmly secured before driving the&#160;vehicle.</p>
+        </div>
+    </body>
+</html>

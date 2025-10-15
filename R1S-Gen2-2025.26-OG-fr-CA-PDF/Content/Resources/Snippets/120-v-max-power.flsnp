@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>Don't use an outlet to power any device that requires over 1,500&#160;W (1.5&#160;kW) of power. If the 120&#160;V circuits overload, the power cuts off. Unplug devices before you turn the outlets back on.</p>
+                </li>
+                <li>
+                    <p>Don't use more than one high-powered device at the same time. The 120&#160;V outlets share the 1,500&#160;W (1.5&#160;kW) of power.</p>
+                </li>
+                <li>
+                    <p>Leaving the 120&#160;V outlets powered on reduces the range of your vehicle, even if no devices are plugged in.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

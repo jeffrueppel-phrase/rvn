@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-2col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>The Alarm is enabled by default. If the Motion Cam is turned on, the vehicle records video. Recorded videos appear on the Motion Cam video tab.	</p>
+        <ol>
+            <li>
+                <p>Choose <b>Gear Guard</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_gear_guard_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_gear_guard_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-gear-guard-off-inline-print.svg" alt="Gear Guard icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /> from the menu on the center display, and then choose <span class="nonbreaking"><b>Gear Guard Features</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/media/ic_media_eq_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/media/ic_media_eq_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/gear-guard-settings-inline-print.svg" alt="Gear Guard Features icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /></span>.</p>
+            </li>
+            <li>
+                <p>Turn <b>Alarm</b> on or off. </p>
+            </li>
+        </ol>
+        <p>When turned on, the Alarm functions under these conditions:</p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/txt-2col-table.css');" class="TableStyle-txt-2col-table" cellspacing="0">
+            <col class="TableStyle-txt-2col-table-Column-Column1" style="width: 50%;">
+            </col>
+            <col class="TableStyle-txt-2col-table-Column-Column2" style="width: 50%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-txt-2col-table-Head-Header1">
+                    <th class="TableStyle-txt-2col-table-HeadE-Column1-Header1">
+                        <p>Condition</p>
+                    </th>
+                    <th class="TableStyle-txt-2col-table-HeadD-Column2-Header1">
+                        <p>Actions</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body1">
+                        <p>The Gear Guard security system detects an opened door, hood, or liftgate.</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body1">
+                        <p>The vehicle flashes the exterior lights, sounds the horn, and sends a message to the owner's Rivian mobile app.</p>
+                        <p>If the Motion Cam is turned on, the vehicle records video. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body2">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body2">
+                        <p>The Gear Guard security system detects the activation of panic mode.</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body2">
+                        <p> The vehicle flashes the exterior lights, sounds the horn, and sends a message to the owner's Rivian mobile app.</p>
+                        <p>If the Motion Cam is turned on, the vehicle records video. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body1">
+                        <p>If equipped, the Gear Guard security system detects motion inside the cabin of the vehicle.</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body1">
+                        <p>The vehicle flashes the exterior lights and sends a message to the owner's Rivian mobile app.</p>
+                        <p>If the Motion Cam is turned on, the vehicle records video. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body2">
+                    <td class="TableStyle-txt-2col-table-BodyB-Column1-Body2">
+                        <p>If equipped, the Gear Guard security system detects the vehicle tilting, as if being towed.</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyA-Column2-Body2">
+                        <p>The vehicle flashes the exterior lights and sends a message to the owner's Rivian mobile app.</p>
+                        <p>If the Motion Cam is turned on, the vehicle records video. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>If recording is available, the cameras record 30-second videos on the onboard hard drive. Recorded videos appear on the Motion Cam video tab.</p>
+        <div class="note">
+            <p>Vehicle Shipping  mode disarms the Alarm.</p>
+        </div>
+        <h2>Arm or Disarm the Alarm</h2>
+        <p class="KeepWithNext">The Alarm automatically arms itself when all of the following conditions apply:</p>
+        <ul>
+            <li>
+                <p>You enable the Alarm.</p>
+            </li>
+            <li>
+                <p>You close and lock all of the doors.</p>
+            </li>
+            <li>
+                <p>Seat belts are unbuckled.</p>
+            </li>
+            <li>
+                <p>The vehicle doesn't detect anyone inside the cabin.</p>
+            </li>
+            <li>
+                <p>The vehicle doesn't detect an authorized device, such as a phone key, in its vicinity.</p>
+            </li>
+        </ul>
+        <p class="KeepWithNext">If you have armed the Alarm, the following conditions trigger it:</p>
+        <ul>
+            <li>
+                <p>The vehicle detects an opened door, hood, or liftgate.</p>
+            </li>
+            <li>
+                <p>If equipped:</p>
+                <ul>
+                    <li>
+                        <p>The vehicle detects motion inside the cabin.</p>
+                    </li>
+                    <li>
+                        <p>The vehicle tilts, as if being towed.</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <div class="note">
+            <p>If you have a key fob, press the <b>Lock</b> button for 2 seconds to activate panic mode at any time, regardless of the Alarm status. If the Motion Cam is turned on, the vehicle records video. </p>
+        </div>
+        <h2>Stop the Alarm</h2>
+        <p>When the Alarm is triggered, the vehicle flashes the exterior lights, sounds the horn, and sends a message to the owner's Rivian mobile app. If the Motion Cam is turned on, the vehicle records video. No one can drive the vehicle.</p>
+        <p class="KeepWithNext">To stop the Alarm, do one of the following:</p>
+        <ul>
+            <li>
+                <p>Unlock the vehicle with a key. This disarms the Alarm.</p>
+            </li>
+            <li>
+                <p>Lock the vehicle with a key. This allows the Alarm to remain armed.</p>
+            </li>
+            <li>
+                <p>Allow the Alarm to time out after 30 seconds if the door, hood, or liftgate is closed after the initial alarm. This allows the Alarm to remain armed.</p>
+                <div class="notes">
+                    <ul>
+                        <li>
+                            <p>If the Alarm is repeatedly triggered, the Alarm turns off after 5 minutes. The Alarm automatically turns back on when the vehicle turns off the <a href="../../keys-and-access/vehicle-access/theft-protection.htm">immobilizer</a>.</p>
+                        </li>
+                        <li>
+                            <p>The vehicle's immobilizer helps prevent vehicle theft. When it's active, the vehicle can't be driven.</p>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </body>
+</html>

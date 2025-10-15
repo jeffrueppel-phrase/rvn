@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Global">
+    <Variable Comment="" Name="region-country" EvaluatedDefinition="the United States">the United States</Variable>
+    <Variable Comment="" Name="vehicle-type" EvaluatedDefinition="R1T">R1T</Variable>
+    <Variable Name="region-country" Comment="" EvaluatedDefinition="Canada">Canada</Variable>
+    <Variable Name="region-country" Comment="Includes Germany and other countries in the EU." EvaluatedDefinition="the European Union">the European Union</Variable>
+    <Variable Name="vehicle-type" Comment="" EvaluatedDefinition="R1S">R1S</Variable>
+    <Variable Name="vehicle-type" Comment="" EvaluatedDefinition="EDV&#160;500">EDV&#160;500</Variable>
+    <Variable Name="vehicle-type" Comment="" EvaluatedDefinition="EDV 700">EDV 700</Variable>
+    <Variable Name="software-release" Comment="" EvaluatedDefinition="2022.xx">2022.xx</Variable>
+    <Variable Name="model-year" Comment="" EvaluatedDefinition="Model Year 2022-2024">Model Year 2022-2024</Variable>
+    <Variable Name="model-year" Comment="" EvaluatedDefinition="Model Year 2025">Model Year 2025</Variable>
+    <Variable Name="vehicle-type" Comment="" EvaluatedDefinition="RCV 500">RCV 500</Variable>
+    <Variable Name="vehicle-type" Comment="" EvaluatedDefinition="RCV 700">RCV 700</Variable>
+    <Variable Name="model-year" Comment="" EvaluatedDefinition="Model Year 2025-2026">Model Year 2025-2026</Variable>
+</CatapultVariableSet>

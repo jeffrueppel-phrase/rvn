@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/fr-ca-no-tokens.css" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains several starter topics and other files intended for both online and print-based output. The online HTML5 output looks like a modern website with navigation on the side (left or right). It offers a frameless, modern alternative to the more traditional tripane format. Responsive output is automatically enabled, which means the content display changes automatically depending on the width of the screen. The PDF output is a user guide that includes auto-generation of a TOC, glossary, and index." MasterToc="/Project/TOCs/VehicleAndSupport/R1S-All/R1S-OG-TOC.fltoc" SourceControlProviderType="Madcap Central" ProjectGuid="534c8a12-fd35-47ac-93ca-a3cc3fafa421" PreviewConditionalExpression="include[DocSize.longform or ReleaseConditions.PostSOP or UnitsOfMeasureConditions.Both-Imperial-Metric], exclude[AdventureGearConditions.AdventureGear or AdventureGearConditions.CampKitchen or AdventureGearConditions.Crossbars or ChargerConditions.AC-Fleet or ChargerConditions.AC-Portable or ChargerConditions.AC-Portable or ChargerConditions.AC-Wall or ChargerConditions.AC-Waypoint or ChargerConditions.AC-Waypoint-Fleet or ChargerConditions.AC-Waypoint-Wall or ChargerConditions.DC-AdventureNetwork or ChargerConditions.DC-Fleet or CopyEditConditions.EditorQuery or DocSize.compliance or DocSize.eight-five or DocSize.shortform or DocSize.six-four or GeneralConditions.Exclude or GeneralConditions.Exclude or GuideSpecificConditions.CampKitchenGuide or GuideSpecificConditions.CampSpeakerGuide or GuideSpecificConditions.ChargerInstallGuide or GuideSpecificConditions.ChargerInstallQuickStartGuide or GuideSpecificConditions.ChargerServiceGuide or GuideSpecificConditions.EmergencyResponseGuide or GuideSpecificConditions.ERGPrototypeGuide or GuideSpecificConditions.FlashlightGuide or GuideSpecificConditions.PortableChargerGuide or GuideSpecificConditions.SafetyGuide or GuideSpecificConditions.SafetyGuide or GuideSpecificConditions.TowOperatorGuide or LanguageConditions.de or LanguageConditions.es or LanguageConditions.fr or LanguageConditions.it or NoteConditions.ImageNote or NoteConditions.InternalNote or NoteConditions.ReviewerNote or OutputTypeConditions.In-Vehicle or OutputTypeConditions.Mobile or OutputTypeConditions.Mobile or OutputTypeConditions.Mobile or OutputTypeConditions.Print-11x8 or OutputTypeConditions.Print-6x4-booklet or OutputTypeConditions.Print-8x5-booklet or OutputTypeConditions.Print-A4 or OutputTypeConditions.Print-A4-booklet or OutputTypeConditions.Tablet or OutputTypeConditions.Tablet or OutputTypeConditions.Web or OutputTypeConditions.Web or RegionSpecificConditions.CA or RegionSpecificConditions.DE or RegionSpecificConditions.EU or RegionSpecificConditions.GB or RegionSpecificConditions.US-CA or RegulatoryConditions.HomologationReference or RegulatoryConditions.HomologationReference or ReleaseConditions.FutureRelease or UnitsOfMeasureConditions.Both-Metric-Imperial or UnitsOfMeasureConditions.Imperial or UnitsOfMeasureConditions.Metric or VehicleConditions.EDV or VehicleConditions.Preproduction or VehicleConditions.R1S or VehicleConditions.R1S or VehicleConditions.RCV or RegionSpecificConditions.Canada-English or RegionSpecificConditions.Canada-French]" ExcludePattern="callouts.htm; fonts.htm; headings.htm; images.htm; links.htm; procedure-topic.htm; tables.htm; content-explorer.htm; project-explorer.htm; steps-import-global-project.htm;demo-styles.fltar; demo-styles.fltoc;" IncludePattern="copyright.htm; placeholder-topic.htm; title-page.htm; toc.htm; Home.htm; Home-clean.htm; *.otf; *.png; *.jpg; *.flmsp; *.flpgl; *.flsnp; *.flskn; *.css; *.flcts; *.flglo; *.flvar;template-CLEAN-XHTML.fltar; template-HTML5.fltar; template-PDF.fltar; template-Clean-Online.fltoc; template-Online.fltoc; template-PDF.fltoc;" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" ParentMadCapCentralId="17579" LastImport="2020-12-08T09:46:30.3160749-08:00" MasterPageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <Files>
+        <Url Source="file:///C:/MadCap/Global/Global.flprj" AbsoluteSource="file:///C:/MadCap/Global/Global.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../GlobalProject/Content/Home-clean.htm" AbsoluteSource="file:///C:/MadCap/Global/Content/Home-clean.htm" />
+        <Url Source="../GlobalProject/Project/TOCs/template/template-PDF.fltoc" AbsoluteSource="file:///C:/MadCap/Global/Project/TOCs/template/template-PDF.fltoc" />
+        <Url Source="../GlobalProject/Content/front-matter/copyright.htm" AbsoluteSource="file:///C:/MadCap/Global/Content/front-matter/copyright.htm" />
+        <Url Source="../GlobalProject/Content/front-matter/placeholder-topic.htm" AbsoluteSource="file:///C:/MadCap/Global/Content/front-matter/placeholder-topic.htm" />
+        <Url Source="../GlobalProject/Content/front-matter/title-page.htm" AbsoluteSource="file:///C:/MadCap/Global/Content/front-matter/title-page.htm" />
+        <Url Source="../GlobalProject/Content/front-matter/toc.htm" AbsoluteSource="file:///C:/MadCap/Global/Content/front-matter/toc.htm" />
+        <Url Source="../GlobalProject/Content/Resources/Fonts/Larsseit-Bold.otf" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Fonts/Larsseit-Bold.otf" />
+        <Url Source="../GlobalProject/Content/Resources/Fonts/Larsseit-ExtraBold.otf" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Fonts/Larsseit-ExtraBold.otf" />
+        <Url Source="../GlobalProject/Content/Resources/Fonts/Larsseit-Medium.otf" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Fonts/Larsseit-Medium.otf" />
+        <Url Source="../GlobalProject/Content/Resources/Fonts/Larsseit-Regular.otf" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Fonts/Larsseit-Regular.otf" />
+        <Url Source="../GlobalProject/Content/Resources/Images/2018_11_Rivian-R1T-Colorado-002.jpg" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/2018_11_Rivian-R1T-Colorado-002.jpg" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Alert-Icon-Caution.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Alert-Icon-Caution.png" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Alert-Icon-Danger-Day.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Alert-Icon-Danger-Day.png" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Alert-Icon-Warning-Day.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Alert-Icon-Warning-Day.png" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Alert-Icon-Warning-Night.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Alert-Icon-Warning-Night.png" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Hero-Image-Print.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Hero-Image-Print.png" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Logo.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Logo.png" />
+        <Url Source="../GlobalProject/Project/TOCs/template/template-Online.fltoc" AbsoluteSource="file:///C:/MadCap/Global/Project/TOCs/template/template-Online.fltoc" />
+        <Url Source="../GlobalProject/Project/TOCs/template/template-Clean-Online.fltoc" AbsoluteSource="file:///C:/MadCap/Global/Project/TOCs/template/template-Clean-Online.fltoc" />
+        <Url Source="../GlobalProject/Content/Resources/MasterPages/Home-Page-Clean.flmsp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/MasterPages/Home-Page-Clean.flmsp" />
+        <Url Source="../GlobalProject/Project/Targets/template/template-PDF.fltar" AbsoluteSource="file:///C:/MadCap/Global/Project/Targets/template/template-PDF.fltar" />
+        <Url Source="../GlobalProject/Project/Targets/template/template-HTML5.fltar" AbsoluteSource="file:///C:/MadCap/Global/Project/Targets/template/template-HTML5.fltar" />
+        <Url Source="../GlobalProject/Project/Targets/template/template-CLEAN-XHTML.fltar" AbsoluteSource="file:///C:/MadCap/Global/Project/Targets/template/template-CLEAN-XHTML.fltar" />
+        <Url Source="../GlobalProject/Project/ConditionTagSets/Default.flcts" AbsoluteSource="file:///C:/MadCap/Global/Project/ConditionTagSets/Default.flcts" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-blank.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-blank.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-caution.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-caution.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-danger.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-danger.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-important.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-important.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-note.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-note.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-notes.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-notes.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/alert-warning.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/alert-warning.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Snippets/table-procedure.flsnp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Snippets/table-procedure.flsnp" />
+        <Url Source="../GlobalProject/Content/Resources/Stylesheets/callouts.css" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Stylesheets/callouts.css" />
+        <Url Source="../GlobalProject/Content/Resources/TableStyles/procedure-table.css" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/TableStyles/procedure-table.css" />
+        <Url Source="../GlobalProject/Content/Resources/TableStyles/no-color-no-border.css" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/TableStyles/no-color-no-border.css" />
+        <Url Source="../GlobalProject/Content/Resources/TableStyles/Alternate-Row-Color.css" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/TableStyles/Alternate-Row-Color.css" />
+        <Url Source="../GlobalProject/Content/Resources/MasterPages/Home-Page.flmsp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/MasterPages/Home-Page.flmsp" />
+        <Url Source="../GlobalProject/Content/Home.htm" AbsoluteSource="file:///C:/MadCap/Global/Content/Home.htm" />
+        <Url Source="../GlobalProject/Content/Resources/PageLayouts/Chapters.flpgl" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/PageLayouts/Chapters.flpgl" />
+        <Url Source="../GlobalProject/Content/Resources/PageLayouts/Frontmatter.flpgl" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/PageLayouts/Frontmatter.flpgl" />
+        <Url Source="../GlobalProject/Content/Resources/Stylesheets/Styles.css" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Stylesheets/Styles.css" />
+        <Url Source="../GlobalProject/Project/VariableSets/General.flvar" AbsoluteSource="file:///C:/MadCap/Global/Project/VariableSets/General.flvar" />
+        <Url Source="../GlobalProject/Content/Resources/MasterPages/Other-Topics.flmsp" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/MasterPages/Other-Topics.flmsp" />
+        <Url Source="../GlobalProject/Project/Glossaries/Glossary.flglo" AbsoluteSource="file:///C:/MadCap/Global/Project/Glossaries/Glossary.flglo" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Minus.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Minus.png" />
+        <Url Source="../GlobalProject/Content/Resources/Images/Plus.png" AbsoluteSource="file:///C:/MadCap/Global/Content/Resources/Images/Plus.png" />
+        <Url Source="../GlobalProject/Project/Skins/Side-Navigation.flskn" AbsoluteSource="file:///C:/MadCap/Global/Project/Skins/Side-Navigation.flskn" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/Home-clean.htm" TimeStamp="12/4/2020 1:29:20 PM" />
+        <Url Source="Project/TOCs/template/template-PDF.fltoc" TimeStamp="12/4/2020 3:00:53 PM" />
+        <Url Source="Content/front-matter/copyright.htm" TimeStamp="11/19/2020 5:48:27 PM" />
+        <Url Source="Content/front-matter/placeholder-topic.htm" TimeStamp="11/17/2020 4:47:20 PM" />
+        <Url Source="Content/front-matter/title-page.htm" TimeStamp="11/12/2020 2:17:51 PM" />
+        <Url Source="Content/front-matter/toc.htm" TimeStamp="9/24/2020 10:50:07 PM" />
+        <Url Source="Content/Resources/Fonts/Larsseit-Bold.otf" TimeStamp="4/18/2018 8:16:48 PM" />
+        <Url Source="Content/Resources/Fonts/Larsseit-ExtraBold.otf" TimeStamp="4/18/2018 8:16:48 PM" />
+        <Url Source="Content/Resources/Fonts/Larsseit-Medium.otf" TimeStamp="4/18/2018 8:16:48 PM" />
+        <Url Source="Content/Resources/Fonts/Larsseit-Regular.otf" TimeStamp="4/18/2018 8:16:48 PM" />
+        <Url Source="Content/Resources/Images/2018_11_Rivian-R1T-Colorado-002.jpg" TimeStamp="9/3/2020 11:08:04 AM" />
+        <Url Source="Content/Resources/Images/Alert-Icon-Caution.png" TimeStamp="10/27/2020 6:02:02 PM" />
+        <Url Source="Content/Resources/Images/Alert-Icon-Danger-Day.png" TimeStamp="10/29/2020 11:37:46 AM" />
+        <Url Source="Content/Resources/Images/Alert-Icon-Warning-Day.png" TimeStamp="10/29/2020 3:34:03 PM" />
+        <Url Source="Content/Resources/Images/Alert-Icon-Warning-Night.png" TimeStamp="10/22/2020 5:12:47 PM" />
+        <Url Source="Content/Resources/Images/Hero-Image-Print.png" TimeStamp="2/26/2020 4:28:30 PM" />
+        <Url Source="Content/Resources/Images/Logo.png" TimeStamp="9/15/2020 1:35:27 PM" />
+        <Url Source="Project/TOCs/template/template-Online.fltoc" TimeStamp="12/4/2020 4:07:42 PM" />
+        <Url Source="Project/TOCs/template/template-Clean-Online.fltoc" TimeStamp="12/4/2020 4:08:13 PM" />
+        <Url Source="Content/Resources/MasterPages/Home-Page-Clean.flmsp" TimeStamp="12/3/2020 5:22:23 PM" />
+        <Url Source="Project/Targets/template/template-PDF.fltar" TimeStamp="12/4/2020 3:00:13 PM" />
+        <Url Source="Project/Targets/template/template-HTML5.fltar" TimeStamp="12/4/2020 3:00:02 PM" />
+        <Url Source="Project/Targets/template/template-CLEAN-XHTML.fltar" TimeStamp="12/4/2020 2:59:52 PM" />
+        <Url Source="Project/ConditionTagSets/Default.flcts" TimeStamp="12/4/2020 3:11:39 PM" />
+        <Url Source="Content/Resources/Snippets/alert-blank.flsnp" TimeStamp="11/10/2020 2:04:38 PM" />
+        <Url Source="Content/Resources/Snippets/alert-caution.flsnp" TimeStamp="11/10/2020 2:03:13 PM" />
+        <Url Source="Content/Resources/Snippets/alert-danger.flsnp" TimeStamp="11/10/2020 2:03:40 PM" />
+        <Url Source="Content/Resources/Snippets/alert-important.flsnp" TimeStamp="11/10/2020 1:59:43 PM" />
+        <Url Source="Content/Resources/Snippets/alert-note.flsnp" TimeStamp="11/10/2020 1:56:29 PM" />
+        <Url Source="Content/Resources/Snippets/alert-notes.flsnp" TimeStamp="11/10/2020 1:57:16 PM" />
+        <Url Source="Content/Resources/Snippets/alert-warning.flsnp" TimeStamp="11/10/2020 2:03:13 PM" />
+        <Url Source="Content/Resources/Snippets/table-procedure.flsnp" TimeStamp="12/3/2020 4:43:31 PM" />
+        <Url Source="Content/Resources/Stylesheets/callouts.css" TimeStamp="11/19/2020 8:45:05 PM" />
+        <Url Source="Content/Resources/TableStyles/procedure-table.css" TimeStamp="12/3/2020 2:56:55 PM" />
+        <Url Source="Content/Resources/TableStyles/no-color-no-border.css" TimeStamp="12/1/2020 5:18:40 PM" />
+        <Url Source="Content/Resources/TableStyles/Alternate-Row-Color.css" TimeStamp="12/1/2020 5:01:24 PM" />
+        <Url Source="Content/Resources/MasterPages/Home-Page.flmsp" TimeStamp="12/3/2020 5:34:58 PM" />
+        <Url Source="Content/Home.htm" TimeStamp="12/4/2020 1:29:34 PM" />
+        <Url Source="Content/Resources/PageLayouts/Chapters.flpgl" TimeStamp="12/1/2020 4:44:57 PM" />
+        <Url Source="Content/Resources/PageLayouts/Frontmatter.flpgl" TimeStamp="12/1/2020 4:45:33 PM" />
+        <Url Source="Content/Resources/Stylesheets/Styles.css" TimeStamp="12/3/2020 5:15:03 PM" />
+        <Url Source="Project/VariableSets/General.flvar" TimeStamp="12/1/2020 4:44:10 PM" />
+        <Url Source="Content/Resources/MasterPages/Other-Topics.flmsp" TimeStamp="2/26/2020 4:28:30 PM" />
+        <Url Source="Project/Glossaries/Glossary.flglo" TimeStamp="2/26/2020 4:28:30 PM" />
+        <Url Source="Content/Resources/Images/Minus.png" TimeStamp="2/26/2020 4:28:30 PM" />
+        <Url Source="Content/Resources/Images/Plus.png" TimeStamp="2/26/2020 4:28:30 PM" />
+        <Url Source="Project/Skins/Side-Navigation.flskn" TimeStamp="2/26/2020 4:28:30 PM" />
+    </GeneratedFiles>
+</CatapultProject>

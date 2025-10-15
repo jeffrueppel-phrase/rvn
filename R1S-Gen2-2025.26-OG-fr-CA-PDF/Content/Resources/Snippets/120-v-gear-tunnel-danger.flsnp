@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="danger-electrical">
+            <p MadCap:conditions="R1VehicleConditions.R1S">Rivian-supplied accessories work best with your vehicle. To reduce risk of fire or a thermal event, use caution when leaving non-Rivian devices plugged in and unattended.</p>
+            <p MadCap:conditions="R1VehicleConditions.R1S">Don't let objects obstruct any outlets in use.</p>
+        </div>
+    </body>
+</html>

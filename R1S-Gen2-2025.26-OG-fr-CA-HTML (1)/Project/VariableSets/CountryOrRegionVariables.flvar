@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Global">
+    <Variable Name="RegionFirstSold" Comment="" EvaluatedDefinition="United States">United States</Variable>
+    <Variable Name="RegionFirstSold" Comment="" EvaluatedDefinition="Canada">Canada</Variable>
+    <Variable Name="RegionFirstSold" Comment="" EvaluatedDefinition="Germany">Germany</Variable>
+    <Variable Name="RegionFirstSold" Comment="" EvaluatedDefinition="Deutschland">Deutschland</Variable>
+</CatapultVariableSet>

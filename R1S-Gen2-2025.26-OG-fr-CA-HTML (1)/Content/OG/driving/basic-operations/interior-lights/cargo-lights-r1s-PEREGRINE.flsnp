@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Cargo lights illuminate the rear cargo area. These lights automatically turn on when the liftgate opens in low&#8209;light conditions, and they automatically turn off when the liftgate closes.</p>
+        <p>To manually turn the cargo lights on or off, you have two options:&#160;</p>
+        <ul>
+            <li>
+                <p>Choose <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> from the status bar on the center display. Choose <b>Lights</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" class="image-inline-day" alt="Liftgate lights icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Liftgate lights icon" MadCap:conditions="OutputTypeConditions.Web" /> to turn the cargo and liftgate lights on or off. </p>
+            </li>
+            <li>
+                <p>Use touch to control the cargo lights. </p>
+            </li>
+        </ul>
+    </body>
+</html>

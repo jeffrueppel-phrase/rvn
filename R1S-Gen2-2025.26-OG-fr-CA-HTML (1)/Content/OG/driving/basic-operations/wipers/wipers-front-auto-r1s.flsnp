@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>To adjust the sensitivity of automatic windshield wipers to wipe more or less frequently, use the wiper switch <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-front-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-night" src="../../../../Resources/Images/Icons/night/wiper-front-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web" /> to cycle through the windshield wiper modes  and select <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-auto-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/wiper-auto-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> on the driver display. Adjust the windshield wiper sensitivity by cycling through Auto mode.</p>
+        <ul>
+            <li>
+                <p>Push up on the wiper switch to increase windshield wiper sensitivity. </p>
+            </li>
+            <li>
+                <p>Push down on the wiper switch to decrease windshield wiper sensitivity.</p>
+            </li>
+            <li>
+                <p>When <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-auto-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/wiper-auto-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> is selected, the vehicle stores your last windshield wiper sensitivity level when the menu on the driver display closes.</p>
+            </li>
+        </ul>
+        <p>The driver display shows the windshield wiper sensitivity levels.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Auto on</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Sensitivity icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1" rowspan="3" style="vertical-align: middle;text-align: center;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-high-v2-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-high-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-high-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">Auto - high sensitivity</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-medium-v2-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-medium-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-medium-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">Auto - medium sensitivity</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-low-v2-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-low-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-low-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">Auto - low sensitivity</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>To avoid splashing passengers when entering or exiting the vehicle, the front windshield wipers temporarily pause while the vehicle is in <b>P</b> (Park) and either front door is open. Wipers resume when the doors are closed or the vehicle is not in <b>P</b> (Park).</p>
+                </li>
+                <li>
+                    <p>When outside temperatures are near or below freezing, Auto wipers may not operate until you start driving.</p>
+                </li>
+                <li>
+                    <p>Auto wipers do not operate in Car Wash mode.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

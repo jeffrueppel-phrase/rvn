@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Use any of the following keys and methods to lock and unlock the vehicle:</p>
+        <ul>
+            <li>
+                <p>Choose Lock or Unlock on the phone key.</p>
+            </li>
+            <li>
+                <p>Press Lock or Unlock buttons on the key fob.</p>
+            </li>
+            <li>
+                <p>Hold the key card or key fob to the NFC (Near Field Communication) reader on the driver door handle.</p>
+            </li>
+            <li>
+                <p>Choose the Lock or Unlock icons in the center or rear display.</p>
+            </li>
+            <li>
+                <p>Use Proximity Locking when you are near the vehicle with a phone key or key fob.</p>
+            </li>
+            <li>
+                <p>Use Press to Unlock when you are nearby with a  phone key. </p>
+            </li>
+        </ul>
+        <p>Go to <b>Settings <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Settings icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"></img> &gt; Vehicle &gt; Access</b> to set all locking behaviors.</p>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>In the <b>Settings <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Settings icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /> &gt; Drivers and Keys</b> menu, indicators (black dots) identify the key that unlocked the vehicle and the owner of that key. </p>
+                </li>
+                <li>
+                    <p>The doors automatically lock when you start driving.</p>
+                </li>
+                <li>
+                    <p>If the vehicle receives an active or passive unlock command, and a door is not opened within 2 minutes, the vehicle relocks automatically.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

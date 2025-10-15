@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee">
+    <body>
+        <ul>
+            <li>
+                <p>
+                    <b>Standard:</b> Moderate regenerative braking. Standard is the default setting for all modes except Snow and Soft Sand modes. </p>
+            </li>
+            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                <p>
+                    <b>High:</b> Stronger regenerative braking. The vehicle slows down faster and captures more energy. High is not available on Model Year 2025 and 2026 Dual Standard vehicles.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Low:</b> Limited regenerative braking. Low is the default setting for Snow and Soft Sand modes. </p>
+            </li>
+        </ul>
+    </body>
+</html>

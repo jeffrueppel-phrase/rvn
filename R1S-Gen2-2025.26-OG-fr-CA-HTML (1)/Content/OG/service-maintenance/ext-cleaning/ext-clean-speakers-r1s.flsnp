@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:keyword term="avas; acoustic vehicle alerting system" />The pedestrian audio alert feature emits a sound to help alert pedestrians about your moving vehicle. The speakers that emit the sound are located underneath the front and rear bumpers of the vehicle. Keep these speakers clean and free of obstructions.</p>
+        <p>
+            <div class="important">
+                <ul>
+                    <li>
+                        <p>If you notice decreased volume with your vehicle's courtesy or alert sounds, you may need to use a tube brush to gently clean the speakers.</p>
+                    </li>
+                    <li>
+                        <p>Clean sound ports after severe weather that causes debris buildup or adventures that include driving off road or across water.</p>
+                    </li>
+                </ul>
+            </div>
+        </p>
+        <p>
+            <!-- avas-sound-ports-v01-R1S -->
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/avas-sound-ports-v01-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../Resources/Images/day/avas-sound-ports-v01-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/avas-sound-ports-v01-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+    </body>
+</html>

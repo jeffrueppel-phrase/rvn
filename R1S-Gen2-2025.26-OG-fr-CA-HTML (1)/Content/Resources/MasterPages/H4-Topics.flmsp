@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta name="viewport" content="width=2248" />
+    </head>
+    <body id="h4">
+        <div class="h4">
+            <MadCap:bodyProxy />
+            <div id="rivn-menu" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+                <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+            </div>
+        </div>
+        <script src="../tp-scripts/flash.js" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+        </script>
+        <script src="../tp-scripts/scripts.js" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+        </script>
+        <script src="../tp-scripts/menu.js" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+        </script>
+        <script src="../tp-scripts/menu-h4.js" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+        </script>
+        <script MadCap:conditions="OutputTypeConditions.In-Vehicle">
+			/*
+			url = document.location.href.substring(document.location.href.lastIndexOf('/'));
+			parent.postMessage(url,"*") 
+			*/
+
+			$('a').attr('target','_parent');
+
+		</script>
+    </body>
+</html>

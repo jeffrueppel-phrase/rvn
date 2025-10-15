@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Show and Tell mode does the following:</p>
+        <ul>
+            <li>
+                <p>Keeps the displays and exterior lights turned on. </p>
+            </li>
+            <li>
+                <p>Keeps the vehicle awake.</p>
+            </li>
+            <li>
+                <p>Disables the horn.</p>
+            </li>
+            <li>
+                <p>Disables proximity locking and unlocking.</p>
+            </li>
+            <li>
+                <p>Sets the <a href="../../driving/basic-operations/exterior-lights/headlights-taillights.htm">lights</a> to <b>Auto</b>, which allows for the brightest lights, if lights are turned off when you enable Show and Tell mode.</p>
+            </li>
+            <li>
+                <p>Disables climate and enables Limit Climate Performance by default. Limit Climate Performance turns off air conditioning to avoid water buildup under the vehicle.</p>
+                <div class="notes">
+                    <ul>
+                        <li>
+                            <p>With Limit Climate Performance enabled, the fan is still available.</p>
+                        </li>
+                        <li>
+                            <p>Turn off <b>Limit Climate Performance</b> to enable the air conditioning controls.</p>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <p>Directs any SOS calls to a test number.</p>
+                <div class="note">
+                    <p>To make an actual SOS&#160;call, choose <b>Exit Show and Tell</b> and then press the <b>SOS</b>&#160;button <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/roadside-assistance-v03-sos-inline-print.svg" alt="SOS button" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" />. </p>
+                </div>
+            </li>
+        </ul>
+        <MadCap:pageBreak MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA,R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.Print-8x11" />
+        <p>To turn on Show and Tell mode:</p>
+        <ol>
+            <li>
+                <p>Put the vehicle in <b>P</b> (Park). Show and Tell mode is only available while the vehicle is in <b>P</b> (Park).</p>
+            </li>
+            <li>
+                <p>Go to <b>Settings</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Settings icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /> &gt; <b>Vehicle</b> &gt; <b>Service</b> on the center display.</p>
+            </li>
+            <li>
+                <p>Turn on <b>Show and Tell</b>.</p>
+            </li>
+        </ol>
+        <div class="important">
+            <p>When turned on, Show and Tell mode reduces the range of the vehicle over time.</p>
+        </div>
+        <p class="KeepWithNext">Show and Tell mode automatically turns off under any of the following conditions:</p>
+        <ul>
+            <li>
+                <p>The vehicle has <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:30,;measure.imperial-unit:mi,;measure.metric-value:49,;measure.metric-unit:km," /> of range left.</p>
+            </li>
+            <li>
+                <p>You shift the vehicle out of <b>P</b> (Park).</p>
+            </li>
+            <li>
+                <p>You use the lights stalk to turn off the headlights.</p>
+            </li>
+        </ul>
+    </body>
+</html>

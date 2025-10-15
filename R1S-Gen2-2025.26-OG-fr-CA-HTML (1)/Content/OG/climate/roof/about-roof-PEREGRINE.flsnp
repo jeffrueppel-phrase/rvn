@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>The durable, laminated glass roof  blocks more than 99.9% of ultraviolet (UV) light.</p>
+        <div class="warning">
+            <p>The roof isn't load-bearing. To avoid damage, don't place any items on top of the roof. To transport items on top of your vehicle, install and use the optional Cargo Crossbars instead.</p>
+        </div>
+        <p>There are two options:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Standard glass roof:</b>&#160;A fixed tint provides a single level of opacity.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Dynamic glass roof:</b> A variable haze offers two states of opacity, on or off. To lighten or darken the roof, choose <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> from the status bar on the center display. Choose <span class="nonbreaking"><b>Roof</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_dynamic_glass_roof_20_unselected.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/controls-pdlc-inline-day.svg" alt="dynamic glass roof icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/controls-pdlc-inline-night.svg" alt="dynamic glass roof icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /></span> to change the opacity state. <br /></p>
+            </li>
+        </ul>
+    </body>
+</html>

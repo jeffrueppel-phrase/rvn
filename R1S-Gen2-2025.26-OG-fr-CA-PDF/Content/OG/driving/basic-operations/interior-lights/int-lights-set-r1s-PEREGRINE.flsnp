@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Go to <span class="nonbreaking"><b>Settings</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Settings icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /></span> &gt; <b>Vehicle</b> &gt; <b>Displays and Lighting</b> on the center display to access the following controls and settings:	</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Accent Lighting:</b> Turn accent lights on in low&#8209;light conditions or turn them off. </p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Theme:</b> You can choose a different lighting theme to change the color of the accent lights. </p>
+                        <p>Choose the current theme; a panel appears and displays more options. Choose a different theme to preview it. </p>
+                        <p>By default, the vehicle also plays the corresponding audio; you can choose <span class="nonbreaking"><b>Volume</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_volume_20_unselected_0.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/system/ic_system_volume_20_unselected_0.svg" /><img src="../../../../Resources/Images/Icons/print/app-volume-on-inline-print.svg" alt="Volume button" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /></span> to mute it.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Brightness:</b> When the accent lights are turned on, use the slider to adjust their brightness.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Lights On When Doors Open:</b> Turn <b>Lights On When Doors Open</b> on or off. If Lights On When Doors Open is turned on, the vehicle automatically turns on the cabin lights in any row with an open door during low-light conditions.</p>
+                <div class="note">
+                    <p>If you open a rear door, the second- and third&#8209;row cabin lights turn on.</p>
+                </div>
+            </li>
+            <li>
+                <p>
+                    <b>Lights On Upon Park:</b>&#160;Turn <b>Lights On Upon Park</b> on or off. If Lights On Upon Park is turned on, the vehicle automatically turns on the cabin lights when you shift the vehicle into Park in low&#8209;light conditions. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Overhead Lights Brightness:</b> Use the slider to adjust the brightness of the overhead lights.</p>
+            </li>
+            <li>
+                <b>Liftgate Lighting Brightness:</b>&#160;When the liftgate is open, use the slider to adjust the brightness of the liftgate lights.</li>
+        </ul>
+    </body>
+</html>

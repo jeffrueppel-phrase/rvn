@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Global">
+    <Variable Comment="Number of imperial units" Name="imperial-value" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="imperial-unit" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="imperial-unit" Comment="choose value dropdown to add ° after the value" EvaluatedDefinition="F">F</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="mi">mi</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="mph">mph</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="psi">psi</Variable>
+    <Variable Name="metric-unit" Comment="Number of metric units" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="metric-value" Comment="Metric unit of measurement" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="mm">mm</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="m">m</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="km">km</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="km/h">km/h</Variable>
+    <Variable Name="metric-unit" EvaluatedDefinition="kPa">kPa</Variable>
+    <Variable Name="metric-unit" Comment="choose value dropdown to add ° after the value" EvaluatedDefinition="C">C</Variable>
+    <Variable Name="imperial-value" Comment="Replace nn with the number; keep ° character" EvaluatedDefinition="nn°">nn°</Variable>
+    <Variable Name="metric-value" Comment="Replace nn with the number; keep ° character" EvaluatedDefinition="nn°">nn°</Variable>
+    <Variable Name="imperial-unit" Comment="feet" EvaluatedDefinition="ft">ft</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="in-lb">in-lb</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="ft-lb">ft-lb</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="lb">lb</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="oz">oz</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="cm">cm</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="Nm">Nm</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="g">g</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="kg">kg</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="L">L</Variable>
+    <Variable Name="imperial-unit" Comment="" EvaluatedDefinition="ft in">ft in</Variable>
+    <Variable Name="imperial-unit" Comment="gallon" EvaluatedDefinition="gal">gal</Variable>
+    <Variable Name="imperial-unit" Comment="inches" EvaluatedDefinition="in">in</Variable>
+    <Variable Name="imperial-unit" Comment="cup" EvaluatedDefinition="cup">cup</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="ml">ml</Variable>
+    <Variable Name="metric-unit" Comment="" EvaluatedDefinition="bar">bar</Variable>
+</CatapultVariableSet>

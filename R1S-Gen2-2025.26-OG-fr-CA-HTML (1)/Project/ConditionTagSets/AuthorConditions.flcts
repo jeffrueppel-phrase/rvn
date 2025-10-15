@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag Comment="" Name="InternalNote" BackgroundColor="#7fffd4" />
+    <ConditionTag Comment="" Name="Exclude" BackgroundColor="Red" />
+    <ConditionTag BackgroundColor="#ff7f50" Name="Archive" Comment="" />
+    <ConditionTag BackgroundColor="#ffa500" Name="ReviewerNote" Comment="" />
+    <ConditionTag BackgroundColor="#00ffff" Name="ImageNote" Comment="" />
+    <ConditionTag BackgroundColor="#800080" Name="FutureRelease" Comment="" />
+</CatapultConditionTagSet>

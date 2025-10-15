@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="False" fileTags="TranslationStatus.DNT">
+    <MicroContent id="what-is-micro-content" MadCap:searchable="False">
+        <MicroContentPhrase>What is micro content?</MicroContentPhrase>
+        <MicroContentPhrase>Tell me about micro content</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1>Micro Content</xhtml:h1>
+                    <xhtml:p>Micro content is typically used for short, concise information in question-and-answer situations, such as chat bots. In Flare, micro content can be extracted from existing topics or created from scratch.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="what-is-rivian-assistant">
+        <MicroContentPhrase>What is Rivian Assistant?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1 MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">What is Rivian Assistant?</xhtml:h1>
+                    <xhtml:p MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">Rivian Assistant is an AI-powered, in-vehicle assistant. Activate Rivian Assistant to use your voice to control features managed by the center display, including basic vehicle controls, messaging, navigation, media, and the Owner’s Guide. </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="new-phrase">
+        <MicroContentPhrase>How Do I Use Rivian Assistant?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1 MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">How Do I&#160;Use Rivian Assistant?</xhtml:h1>
+                    <xhtml:div xhtml:class="note">
+                        <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">[Rivian Assistant is a Connect+ feature.]</xhtml:p>
+                    </xhtml:div>
+                    <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">To activate Rivian Assistant, agree to the Terms and Conditions.</xhtml:p>
+                    <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">If you activate Rivian Assistant, you deactivate Alexa in your vehicle. To reactivate Alexa and deactivate Rivian Assistant, go to <xhtml:b>Settings &gt; Apps &gt;&#160;Rivian Assistant</xhtml:b>.</xhtml:p>
+                    <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">To call on Rivian Assistant: </xhtml:p>
+                    <xhtml:ul>
+                        <xhtml:li>
+                            <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">
+Say the wake words  “Hey, Rivian.” </xhtml:p>
+                        </xhtml:li>
+                        <xhtml:li>
+                            <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">
+Say the wake words "Okay, Rivian.”
+</xhtml:p>
+                        </xhtml:li>
+                        <xhtml:li>
+                            <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">Briefly press and hold the left thumbwheel.</xhtml:p>
+                        </xhtml:li>
+                    </xhtml:ul>
+                    <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">To cancel a command, press the left thumbwheel.</xhtml:p>
+                    <xhtml:p MadCap:conditions="ai-config.ai-priority,TranslationConditions.DoNotTranslate">Choose the Compass icon on the center display status bar to find out more.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="how-do-i-customize-rivian-assistant">
+        <MicroContentPhrase>How Do I Customize Rivian Assistant?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1 MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">How Do I Customize Rivian Assistant?</xhtml:h1>
+                    <xhtml:p MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">To customize your Rivian Assistant, go to <xhtml:b>Settings &gt; Apps &gt; Rivian Assistant</xhtml:b> on the center display.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="how-do-i-opt-out-of-rivan-assistant">
+        <MicroContentPhrase>How Do I&#160;Turn&#160;Off Rivian Assistant?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h1 MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">How Do I&#160;Turn&#160;Off Rivian Assistant?</xhtml:h1>
+                    <xhtml:p MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">Go to <xhtml:b>Settings &gt; Apps &gt; Rivian Assistant</xhtml:b> on the center display to disable the wake words or deactivate Rivian Assistant.</xhtml:p>
+                    <xhtml:p MadCap:conditions="TranslationConditions.DoNotTranslate,ai-config.ai-priority">To use Alexa, go to <xhtml:b>Settings &gt; Apps &gt; Alexa</xhtml:b>. </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

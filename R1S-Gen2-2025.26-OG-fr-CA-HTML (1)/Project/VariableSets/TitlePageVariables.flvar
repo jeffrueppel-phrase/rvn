@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Global">
+    <Variable Comment="Replace with the name of the image to be used on the title page. The image should be copied to C:\MadCap\[project]\Content\Resources\Images\title-pages\" Name="title-page-image" EvaluatedDefinition="single-topic-review-cover.svg">single-topic-review-cover.svg</Variable>
+    <Variable Name="ProductNumber" Comment="Product number (if relevant)Put a blank space if there is no product number" EvaluatedDefinition="" />
+    <Variable Name="Region" Comment="Enter the region. Put a blank space if there is no region." EvaluatedDefinition="North America Region">North America Region</Variable>
+    <Variable Name="PublishDate" Comment="Effective July 19, 2021 (Production&#160;Date used for Warranty guides)" EvaluatedDefinition="Effective Month ##, 2021">Effective Month ##, 2021</Variable>
+    <Variable Name="BuildDate" Comment="Date on title page, updates on build (Pre-production - format generated)" Type="DateTime" LastUpdated="2021-03-22T14:37:39.7308264-07:00" EvaluatedDefinition="MMMM dd, yyyy">MMMM dd, yyyy</Variable>
+    <Variable Name="PublishDate" Comment="SEPTEMBER &#160;2021 (Production&#160;Date used for most published guides)" EvaluatedDefinition="SEPTEMBER 29, 2021">SEPTEMBER 29, 2021</Variable>
+    <Variable Name="PublishDate" Comment="Build date used for review drafts" EvaluatedDefinition="September 06, 2021">[%=TitlePageVariables.BuildDate%]</Variable>
+    <Variable Name="GuideTitle" Comment="" OriginalName="PDFGuideTitle" EvaluatedDefinition="Title">Title</Variable>
+    <Variable Name="GuideSubtitle" Comment="" EvaluatedDefinition="Subtitle">Subtitle</Variable>
+    <Variable Name="PartNumber" Comment="Part number to be added to the title page (if relevant)" EvaluatedDefinition="" />
+    <Variable Name="ProductNumberHeading" Comment="If there is no product number for the guide, put a blank space here)" EvaluatedDefinition="Product Number">Product Number</Variable>
+    <Variable Name="SoftwareVersionHeading" Comment="" EvaluatedDefinition="Software Version">Software Version</Variable>
+    <Variable Name="SoftwareVersion" Comment="" EvaluatedDefinition="2021.30.60">2021.30.60</Variable>
+    <Variable Name="DocumentRevisionHeading" Comment="" EvaluatedDefinition="Document Revision">Document Revision</Variable>
+    <Variable Name="DocumentRevision" Comment="" EvaluatedDefinition="1">1</Variable>
+</CatapultVariableSet>

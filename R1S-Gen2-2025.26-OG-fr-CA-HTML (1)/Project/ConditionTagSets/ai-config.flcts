@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag Comment="" Name="ai-exclude" BackgroundColor="#94feec" OriginalName="ai-exclude" />
+    <ConditionTag BackgroundColor="#94feec" Name="ai-verbatim" Comment="" OriginalName="ai-verbatim" />
+    <ConditionTag BackgroundColor="#94feec" Name="ai-priority" Comment="" OriginalName="ai-priority" />
+</CatapultConditionTagSet>

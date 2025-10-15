@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag Comment="Apply to content specific to EU only" Name="EU" BackgroundColor="Blue" />
+    <ConditionTag BackgroundColor="#008b8b" Name="US" Comment="Apply to content specific to US only" />
+    <ConditionTag BackgroundColor="#ffa500" Name="GB" Comment="Apply to content specific to UK only" OriginalName="GB" />
+    <ConditionTag BackgroundColor="#dda0dd" Name="CA" Comment="Apply to content specific to Canada only" />
+    <ConditionTag BackgroundColor="#00ffff" Name="DE" Comment="Apply to content specific to Germany only" OriginalName="DE" />
+    <ConditionTag BackgroundColor="#b22222" Name="US-CA" Comment="Apply to content that is the same for the US&#160;and Canada" />
+    <ConditionTag BackgroundColor="#91eb06" Name="UAE" Comment="Apply to content specific to UAE only" />
+    <ConditionTag BackgroundColor="#c000ff" Name="KSA" Comment="Apply to content specific to Kingdom of Saudi Arabia only" />
+</CatapultConditionTagSet>

@@ -1,0 +1,704 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" conditions="Import.Import-Global" />*/
+
+mcTableStyle
+{
+	name: txt-icon-table;
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: none;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	max-id: 4;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	name: Column1;
+	id: 0;
+	size: 85%;
+	text-align: left;
+	vertical-align: top;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 4;
+	name: Column2;
+	size: 15%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	vertical-align: top;
+	cell-content-style-tag: p;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-txt-icon-table
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: none;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: none;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-txt-icon-table-Column-Column1
+{
+	width: 85%;
+}
+
+.TableStyle-txt-icon-table-Column-Column2
+{
+	width: 15%;
+}
+
+.TableStyle-txt-icon-table-HeadI-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadI-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadE-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadE-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadF-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadF-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadH-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadH-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadD-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadD-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadC-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadC-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadB-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadB-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadA-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadA-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadG-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-HeadG-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadI-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadI-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadE-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadE-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadF-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadF-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadH-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadH-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadD-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadD-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadC-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadC-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadB-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadB-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadA-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadA-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-HeadG-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-HeadG-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootI-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootE-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootF-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootH-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootD-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootC-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootB-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootA-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootG-Column1-
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootI-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootI-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootE-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootE-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootF-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootF-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootH-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootH-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootD-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootD-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootC-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootC-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootB-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootB-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootA-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-FootG-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-txt-icon-table-Body-Body1
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyI-Column1-Body1
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyE-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyF-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyH-Column1-Body1
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyD-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyC-Column1-Body1
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyB-Column1-Body1
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyA-Column1-Body1
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyG-Column1-Body1
+{
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-txt-icon-table-BodyG-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyI-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyI-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyE-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyE-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyF-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyF-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyH-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyH-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyD-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyD-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyC-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyC-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyB-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyB-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyA-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyA-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-txt-icon-table-BodyG-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.TableStyle-txt-icon-table-BodyG-Column2-Body1 p
+{
+	
+}
+
+

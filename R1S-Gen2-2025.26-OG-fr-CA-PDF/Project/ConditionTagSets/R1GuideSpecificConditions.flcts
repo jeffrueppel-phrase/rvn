@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="">
+    <ConditionTag Comment="Apply to printed Portable Charger Guide" Name="PortableChargerGuide" BackgroundColor="Blue" />
+    <ConditionTag Comment="Apply to printed Safety Guide" Name="SafetyGuide" BackgroundColor="#c71585" />
+    <ConditionTag BackgroundColor="#ffa500" Name="EmergencyResponseGuide" Comment="Apply to printed Emergency Response Guide" />
+    <ConditionTag BackgroundColor="#ff69b4" Name="OwnersGuide" Comment="Apply to printed Owner's Guide" />
+    <ConditionTag BackgroundColor="#008000" Name="TowOperatorGuide" Comment="Apply to printed Tow Operator Guide" OriginalName="RoadsideAssistanceGuide" />
+    <ConditionTag BackgroundColor="#00bfff" Name="TravelKitchenGuide" Comment="Apply to printed Travel Kitchen Guide" OriginalName="CampKitchenGuide" />
+    <ConditionTag BackgroundColor="#8b4513" Name="CampSpeakerGuide" Comment="Apply to printed Camp Speaker Guide" />
+    <ConditionTag BackgroundColor="#fa8072" Name="FlashlightGuide" Comment="Apply to printed Rivian Torch Flashlight and Torch Stand Guide" OriginalName="FlashlightGuide" />
+    <ConditionTag BackgroundColor="#8b0000" Name="EnergyCloudGuide" Comment="Apply to printed Energy Cloud User Guide" />
+    <ConditionTag BackgroundColor="#00ffff" Name="HelpGuide" Comment="Apply to printed Help Guide (Canada only)" />
+    <ConditionTag BackgroundColor="#00ff00" Name="HangoutLightsGuide" Comment="Applied to Hangout Lights Guide" OriginalName="HangoutLightsGuide" />
+    <ConditionTag BackgroundColor="#dda0dd" Name="TravelKitchenLightsGuide" Comment="Apply to Travel Kitchen and Hangout Lights Combined Guide" OriginalName="TravelKitchenLightsGuide" />
+    <ConditionTag BackgroundColor="#e5dd36" Name="UpfittingGuide" Comment="Apply to printed Upfitting Guide" />
+</CatapultConditionTagSet>

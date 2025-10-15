@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Fan <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/clmt-control-climate-status-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> offers climate controls for the third&#8209;row seats.</p>
+        <h2>Climate Controls Panel</h2>
+        <p>Choose <b>Back</b>, and the Climate Controls panel allows you to adjust the rear fan speed <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/clmt-control-climate-status-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> down (-) or up (+).</p>
+        <div class="note">
+            <p>You can change the fan speed for the third&#8209;row side vents, and the vehicle keeps Auto turned on.</p>
+        </div>
+        <h2>Vent Controls Panel</h2>
+        <p class="KeepWithNext">Choose <b>Back</b>, and  the Vent Controls panel offers the controls described in the table below.</p>
+        <table style="width: 100%;page-break-inside:auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Name</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="RegionSpecificConditions.CA,LanguageConditions.fr">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/techpubs_text/tp_clmt-control-front-icon-fr-CA_36.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-front-icon-fr-CA-day.svg" alt="Front icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-front-icon-fr-CA-night.svg" alt="Front icon" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Front climate</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Access the <a href="clmt-center-display-controls.htm">controls for the front cabin</a>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="RegionSpecificConditions.CA,LanguageConditions.fr">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-second-icon-FR-day.svg" alt="Second icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-second-icon-FR-night.svg" alt="Second icon" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Middle climate</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Access the <a href="clmt-second-row-controls-r1s.htm">second-row controls</a>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/techpubs_text/tp_clmt-control-rear-icon-fr-CA_36.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-rear-icon-fr-CA-day.svg" alt="Rear icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-rear-icon-fr-CA-night.svg" alt="Rear icon" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Back climate</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Access the third&#8209;row controls.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_36_unselected_off_horizontal.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-vent-foot-off-icon-day.svg" alt="Vent icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-vent-foot-off-icon-night.svg" alt="Vent icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Third-row side vents</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>The third&#8209;row seats have side vents in the pillars behind the second&#8209;row doors. </p>
+                        <p>Choose a <b>Vent</b> button to turn on both side vents.</p>
+                        <p>To have the Auto climate setting control the third&#8209;row side vents, do one of the following:</p>
+                        <ul>
+                            <li>
+                                <p>Have at least one passenger occupy a third&#8209;row seat.</p>
+                            </li>
+                            <li>
+                                <p>Buckle a third&#8209;row seat belt.</p>
+                            </li>
+                        </ul>
+                        <p>The third&#8209;row vents:</p>
+                        <ul>
+                            <li>
+                                <p>Blow cabin temperature or cooling air only.</p>
+                                <div class="note">
+                                    <p>If you turn on the third&#8209;row vents when you heat the cabin, the third&#8209;row vents blow cabin temperature or cooling air instead of heated air.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <p>Allow you to adjust their fan speed if the vehicle climate is set to Auto; adjusting the fan speed for the third row doesn't turn off Auto.</p>
+                            </li>
+                        </ul>
+                        <p>Manually adjust any vent to change the direction of the airflow.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/seat-climate-control-v02-heat-inactive-icon-day.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/seat-climate-control-v04-heat-inactive-icon-night.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>Heat seat</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">
+                        <p>Heat the seat. Cycle through levels of heat, including off.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

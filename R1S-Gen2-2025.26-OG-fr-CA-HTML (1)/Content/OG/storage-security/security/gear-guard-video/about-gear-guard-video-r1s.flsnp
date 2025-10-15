@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../../Resources/TableStyles/txt-4col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>
+			Cameras monitor the perimeter of the vehicle.
+		</p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/gear-guard-v04-monitoring-cameras-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../../Resources/Images/day/gear-guard-v04-monitoring-cameras-R1S-day.svg" alt="Cameras monitoring vehicle" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../../Resources/Images/night/gear-guard-v04-monitoring-cameras-R1S-night.svg" alt="Cameras monitoring vehicle" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <p>These cameras offer the following types of video recording:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Road Cam:</b> Requires an external storage device for use. If <a href="road-cam.htm">Road Cam</a> is turned on and an external storage drive is connected, the vehicle records your entire drive and saves Road Cam clips on demand. It also records while the vehicle is parked and occupied.</p>
+                <p>Road Cam clips are short videos that you initiate by choosing <b>Save Clip</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/techpubs/tp_gear-guard-status-bar-inline_20.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-status-bar-inline-day.svg" alt="Save Clip button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/gear-guard-status-bar-inline-night.svg" alt="Save Clip button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> in the status bar. The Road Cam also records video and saves Road Cam clips when you honk the horn for more than a second or press the <span class="nonbreaking"><b>SOS</b>&#160;button&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/roadside-assistance-v03-sos-inline-day.svg" alt="SOS button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/roadside-assistance-v03-sos-inline-night.svg" alt="SOS button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /></span>. </p>
+                <p>The vehicle records both the continuous recordings and Road Cam clips on the external storage device. Road Cam clips appear on the Road Cam video tab.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Incidents:</b>&#160;Enabled by default. If enabled, the vehicle automatically <a href="incidents.htm">records certain driving events</a> such as collisions or hard braking. You can turn Incidents on or off. Recorded videos appear on the Incidents video tab.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Motion Cam:</b> Disabled by default. Turn on Motion Cam to <a href="motion-cam.htm">record motion</a> around your vehicle while you're away from it. You can also turn on Motion Cam to record video during an alarm event. Recorded videos appear on the Motion Cam video tab.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Alarm:</b>&#160;Enabled by default. The <a href="../gear-guard-alarm.htm">Alarm</a> protects your vehicle when it's locked. When the Alarm is triggered, the vehicle flashes the exterior lights, sounds the horn, and sends a message to the owner's Rivian mobile app. </p>
+                <p>If the Motion Cam is turned on, the vehicle also records video. Recorded videos appear on the Motion Cam video tab.</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/txt-4col-table.css');" class="TableStyle-txt-4col-table" cellspacing="0">
+            <col class="TableStyle-txt-4col-table-Column-Column1" />
+            <col class="TableStyle-txt-4col-table-Column-Column2" />
+            <col class="TableStyle-txt-4col-table-Column-Column3" />
+            <col class="TableStyle-txt-4col-table-Column-Column4" />
+            <thead>
+                <tr class="TableStyle-txt-4col-table-Head-Header1">
+                    <th class="TableStyle-txt-4col-table-HeadE-Column1-Header1">
+                        <p>Gear Guard Features</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column2-Header1">
+                        <p>Recording Triggers</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column3-Header1">
+                        <p>Saved Location</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadD-Column4-Header1">
+                        <p>View Access</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Road Cam:&#160;Road Cam clips</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <ul>
+                            <li>
+                                <p>Choose <b>Save <br MadCap:conditions="LanguageConditions.fr,R1GuideSpecificConditions.OwnersGuide" />Clip</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/techpubs/tp_gear-guard-status-bar-inline_20.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-status-bar-inline-day.svg" alt="Save Clip button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/gear-guard-status-bar-inline-night.svg" alt="Save Clip button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> in the status bar.</p>
+                            </li>
+                            <li>
+                                <p>Honk the horn for more than a second.</p>
+                            </li>
+                            <li>
+                                <p>Press <br MadCap:conditions="LanguageConditions.fr,OutputTypeConditions.Web" /><b>SOS</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/roadside-assistance-v03-sos-inline-day.svg" alt="SOS button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/roadside-assistance-v03-sos-inline-night.svg" alt="SOS button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" />.</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">External storage device</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Road Cam video tab </p>
+                        <p>(The external storage device must be connected.)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Road Cam:&#160;Continuous recordings</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>The vehicle continuously records video while it moves.</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">External storage device</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>Your computer</p>
+                        <p>(Eject the external storage device and connect it to your computer.) </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">Incidents</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">The vehicle detects certain driving events, such as collisions or hard braking.</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">Onboard hard drive</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Incidents video tab</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">Motion Cam</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>The vehicle detects motion while the Motion Cam is turned on and recording is available. </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">Onboard hard drive</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>Motion Cam video tab</p>
+                        <p>(Automatically deleted after 10&#160;days unless you choose <br MadCap:conditions="LanguageConditions.fr" /><b>Star</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_favorite_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-save-inline-day.svg" alt="Save button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/gear-guard-save-inline-night.svg" alt="Save button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" />.)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyB-Column1-Body1">Alarm</td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column2-Body1">The Alarm is triggered while the Motion Cam is turned on.</td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column3-Body1">Onboard hard drive</td>
+                    <td class="TableStyle-txt-4col-table-BodyA-Column4-Body1">
+                        <p>Motion Cam video tab</p>
+                        <p>(Automatically deleted after 10&#160;days unless you choose <br MadCap:conditions="LanguageConditions.fr" /><b>Star</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_favorite_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-save-inline-day.svg" alt="Save button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/gear-guard-save-inline-night.svg" alt="Save button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" />.)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">
+            <p>If the Gear Guard features with video recording are turned on, they may reduce the range of the vehicle over time.</p>
+        </div>
+    </body>
+</html>

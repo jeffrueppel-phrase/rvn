@@ -1,0 +1,377 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" conditions="Import.Import-Global" />*/
+
+mcTableStyle
+{
+	name: img-img-table;
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: none;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	max-id: 3;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	vertical-align: top;
+	cell-content-style-tag: p;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-img-img-table
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: none;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: none;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-img-img-table-Column-Column1
+{
+	
+}
+
+.TableStyle-img-img-table-HeadI-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-HeadI-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadE-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-HeadE-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadF-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-HeadF-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadH-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-HeadH-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadD-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-HeadD-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadC-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-HeadC-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadB-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-HeadB-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadA-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-HeadA-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-HeadG-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-HeadG-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootI-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootE-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootF-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootH-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootD-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootC-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootB-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootA-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-FootG-Column1-
+{
+	
+}
+
+.TableStyle-img-img-table-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-img-img-table-Body-Body1
+{
+	
+}
+
+.TableStyle-img-img-table-BodyI-Column1-Body1
+{
+	vertical-align: top;
+}
+
+.TableStyle-img-img-table-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyE-Column1-Body1
+{
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyF-Column1-Body1
+{
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-img-img-table-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyH-Column1-Body1
+{
+	vertical-align: top;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyD-Column1-Body1
+{
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-img-img-table-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyC-Column1-Body1
+{
+	vertical-align: top;
+}
+
+.TableStyle-img-img-table-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyB-Column1-Body1
+{
+	vertical-align: top;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-img-img-table-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyA-Column1-Body1
+{
+	vertical-align: top;
+}
+
+.TableStyle-img-img-table-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-img-img-table-BodyG-Column1-Body1
+{
+	vertical-align: top;
+}
+
+.TableStyle-img-img-table-BodyG-Column1-Body1 p
+{
+	
+}
+
+

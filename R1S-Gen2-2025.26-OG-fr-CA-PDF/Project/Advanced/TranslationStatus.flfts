@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet Type="Status" Comment="My set of status tags" conditions="Import.Import-Global">
+    <FileTag Name="DNT" Comment="Do Not Translate" />
+    <FileTag Name="Draft" Comment="Do not translate because this topic is in draft mode and still being written." />
+</CatapultFileTagSet>

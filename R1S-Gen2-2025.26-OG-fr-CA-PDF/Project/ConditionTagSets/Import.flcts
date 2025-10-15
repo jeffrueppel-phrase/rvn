@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag BackgroundColor="#9acd32" Name="Import-Internal" Comment="files specific to internal guides" />
+    <ConditionTag BackgroundColor="#ff0000" Name="Import-EXCLUDE" Comment="exclude these files from import" />
+    <ConditionTag BackgroundColor="#7fff00" Name="Import-Global" Comment="" />
+    <ConditionTag BackgroundColor="#7fffd4" Name="Import-Online" Comment="infotainment-specific files" />
+</CatapultConditionTagSet>

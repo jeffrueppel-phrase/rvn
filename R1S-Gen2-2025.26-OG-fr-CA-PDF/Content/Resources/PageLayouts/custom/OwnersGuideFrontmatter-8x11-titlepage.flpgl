@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="Letter" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.5in" PaddingBottom="0.5in" PageType="title" Name="Title" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" BackgroundType="Solid" BackgroundColor="#ffffff">
+        <Frame X="4px" Y="-16px" Width="720px" Height="33px" Flow="header" Right="-4px" Bottom="943px" Anchors="" FlowIndex="1">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../../Snippets/print-header-first.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="3px" Y="81px" Width="675px" Height="199px" Right="42px" Bottom="680px" Anchors="" Flow="decoration2">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="cover-subtitle">
+                            <MadCap:variable xhtml:name="TitlePageVariables.GuideSubtitle" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="cover-title">
+                            <MadCap:variable xhtml:name="TitlePageVariables.GuideTitle" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-9px" Y="220px" Width="740px" Height="657px" Flow="body" Right="-11px" Bottom="83px" BackgroundRepeat="stretch" Anchors="" BorderTopStyle="none" BorderTopWidth="5px" BorderBottomStyle="none" BorderBottomWidth="5px" BackgroundImage="none" BackgroundColor="transparent" FlowIndex="1">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="3px" Y="875px" Width="715px" Height="31px" Flow="footer" Right="2px" Bottom="54px" VerticalAlign="bottom" Anchors="" FlowIndex="1">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:p>
+                                            <MadCap:variable xhtml:name="TitlePageVariables.Region" xhtml:class="cover-region" xhtml:style="font-weight: normal;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                            <xhtml:br />
+                                            <MadCap:variable xhtml:name="TitlePageVariables.PublishDate" xhtml:class="cover-date" xhtml:style="font-weight: normal;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">
+                                        <xhtml:p>
+                                            <MadCap:variable xhtml:name="TitlePageVariables.SoftwareVersionHeading" xhtml:class="cover-region" xhtml:style="font-weight: normal;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><![CDATA[  ]]><xhtml:span xhtml:class="cover-region"><MadCap:variable xhtml:name="TitlePageVariables.SoftwareVersion" xhtml:style="font-weight: normal;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:span><xhtml:br /><MadCap:variable xhtml:name="AboutVehicleVariables.model-year" xhtml:class="cover-region" xhtml:style="font-weight: normal;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

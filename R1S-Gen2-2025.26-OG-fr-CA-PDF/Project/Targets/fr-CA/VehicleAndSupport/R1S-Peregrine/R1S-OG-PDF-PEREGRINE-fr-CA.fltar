@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="R1S Owner's Guide" Type="PDF" Destinations="" GlossaryTermConversion="marked" ConditionTagExpression="include[R1MotorConditions.Dual], exclude[AuthorConditions.Archive or AuthorConditions.Exclude or AuthorConditions.FutureRelease or AuthorConditions.ImageNote or AuthorConditions.InternalNote or AuthorConditions.ReviewerNote or ChargingTypeConditions.CCS2 or LanguageConditions.ar or LanguageConditions.de or LanguageConditions.en or LanguageConditions.es or LanguageConditions.it or OutputTypeConditions.FleetOS-HC or OutputTypeConditions.Internal-HC or OutputTypeConditions.In-Vehicle or OutputTypeConditions.Mobile or OutputTypeConditions.Mobile or OutputTypeConditions.Mobile or OutputTypeConditions.Tablet or OutputTypeConditions.Tablet or OutputTypeConditions.Web or OutputTypeConditions.Web or R1GuideSpecificConditions.CampSpeakerGuide or R1GuideSpecificConditions.EmergencyResponseGuide or R1GuideSpecificConditions.EnergyCloudGuide or R1GuideSpecificConditions.FlashlightGuide or R1GuideSpecificConditions.HelpGuide or R1GuideSpecificConditions.PortableChargerGuide or R1GuideSpecificConditions.PortableChargerGuide or R1GuideSpecificConditions.SafetyGuide or R1GuideSpecificConditions.TowOperatorGuide or R1GuideSpecificConditions.TravelKitchenGuide or R1GuideSpecificConditions.UpfittingGuide or R1MotorConditions.Quad or R1MotorConditions.Tri or R1PlatformConditions.R1Origin or R1VehicleConditions.R1T or RegionSpecificConditions.DE or RegionSpecificConditions.EU or RegionSpecificConditions.GB or RegionSpecificConditions.KSA or RegionSpecificConditions.UAE or RegionSpecificConditions.US or RegulatoryConditions.HomologationReference or RegulatoryConditions.HomologationReference or UnitsOfMeasureConditions.Both-Imperial-Metric or UnitsOfMeasureConditions.Imperial or UnitsOfMeasureConditions.Metric]" PatchHeadingLevels="true" InjectEmptyPages="false" MasterToc="/Project/TOCs/VehicleAndSupport/R1S-All/R1S-OG-TOC.fltoc" OutputFile="[%=ProductionVariables.FileName%]" MasterStylesheet="/Content/Resources/Stylesheets/fr-ca.css" MasterPageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl" Medium="owners-guide" DisableAutoSync="true" GetLatestBeforeCompile="true" InjectBookHeadings="true">
+    <PrintedOutput CollapseMargins="false" ExpandingTextConversion="expand" PopupConversion="remove-body" GenerateTOCProxy="false" GenerateIndexProxy="false" GenerateGlossaryProxy="false" PreserveTrackedChanges="true" OutputFormat="doc" />
+    <DocumentProperties Title="[%=TitlePageVariables.GuideSubtitle%] [%=TitlePageVariables.GuideTitle%] [%=AboutVehicleVariables.model-year%] - VERSION [%=AboutVehicleVariables.software-release%]" Author="Technical Publications" />
+    <PDF ShowUsedBookmarks="false" InitialMagnification="100" PageLayout="SinglePage" TitleBar="DocumentTitle" CollapsedBookmarks="true" CropAndRegistrationMarks="false" ConvertToCMYK="true" DownsampleImages="false" ImageCompression="JPEG" JPEGQuality="90" Tagged="false" />
+    <Variables>
+        <Variable Name="General/ProductNumber">PT00045331</Variable>
+        <Variable Name="General/PartNumber">PT00262083-A</Variable>
+        <Variable Name="General/BuildDate" Type="DateTime">MMMM dd, yyyy</Variable>
+        <Variable Name="TitlePageVariables/PublishDate">July 2025</Variable>
+        <Variable Name="TitlePageVariables/GuideTitle">Owner's Guide</Variable>
+        <Variable Name="TitlePageVariables/GuideSubtitle">R1S</Variable>
+        <Variable Name="TitlePageVariables/ProductNumberHeading"> </Variable>
+        <Variable Name="TitlePageVariables/Region">Canada</Variable>
+        <Variable Name="TitlePageVariables/title-page-image">r1s-owners-guide-peregrine.svg</Variable>
+        <Variable Name="TitlePageVariables/SoftwareVersion">2025.26</Variable>
+        <Variable Name="TitlePageVariables/SoftwareVersionHeading">Software Version</Variable>
+        <Variable Name="TitlePageVariables/DocumentRevisionHeading"> </Variable>
+        <Variable Name="TitlePageVariables/DocumentRevision"> </Variable>
+        <Variable Name="General/DraftText"> </Variable>
+        <Variable Name="General/Region">canada region</Variable>
+        <Variable Name="AboutVehicleVariables/vehicle-type">R1S</Variable>
+        <Variable Name="AboutVehicleVariables/region-country">Canada</Variable>
+        <Variable Name="AboutVehicleVariables/software-release">2025.26</Variable>
+        <Variable Name="CountryOrRegionVariables/RegionFirstSold">Canada</Variable>
+        <Variable Name="Internal/build-year">2023</Variable>
+        <Variable Name="Language/Language">FRENCH</Variable>
+        <Variable Name="General/Copyright">2021-2025</Variable>
+        <Variable Name="AboutVehicleVariables/model-year">Model Year 2025-2026</Variable>
+        <Variable Name="TitlePageVariables/ProductNumber">PT00045331</Variable>
+        <Variable Name="ProductionVariables/GuideName">r1s-my25-26-og</Variable>
+        <Variable Name="ProductionVariables/LanguageCode">fr-ca</Variable>
+        <Variable Name="ProductionVariables/ProductionDate">20250722</Variable>
+    </Variables>
+    <Destinations>
+        <Destination Link="/Project/Destinations/fr-CA/R1S-Peregrine/R1S-OG-PDF-fr-CA-PEREGRINE.fldes" Publish="true" IsResource="false" />
+    </Destinations>
+    <PreBuild>c:\MadCap\stoppdf.bat</PreBuild>
+</CatapultTarget>

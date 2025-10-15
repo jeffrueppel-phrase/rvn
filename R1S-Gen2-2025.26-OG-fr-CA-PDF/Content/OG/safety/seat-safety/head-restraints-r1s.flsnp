@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2>Front Seat Head Restraints</h2>
+        <p>The driver seat and passenger seat are equipped with integrated head restraints. The head restraints aren't adjustable. </p>
+        <h2>Second-Row Center Seat Head Restraint</h2>
+        <p>To adjust the second-row center seat head restraint, pull up on the restraint until it locks in&#160;place. </p>
+        <div class="note">
+            <p>The second-row outboard seat head restraints aren't adjustable. </p>
+        </div>
+        <p>
+            <img src="../../../Resources/Images/print/head-restraints-v02-R1T-raise-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="margin-top: -5pt;margin-bottom: -2pt;" />
+        </p>
+        <p>To lower the head restraint, push the button at the bottom of the left head restraint rod while pushing down on the top of the head restraint. </p>
+        <p>
+            <img src="../../../Resources/Images/print/head-restraints-v02-R1S-lower-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="margin-top: -2pt;margin-bottom: -5pt;" />
+        </p>
+        <!-- LB note 4/10/25: To get danger on one page with rest of content in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to p of danger below -->
+        <div class="danger-nonelectrical">
+            <p>Lift the second-row center seat head restraint into its locked position before  a passenger occupies the seat to help minimize the risk of injuries (including injuries to the neck) in the event of a crash. The driver should not operate the vehicle  until the head restraint is in the locked position.</p>
+        </div>
+        <h2>Second-Row Outboard Seat Head Restraints</h2>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Remove the head restraints from the second-row outboard seats by pushing the buttons at the bottom of the head restraint rods and lifting the head restraint straight up.</p>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Removal and re-installation of  the second-row outboard seat head restraints should only be performed by qualified service personnel.</p>
+        </div>
+        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-2ndrow-remove-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+        <p>To reinstall the head restraint, align the rods with the holes at the top of the seat and push the  top of the head restraint all the way down until it locks in place.</p>
+        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-2ndrow-install-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+        <div class="danger-nonelectrical">
+            <p>Ensure the second-row outboard seat head restraints are all the way down into the locked position before  a passenger occupies the outboard seats to help minimize the&#160;risk of injuries (including injuries to the neck) in the event of a crash. The driver should&#160;not operate the vehicle  until the head restraints are in the locked&#160;position.</p>
+        </div>
+        <h2 class="KeepWithNext">Third-Row Seat Head Restraints</h2>
+        <p class="KeepWithNext">Pull the manual latch to the first notch to fold a third-row seat head restraint down.</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-3rdrow-down-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-3rdrow-up-print.svg" style="padding-left:10px;" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-nonelectrical">
+            <p>Lift the third-row seat head restraints into the locked position before  passengers occupy the seats  to help minimize the risk of injuries (including injuries of the neck) in the event of a crash. The driver should not operate the vehicle  until the  head restraints are in the locked position.</p>
+        </div>
+    </body>
+</html>

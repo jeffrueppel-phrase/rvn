@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>The driver and front passenger seats can heat or ventilate.</p>
+        <p>The left and right seats of the second and third rows can heat.</p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/seat-climate-control-seats-R1S-gen2-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../Resources/Images/day/seat-climate-control-seats-R1S-gen2-day.svg" alt="Seats" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/seat-climate-control-seats-R1S-gen2-night.svg" alt="Seats" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 85%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Item</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Driver seat</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <p>2</p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Front passenger seat</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Left second&#8209;row seat</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Right second&#8209;row seat</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">5</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Left third&#8209;row seat</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">6</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">Right third&#8209;row seat</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>To heat or ventilate seats before you enter the vehicle, use the Rivian mobile app.</p>
+        <div class="notes">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>If a seat is set to the highest level of heat, the vehicle automatically lowers it to the middle level of heat after 30&#160;minutes.</p>
+                </li>
+                <li>
+                    <p>If a seat is set to the middle level of heat, the vehicle automatically lowers it to the lowest level of heat after 1&#160;hour.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

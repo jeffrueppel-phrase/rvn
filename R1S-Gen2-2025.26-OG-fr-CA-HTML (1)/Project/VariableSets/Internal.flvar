@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Internal">
+    <Variable Comment="The model of the vehicle" Name="vehicle" EvaluatedDefinition="R1T">R1T</Variable>
+    <Variable Name="build-week" Comment="The build week" EvaluatedDefinition="" />
+    <Variable Name="doctype" Comment="The document type" EvaluatedDefinition="Owner's Guide">Owner's Guide</Variable>
+    <Variable Name="release-type" Comment="The guide was released on this date" EvaluatedDefinition="Release Date">Release Date</Variable>
+    <Variable Name="release-type" Comment="The guide is planned to be released on this date" EvaluatedDefinition="Planned for Release">Planned for Release</Variable>
+    <Variable Name="version" Comment="Coming Soon" EvaluatedDefinition="coming">coming</Variable>
+    <Variable Name="version" Comment="Released to Customers" EvaluatedDefinition="released">released</Variable>
+    <Variable Name="version" Comment="A Preview version" EvaluatedDefinition="preview">preview</Variable>
+    <Variable Name="doctype" Comment="" EvaluatedDefinition="Operating Guide">Operating Guide</Variable>
+    <Variable Name="vehicle" Comment="" EvaluatedDefinition="R1S">R1S</Variable>
+    <Variable Name="vehicle" Comment="" EvaluatedDefinition="EDV">EDV</Variable>
+    <Variable Name="build-year" Comment="The year of the build" EvaluatedDefinition="2022">2022</Variable>
+    <Variable Name="release-date" Comment="The scheduled date of release" EvaluatedDefinition="" />
+    <Variable Name="version" Comment="Released to Amazon" EvaluatedDefinition="amazon">amazon</Variable>
+    <Variable Name="release-note-link" Comment="" EvaluatedDefinition="https://rivianautomotivellc.atlassian.net/wiki/spaces/SOF/pages/2622064745/2022.15.0+R1+Release">https://rivianautomotivellc.atlassian.net/wiki/spaces/SOF/pages/2622064745/2022.15.0+R1+Release</Variable>
+    <Variable Name="build-release-number" Comment="Can be set to .x or another value in a target as needed." EvaluatedDefinition="">
+    </Variable>
+</CatapultVariableSet>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Global">
+    <Variable Comment="Guide name in lowercase (delimited with dashes)" Name="GuideName" EvaluatedDefinition="guide-name">guide-name</Variable>
+    <Variable Comment="Language code set based on translation" Name="LanguageCode" EvaluatedDefinition="en-us">en-us</Variable>
+    <Variable Name="BuildDate" Comment="ISO date format used for tracking versions (build date is used)" Type="DateTime" LastUpdated="2021-08-17T12:14:25.2091733-07:00" EvaluatedDefinition="yyyyMMdd">yyyyMMdd</Variable>
+    <Variable Name="ProductionDate" Comment="ISO date format used for tracking versions (build date is used)" EvaluatedDefinition="20210817">[%=ProductionVariables.BuildDate%]</Variable>
+    <Variable Name="ProductionDate" Comment="ISO date format used for tracking versions (manually enter for production if the build date does not work)" EvaluatedDefinition="yyyyMMdd">yyyyMMdd</Variable>
+    <Variable Name="FileName" Comment="Combines the filename in the following format: [guide-name-language-code-iso-date.pdf]" EvaluatedDefinition="guide-name-en-us-[[[Undefined variable ProductionsVariables.ISODate]]]">[%=ProductionVariables.GuideName%]-[%=ProductionVariables.LanguageCode%]-[%=ProductionVariables.ProductionDate%]</Variable>
+</CatapultVariableSet>

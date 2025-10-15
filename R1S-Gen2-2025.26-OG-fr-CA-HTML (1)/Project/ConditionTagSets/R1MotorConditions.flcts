@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="">
+    <ConditionTag BackgroundColor="#0000ff" Name="Dual" Comment="Apply to dual-motor" />
+    <ConditionTag BackgroundColor="#4169e1" Name="Tri" Comment="Apply to tri-motor" OriginalName="TriMotor" />
+    <ConditionTag BackgroundColor="#7fffd4" Name="Quad" Comment="Apply to quad-motor" />
+</CatapultConditionTagSet>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag Comment="Exact verbiage or image required by for UL certification" Name="ULCertifiedContent" BackgroundColor="#cd5c5c" OriginalName="ULCertifiedContent" />
+    <ConditionTag BackgroundColor="#8b008b" Name="HomologatedContent" Comment="Exact verbiage or image required for homologation" OriginalName="HomologatedContent" />
+    <ConditionTag BackgroundColor="#0000ff" Name="FCCCertifiedContent" Comment="Exact verbiage or image required by for FCC certification" />
+    <ConditionTag BackgroundColor="#008000" Name="CECertifiedContent" Comment="Exact verbiage or image required by for CE certification" />
+    <ConditionTag BackgroundColor="#ffa500" Name="HomologationReference" Comment="Reference text containing homolagation codes and safety standards" OriginalName="HomologatedReference" />
+</CatapultConditionTagSet>

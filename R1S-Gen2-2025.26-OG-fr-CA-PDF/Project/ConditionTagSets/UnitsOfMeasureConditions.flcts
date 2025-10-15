@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag Comment="Apply for guides that need to display the Imperial and Metric system. (Imperial/Metric)" Name="Both-Imperial-Metric" BackgroundColor="Blue" />
+    <ConditionTag Comment="Apply for Countries that use the Imperial system (US)" Name="Imperial" BackgroundColor="#dda0dd" />
+    <ConditionTag BackgroundColor="#ffd700" Name="Metric" Comment="Apply for Countries that use the Metric system." />
+    <ConditionTag BackgroundColor="#008000" Name="Both-Metric-Imperial" Comment="Apply for guides that need to display the Metric and Imperial system. Format:&#160;Metric (Imperial)" />
+</CatapultConditionTagSet>

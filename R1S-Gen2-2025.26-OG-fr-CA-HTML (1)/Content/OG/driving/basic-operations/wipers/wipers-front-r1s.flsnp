@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext">Use the wiper switch <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-front-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-night" src="../../../../Resources/Images/Icons/night/wiper-front-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web" /> on the lights stalk to control the windshield wipers. In <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-auto-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/wiper-auto-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> mode, the wipers turn on and off automatically when rain is detected on the windshield.</p>
+        <ul>
+            <li>
+                <p>Push the wiper switch up to step up through the windshield wiper modes. Hold the wiper switch up to jump to Storm mode.</p>
+            </li>
+            <li>
+                <p>Push the wiper switch down to step down through the windshield wiper modes. Hold the wiper switch down to turn wipers off.</p>
+            </li>
+        </ul>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/stalk-wiper-light-v06-wiper-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-wiper-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-wiper-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <p class="KeepWithNext">The driver display shows the windshield wiper modes.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Wiper Speed</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_storm.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-storm-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-storm-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Storm</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_pour.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-downpour-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-downpour-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Downpour</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_shower.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-shower-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-shower-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Shower</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_drizzle.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-drizzle-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-drizzle-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Drizzle</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_sprinkle.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-sprinkle-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-sprinkle-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Sprinkle</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Auto</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-off-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-off-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Off</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">In Auto <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-auto-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/wiper-auto-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> mode, you can adjust  sensitivity levels. See <a href="wipers-front-auto.htm">Automatic Windshield Wipers</a>.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-high-v2-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-high-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-high-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Auto - high sensitivity</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-medium-v2-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-medium-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-medium-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Auto - medium sensitivity</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-low-v2-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-low-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-low-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Auto - low sensitivity</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>In cold weather, clear the windshield of any snow and ice, and fully defrost it before you turn on the wipers. If the wipers are frozen to the windshield, this could cause damage to the wiper motor. </p>
+                </li>
+                <li>
+                    <p>Don't wax, wash, or coat the windshield with products containing water repellent. These products can affect rain detection, preventing the Auto wiper function from working correctly.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

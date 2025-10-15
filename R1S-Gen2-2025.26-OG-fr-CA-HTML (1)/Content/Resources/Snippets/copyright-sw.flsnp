@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Import.Import-Global">
+    <body>
+        <p>Software embedded or accessed by the vehicle may utilize open source software. Please visit <MadCap:conditionalText MadCap:conditions="OutputTypeConditions.In-Vehicle">https://www.rivian.com/legal/open-source</MadCap:conditionalText> for more information. 
+</p>
+    </body>
+</html>

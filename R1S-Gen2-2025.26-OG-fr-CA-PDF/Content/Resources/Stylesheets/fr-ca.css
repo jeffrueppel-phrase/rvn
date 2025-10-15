@@ -1,0 +1,161 @@
+﻿/*<meta conditions="Import.Import-Global" />*/
+
+@import url('infotainment.css') screen;
+
+@import url('infotainment-r1.css') screen;
+
+@import url('theme_light.css') screen;
+
+@import url('theme_dark-day.css') screen;
+
+@import url('theme_dark.css') screen;
+
+@import url('theme_dark-night.css') screen;
+
+@import url('theme_blue-night.css') screen;
+
+@import url('print.css') print, owners-guide, eight-by-eleven, short-guide, a4-booklet, eight-by-seven, eight-by-five, six-by-four, five-by-six, five-by-three, compliance, warranty, updateDetails, service;
+
+:root
+{
+	--DangerElectrical: 'DANGER \A';
+	--Danger: 'ATTENTION \A';
+	--Warning: 'AVERTISSEMENT \A';
+	--WarningUL: 'AVERTISSEMENT \A';
+	--PowerSupplyWarning: 'Avertissement relatif à l’alimentation \A';
+	--OtherWarnings: 'Autres avertissements \A';
+	--BatteryWarning: 'Avertissements relatifs à la batterie \A';
+	--Caution: 'MISE EN GARDE \A';
+	--CautionESD: 'MISE EN GARDE \A';
+	--CautionLaser: 'MISE EN GARDE \A';
+	--Note: 'REMARQUE  ';
+	--Notes: 'REMARQUES  ';
+	--Important: 'IMPORTANT  ';
+	--SearchPlaceholder: 'Rechercher dans le Guide  ';
+	--SearchSubmit: 'Soumettre la recherche  ';
+}
+
+@media screen
+{
+
+/* NON TOKENS */
+.image-day,
+.image-inline-day
+{
+border: 3px solid orange;
+}
+
+.image-night,
+.image-inline-night
+{
+border: 3px solid blue;
+}
+
+.image-online-nav-back 
+{
+zoom: 100%;
+position: absolute;
+margin-top: 15px;
+margin-left: 12px;
+}
+
+.image-online-nav-divider 
+{
+zoom: 100%;
+margin-left: 22px;
+}
+
+.image-online-nav-forward 
+{
+zoom: 100%;
+position: absolute;
+margin-top: 15px;
+margin-left: 16px;
+}
+
+span#nav-forward svg.on
+{
+display: none;
+}
+
+span#nav-forward svg.off
+{
+display: inline-block;
+}
+
+span#nav-forward.on svg.on
+{
+display: inline-block;
+}
+
+span#nav-forward.on svg.off
+{
+display: none;
+}
+
+.image-online	/* og images */
+{
+	zoom: 160%;
+}
+
+.image-online-large	/* large og images */
+{
+	zoom: 240%;
+}
+
+.image-online-xlarge	/* extra large og images */
+{
+	zoom: 360%;
+}
+
+.image-online-inline
+/* ui icons inline */
+/* need to add OutputTypeConditions.Web to most of them */
+{
+	vertical-align: bottom;
+}
+
+.image-online-inline-og
+/* og icons inline */
+/* need to apply */
+{
+}
+
+.image-online-callout	/* ui icons callout */
+{
+}
+
+.image-online-callout-og
+/* og icons callout */
+/* need to apply */
+{
+}
+
+.image-online-callout-text
+{
+	zoom: 160%;
+	font-weight: bold;
+}
+
+
+:root
+{
+	/* TEMP so they end up in token output because of css swap */
+	--AlertCautionImage: url(../Images/online/caution-online.svg);
+	--AlertCautionESDImage: url(../Images/online/caution-esd-online.svg);
+	--AlertCautionLaserImage: url(../Images/online/caution-laser-online.svg);
+	--AlertElectricalImage: url(../Images/online/danger-ele-online.svg);
+	--AlertNonElectricalImage: url(../Images/online/danger-online.svg);
+	--AlertWarningImage: url(../Images/online/warning-online.svg);
+	--AlertWarningULImage: url(../Images/online/warning-ul-online.svg);
+	--AlertCautionImage-NightDark: url(../Images/online/caution-night-dark.svg);
+	--AlertCautionESDImage-NightDark: url(../Images/online/caution-esd-night-dark.svg);
+	--AlertCautionLaserImage-NightDark: url(../Images/online/caution-laser-night-dark.svg);
+	--AlertWarningImage-NightDark: url(../Images/online/warning-night-dark.svg);
+	--AlertWarningULImage-NightDark: url(../Images/online/warning-ul-night-dark.svg);
+}
+
+svg
+{
+	zoom: 160%;
+}

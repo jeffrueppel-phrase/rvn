@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>The rear display is a touch screen located at the back of the center console.  It shows the climate settings for  passengers in the second row and lets them adjust their vents and heated seats. Second-row passengers can also adjust the fan speed for the third-row seats. The rear display also allows passengers limited functions to basic vehicle controls and media (including Wi-Fi hotspot and <i>Bluetooth</i><sup>®</sup> connection), as well as view trip progress for an active navigation session.</p>
+                        <div class="notes" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <ul>
+                                <li>
+                                    <p>You can lock out the rear display from the center display.</p>
+                                </li>
+                                <li>
+                                    <p>If the rear display is used to unlock the vehicle while it isn't parked, the vehicle relocks itself after 3 seconds.</p>
+                                </li>
+                                <li>
+                                    <p>When the vehicle is traveling above a certain speed, the lock and unlock controls aren't available on the rear display.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/display-screens-v03-display-rear-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/display-screens-v03-display-rear-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/display-screens-v03-display-rear-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

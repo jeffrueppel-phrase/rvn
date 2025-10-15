@@ -1,0 +1,322 @@
+﻿/*<meta conditions="" />*/
+
+body
+{
+	--QuickLinks-Background-R1S-Origin: url('../Images/in-vehicle/online/front-r1s-origin-online.svg');
+	--QuickLinks-Background-R1T-Origin: url('../Images/in-vehicle/online/front-r1t-origin-online.svg');
+	--QuickLinks-Background-R1S-Peregrine: url('../Images/in-vehicle/online/front-r1s-peregrine-online.svg');
+	--QuickLinks-Background-R1T-Peregrine: url('../Images/in-vehicle/online/front-r1t-peregrine-online.svg');
+	--QuickLinks-Logo-R1S: url(../Images/in-vehicle/online/logo-r1s-online.svg);
+	--QuickLinks-Logo-R1T: url(../Images/in-vehicle/online/logo-r1t-online.svg);
+	--QuickLinks-Alexa: url(../Images/in-vehicle/online/things-ask-alexa-online.svg);
+	--QuickLinks-Bluetooth: url(../Images/in-vehicle/online/pair-bluetooth-online.svg);
+	--QuickLinks-Charge: url(../Images/in-vehicle/online/start-charge-session-online.svg);
+	--QuickLinks-Climate: url(../Images/in-vehicle/online/climate-control-options-online.svg);
+	--QuickLinks-Display: url(../Images/in-vehicle/online/display-screens-online.svg);
+	--QuickLinks-DriveModes: url(../Images/in-vehicle/online/drive-modes-online.svg);
+	--QuickLinks-Gear: url(../Images/in-vehicle/online/select-gear-online.svg);
+	--QuickLinks-GearGuard: url(../Images/in-vehicle/online/gear-guard-online.svg);
+	--QuickLinks-Locks: url(../Images/in-vehicle/online/lock-keys-online.svg);
+	--QuickLinks-Range: url(../Images/in-vehicle/online/range-online.svg);
+	--QuickLinks-Service: url(../Images/in-vehicle/online/customer-service-online.svg);
+	--Customer-Service-Background-R1S-Origin: url('../Images/in-vehicle/online/rear-r1s-origin-online.svg');
+	--Customer-Service-Background-R1T-Origin: url('../Images/in-vehicle/online/rear-r1t-origin-online.svg');
+	--Customer-Service-Background-R1S-Peregrine: url('../Images/in-vehicle/online/rear-r1s-peregrine-online.svg');
+	--Customer-Service-Background-R1T-Peregrine: url('../Images/in-vehicle/online/rear-r1t-peregrine-online.svg');
+}
+
+.theme_light,
+body[data-theme="theme_light"]
+{
+	--QuickLinks-Box: #fafafa;
+}
+
+.theme_dark,
+body[data-theme="theme_dark"]
+{
+
+	--QuickLinks-Box: #333333;
+}
+
+.theme_dark-day,
+body[data-theme="theme_dark-day"]
+{
+
+	--QuickLinks-Box: #606060;
+}
+
+.theme_dark-night,
+body[data-theme="theme_dark-night"]
+{
+
+	--QuickLinks-Box: #2B0000;
+}
+
+.theme_blue-night,
+body[data-theme="theme_blue-night"]
+{
+
+	--QuickLinks-Box: #323D48;
+}
+ 
+	
+/*
+.theme_light,
+body[data-theme="theme_light"]
+{
+	--QuickLinks-Background-R1S-Origin: url('../Images/in-vehicle/day/front-day-r1s-origin.svg');
+	--QuickLinks-Background-R1T-Origin: url('../Images/in-vehicle/day/front-day-r1t-origin.svg');
+	--QuickLinks-Background-R1S-Peregrine: url('../Images/in-vehicle/day/front-day-r1s-peregrine.svg');
+	--QuickLinks-Background-R1T-Peregrine: url('../Images/in-vehicle/day/front-day-r1t-peregrine.svg');
+	--QuickLinks-Logo-R1S: url(../Images/in-vehicle/day/logo-day-r1s.svg);
+	--QuickLinks-Logo-R1T: url(../Images/in-vehicle/day/logo-day-r1t.svg);
+	--QuickLinks-Alexa: url(../Images/in-vehicle/day/things-ask-alexa-day.svg);
+	--QuickLinks-Bluetooth: url(../Images/in-vehicle/day/pair-bluetooth-day.svg);
+	--QuickLinks-Charge: url(../Images/in-vehicle/day/start-charge-session-day.svg);
+	--QuickLinks-Climate: url(../Images/in-vehicle/day/climate-control-options-day.svg);
+	--QuickLinks-Display: url(../Images/in-vehicle/day/display-screens-day.svg);
+	--QuickLinks-DriveModes: url(../Images/in-vehicle/day/drive-modes-day.svg);
+	--QuickLinks-Gear: url(../Images/in-vehicle/day/select-gear-day.svg);
+	--QuickLinks-GearGuard: url(../Images/in-vehicle/day/gear-guard-day.svg);
+	--QuickLinks-Locks: url(../Images/in-vehicle/day/lock-keys-day.svg);
+	--QuickLinks-Range: url(../Images/in-vehicle/day/range-day.svg);
+	--QuickLinks-Service: url(../Images/in-vehicle/day/customer-service-day.svg);
+	--QuickLinks-Box: #fafafa;
+	--Customer-Service-Background-R1S-Origin: url('../Images/in-vehicle/day/rear-day-r1s-origin.svg');
+	--Customer-Service-Background-R1T-Origin: url('../Images/in-vehicle/day/rear-day-r1t-origin.svg');
+	--Customer-Service-Background-R1S-Peregrine: url('../Images/in-vehicle/day/rear-day-r1s-peregrine.svg');
+	--Customer-Service-Background-R1T-Peregrine: url('../Images/in-vehicle/day/rear-day-r1t-peregrine.svg');
+}
+
+.theme_dark,
+body[data-theme="theme_dark"]
+{
+	--QuickLinks-Background-R1S-Origin: url('../Images/in-vehicle/night/front-night-r1s-origin.svg');
+	--QuickLinks-Background-R1T-Origin: url('../Images/in-vehicle/night/front-night-r1t-origin.svg');
+	--QuickLinks-Background-R1S-Peregrine: url('../Images/in-vehicle/night/front-night-r1s-peregrine.svg');
+	--QuickLinks-Background-R1T-Peregrine: url('../Images/in-vehicle/night/front-night-r1t-peregrine.svg');
+	--QuickLinks-Logo-R1S: url(../Images/in-vehicle/night/logo-night-r1s.svg);
+	--QuickLinks-Logo-R1T: url(../Images/in-vehicle/night/logo-night-r1t.svg);
+	--QuickLinks-Alexa: url(../Images/in-vehicle/night/things-ask-alexa-night.svg);
+	--QuickLinks-Bluetooth: url(../Images/in-vehicle/night/pair-bluetooth-night.svg);
+	--QuickLinks-Locks: url(../Images/in-vehicle/night/lock-keys-night.svg);
+	--QuickLinks-Climate: url(../Images/in-vehicle/night/climate-control-options-night.svg);
+	--QuickLinks-Charge: url(../Images/in-vehicle/night/start-charge-session-night.svg);
+	--QuickLinks-Display: url(../Images/in-vehicle/night/display-screens-night.svg);
+	--QuickLinks-DriveModes: url(../Images/in-vehicle/night/drive-modes-night.svg);
+	--QuickLinks-Gear: url(../Images/in-vehicle/night/select-gear-night.svg);
+	--QuickLinks-GearGuard: url(../Images/in-vehicle/night/gear-guard-night.svg);
+	--QuickLinks-Range: url(../Images/in-vehicle/night/range-night.svg);
+	--QuickLinks-Service: url(../Images/in-vehicle/night/customer-service-night.svg);
+	--QuickLinks-Box: #323D48;
+	--Customer-Service-Background-R1S-Origin: url('../Images/in-vehicle/night/rear-night-r1s-origin.svg');
+	--Customer-Service-Background-R1T-Origin: url('../Images/in-vehicle/night/rear-night-r1t-origin.svg');
+	--Customer-Service-Background-R1S-Peregrine: url('../Images/in-vehicle/night/rear-night-r1s-peregrine.svg');
+	--Customer-Service-Background-R1T-Peregrine: url('../Images/in-vehicle/night/rear-night-r1t-peregrine.svg');
+}
+*/
+
+body div.customer-service-background div#mc-main-content
+{
+	/* prevent content from overlapping background image */
+	width: 840px;
+}
+
+/* quick links */
+
+body div.quicklinks-background
+{
+	background-position: bottom -160px right -280px;
+	background-size: 873px 699px;
+	margin-bottom: 0;
+	margin-right: 0;
+	overflow: hidden;
+}
+
+div.quicklinks-background p.quicklinks-product
+{
+	background-repeat: no-repeat;
+	background-position: top right;
+	position: fixed;
+	padding-top: 222px;
+	margin-left: 10px;
+	margin-top: -52px;
+	right: 60px;
+	width: 410px;
+	font-weight: bold;
+	font-size: 32px;
+	letter-spacing: 8px;
+	text-align: right;
+	color: var(--Support);
+}
+
+body div.quicklinks-background.r1s.origin
+{
+	background-image: var(--QuickLinks-Background-R1S-Origin);
+}
+
+body div.quicklinks-background.r1s.peregrine
+{
+	background-image: var(--QuickLinks-Background-R1S-Peregrine);
+}
+
+div.quicklinks-background.r1s p.quicklinks-product
+{
+	background-image: var(--QuickLinks-Logo-R1S);
+}
+
+body div.quicklinks-background.r1t.origin
+{
+	background-image: var(--QuickLinks-Background-R1T-Origin);
+}
+
+body div.quicklinks-background.r1t.peregrine
+{
+	background-image: var(--QuickLinks-Background-R1T-Peregrine);
+}
+
+div.quicklinks-background.r1t p.quicklinks-product
+{
+	background-image: var(--QuickLinks-Logo-R1T);
+}
+
+p.quicklinks-country
+{
+	position: fixed;
+	right: 63px;
+	margin-top: 235px;
+	font-size: 32px;
+	letter-spacing: 4px;
+	text-align: right;
+	color: var(--Support);
+}
+
+p.quicklinks-country:before
+{
+	/*content: var(--Country);*/
+}
+
+a.quicklinks-alexa
+{
+	background-image: var(--QuickLinks-Alexa);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-bluetooth
+{
+	background-image: var(--QuickLinks-Bluetooth);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-charge
+{
+	background-image: var(--QuickLinks-Charge);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-climate
+{
+	background-image: var(--QuickLinks-Climate);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-display
+{
+	background-image: var(--QuickLinks-Display);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-drivemodes
+{
+	background-image: var(--QuickLinks-DriveModes);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-gear
+{
+	background-image: var(--QuickLinks-Gear);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-gearguard
+{
+	background-image: var(--QuickLinks-GearGuard);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-locks
+{
+	background-image: var(--QuickLinks-Locks);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-range
+{
+	background-image: var(--QuickLinks-Range);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+a.quicklinks-service
+{
+	background-image: var(--QuickLinks-Service);
+	background-repeat: no-repeat;
+	background-position: 10px 16px;
+	padding-left: 80px;
+}
+
+/* customer service page */
+
+body div.customer-service-background
+{
+	background-position: bottom -210px right -210px;
+	background-repeat: no-repeat;
+	margin-bottom: 0;
+	margin-right: 0;
+}
+
+/* 
+body.theme_light div.customer-service-background
+{
+	background-position: bottom -220px right -388px;
+}
+*/
+
+body div.customer-service-background.r1s.origin
+{
+	background-image: var(--Customer-Service-Background-R1S-Origin);
+}
+
+body div.customer-service-background.r1t.origin
+{
+	background-image: var(--Customer-Service-Background-R1T-Origin);
+}
+
+body div.customer-service-background.r1s.peregrine
+{
+	background-image: var(--Customer-Service-Background-R1S-Peregrine);
+}
+
+body div.customer-service-background.r1t.peregrine
+{
+	background-image: var(--Customer-Service-Background-R1T-Peregrine);
+}

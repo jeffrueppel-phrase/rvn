@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Import.Import-Global" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="Letter" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" PageType="firstright" Name="Table of Contents" Orientation="portrait" BleedBottom="0.25in" BleedTop="0.25in" BleedRight="0.25in" BleedLeft="0.25in">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="563px" Height="906px" X="61px" Y="0.28125in" Right="48px" Bottom="27px" Anchors="Left,Right,Top,Bottom" FlowIndex="1">
+        </Frame>
+        <Frame X="67px" Y="-20px" Width="287px" Height="40px" FlowIndex="0" Flow="decoration0" Right="318px" Bottom="940px" Anchors="" />
+        <Frame X="208px" Y="447px" Width="1000px" Height="56px" Right="-536px" Bottom="457px" Flow="decoration4" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90" FlowIndex="2">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="938px" Width="674px" Height="70px" Flow="footer" Right="-2px" Bottom="-48px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../Snippets/print-footer-right.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="Letter" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" PageType="firstleft" Name="Copyright" Orientation="portrait" BleedBottom="0.25in" BleedTop="0.25in" BleedRight="0.25in" BleedLeft="0.25in">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="515px" Height="674px" X="61px" Y="1.125in" Right="96px" Bottom="178px" Anchors="Left,Right,Top,Bottom" FlowIndex="1">
+        </Frame>
+        <Frame X="69px" Y="42px" Width="106px" Height="27px" FlowIndex="0" Flow="decoration0" Right="497px" Bottom="891px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/print/Rivian_wordmark_black_053024.svg" MadCap:mediastyle="@media print { max-width: 100%; }" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="208px" Y="447px" Width="1000px" Height="56px" Right="-536px" Bottom="457px" Flow="decoration4" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90" FlowIndex="2">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="938px" Width="674px" Height="70px" Flow="footer" Right="-2px" Bottom="-48px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../Snippets/print-footer-right.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

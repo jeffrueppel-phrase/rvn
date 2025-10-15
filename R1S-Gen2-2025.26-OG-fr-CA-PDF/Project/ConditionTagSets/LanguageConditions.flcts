@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag Comment="German" Name="de" BackgroundColor="Blue" />
+    <ConditionTag Comment="French" Name="fr" BackgroundColor="#dda0dd" />
+    <ConditionTag BackgroundColor="#008000" Name="es" Comment="Spanish" />
+    <ConditionTag BackgroundColor="#ffa500" Name="it" Comment="Italian" />
+    <ConditionTag BackgroundColor="#ff69b4" Name="en" Comment="English" />
+    <ConditionTag BackgroundColor="#00ffce" Name="ar" Comment="Arabic" />
+</CatapultConditionTagSet>

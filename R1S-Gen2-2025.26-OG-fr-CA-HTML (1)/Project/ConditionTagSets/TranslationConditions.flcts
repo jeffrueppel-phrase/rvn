@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag BackgroundColor="#a9a9a9" Name="DoNotTranslate" Comment="Apply to content that should not be translated by the linguists" />
+</CatapultConditionTagSet>

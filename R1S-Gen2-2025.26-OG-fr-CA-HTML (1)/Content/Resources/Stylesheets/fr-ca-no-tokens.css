@@ -1,0 +1,40 @@
+﻿/*<meta conditions="Import.Import-Global" />*/
+
+@import url('infotainment-no-tokens.css') screen;
+
+@import url('infotainment-r1-no-tokens.css') screen;
+
+@import url('print.css') print, owners-guide, eight-by-eleven, short-guide, a4-booklet, eight-by-seven, eight-by-five, six-by-four, five-by-six, five-by-three, compliance, warranty, updateDetails, service;
+
+:root
+{
+	--DangerElectrical: 'DANGER \A';
+	--Danger: 'ATTENTION \A';
+	--Warning: 'AVERTISSEMENT \A';
+	--WarningUL: 'AVERTISSEMENT \A';
+	--PowerSupplyWarning: 'Avertissement relatif à l’alimentation \A';
+	--OtherWarnings: 'Autres avertissements \A';
+	--BatteryWarning: 'Avertissements relatifs à la batterie \A';
+	--Caution: 'MISE EN GARDE \A';
+	--CautionESD: 'MISE EN GARDE \A';
+	--CautionLaser: 'MISE EN GARDE \A';
+	--Note: 'REMARQUE  ';
+	--Notes: 'REMARQUES  ';
+	--Important: 'IMPORTANT  ';
+	--SearchPlaceholder: 'Rechercher dans le Guide  ';
+	--SearchSubmit: 'Soumettre la recherche  ';
+}
+
+/*
+.image-day,
+.image-inline-day
+{
+border: 3px solid orange;
+}
+
+.image-night,
+.image-inline-night
+{
+border: 3px solid blue;
+}
+*/

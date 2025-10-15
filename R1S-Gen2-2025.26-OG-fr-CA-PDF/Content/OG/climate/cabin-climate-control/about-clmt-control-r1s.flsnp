@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>The vehicle offers three climate zones in the cabin:  </p>
+        <ul>
+            <li>
+                <p>Driver seat</p>
+            </li>
+            <li>
+                <p>Front passenger seat</p>
+            </li>
+            <li>
+                <p>Second&#8209; and third&#8209;row seats</p>
+            </li>
+        </ul>
+        <p>Control the climate for each zone with buttons at the bottom of the center display.</p>
+        <p>
+            <img src="../../../Resources/Images/print/climate-control-options-v07-climate-tri-zones-r1s-print.svg" alt="tri-zone climate" MadCap:conditions=" OutputTypeConditions.Print-all" />
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 85%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Item</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Climate zone for the driver seat</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Climate zone for the front passenger seat</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Climate zone for the second&#8209; and third&#8209;row seats</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="page-break-before:always;">For more settings, choose <b>Fan</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Climate status icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /> at the bottom of the center display. </p>
+        <p>Control the climate for the second&#8209; and third&#8209;row seats with the center or rear display. </p>
+        <p>To turn on climate preconditioning or set the temperature before you enter the vehicle, use the Rivian mobile app.</p>
+        <div class="note" style="page-break-inside:avoid;">
+            <p>While parked, the vehicle may make sounds during any of these conditions:</p>
+            <ul>
+                <li>
+                    <p>Climate preconditioning</p>
+                </li>
+                <li>
+                    <p>Vehicle charging</p>
+                </li>
+                <li>
+                    <p>Installation of a software update</p>
+                </li>
+                <li>
+                    <p>Battery conditioning (heating or cooling) in extreme weather</p>
+                </li>
+                <li>
+                    <p>Protection of the displays or vehicle against overheating</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

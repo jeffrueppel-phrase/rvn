@@ -1,0 +1,3221 @@
+﻿/*<meta fileTags="TranslationStatus.DNT" conditions="Import.Import-Global" />*/
+
+/* This stylesheet applies to all print projects.
+The various sizes of print publications are handled through @media queries.
+*/
+
+@font-face 
+{
+	font-family: "Adventure";
+	src: url(../Fonts/Adventure-Regular.otf);
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face 
+{
+	font-family: "Adventure Bold";
+	src: url(../Fonts/Adventure-Bold.otf);
+	font-weight: 700;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face 
+{
+	font-family: "Adventure Light";
+	src: url(../Fonts/Adventure-Light.otf);
+	font-weight: 300;
+	font-style: normal;
+	font-display: auto;
+}
+
+/*set root variables */
+
+:root
+{
+	/* alerts */
+	--DangerElectrical: 'DANGER \A';
+	--Danger: 'DANGER \A';
+	--Warning: 'WARNING \A';
+	--WarningUL: 'WARNING \A';
+	--PowerSupplyWarning: 'POWER SUPPLY WARNING \A';
+	--OtherWarnings: 'OTHER WARNINGS \A';
+	--BatteryWarning: 'BATTERY WARNINGS \A';
+	--Caution: 'CAUTION \A';
+	--CautionESD: 'CAUTION \A';
+	--CautionLaser: 'CAUTION \A';
+	--Note: 'NOTE  ';
+	--Notes: 'NOTES  ';
+	--Important: 'IMPORTANT  ';
+	--SearchPlaceholder: 'Search Owner’s Guide  ';
+	--SearchSubmit: 'Submit Search  ';
+	/* fonts */
+	--FontRegular: "Adventure", sans-serif;
+	--FontMedium: "Adventure", sans-serif;
+	--FontExtraBold: "Adventure", sans-serif;
+	--FontRegularItalic: "Adventure", sans-serif;
+	--FontSize: 10pt;
+	--LineHeight: 13pt;
+	/* small callout icons */
+	--AlertCautionImage: url("../Images/print/caution-sm.svg");
+	--AlertCautionESDImage: url("../Images/print/caution-esd-sm.svg");
+	--AlertCautionLaserImage: url("../Images/print/caution-laser-sm.svg");
+	--AlertElectricalImage: url("../Images/print/danger-ele-sm.svg");
+	--AlertNonElectricalImage: url("../Images/print/danger-non-ele-sm.svg");
+	--AlertWarningImage: url("../Images/print/warning-sm.svg");
+	--AlertWarningULImage: url("../Images/print/warning-UL-sm.svg");
+	/* colors */
+	--BodyTextColor: #000;
+	--BodyTextColorLight: #86888b;
+	--LinkColor: #1676CA;
+	--VisitedLinkColor: #323c3a;
+	/* tables */
+	--TableHeaderFontSize: 11pt;
+	--DefaultTableHeaderTxtColor: #ffffff;
+	--DefaultTableHeaderBkgColor: #221f20;
+	--DefaultTableBorderColor: #221f20;
+	--DefaultTableTextColor: #221f20;
+	--DefaultTableRow1BkgColor: #ffffff;
+	--DefaultTableRow2BkgColor: #f1f1f1;
+	--TableBorder: 0.75pt solid #221f20;
+	--TableBorderWidth: 0.75px;
+	--TableBorderRadius: 0;
+	--TableCellPadding: 5pt;
+	--TableMaxWidth: 100%;
+	--TablePaddingBottom: 12pt;
+	--TableMarginTop: 20pt;
+	--TableMarginBottom: 20pt;
+	--TableSeparator: 0.75pt solid #221f20;
+	--TableSeparatorColor: #221f20;
+	/*tight tables*/
+	--TableHeaderFontSize-Tight: 11pt;
+	--TableCellPaddingTight: 2.5pt;
+	--TableMarginTightTB: 4pt;
+	/*annotation tables*/
+	--TableHeaderFontSize-Ann: 11pt;
+	--TableCellPaddingAnn: 5.67pt;
+	--TableCellPaddingHeadAnn: 4.5pt;
+	--TableMarginAnnTB: 10pt;
+	--TableBorderRadiusAnn: 0;
+	--TableSeparatorAnn: 0.75pt solid #221f20;
+	--TableSeparatorHeadAnn: 0.75pt solid #221f20;
+	--TableHeaderBkgColorAnn: #221f20;
+	/* no color with borders */
+	--TableHeaderFontSizeNCWB: 10pt;
+	--TableHeaderFontColorNCWB: #221f20;
+	--TableCellPaddingNCWB: 4pt;
+	/* other */
+	--DisplayImageInlineDay: inline;
+	--CalloutBorder: 0.75pt solid #221f20;
+	--TabBorder: 0.75pt solid #221f20;
+	--BorderRadius: 3.75pt;
+}
+
+/* ========== global settings (html, body, etc.) ========== */
+
+/* removed these for now:
+	orphans: 2;
+*/
+
+body
+{
+	color: var(--BodyTextColor);
+	font-family: var(--FontRegular);
+	font-size: var(--FontSize);
+	font-weight: normal;
+	line-height: var(--LineHeight);
+	margin: 8px;
+	width: 100%;
+	float: none;
+	mc-hyphenate: never;
+	display: block;
+	position: relative;
+	/*mc-short-line-method: loosen;
+	mc-short-line: 10;
+	mc-short-line-loosen-end-length: 12;
+	mc-short-line-loosen-maximum: 2;
+	mc-short-line-step: .25;*/
+}
+
+/* ========== typography ========== */
+/* headings */
+
+h1
+{
+	font-family: var(--FontMedium);
+	font-size: 28pt;
+	/*	font-weight: 400; Adventure 5/3/24 */
+	line-height: 35.1pt;
+	margin-bottom: 18pt;
+	page-break-before: auto;
+	page-break-after: avoid;
+}
+
+h2
+{
+	font-family: var(--FontRegular);
+	font-weight: 700;
+	font-size: 18pt;
+	line-height: 19pt;
+	margin-top: 25.2pt;
+	margin-bottom: 8.64pt;
+	/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+	/* letter-spacing: 0.38pt; ADVENTURE 6/21/24 */
+	page-break-before: auto;
+	page-break-after: avoid;
+}
+
+h1 + h2
+{
+	page-break-before: avoid;
+}
+
+h3
+{
+	font-family: var(--FontRegular);
+	font-size: 14pt;
+	font-weight: 700;
+	line-height: 16pt;
+	margin-top: 18pt;
+	margin-bottom: 8.64pt;
+	page-break-after: avoid;
+}
+
+h4
+{
+	font-family: var(--FontRegular);
+	font-weight: 700;
+	font-size: 11pt;
+	line-height: 13pt;
+	/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+	margin-top: 18pt;
+	margin-bottom: -3.75pt;
+	mc-heading-level: 0;
+	page-break-after: avoid;
+}
+
+h5
+{
+	font-family: var(--FontMedium);
+font-size: 10pt;
+line-height: 13pt;
+margin-top: 13pt;
+	margin-bottom: -3.75pt;
+	mc-heading-level: 0;
+	page-break-after: avoid;
+}
+
+/* use #h6 if a heading becomes anything lower than h6 */
+
+#h6,
+h6
+{
+	font-family: var(--FontExtraBold);
+	font-weight: 900;
+font-size: 10pt;
+line-height: 13pt;
+margin-top: 7.2pt;
+	margin-bottom: -3.75pt;
+	/*	font-variant: small-caps; Adventure 5/3/24 */
+	/*	text-transform: lowercase; Adventure 5/3/24 */
+	mc-heading-level: 0;
+	page-break-after: avoid;
+}
+
+.noTOC
+{
+	mc-heading-level: 0;
+}
+
+/* paragraphs */
+
+p
+{
+	font-size: var(--FontSize);
+	line-height: var(--LineHeight);
+	margin-top: 7.2pt;
+	margin-bottom: 8.64pt;
+	orphans: 3;
+	widows: 1;
+	letter-spacing: normal;
+}
+
+p.table-text
+{
+	line-height: 12pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+p.table-list
+{
+	mc-auto-number-format: "{n+}. ";
+}
+
+p.padded-table-text
+{
+	padding-left: 6pt;
+}
+
+p.caption
+{
+	margin-top: 18pt;
+	margin-bottom: 15pt;
+	font-size: 9pt;
+	line-height: 11.27pt;
+	font-weight: bold;
+}
+
+p.tight
+{
+	line-height: 1;
+	padding: 0 1pt;
+}
+
+/*page numbers on the right*/
+
+p.TOC1
+{
+	font-weight: 800;
+	line-height: 11pt;
+	text-align: left;
+	margin: 4pt 0;
+	mc-leader-format: ".";
+	mc-leader-align: right;
+	mc-leader-offset: 15pt;
+}
+
+p.TOC2
+{
+	font-weight: 100;
+	line-height: 11pt;
+	text-align: left;
+	margin: 4pt 0;
+	padding-left: 20px;
+	mc-leader-format: ".";
+	mc-leader-align: right;
+	mc-leader-offset: 15pt;
+}
+
+p.TOC3
+{
+	font-weight: 100;
+	text-align: left;
+	line-height: 11pt;
+	margin: 4pt 0;
+	padding: 0;
+	mc-leader-format: ".";
+	mc-leader-align: right;
+	mc-leader-offset: 15pt;
+	padding-left: 40px;
+}
+
+/* font fix for ghost italics */
+
+i
+{
+	font-family: var(--FontRegularItalic);
+}
+
+/* Span to keep text and an svg together */
+
+span.nonbreaking
+{
+	white-space: nowrap;
+}
+
+/* links */
+
+a,
+a:link
+{
+	color: var(--LinkColor);
+	text-decoration: underline;
+}
+
+/* lists */
+
+ol,
+ul
+{
+	margin-bottom: 18pt;
+	margin-left: 14pt;
+	padding-bottom: 2pt;
+}
+
+ol ol
+{
+	list-style-type: lower-alpha;
+}
+
+ol ol ol
+{
+	list-style-type: lower-roman;
+}
+
+li
+{
+	margin-bottom: 6pt;
+	margin-top: 6pt;
+	page-break-inside: avoid;
+}
+
+li p
+{
+	margin-bottom: 6pt;
+	margin-top: 6pt;
+}
+
+/* callouts and alerts */
+
+div.note,
+div.notes
+{
+	margin: 20pt 0 10pt;
+	font-weight: 400;
+	border-left: var(--CalloutBorder);
+	border-radius: 0;
+	padding: 0pt 0 0pt 10pt;
+	display: block;
+	position: relative;
+	page-break-inside: avoid;
+}
+
+div.important
+{
+	margin: 10pt 0;
+	font-weight: 400;
+	border: var(--CalloutBorder);
+	border-radius: var(--BorderRadius);
+	padding: 5pt 10pt 10pt;
+	display: block;
+	position: relative;
+	page-break-inside: avoid;
+}
+
+div.note:before
+{
+	content: var(--Note);
+	font-weight: bold;
+	padding-bottom: 6pt;
+	display: block;
+	line-height: 1;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.note > *:first-child,
+div.notes > *:first-child
+{
+	padding-top: 5pt;
+}
+
+div.notes:before
+{
+	content: var(--Notes);
+	font-weight: bold;
+	padding: 0;
+	line-height: 1;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.important:before
+{
+	content: var(--Important);
+	font-weight: bold;
+	display: block;
+	padding: 0;
+	line-height: 2;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+span.alert
+{
+	font-weight: bold;
+}
+
+div.callout-box
+{
+	padding: 10pt;
+	margin: 4pt 0;
+	border: var(--CalloutBorder);
+	border-radius: var(--BorderRadius);
+	letter-spacing: 0.25;
+	overflow: hidden;
+}
+
+div.callout-box-shaded
+{
+	border: solid 1px var(--Primary);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	letter-spacing: 0.25;
+	overflow: hidden;
+	padding: 15px;
+	background-color: #F0F1F0;
+	border-radius: 1.5mm;
+}
+
+div.alert-padding
+{
+	
+}
+
+/* ====================  ALERTS HEADING  ========================
+Alert heading shares the same styles as the h3 of the primary stylesheet, except the margin bottom is 0.
+When an alert-heading is followed immedediately by an alert, reduce the alert top margin.
+*/
+
+p.alert-heading
+{
+	font-family: var(--FontRegular);
+	font-size: 10pt;
+	font-weight: 700;
+	line-height: 16pt;
+	margin-top: 18pt;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	page-break-after: avoid;
+	position: relative;
+}
+
+p.alert-heading + div.caution,
+p.alert-heading + div.caution-esd,
+p.alert-heading + div.caution-laser,
+p.alert-heading + div.warning,
+p.alert-heading + div.warning-UL-only,
+p.alert-heading + div.danger-electrical,
+p.alert-heading + div.danger-nonelectrical
+{
+	margin-top: 0;
+	page-break-before: avoid;
+	page-break-inside: avoid;
+	position: relative;
+}
+
+p.alert-heading-inside
+{
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+/* Callouts 
+	These styles use the small alert images and place a slight vertical bar between it and the text.
+	The alert title (e.g., Danger) now goes on the top of the text and is removed from the images.
+	*/
+
+/*	NOTE:  This content can be used for translations by simply changing the content using a medium for the language.  */
+
+div.danger-electrical,
+div.danger-nonelectrical,
+div.warning,
+div.warning-UL-only,
+div.caution,
+div.caution-esd,
+div.caution-laser
+{
+	background-repeat: no-repeat;
+	background-position: 2pt 10pt;
+	background-size: 35pt;
+	border-radius: 0;
+	border: none;
+	position: relative;
+	padding: 10pt 0 10pt 48pt;
+	page-break-inside: avoid;
+	/* prevent page break - overrides settings above */
+	padding-bottom: 47.33px;
+	margin-bottom: -34px;
+}
+
+div.no-bottom-spacing
+{
+	/* remove spacing from alerts, esp inside tables */
+	padding-bottom: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+div.caution
+{
+	background-image: var(--AlertCautionImage);
+}
+
+div.caution-esd
+{
+	background-image: var(--AlertCautionESDImage);
+}
+
+div.caution-laser
+{
+	background-image: var(--AlertCautionLaserImage);
+}
+
+div.warning
+{
+	background-image: var(--AlertWarningImage);
+}
+
+div.warning-UL-only
+{
+	background-image: var(--AlertWarningULImage);
+}
+
+div.danger-electrical
+{
+	background-image: var(--AlertElectricalImage);
+}
+
+div.danger-nonelectrical
+{
+	background-image: var(--AlertNonElectricalImage);
+}
+
+div.boxed
+{
+	border: var(--CalloutBorder) !important;
+	border-radius: var(--BorderRadius) !important;
+	padding: 6pt 10pt;
+	margin: 6pt 0;
+}
+
+div.boxed > div
+{
+	margin-top: 0pt;
+	background-position: 2pt 10pt;
+	background-size: 25pt;
+	padding: 10pt 0 10pt 38pt;
+}
+
+div.boxed > div.warning
+{
+	/* adjustment for boxed */
+	padding-bottom: 10pt;
+	margin-bottom: 0.2in;
+}
+
+div.danger-electrical > *:first-child,
+div.danger-nonelectrical > *:first-child,
+div.warning > *:first-child,
+div.warning-UL-only > *:first-child,
+div.caution > *:first-child,
+div.caution-esd > *:first-child,
+div.caution-laser > *:first-child
+{
+	padding-top: -6pt;
+}
+
+div.caution > *:first-child:before,
+div.caution-esd > *:first-child:before,
+div.caution-laser > *:first-child:before
+{
+	content: var(--Caution);
+	display: block;
+	font-weight: 700;
+	margin-bottom: 18pt;
+	padding: 0;
+	line-height: 2;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.caution-esd > *:first-child:before
+{
+	content: var(--CautionESD);
+}
+
+div.caution-laser > *:first-child:before
+{
+	content: var(--CautionLaser);
+}
+
+div.danger-nonelectrical > *:first-child:before
+{
+	content: var(--Danger);
+	display: block;
+	font-weight: 700;
+	margin-bottom: 18pt;
+	padding: 0;
+	line-height: 2;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.danger-electrical > *:first-child:before
+{
+	content: var(--DangerElectrical);
+	display: block;
+	font-weight: 700;
+	margin-bottom: 18pt;
+	padding: 0;
+	line-height: 2;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.warning > *:first-child:before,
+div.warning-UL-only > *:first-child:before
+{
+	content: var(--Warning);
+	display: block;
+	font-weight: 700;
+	margin-bottom: 18pt;
+	padding: 0;
+	line-height: 2;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.warning-UL-only > *:first-child:before
+{
+	content: var(--WarningUL);
+}
+
+div.warning.power-supply-warning > *:first-child:before
+{
+	content: var(--PowerSupplyWarning);
+}
+
+div.warning.other-warnings > *:first-child:before
+{
+	content: var(--OtherWarnings);
+}
+
+div.danger-nonelectrical.battery-warning > *:first-child:before
+{
+	content: var(--BatteryWarning);
+}
+
+/*because the border must be on the left side, we set up the borderless alert style with a left padding to leave space for the bg image.
+	The bg image styles are inherited, but we've changed the images in the vars above and the position to the top left  */
+
+/* all elements that are immediate children of the caution/warning/danger parent have a left border */
+
+div.danger-nonelectrical > *,
+div.danger-electrical > *,
+div.warning > *,
+div.warning-UL-only > *,
+div.caution > *,
+div.caution-esd > *,
+div.caution-laser > *
+{
+	border-left: var(--CalloutBorder);
+	margin: 0;
+}
+
+/* Paragraphs are flush left with only a minimal padding between paragraphs.  */
+
+div.danger-nonelectrical p,
+div.danger-electrical p,
+div.warning p,
+div.warning-UL-only p,
+div.caution p,
+div.caution-esd p,
+div.caution-laser p
+{
+	padding: 2pt 10pt;
+	margin: 0;
+}
+
+/* Lists are handled as a block element, with the list items as inline-block elements   */
+
+div.danger-nonelectrical ol,
+div.danger-electrical ol,
+div.warning ol,
+div.warning-UL-only ol,
+div.caution ol,
+div.caution-esd ol,
+div.caution-laser ul,
+div.danger-nonelectrical ul,
+div.danger-electrical ul,
+div.warning ul,
+div.warning-UL-only ul,
+div.caution ul,
+div.caution-esd ul,
+div.caution-laser ul
+{
+	padding-left: 10pt;
+	margin: 0pt;
+	display: block;
+	page-break-inside: avoid;
+}
+
+div.danger-nonelectrical li,
+div.danger-electrical li,
+div.warning li,
+div.warning-UL-only li,
+div.caution li,
+div.caution-esd li,
+div.caution-laser li
+{
+	padding: 1.5pt 0;
+	margin: 0 0 0 12pt;
+}
+
+div.danger-nonelectrical li p,
+div.danger-electrical li p,
+div.warning li p,
+div.warning-UL-only li p,
+div.caution li p,
+div.caution-esd li p,
+div.caution-laser li p
+{
+	padding: 0 0 0pt 0;
+	margin: 0 0 0 0pt;
+}
+
+/* Tables within alerts.  
+	**Wrapped within a DIV to ensure border shows ***  */
+
+div.danger-nonelectrical div,
+div.danger-electrical div,
+div.warning div,
+div.warning-UL-only div,
+div.caution div,
+div.caution-esd div,
+div.caution-laser div
+{
+	padding: 5pt 0;
+}
+
+div.danger-nonelectrical table,
+div.danger-electrical table,
+div.warning table,
+div.warning-UL-only table,
+div.caution table,
+div.caution-esd table,
+div.caution-laser table
+{
+	margin: 0pt 10pt 2pt;
+	background-color: white;
+}
+
+/*
+div.danger-nonelectrical table.TableStyle-callout-table,
+div.danger-electrical table.TableStyle-callout-table,
+div.warning table.TableStyle-callout-table,
+div.warning-UL-only table.TableStyle-callout-table,
+div.caution table.TableStyle-callout-table,
+div.caution-esd table.TableStyle-callout-table,
+div.caution-laser table.TableStyle-callout-table,
+div.danger-nonelectrical table.TableStyle-table-numbered-annotations,
+div.danger-electrical table.TableStyle-table-numbered-annotations,
+div.warning table.TableStyle-table-numbered-annotations,
+div.warning-UL-only table.TableStyle-table-numbered-annotations,
+div.caution table.TableStyle-table-numbered-annotations,
+div.caution-esd table.TableStyle-table-numbered-annotations,
+div.caution-laser table.TableStyle-table-numbered-annotations,
+div.danger-nonelectrical table[class*="TableStyle-default-alternate-"],
+div.danger-electrical table[class*="TableStyle-default-alternate-"],
+div.warning table[class*="TableStyle-default-alternate-"],
+div.warning-UL-only table[class*="TableStyle-default-alternate-"],
+div.caution table[class*="TableStyle-default-alternate-"],
+div.caution-esd table[class*="TableStyle-default-alternate-"],
+div.caution-laser table[class*="TableStyle-default-alternate-"]
+{
+	padding: 0pt;
+}
+*/
+
+/* the mc-autonumber class applied to the callout type title */
+
+.alert-mc
+{
+	padding-left: 10pt;
+}
+
+/* the mc-autonumber class applied to the list item bullets */
+
+.alert-bull
+{
+	padding-right: 10pt;
+	margin-left: 10pt;
+	content: "  ";
+}
+
+#warning-large
+/* currently only used in state-specific-disclaimers added 5/12/25 */
+{
+font-size: 12pt;
+}
+
+/* TABLES */
+/* general table settings */
+
+table
+{
+	page-break-inside: avoid;
+}
+
+/* prevent page breaks inside table rows */
+
+tr
+{
+	page-break-inside: avoid;
+}
+
+/* allow page break in table rows when needed */
+
+#pagebreak-allow
+{
+	page-break-inside: auto !important;
+}
+
+div.tight-padding th,
+div.tight-padding td
+{
+	padding: var(--TableCellPaddingTight) !important;
+}
+
+div.tight-padding th p,
+div.tight-padding td p
+{
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+/*
+table.TableStyle-callout-table,
+.TableStyle-callout-table,
+table.TableStyle-table-numbered-annotations,
+.TableStyle-table-numbered-annotations
+{
+	font-family: var(--FontRegular);
+	border-spacing: 0px 0px;
+	margin: var(--TableMarginAnnTB) 0;
+	border: var(--TableBorder);
+	cell-padding: var(--TableCellPaddingAnn) !important;
+	border-radius: var(--TableBorderRadiusAnn);
+	position: relative;
+	separator: var(--TableSeparatorAnn) !important;
+	page-break-before: avoid;
+}
+
+.TableStyle-callout-table-Column-Column1,
+.TableStyle-table-numbered-annotations-Column-Column1
+{
+	width: 15%;
+	text-align: center;
+}
+
+.TableStyle-callout-table-Column-Column2,
+.TableStyle-table-numbered-annotations-Column-Column2
+{
+	width: 85%;
+	text-align: left;
+}
+
+/*  adjusts the margin of right-column images within a table to be aligned to the right */
+
+table p > img:not(.icon-in-line),
+table td:last-child > img
+{
+	margin: 0 0 auto auto;
+	padding-bottom: var(--TablePaddingBottom);
+}
+
+/* adjusts the first image margins in a table with images in both cells 
+
+table td:first-child img:not(.icon-in-line)
+{
+	margin: 0 auto 0 0;
+	padding-bottom: var(--TablePaddingBottom);
+}
+ */
+
+/* removes top margin for a table within a table  
+
+td > .TableStyle-default-alternate-row-color
+{
+	margin-top: 0 !important;
+}
+*/
+
+/* removes padding for a table head so it doesn't matter if wrapped in <p> or not  
+
+.TableStyle-default-alternate-row-color th p
+{
+	padding: 0 !important;
+}
+*/
+
+/* this is for cases where you need a heading in a table that is not tied to a "heading" so that the TOC level does not change the style*/
+
+.table-heading-inside
+{
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+/* ========== design ========== */
+/* images */
+
+img
+{
+	width: auto;
+	height: auto;
+	border: none;
+	max-width: 98%;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}
+
+img.icon-in-line
+{
+	display: inline;
+	vertical-align: middle;
+}
+
+img.icon
+{
+	height: 20px;
+	padding: 0 2px;
+	display: inline;
+}
+
+img.image-inline-night
+{
+	display: none;
+	vertical-align: bottom;
+}
+
+img.image-inline-day
+{
+/*	display: var(--DisplayImageInlineDay); */
+	display: inline;
+	vertical-align: bottom;
+}
+
+span.nonbreaking img
+{
+	margin-left: -10px;
+}
+
+span.nonbreaking img::before
+{
+	display: inline-block;
+	content: "\2800";
+	font-size: 16px;
+}
+
+/*in chapter layout, the heading used above the line used after the first page*/
+
+.header-heading1
+{
+	x: 624px;
+	y: 40.32px;
+	font-size: 12pt;
+	line-height: 12pt;
+	font-weight: bold;
+	/*	text-transform: lowercase; Adventure 5/3/24 */
+	/*	font-variant: small-caps; Adventure 5/3/24 */
+	paragraph-align: right;
+}
+
+/* The .cover settings all are used on the cover pages for the PDF output */
+
+.cover-title
+{
+	font-family: 'Adventure Medium';
+	font-size: 36pt;
+	line-height: 38.2pt;
+	font-weight: 700;
+	letter-spacing: -.02em;
+	/*	font-size: 44pt; Adventure 6/4/24 */
+	/*	letter-spacing: 1.23; */
+}
+
+.cover-title-large
+{
+	font-family: var(--FontMedium);
+	font-size: 50pt;
+	line-height: 52.2pt;
+	letter-spacing: -.02em;
+	/*	letter-spacing: 1.23; */
+}
+
+.cover-title-small
+{
+	font-family: var(--FontMedium);
+	font-size: 30pt;
+	line-height: 32.2pt;
+	letter-spacing: -.02em;
+	/*	letter-spacing: 1.23; */
+}
+
+.cover-subtitle
+{
+	font-family: var(--FontMedium);
+	font-size: 18pt;
+	line-height: 14.2pt;
+	/*	font-weight: bold; Adventure 6/4/24 */
+	/*	font-size: 13pt; Adventure 6/4/24 */
+	/*	letter-spacing: 1.89; */
+	/*	text-transform: uppercase; Adventure 5/13/24 */
+}
+
+.cover-subtitle-r1
+{
+	font-family: var(--FontMedium);
+	font-size: 18pt;
+	line-height: 14.2pt;
+	/* font-size: 21pt; Adventure 6/4/24 */
+	/* font-weight: bold; Adventure 6/4/24 */
+	/* line-height: 25.2pt; */
+	/*	letter-spacing: 1.89; */
+	/*	text-transform: uppercase; Adventure 5/13/24 */
+}
+
+.cover-date
+{
+	color: var(--BodyTextColorLight);
+	font-size: 8pt;
+	font-weight: bold;
+	/*	letter-spacing: 0.67; */
+	/*	text-transform: uppercase; Adventure 5/3/24 */
+}
+
+.cover-region
+{
+	color: var(--BodyTextColorLight);
+	font-size: 8pt;
+	font-weight: bold;
+	/*	letter-spacing: 1.89; */
+	/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+}
+
+.cover-product-number-heading,
+.cover-product-number,
+.cover-part-number-heading,
+.cover-part-number
+{
+	color: var(--BodyTextColorLight);
+	font-family: var(--FontMedium);
+	font-size: 8pt;
+	font-weight: 400;
+	/*	letter-spacing: 0.56; */
+	/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+}
+
+.cover-part-number-heading
+{
+	font-weight: bold;
+}
+
+.cover-part-number
+{
+	text-transform: none;
+}
+
+img.qr-code
+{
+height: 0.4166667in;
+width: auto;
+}
+
+/* menus */
+/* ========== MadCap ========== */
+
+MadCap|xref
+{
+	font-weight: bold;
+	mc-format: "{para}";
+	text-decoration: underline;
+	color: var(--BodyTextColor);
+}
+
+MadCap|xref.TOCPageNumber
+{
+	mc-format: "{page}";
+}
+
+p.page-number
+{
+	font-family: var(--FontRegular);
+	line-height: 11pt;
+	font-weight: 400;
+	/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+}
+
+MadCap|tocProxy
+{
+	border-top: none;
+	margin-left: 0;
+	padding-left: 0;
+	border-top-width: 0;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+/* ==========      PDF Page Formatting   ========  
+selectors used:
+	child selector (>)
+	adjacent sibling selector (+)
+	general sibling selector (~)
+*/
+
+/* avoid breaks immediately after these elements */
+
+.KeepWithNext,
+p.image
+{
+	page-break-after: avoid !important;
+}
+
+/* avoid breaks immediately before these elements */
+
+.KeepWithPrevious
+{
+	page-break-before: avoid;
+}
+
+/*This style should be used to keep content together */
+
+.KeepTogether,
+p > table
+{
+	page-break-inside: avoid;
+}
+
+h1 + img,
+h2 + img,
+h3 + img,
+h4 + img,
+p + img
+{
+	page-break-before: avoid;
+}
+
+/* avoid breaks between these elements if the second occurs immediately after the first */
+
+h2 + div.danger-electrical,
+h2 + div.danger-nonelectrical,
+h2 + div.warning,
+h2 + div.warning-UL-only,
+h2 + div.caution,
+h2 + div.caution-esd,
+h2 + div.caution-laser,
+h1 + h2,
+h2 + h3,
+h3 + h4,
+img + table,
+table.TableStyle-callout-table,
+table.TableStyle-callout-table-3col,
+table.TableStyle-table-numbered-annotations,
+li p
+{
+	page-break-before: avoid;
+	page-break-inside: avoid;
+}
+
+p.TOC1 > p.TOC2
+{
+	page-break-before: avoid;
+	page-break-inside: auto;
+	column-break-before: avoid;
+	frame-break-before: avoid;
+}
+
+p.TOC2 > p.TOC3
+{
+	page-break-before: avoid;
+	column-break-before: avoid;
+	frame-break-before: avoid;
+	page-break-inside: auto;
+}
+
+table
+{
+	page-break-inside: avoid;
+}
+
+/* reset automatic pagebreaks */
+
+.PageBreakAuto
+{
+	page-break-before: auto;
+}
+
+/* Force a pagebreak */
+
+.PageBreakBefore
+{
+	page-break-before: always;
+}
+
+/* ==  KERNING ====== */
+
+.kernTight
+{
+	word-spacing: -0.25px;
+}
+
+.kernTighter
+{
+	word-spacing: -0.5px;
+}
+
+.kernTightest
+{
+	word-spacing: -0.75px;
+}
+
+.kernLoose
+{
+	word-spacing: 0.25px;
+}
+
+.kernLooser
+{
+	word-spacing: 0.5px;
+}
+
+.kernLoosest
+{
+	word-spacing: 0.75px;
+}
+
+img + table
+{
+	page-break-inside: avoid;
+}
+
+/*  negative margins -- use to move tables or images up the corresponding number of points  */
+
+.neg10
+{
+	margin-top: -10pt;
+}
+
+.neg20
+{
+	margin-top: -20pt;
+}
+
+.neg5
+{
+	margin-top: -5pt;
+}
+
+/* Footnotes (manual type) */
+
+div.table-footnote
+{
+	margin-top: -12pt;
+	font-size: 8pt !important;
+	text-align: left;
+	line-height: 9pt;
+	page-break-before: avoid;
+	position: relative;
+}
+
+ul.Footnote
+{
+	list-style-image: none;
+	list-style-position: outside;
+	padding: 0;
+	margin: 0;
+	padding-left: 2pt;
+}
+
+ul.Footnote > li
+{
+	position: relative;
+	padding-top: 0;
+	padding-left: -6pt;
+	margin: 0 0 0 8pt;
+	text-indent: 0pt;
+	left: 0pt;
+}
+
+ul.Footnote > li::marker
+{
+	content: '*';
+	position: relative;
+	left: 3pt;
+	padding: 0;
+}
+
+ul.Footnote li p,
+div.table-footnote ol li p
+{
+	font-size: inherit;
+	line-height: 9pt;
+}
+
+/* SET script to not be included in print for h1 + h2 */
+
+script
+{
+	mc-conditions: 'OutputTypeConditions.In-Vehicle';
+}
+
+/* ========== media queries ========== */
+
+span.publishDate::first-letter
+{
+text-transform: lowercase;
+}
+
+@media eight-by-eleven
+{
+	/* adding new styles for 8.5x11 layout*/
+	/*This style should be used to make sure a section heading or a paragragh stays with the associated content */
+
+	h2
+	{
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	table.TableStyle-callout-table,
+	table.TableStyle-callout-table-3col,
+	table.TableStyle-table-numbered-annotations
+	{
+		page-break-before: avoid !important;
+	}
+}
+
+@media short-guide
+{
+	h1
+	{
+		font-family: var(--FontMedium);
+		font-size: 20pt;
+		line-height: 24.5pt;
+		margin-bottom: 0.25in;
+		page-break-before: avoid;
+	}
+
+	/*Using this style for the AC-Fleet-Dispense-ClipperCreek-Install PDF. Not used by other short guides at this time.  */
+
+	h2,
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	.cover-title-small
+	{
+		font-family: var(--FontMedium);
+		/*		letter-spacing: 1; Adventure 6/4/24 */
+		font-size: 28pt;
+		line-height: 31pt;
+		/*color: #221E1F;	*/
+	}
+
+	table
+	{
+		page-break-inside: auto;
+	}
+
+	/*	a,
+	a:link,
+	a:visited
+	{
+		color: var(--BodyTextColorLight);
+		text-decoration: none;
+	}*/
+}
+
+@media a4-booklet
+{
+	h1
+	{
+		font-family: var(--FontMedium);
+		font-size: 19pt;
+		line-height: 21.5pt;
+		margin-bottom: 0.25in;
+		page-break-before: avoid;
+	}
+
+	h2
+	{
+		font-size: 14pt;
+		line-height: 15.5pt;
+		margin-top: 0.25in;
+		margin-bottom: 0.12in;
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	p.TOC1
+	{
+		font-size: 10pt;
+		line-height: 11pt;
+		font-family: var(--FontRegular);
+		margin-left: 0px;
+		margin-bottom: 4px;
+		margin-top: 4px;
+		color: var(--Primary);
+		font-weight: 700;
+		mc-leader-format: '.';
+		text-align: left;
+		mc-leader-align: right;
+		mc-leader-offset: 15pt;
+	}
+
+	p.TOC2
+	{
+		margin-bottom: 4px;
+		margin-top: 4px;
+		font-weight: 100;
+	}
+
+	a:link
+	{
+		color: var(--Primary);
+		text-decoration: none;
+	}
+
+	.tight-paragraph
+	{
+		word-spacing: -.75px !important;
+	}
+}
+
+@media eight-by-seven
+{
+	h1
+	{
+		font-size: 20pt;
+		line-height: 13.5pt;
+		margin-bottom: 0.25in;
+		page-break-before: avoid;
+	}
+
+	h2,
+	h3
+	{
+		mc-heading-level: 0;
+		page-break-before: auto;
+	}
+
+	p.TOC1
+	{
+		font-weight: 400;
+	}
+
+	a:link
+	{
+		color: var(--BodyTextColor);
+		text-decoration: none;
+	}
+
+	div.note > img.icon-in-line,
+	img.icon-in-line
+	{
+		width: 2.4%;
+		zoom: 100%;
+		display: inline;
+		vertical-align: middle;
+	}
+
+	.table.tbody.tr.td.p > img.icon-in-line
+	{
+		width: 3.5%;
+		zoom: 100%;
+		display: inline;
+		vertical-align: middle;
+	}
+
+	table
+	{
+		page-break-inside: auto;
+	}
+}
+
+@media eight-by-five
+{
+	:root
+	{
+		--FontSize: 10pt;
+		--LineHeight: 11pt;
+	}
+
+	/* ========== global settings (html, body, etc.) ========== */
+
+	body
+	{
+		margin: 6pt;
+		margin-left: 0;
+	}
+
+	/* ========== typography ========== */
+	/* headings */
+
+	h1.noTOC,
+	h2.noTOC,
+	h3.noTOC,
+	h4.noTOC
+	{
+		mc-heading-level: 0;
+	}
+
+	h1
+	{
+		font-family: var(--FontRegular);
+		font-size: 20pt;
+		line-height: 22pt;
+		margin-bottom: 10pt;
+		margin-top: 0;
+		page-break-after: avoid;
+		page-break-before: auto;
+		font-weight: bold;
+	}
+
+	h1.large
+	{
+		font-family: var(--FontRegular);
+		font-size: 32pt;
+		font-weight: bold;
+		line-height: 36pt;
+		margin-bottom: 15pt;
+		margin: 0px;
+		break-before: avoid;
+	}
+
+	h2
+	{
+		font-family: var(--FontRegular);
+		font-size: 16pt;
+		font-weight: bold;
+		line-height: 18pt;
+		margin: 5.67pt 0;
+		text-transform: none;
+		page-break-after: avoid !important;
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		font-family: var(--FontMedium);
+		font-size: 14pt;
+		font-weight: 100;
+		line-height: 16pt;
+		margin: 5.67pt 0;
+		text-transform: none;
+		page-break-before: auto;
+	}
+
+	h4
+	{
+		font-family: var(--FontMedium);
+		font-size: 14pt;
+		font-weight: bold;
+		line-height: 16pt;
+		margin: 9pt 0;
+		text-transform: none;
+		mc-heading-level: 0;
+	}
+
+	h5
+	{
+		font-family: var(--FontRegular);
+		font-size: 14pt;
+		font-weight: bold;
+		line-height: 16pt;
+		margin: 9pt 0;
+		text-transform: none;
+		mc-heading-level: 0;
+	}
+
+	h6
+	{
+		font-family: var(--FontRegular);
+		font-size: 8pt;
+		font-weight: bold;
+		line-height: 10pt;
+		margin: 9pt 0;
+		mc-heading-level: 0;
+		text-transform: none;
+		font-variant: initial;
+	}
+
+	/* paragraphs */
+
+	p
+	{
+		margin: 7.5pt 0;
+		letter-spacing: 0.25;
+		orphans: 3;
+	}
+
+	p.table-text
+	{
+		font-size: 10pt;
+	}
+
+	p.page-number
+	{
+		mc-auto-number-format: "GP:{n+}";
+	}
+
+	p.step-text
+	{
+		font-size: 12pt;
+		line-height: 14pt;
+		margin: 0pt;
+		width: 33%;
+		vertical-align: top;
+		float: left;
+	}
+
+	p.step-img
+	{
+		margin: 0pt;
+		vertical-align: top;
+		float: right;
+	}
+
+	/* links */
+
+	a,
+	a:link,
+	a:visited
+	{
+		color: var(--BodyTextColor);
+		text-decoration: none;
+	}
+
+	MadCap|xref
+	{
+		font-weight: normal;
+		mc-format: "{quote}{para}{quote} {pageref}";
+		text-decoration: none;
+	}
+
+	/* lists */
+
+	ol,
+	ul
+	{
+		letter-spacing: 0.25;
+		line-height: 12pt;
+		margin: 6pt 0;
+		padding-bottom: 3.75pt;
+	}
+
+	ol,
+	ul
+	{
+		margin-left: 14pt;
+	}
+
+	li
+	{
+		margin-bottom: 3.75pt;
+		margin-top: 3.75pt;
+		font-size: 10pt;
+		font-weight: 100;
+		line-height: 11pt;
+	}
+
+	li p
+	{
+		margin-bottom: 3.75pt;
+		margin-top: 3.75pt;
+		font-size: 10pt;
+		line-height: 11pt;
+	}
+
+	/*  tables  */
+
+	td ol
+	{
+		margin-left: 15pt;
+	}
+
+	td ol li p
+	{
+		margin-left: 0;
+		padding-left: 0;
+	}
+
+	.center
+	{
+		text-align: center;
+	}
+
+	/* ========== design ========== */
+	/* images */
+
+	img
+	{
+		width: auto;
+		height: auto;
+		border: none;
+		max-width: 98%;
+		display: block;
+		margin: 0 auto;
+	}
+
+	img.icon-in-line
+	{
+		width: 15pt;
+		height: 15pt;
+		padding: 0 2pt;
+		display: inline;
+	}
+
+	img.step
+	{
+		width: 45%;
+	}
+
+	p.title-page-h1-large
+	{
+		font-family: var(--FontExtraBold);
+		font-weight: 900;
+		font-size: 73pt;
+		line-height: 87.6pt;
+		font-weight: 800;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		margin: 0px;
+		padding: 0px;
+	}
+
+	p.title-page-h1-small
+	{
+		font-family: var(--FontRegular);
+		font-size: 36pt;
+		line-height: 38pt;
+		font-weight: bold;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		margin: 0;
+		padding: 0;
+	}
+
+	p.title-page-h2
+	{
+		font-family: var(--FontMedium);
+		font-size: 16pt;
+		line-height: 17pt;
+		font-weight: 100;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		margin-top: 7.5pt;
+		margin-left: 0;
+		margin-bottom: 0;
+		letter-spacing: 1.6px;
+	}
+
+	p.title-page-h2-small-tight
+	{
+		font-family: var(--FontRegular);
+		font-size: 18pt;
+		line-height: 19.2pt;
+		font-weight: 400;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		margin-left: -5px;
+		margin-top: 0;
+		margin-bottom: 0;
+		padding-left: 0;
+		padding-top: 0;
+		letter-spacing: 1.6px;
+	}
+
+	p.callout-heading
+	{
+		font-family: var(--FontRegular);
+		color: var(--Black);
+		font-size: 17pt;
+		font-weight: bold;
+		line-height: 18pt;
+		margin-bottom: 7.5pt;
+		margin-top: 7.5pt;
+		text-align: center;
+	}
+
+	p.subHeading
+	{
+		font-family: var(--FontMedium);
+		font-size: 12pt;
+		font-weight: normal;
+		line-height: 13pt;
+		margin-bottom: 9pt;
+		margin-top: 9pt;
+		text-align: center;
+	}
+
+	p.subHeading-smaller
+	{
+		text-align: left;
+		font-family: var(--FontMedium);
+		font-size: 11pt;
+		font-weight: 100;
+		line-height: 12pt;
+		margin-bottom: 9pt;
+		margin-top: 9pt;
+	}
+
+	.title3
+	{
+		font-family: var(--FontMedium);
+		font-size: 28.33pt;
+		line-height: 30pt;
+		margin-bottom: 0.15in;
+	}
+
+	.subtitle3
+	{
+		font-family: var(--FontMedium);
+		font-size: 12pt;
+		line-height: 12pt;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		margin-bottom: 0.5in;
+	}
+
+	.title-page-date,
+	.title-page-copyright
+	{
+		font-size: 8pt;
+		line-height: 9pt;
+		font-weight: 400;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		letter-spacing: 1.1px;
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+
+	.page-number
+	{
+		font-size: 10pt;
+		line-height: 12pt;
+		font-weight: 400;
+	}
+
+	.title-page-adventure-forever
+	{
+		font-family: var(--FontExtraBold);
+		font-weight: 900;
+		font-size: 13pt;
+		line-height: 14.2pt;
+		font-weight: 800;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+	}
+
+	/* ========== MadCap ========== */
+
+	MadCap|tocProxy
+	{
+		border-top: none;
+		border-top-width: 0;
+		margin: 0;
+		padding: 0;
+	}
+
+	/*page numbers on the right*/
+
+	p.TOC1
+	{
+		margin-bottom: 6pt;
+		margin-top: 6pt;
+		break-after: avoid;
+	}
+
+	p.TOC2
+	{
+		margin-bottom: 4.5pt;
+		margin-top: 4.5pt;
+		padding: 0;
+	}
+
+	p.TOC3
+	{
+		font-size: 10pt;
+		line-height: 11pt;
+		margin: 4.5pt 0pt;
+		font-weight: 100;
+	}
+
+	p.table-list
+	{
+		mc-auto-number-format: "{n+}. ";
+	}
+
+	h2 + img
+	{
+		page-break-inside: avoid;
+		page-break-before: avoid;
+	}
+
+	img + table
+	{
+		page-break-inside: avoid;
+		page-break-before: always;
+	}
+
+	p.page-number
+	{
+		mc-auto-number-format: "GP:{n+}";
+	}
+
+	.padded-table-text
+	{
+		padding-left: 10px;
+	}
+
+	p.alert-heading + div.caution,
+	p.alert-heading + div.caution-esd,
+	p.alert-heading + div.caution-laser,
+	p.alert-heading + div.warning,
+	p.alert-heading + div.warning-UL-only,
+	p.alert-heading + div.danger-electrical,
+	p.alert-heading + div.danger-nonelectrical
+	{
+		margin-top: 0;
+		page-break-before: avoid;
+		page-break-inside: auto;
+		position: relative;
+	}
+
+	div.danger-nonelectrical ol,
+	div.danger-electrical ol,
+	div.warning ol,
+	div.warning-UL-only ol,
+	div.caution ol,
+	div.caution-esd ol,
+	div.caution-laser ol,
+	div.danger-nonelectrical ul,
+	div.danger-electrical ul,
+	div.warning ul,
+	div.warning-UL-only ul,
+	div.caution ul,
+	div.caution-esd ul,
+	div.caution-laser ul
+	{
+		padding-left: 10pt;
+		margin: 0pt;
+		display: block;
+		page-break-inside: auto;
+	}
+}
+
+@media six-by-four
+{
+	:root
+	{
+		--LinkColor: #000;
+		--FontSize: 10pt;
+		--LineHeight: 1.1 !important;
+	}
+
+	/* ========== global settings (html, body, etc.) ========== */
+	/* ========== typography ========== */
+	/* headings */
+
+	h1
+	{
+		font-size: 16pt;
+		line-height: 17.5pt;
+		margin-bottom: 13pt;
+		/* equals 0.18in */
+	margin-top: 0;
+	padding-top: 0;
+	}
+
+	h2
+	{
+		font-size: 11pt;
+		line-height: 12.5pt;
+		margin-top: 10.8pt;
+		/* equals  0.15in  */
+		margin-bottom: 5.76pt;
+		/* equals  0.08in  */
+		mc-heading-level: 0;
+		page-break-after: avoid;
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		font-size: 10pt;
+		line-height: 12pt;
+		/*		text-transform: uppercase; Adventure 5/3/24 */
+		margin-top: 10.8pt;
+		/* equals  0.15in  */
+		margin-bottom: 5.76pt;
+		/* equals  0.08in  */
+		mc-heading-level: 0;
+		page-break-after: avoid;
+		page-break-before: auto;
+	}
+
+	h4
+	{
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+		page-break-after: avoid;
+	}
+
+	h5
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+	}
+
+	h6
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+	}
+
+	/* Paragraphs */
+
+	p
+	{
+		margin-top: 5.4pt;
+		/*equals 0.075in */
+		margin-bottom: 5.4pt;
+		/*equals 0.075in */
+	}
+
+	p.TOC1
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		font-weight: 400;
+		/*margin: 3.75pt 0;
+		equivilent to 5px */
+		margin: 2.5pt 0;
+		/*reduced to fit TOC page */
+	}
+
+	p.alert-heading
+	{
+		padding-bottom: 6pt;
+	}
+
+	/* Links */
+
+	a:link
+	{
+		text-decoration: none;
+	}
+
+	MadCap|xref
+	{
+		font-weight: normal;
+		mc-format: "{quote}{para}{quote} {pageref}";
+		text-decoration: none;
+	}
+
+	/* lists */
+
+	ol,
+	ul
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: 13.5pt;
+		/* equals 18px */
+	}
+
+	li
+	{
+		margin-bottom: 6pt;
+		line-height: var(--LineHeight);
+	}
+
+	li p
+	{
+		line-height: var(--LineHeight);
+	}
+
+	/* CALLOUTS  */
+
+	div.caution,
+	div.caution-esd,
+	div.caution-laser,
+	div.warning,
+	div.warning-UL-only,
+	div.danger-electrical,
+	div.danger-nonelectrical
+	{
+		padding: 0 0 6pt 0.55in;
+		margin: 0.2in 0;
+		page-break-inside: avoid;
+		background-position: 0pt 0pt;
+		/* prevent page break - overrides settings above */
+		padding-bottom: 42px;
+		margin-bottom: -14.8px;
+	}
+
+	div.no-bottom-spacing
+	{
+		/* remove spacing from alerts, esp inside tables */
+		padding-bottom: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
+	div.danger-nonelectrical li,
+	div.danger-electrical li,
+	div.warning li,
+	div.warning-UL-only li,
+	div.caution li,
+	div.caution-esd li,
+	div.caution-laser li
+	{
+		padding-left: 0pt;
+	}
+
+	div.note,
+	div.notes
+	{
+		padding: 0 0 0 10pt;
+		margin: 0.2in 0;
+		page-break-inside: avoid;
+	}
+
+	div.important
+	{
+		padding: 6pt 10pt 10pt 10pt;
+		margin: 0.2in 0;
+		page-break-inside: avoid;
+	}
+
+	/* Paragraphs are flush left with only a minimal padding between paragraphs.  */
+
+	div.danger-nonelectrical p,
+	div.danger-electrical p,
+	div.warning p,
+	div.warning-UL-only p,
+	div.caution p,
+	div.caution-esd p,
+	div.caution-laser p
+	{
+		padding-right: 0pt;
+	}
+
+	/*these are overrides to tighten spacing to make content fit on a page */
+
+	.tight-paragraph
+	{
+		word-spacing: -0.75px !important;
+	}
+
+	.tight-margin-bottom
+	{
+		margin-bottom: -3pt !important;
+	}
+
+	.tight-margin-top
+	{
+		margin-top: -3pt !important;
+	}
+
+	.cover-title-small
+	{
+		/*		letter-spacing: normal; Adventure 6/4/24 */
+	}
+
+	.cover-subtitle
+	{
+		font-size: 14pt;
+		/* Adventure 6/4/24 */
+	}
+
+	table
+	{
+		max-width: var(--TableMaxWidth);
+		margin: 10pt 0;
+		page-break-inside: auto;
+	}
+
+	col.TableStyle-procedure-table-Column-Column1,
+	col.TableStyle-proc-table-Column-Column1
+	{
+		width: 60%;
+	}
+
+	col.TableStyle-procedure-table-Column-Column2,
+	col.TableStyle-proc-table-Column-Column2
+	{
+		width: 40%;
+	}
+
+	td.TableStyle-proc-table-BodyA-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyB-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyC-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyD-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyE-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyA-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyB-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyC-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyD-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyE-Column2-Body1 img
+	{
+		width: 100%;
+	}
+}
+
+@media five-by-six
+{
+	:root
+	{
+		--LinkColor: #000;
+		--FontSize: 10pt;
+		--LineHeight: 1.1 !important;
+	}
+
+	/* ========== global settings (html, body, etc.) ========== */
+	/* ========== typography ========== */
+	/* headings */
+
+	h1
+	{
+		font-size: 18pt;
+		line-height: 16.5pt;
+		margin-bottom: 13pt;
+		font-weight: 500;
+		page-break-before: auto !important;
+		/* equals 0.18in */
+	}
+
+	h2
+	{
+		font-size: 12pt;
+		line-height: 12.5pt;
+		margin-top: 12.8pt;
+		/* equals  0.15in  */
+		margin-bottom: 5pt;
+		/* equals  0.08in  */
+		mc-heading-level: 0;
+		page-break-after: avoid;
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	h3,
+	p.alert-heading
+	{
+		font-size: 10pt;
+		line-height: 12pt;
+		margin-top: 10.8pt;
+		/* equals  0.15in  */
+		margin-bottom: 5.76pt;
+		/* equals  0.08in  */
+		page-break-after: avoid;
+		mc-heading-level: 0;
+	}
+
+	p.alert-heading
+	{
+		text-transform: uppercase;
+	}
+
+	h4
+	{
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+		page-break-after: avoid;
+	}
+
+	h5
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+	}
+
+	h6
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+	}
+
+	/* Paragraphs */
+
+	p
+	{
+		margin-top: 5.4pt;
+		/*equals 0.075in */
+		margin-bottom: 5.4pt;
+		/*equals 0.075in */
+	}
+
+	p.TOC1,
+	p.TOC2,
+	p.TOC3
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		font-weight: 400;
+		/*margin: 3.75pt 0;
+		equivilent to 5px */
+		margin: 2.5pt 0;
+		/*reduced to fit TOC page */
+	}
+
+	/* Links */
+
+	a:link
+	{
+		text-decoration: none;
+	}
+
+	MadCap|xref
+	{
+		font-weight: normal;
+		mc-format: '{quote}{para}{quote} {pageref}';
+		text-decoration: none;
+	}
+
+	/* lists */
+
+	ol,
+	ul
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: 13.5pt;
+		/* equals 18px */
+	}
+
+	li
+	{
+		margin-bottom: 6pt;
+		line-height: var(--LineHeight);
+	}
+
+	li p
+	{
+		line-height: var(--LineHeight);
+	}
+
+	/* CALLOUTS  */
+
+	div.caution,
+	div.caution-esd,
+	div.caution-laser,
+	div.warning,
+	div.warning-UL-only,
+	div.danger-electrical,
+	div.danger-nonelectrical
+	{
+		padding: 0 0 3pt 0.55in;
+		margin: 0.15in 0;
+		page-break-inside: avoid;
+		background-position: 0pt 0pt;
+		/* prevent page break - overrides settings above */
+		padding-bottom: 37px;
+		margin-bottom: -19.6px;
+	}
+
+	div.danger-nonelectrical li,
+	div.danger-electrical li,
+	div.warning li,
+	div.warning-UL-only li,
+	div.caution li,
+	div.caution-esd li,
+	div.caution-laser li
+	{
+		padding-left: -4pt;
+		font-size: 10pt;
+	}
+
+	/* Paragraphs are flush left with only a minimal padding between paragraphs.  */
+
+	div.danger-nonelectrical p,
+	div.danger-electrical p,
+	div.warning p,
+	div.warning-UL-only p,
+	div.caution p,
+	div.caution-esd p,
+	div.caution-laser p
+	{
+		padding-right: 0pt;
+		font-size: 10pt;
+	}
+
+	/*	div.note
+{
+	mc-auto-number-format: var(--Note);
+	mc-auto-number-class: uppercase;
+	letter-spacing: 0.25;
+	padding: 0 0 3pt 10pt;
+	margin: 0.15in 0;
+	border-left: var(--CalloutBorder);
+	overflow: hidden;
+	page-break-inside: avoid;
+	display: block;
+	position: relative;
+}
+
+div.notes
+{
+	mc-auto-number-format: var(--Notes);
+	mc-auto-number-class: uppercase;
+	padding: 0 0 3pt 10pt;
+	margin: 0.15in 0;
+	font-weight: 400;
+	letter-spacing: 0.25;
+	border-left: var(--CalloutBorder);
+	overflow: hidden;
+	page-break-inside: avoid;
+	display: block;
+	position: relative;
+}
+
+div.important
+{
+	border: var(--CalloutBorder);
+	mc-auto-number-format: var(--Important);
+	mc-auto-number-class: uppercase;
+	border-radius: var(--BorderRadius);
+	letter-spacing: 0.25;
+	overflow: hidden;
+	padding: 0 0 3pt 10pt;
+	margin: 0.15in 0;
+	page-break-inside: avoid;
+	display: block;
+	position: relative;
+}
+*/
+
+	/*these are overrides to tighten spacing to make content fit on a page */
+
+	.tight-paragraph
+	{
+		word-spacing: -.75px !important;
+	}
+
+	.tight-margin-bottom
+	{
+		margin-bottom: -3pt !important;
+	}
+
+	.tight-margin-top
+	{
+		margin-top: -3pt !important;
+	}
+
+	.cover-subtitle
+	{
+		font-family: var(--FontMedium);
+		font-size: 10pt;
+		line-height: 14.2pt;
+		/*		letter-spacing: 0.5; Adventure 6/4/24 */
+		/*		text-transform: uppercase; Adventure 5/3/24 */
+	}
+
+	.cover-title-small
+	{
+		/*		font-weight: bold; Adventure 6/4/24 */
+		/*		letter-spacing: normal; Adventure 6/4/24 */
+		font-weight: 500;
+		font-size: 26pt;
+		/*added this for 5.5x6 guide*/
+		line-height: 28.2pt;
+		/*added this for 5.5x6 guide*/
+		/*added this for 5.5x6 guide*/
+	}
+
+	table.TableStyle-procedure-table,
+	table.TableStyle-proc-table
+	{
+		max-width: var(--TableMaxWidth);
+		margin: 10pt 0;
+	}
+
+	table
+	{
+		max-width: var(--TableMaxWidth);
+		margin: 10pt 0;
+		page-break-inside: auto;
+	}
+
+	col.TableStyle-procedure-table-Column-Column1,
+	col.TableStyle-proc-table-Column-Column1
+	{
+		width: 60%;
+	}
+
+	col.TableStyle-procedure-table-Column-Column2,
+	col.TableStyle-proc-table-Column-Column2
+	{
+		width: 40%;
+	}
+
+	td.TableStyle-proc-table-BodyA-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyB-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyC-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyD-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyE-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyA-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyB-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyC-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyD-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyE-Column2-Body1 img
+	{
+		width: 100%;
+	}
+}
+
+@media five-by-three
+{
+	:root
+	{
+		--LinkColor: #000;
+		--FontSize: 9pt;
+		--LineHeight: 1.1 !important;
+	}
+
+	/* ========== global settings (html, body, etc.) ========== */
+	/* ========== typography ========== */
+	/* headings */
+
+	h1
+	{
+		font-size: 14pt;
+		line-height: 15.5pt;
+		margin-bottom: 13pt;
+		font-weight: 500;
+		/* equals 0.18in */
+	}
+
+	h2
+	{
+		font-size: 9pt;
+		line-height: 10.5pt;
+		margin-top: 10.8pt;
+		/* equals  0.15in  */
+		margin-bottom: 5pt;
+		/* equals  0.08in  */
+		mc-heading-level: 0;
+		page-break-after: avoid;
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	h3,
+	p.alert-heading
+	{
+		font-size: 10pt;
+		line-height: 12pt;
+		margin-top: 10.8pt;
+		/* equals  0.15in  */
+		margin-bottom: 5.76pt;
+		/* equals  0.08in  */
+		page-break-after: avoid;
+	}
+
+	p.alert-heading
+	{
+		text-transform: uppercase;
+	}
+
+	h4
+	{
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+		page-break-after: avoid;
+	}
+
+	h5
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+	}
+
+	h6
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		line-height: 14pt;
+		margin: 4pt 0;
+	}
+
+	/* Paragraphs */
+
+	p
+	{
+		margin-top: 5.4pt;
+		/*equals 0.075in */
+		margin-bottom: 5.4pt;
+		/*equals 0.075in */
+	}
+
+	p.TOC1
+	{
+		font-family: var(--FontRegular);
+		font-size: 10pt;
+		font-weight: 400;
+		/*margin: 3.75pt 0;
+		equivilent to 5px */
+		margin: 2.5pt 0;
+		/*reduced to fit TOC page */
+	}
+
+	/* Links */
+
+	a:link
+	{
+		text-decoration: none;
+	}
+
+	MadCap|xref
+	{
+		font-weight: normal;
+		mc-format: '{quote}{para}{quote} {pageref}';
+		text-decoration: none;
+	}
+
+	/* lists */
+
+	ol,
+	ul
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: 13.5pt;
+		/* equals 18px */
+	}
+
+	li
+	{
+		margin-bottom: 6pt;
+		line-height: var(--LineHeight);
+	}
+
+	li p
+	{
+		line-height: var(--LineHeight);
+	}
+
+	/* CALLOUTS  */
+
+	div.caution,
+	div.caution-esd,
+	div.caution-laser,
+	div.warning,
+	div.warning-UL-only,
+	div.danger-electrical,
+	div.danger-nonelectrical
+	{
+		padding: 0 0 3pt 0.55in;
+		margin: 0.1in 0;
+		page-break-inside: avoid;
+		background-position: 0pt 0pt;
+		/* prevent page break - overrides settings above */
+		padding-bottom: 39px;
+		margin-bottom: -25px;
+	}
+
+	div.danger-nonelectrical li,
+	div.danger-electrical li,
+	div.warning li,
+	div.warning-UL-only li,
+	div.caution li,
+	div.caution-esd li,
+	div.caution-laser li
+	{
+		padding-left: -4pt;
+		font-size: 6pt;
+	}
+
+	/* Paragraphs are flush left with only a minimal padding between paragraphs.  */
+
+	div.danger-nonelectrical p,
+	div.danger-electrical p,
+	div.warning p,
+	div.warning-UL-only p,
+	div.caution p,
+	div.caution-esd p,
+	div.caution-laser p
+	{
+		padding-right: 0pt;
+		font-size: 6pt;
+	}
+
+	/* all safety content should be 7pt font  */
+
+	.safety
+	{
+		font-size: 6pt;
+	}
+
+	/*these are overrides to tighten spacing to make content fit on a page */
+
+	.tight-paragraph
+	{
+		word-spacing: -.75px !important;
+	}
+
+	.tight-margin-bottom
+	{
+		margin-bottom: -3pt !important;
+	}
+
+	.tight-margin-top
+	{
+		margin-top: -3pt !important;
+	}
+
+	.cover-title-small
+	{
+		/*		letter-spacing: normal; Adventure 6/4/24 */
+		font-weight: 500;
+		font-size: 15pt;
+		/*added this for 5x3 guide*/
+		line-height: 16.2pt;
+		/*added this for 5x3 guide*/
+		/*added this for 5x3 guide*/
+	}
+
+	table.TableStyle-procedure-table,
+	table.TableStyle-proc-table
+	{
+		max-width: var(--TableMaxWidth);
+		margin: 12pt 0;
+	}
+
+	table.TableStyle-TorchTable
+	{
+		margin: 0;
+	}
+}
+
+@media compliance
+{
+	:root
+	{
+		--FontSize: 6pt !important;
+		--LineHeight: 1.2;
+		--AlertCautionImage: url("../Images/print/caution-xsm.svg");
+		--AlertCautionESDImage: url("../Images/print/caution-esd-sm.svg");
+		--AlertCautionLaserImage: url("../Images/print/caution-laser-sm.svg");
+		--AlertElectricalImage: url("../Images/print/danger-ele-xsm.svg");
+		--AlertNonElectricalImage: url("../Images/print/danger-non-ele-xsm.svg");
+		--AlertWarningImage: url("../Images/print/warning-xsm.svg");
+		--AlertWarningULImage: url("../Images/print/warning-UL-xsm.svg");
+		--AlertLine: #3e3e3e;
+		--LinkColor: #000;
+	}
+
+	h1
+	{
+		font-size: 10pt;
+		line-height: 1.2;
+		margin: 0 0 6pt 0;
+	}
+
+	h2
+	{
+		font-size: 8pt;
+		line-height: 1.2;
+		margin: 4pt 0;
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		font-size: var(--FontSize);
+		line-height: var(--LineHeight);
+		margin: 4pt 0;
+		page-break-before: auto;
+	}
+
+	p,
+	li p,
+	ol
+	{
+		font-size: var(--FontSize);
+		line-height: var(--LineHeight);
+	}
+
+	li
+	{
+		font-size: var(--FontSize);
+		line-height: var(--LineHeight);
+		page-break-inside: avoid;
+	}
+
+	/* These styles use the small alert images and place a slight vertical bar between it and the text.
+	The alert title (e.g., Danger) now goes on the top of the text and is removed from the images.
+	*/
+
+	/*because the border must be on the left side, we set up the borderless alert style with a left padding to leave space for the bg image.
+	The bg image styles are inherited, but we've changed the images in the vars above and the position to the top left  */
+
+	div.caution,
+	div.caution-esd,
+	div.caution-laser,
+	div.warning,
+	div.warning-UL-only,
+	div.danger-electrical,
+	div.danger-nonelectrical
+	{
+		padding: 0 0 15pt 0.4in;
+		margin: 0.05in 0;
+		background-position: 0pt 0pt;
+		/* prevent page break 
+		padding-bottom: 49px;
+		margin-bottom: -14px;
+	*/
+	}
+
+	.cover-subtitle
+	{
+		/*		font-family: var(--FontMedium); */
+		/*		font-weight: bold; Adventure 6/4/24 */
+		/*		font-size: 13pt; Adventure 6/4/24 */
+		/*		line-height: 14.2pt; Adventure 6/4/24 */
+		/*		letter-spacing: 0.5; Adventure 6/4/24 */
+		/*		text-transform: uppercase; Adventure 6/4/24 */
+	}
+
+	.cover-title-small
+	{
+		font-size: 22pt;
+		line-height: 24.2pt;
+		/*		letter-spacing: normal; Adventure 6/4/24 */
+	}
+
+	p.page-number,
+	p.pn
+	{
+		font-size: var(--FontSize);
+		line-height: 7pt;
+	}
+
+	.cover-product-number-heading,
+	.cover-product-number,
+	.cover-part-number-heading,
+	.cover-part-number
+	{
+		font-size: 7pt;
+	}
+
+	/* ===================================  LANGUAGES =======================================  
+	the position settings (left: xxpt) will move the tab down the row.  72pt = 1 inch. 
+	*/
+
+	.ENGLISH
+	{
+		height: 16pt;
+		width: 60pt;
+		font-weight: bold;
+		padding-top: 3.5pt;
+		color: black;
+		border: none;
+		border-radius: 0 0 6pt 6pt;
+		background-color: var(--DefaultTableRow2BkgColor);
+		transform: rotate(90deg);
+		position: relative;
+		left: 8pt;
+		letter-spacing: 0.75;
+		content: "ENGLISH";
+	}
+
+	.FRENCH
+	{
+		height: 16pt;
+		width: 60pt;
+		font-weight: bold;
+		padding-left: 72pt;
+		color: black;
+		border: none;
+		border-radius: 0 0 6pt 6pt;
+		background-color: var(--DefaultTableRow2BkgColor);
+		transform: rotate(90deg);
+		position: relative;
+		left: 68pt;
+		letter-spacing: 0.75;
+		content: "FRANÇAIS";
+	}
+
+	.DEUTSCH
+	{
+		height: 16pt;
+		width: 60pt;
+		font-weight: bold;
+		padding-top: 3.5pt;
+		color: black;
+		border: none;
+		border-radius: 0 0 6pt 6pt;
+		background-color: var(--DefaultTableRow2BkgColor);
+		transform: rotate(90deg);
+		position: relative;
+		left: 128pt;
+		letter-spacing: 0.75;
+		content: "DEUTSCH";
+	}
+
+	.ITALIANO
+	{
+		height: 16pt;
+		width: 60pt;
+		font-weight: bold;
+		padding-left: 72pt;
+		color: black;
+		border: none;
+		border-radius: 0 0 6pt 6pt;
+		background-color: var(--DefaultTableRow2BkgColor);
+		transform: rotate(90deg);
+		position: relative;
+		left: 188pt;
+		letter-spacing: 0.75;
+		content: "ITALIANO";
+	}
+}
+
+/* for Warranty Guides */
+
+@media warranty
+{
+	h1,
+	h2
+	{
+		page-break-before: auto;
+	}
+
+	p.TOC1
+	{
+		font-size: 10pt;
+	}
+
+	h2
+	{
+		page-break-before: auto;
+	}
+
+	h3
+	{
+		mc-heading-level: 3;
+		page-break-before: auto;
+	}
+}
+
+/* for Update Details */
+
+@media updateDetails
+{
+	:root
+	{
+		--EUXGrey7: #151515;
+		--EUXGrey5: #767676;
+	}
+
+	h1
+	{
+		font-family: var(--FontRegular);
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 115%;
+		/*	text-transform: uppercase; ADVENTURE 5/3/24 */
+		letter-spacing: normal;
+		page-break-before: avoid;
+		margin-top: 40px;
+		margin-bottom: 16px;
+	}
+
+	h2
+	{
+		font-family: var(--FontRegular);
+		font-style: normal;
+		font-weight: 700;
+		font-size: 11pt;
+		line-height: 100%;
+		letter-spacing: normal;
+		text-transform: none;
+		page-break-before: avoid;
+		margin-top: 30px;
+		margin-bottom: 14px;
+	}
+
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	.update-details-head-normal
+	{
+		font-family: var(--FontRegular);
+		font-style: normal;
+		font-weight: 500;
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	.update-details-head-bold
+	{
+		font-family: var(--FontRegular);
+		font-weight: 700;
+		font-style: bold;
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	.update-details-head-title
+	{
+		font-family: var(--FontRegular);
+		font-weight: 700;
+		font-style: bold;
+		font-size: 28px;
+		line-height: 36px;
+	}
+
+	.update-details-footer-row1
+	{
+		font-family: var(--FontRegular);
+		/*		color: var(--EUXGrey7); Adventure 5/3/24 */
+		font-weight: 400;
+		font-style: normal;
+		font-size: 8px;
+		line-height: 14px;
+		letter-spacing: 0.5;
+	}
+
+	.update-details-footer-row2
+	{
+		font-family: var(--FontRegular);
+		color: var(--EUXGrey5);
+		font-weight: 400;
+		font-style: normal;
+		font-size: 8px;
+		line-height: 14px;
+		letter-spacing: 0.5;
+	}
+
+	.uppercase
+	{
+		text-transform: uppercase;
+	}
+}
+
+/* for Service Guides such as R1 Upfitting Guide */
+
+@media service
+{
+	h2,
+	h3
+	{
+		page-break-before: auto;
+	}
+
+	img
+	{
+/* 
+		9/25/24 makes images too large 
+		width: 100%; 
+*/
+		height: auto;
+		border: none;
+		max-width: 98%;
+		display: block;
+		position: relative;
+		margin: 0 auto;
+	}
+
+	img.medium
+	{
+		width: 40%;
+	}
+
+	img.large
+	{
+		width: 60%;
+	}
+
+	p.img-caption
+	{
+		font-weight: bold;
+		mc-auto-number-format: "GF:Figure {n+}: ";
+		page-break-before: avoid;
+	}
+
+	MadCap|xref.fig-ref
+	{
+		font-weight: normal;
+		text-decoration: underline;
+		mc-format: "{paranumonly}";
+	}
+
+	table
+	{
+		max-width: var(--TableMaxWidth);
+		margin: 10pt 0;
+		page-break-inside: auto;
+	}
+
+	col.TableStyle-procedure-table-Column-Column1,
+	col.TableStyle-proc-table-Column-Column1
+	{
+		width: 40%;
+	}
+
+	col.TableStyle-procedure-table-Column-Column2,
+	col.TableStyle-proc-table-Column-Column2
+	{
+		width: 60%;
+	}
+
+	td.TableStyle-proc-table-BodyA-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyB-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyC-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyD-Column2-Body1 img,
+	td.TableStyle-proc-table-BodyE-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyA-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyB-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyC-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyD-Column2-Body1 img,
+	td.TableStyle-procedure-table-BodyE-Column2-Body1 img
+	{
+		width: 100%;
+	}
+}
+
+@media owners-guide
+{
+	h2
+	{
+		page-break-before: always;
+	}
+
+	h3
+	{
+		page-break-before: always;
+	}
+}
+
+@media operators-guide
+{
+	h2
+	{
+		page-break-before: always;
+	}
+
+}

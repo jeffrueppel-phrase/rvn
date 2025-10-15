@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Proximity Locking automatically locks or unlocks the vehicle when you are nearby with a phone key or key fob. To turn on proximity locking:</p>
+        <ol>
+            <li>
+                <p>Go to <b>Settings <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Settings icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"></img> &gt; Vehicle &gt; Access</b>.</p>
+            </li>
+            <li>
+                <p>Turn on <b>Proximity Locking</b>.</p>
+            </li>
+            <li>
+                <p>Select the keys to activate.</p>
+            </li>
+        </ol>
+        <p class="KeepWithNext">To customize the automatic lock and unlock behavior of these keys at home, do the following:</p>
+        <ol style="page-break-inside:avoid;">
+            <li>
+                <p>If you haven't yet set a home location:</p>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>
+                        <p>Under "Locking behavior at home," choose <b>Set Home Location</b>.</p>
+                    </li>
+                    <li>
+                        <p>Enter the address and save it.</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>Choose one of the following behaviors for all active proximity keys:</p>
+                <ol>
+                    <li>
+                        <p>
+                            <b>Lock and Unlock</b> (default): Lock and unlock when at home.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Lock only</b>: Lock but don't unlock when at home. With this setting, you must actively unlock the vehicle with a key.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Off</b>: Do not lock or unlock when at home. With this setting, you must actively lock and unlock the vehicle with a key.</p>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+        <div class="note" MadCap:conditions="R1VehicleConditions.R1S">
+            <p>"Lock only" at home applies only to the driver and passenger doors. The storage areas—front trunk and liftgate—continue to unlock and lock with a nearby key fob or phone key. </p>
+        </div>
+    </body>
+</html>

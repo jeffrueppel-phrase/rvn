@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag BackgroundColor="#b4ff00" Name="NACS" Comment="NACS-specific info" />
+    <ConditionTag BackgroundColor="#00ffce" Name="CCS2" Comment="CCS2-specific info (Falcon)" />
+    <ConditionTag BackgroundColor="#008000" Name="CCS1" Comment="CCS1-specific info" />
+</CatapultConditionTagSet>

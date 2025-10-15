@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+    </head>
+    <body>
+        <h2>Front Wiper Blades</h2>
+        <ol>
+            <li>
+                <p>Ensure the wipers are <b>Off</b> and the vehicle is in <b>P</b> (Park).</p>
+            </li>
+            <li>
+                <p>Go to <b>Settings <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-settings-on-inline-day.svg" alt="Settings icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/app-settings-on-inline-night.svg" alt="Settings icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> &gt; Vehicle &gt; Service</b>.</p>
+            </li>
+            <li>
+                <p>Enable <b>Wiper service</b> to move the wipers out of the wiper park position.</p>
+            </li>
+            <li>
+                <p>Bend the wiper arms at the hinge as needed. </p>
+            </li>
+            <li>
+                <p>Remove the old wiper blades and replace with J-hook hybrid blades. Set the new blades on the windshield.</p>
+                <div class="warning">
+                    <p>To prevent damage to the vehicle's hood, position both wiper blades on the windshield before exiting wiper service mode.</p>
+                </div>
+            </li>
+            <li>
+                <p>Disable <b>Wiper service</b> from the center display to return the wipers to the park position.</p>
+            </li>
+        </ol>
+        <div class="note">
+            <p>While the vehicle is in wiper service mode, the powered opening of the front trunk is disabled to prevent potential contact between the wiper blade arms and the hood. You can still unlatch the trunk when requested, but it won't power open.</p>
+        </div>
+        <h2>Rear Wiper Blade</h2>
+        <ol>
+            <li>
+                <p>Ensure the rear wiper is <b>Off</b> and the vehicle is in <b>P</b> (Park).</p>
+            </li>
+            <li>
+                <p>Pull the wiper away from the rear window about 15 degrees.</p>
+                <p>
+                    <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/r1s-rear-wiper-lift-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                    <img class="image-day" src="../../../Resources/Images/day/r1s-rear-wiper-lift-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    <img class="image-night" src="../../../Resources/Images/night/r1s-rear-wiper-lift-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                </p>
+            </li>
+            <li>
+                <p>While holding the center section of the wiper with one hand, grab the outer end of the wiper and push it away from you to pop off the blade.</p>
+                <p>
+                    <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/r1s-rear-wiper-remove-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                    <img class="image-day" src="../../../Resources/Images/day/r1s-rear-wiper-remove-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    <img class="image-night" src="../../../Resources/Images/night/r1s-rear-wiper-remove-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                </p>
+            </li>
+            <li>
+                <p>Install the replacement blade by snapping it into the wiper.</p>
+            </li>
+            <li>
+                <p>Set the wiper blade on the rear window.</p>
+            </li>
+        </ol>
+    </body>
+</html>

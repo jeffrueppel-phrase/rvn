@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+    </head>
+    <body>
+        <p>When you drive in traffic, Adaptive Cruise Control, Highway Assist, and Enhanced Highway Assist bring the vehicle to a complete stop and automatically resume in response to the vehicle in front. Curve Speed Assist provides additional safety and comfort when driving on curvy roads. Lane Change on Command helps automatically and safely perform lane changes  at your request while Highway Assist or Enhanced Highway Assist is engaged. Smart Turn Signals automatically turns off turn signals after a manual lane change is detected on highways. Go Chime provides an audible notification when the vehicle ahead of you drives away at a stop, and you're not looking ahead.</p>
+        <div class="notes">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>In areas where a posted speed limit is not detected, if you engage Adaptive Cruise Control, Highway Assist, or Enhanced Highway Assist while driving below the minimum activation speed, the feature will engage at <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-unit:mph,;measure.imperial-value:20,;measure.metric-unit:km/h,;measure.metric-value:32," />.</p>
+                </li>
+                <li>
+                    <p>You can't change the drive mode or ride height when Adaptive Cruise Control, Highway Assist, or Enhanced Highway Assist is engaged.</p>
+                </li>
+                <li>
+                    <p>Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, and Lane Change on Command are unavailable when you're towing a trailer. Refer to <a href="../../driving/towing-trailer/manual-cruise-control.htm">Manual Cruise Control</a>.</p>
+                </li>
+                <li>
+                    <p>Refer to <a href="../../driving/towing-trailer/trailer-settings.htm#TrailerProfiles">Trailer Profiles</a> and <a href="../../driving/towing-trailer/trailer-settings.htm#RearAccessoryMode">Rear Accessory Mode</a> for information on using driver assistance features with an accessory connected to the trailer hitch.</p>
+                </li>
+                <li>
+                    <p>Lane Change on Command won't perform lane changes into an upcoming merge, mandatory interchange, or mandatory exit lane.</p>
+                </li>
+                <li>
+                    <p>Lane Change on Command won't perform lane changes out of a mandatory exit lane if you're approaching an exit.</p>
+                </li>
+                <li>
+                    <p>Lane Change on Command may bring the vehicle back to the original lane if the lane change can't be completed because of road or traffic conditions.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="important">
+            <ul>
+                <li>
+                    <p>The features Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, and Lane Change on Command may be unavailable or may disengage if the radars are blocked, or the front camera visibility is reduced from blur or glare. In these cases, a chime sounds, and a notification appears in the driver display.</p>
+                </li>
+                <li>
+                    <p>Chassis, suspension, or tire modifications not approved by Rivian may affect the performance of the driving assist features.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>When Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, or Lane Change on Command is engaged,  always monitor traffic and driving conditions, and be prepared to brake or steer if needed. These features, along with the speed engagement settings, are designed to support the driver and don't replace the  driver's attention, judgment, and need to control the vehicle. These features won't prevent collisions in all situations. </p>
+                </li>
+                <li>
+                    <p>Adaptive Cruise Control, Highway Assist, and Enhanced Highway Assist don't adjust the set speed according to the posted speed limits. It's your  responsibility to adjust the set speed according to the posted speed limit.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="danger-nonelectrical">
+            <ul>
+                <li>
+                    <p>Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, and Lane Change on Command may disengage without warning due to road conditions, environmental conditions, or a system malfunction. </p>
+                </li>
+                <li>
+                    <p>When Highway Assist is engaged or Lane Change on Command is performing lane changes, the system periodically reminds you to keep your hands on the wheel. </p>
+                </li>
+                <li>
+                    <p>Always be ready to take control of the vehicle.</p>
+                </li>
+                <li>
+                    <p>When Enhanced Highway Assist is engaged, the system may ask you to pay attention to the road if the Driver Attention Detection system recognizes that you're not attentive.</p>
+                </li>
+                <li>
+                    <p>When the vehicle is about to enter a zone not supported by Enhanced Highway Assist, the system informs you to keep hands on the steering wheel to continue using Highway Assist.</p>
+                </li>
+                <li>
+                    <p>During a lane change, if the vehicle is neither able to complete the lane change nor return to the original lane, the feature issues warnings and disengages. Be prepared to take over control of the vehicle immediately.</p>
+                </li>
+                <li>
+                    <p>Failure to promptly take control of the vehicle may result in property damage, injury, or death.</p>
+                </li>
+            </ul>
+        </div>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" />
+        <h2>Settings</h2>
+        <p>Go to <b>Settings <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Settings icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" style="font-weight: bold;" /> &gt; Vehicle &gt; Driver Assistance</b> to toggle on or off settings for the following features.</p>
+        <p class="KeepWithNext">For Adaptive Cruise Control and Highway Assist on divided highways:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>On:</b> Engages Adaptive Cruise Control or Highway Assist at the posted speed limit. This applies when the speed limit is higher than the current vehicle speed.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Off:</b> Engages Adaptive Cruise Control or Highway Assist with the current vehicle speed as the set speed.</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>This feature works on divided highways where there is traffic going in different directions, separated by a barrier.</p>
+        </div>
+        <div class="warning">
+            <p>Use caution and control the vehicle as appropriate, such as on curvy roads where you may need to reduce your speed.  When you're not driving on a divided highway, Adaptive Cruise Control engages with the current vehicle speed as the set speed regardless of the setting.</p>
+        </div>
+        <p>For Enhanced Highway Assist:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>On:</b> Allows hands-free driving on some highways while Highway Assist is on and you're looking at the road.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Off:</b> Disables Enhanced Highway Assist.</p>
+            </li>
+        </ul>
+        <p class="KeepWithNext">For Lane Change on Command:</p>
+        <ul class="KeepWithNext" style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>On:</b> Enables Lane Change on Command to actively help you change lanes on the highway when you signal.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Off:</b> Disables Lane Change on Command.</p>
+            </li>
+        </ul>
+        <p>For Exceed Set Speed (during Lane Change on Command):</p>
+        <ul>
+            <li>
+                <p>
+                    <b>On:</b> Allows the vehicle to temporarily exceed your Highway Assist set speed during a Lane Change on Command maneuver by up to <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:5,;measure.imperial-unit:mph,;measure.metric-value:8,;measure.metric-unit:km/h," />.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Off:</b> Disables the Exceed Set Speed option, making your Highway Assist set speed the maximum allowable feature speed.</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>Highway Assist Reengage is unavailable when Lane Change on Command is enabled.</p>
+        </div>
+        <p class="KeepWithNext">For Smart Turn Signals:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <b>On:</b> Enables Smart Turn Signals to automatically turn off your turn signals after a manual lane change on highways.<li><p><b>Off:</b> Disables Smart Turn Signals.</p></li></li>
+        </ul>
+        <p class="KeepWithNext">For Go Chime:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <b>On:</b> Enables Go Chime to provide an audible notification when the vehicle ahead of you drives away at a stop, and you're not looking ahead.<li><p><b>Off:</b> Disables Go Chime.</p></li></li>
+        </ul>
+        <h2>Driving Conditions</h2>
+        <p>Under certain conditions, Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, Lane Change on Command, and Curve Speed Assist may not work as expected. Adaptive Cruise Control may either brake when not required, or may not brake for vehicles and objects. Lane Change on Command may perform a lane change even when there is a vehicle close to you in the adjacent lane, or not perform a lane change when the lane is clear.</p>
+        <p class="alert-heading">Severe Weather</p>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>Severe weather affects the performance of Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, Lane Change on Command, Go Chime, and Curve Speed Assist. Use your judgment when driving in heavy rain, snow, or other environmental conditions that reduce visibility around the vehicle. </p>
+                </li>
+                <li>
+                    <p>Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, and Lane Change on Command may disengage without warning in severe weather, extreme temperatures, or if sunlight  shines directly into the front camera.</p>
+                </li>
+                <li>
+                    <p>Do not use Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, Lane Change on Command, and Curve Speed Assist on slippery, unpaved, wet, or snowy roads.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Sharp Curves and Steep Grades</p>
+        <div class="warning">
+            <p>Roads with sharp curves or steep grades affect the performance of  Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, Lane Change on Command, and Curve Speed Assist. Always be prepared to take control of the vehicle if needed.</p>
+        </div>
+        <p class="alert-heading">Adjacent Vehicles and Merging Lanes</p>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>Adaptive Cruise Control, Highway Assist, and Enhanced Highway Assist don't accelerate or decelerate in response to vehicles or objects in adjacent lanes. Always watch for vehicles in adjacent lanes, especially when your driving lane merges into another lane. </p>
+                </li>
+                <li>
+                    <p>Lane Change on Command minimally adjusts speeds for vehicles in front of you in the adjacent lanes.</p>
+                </li>
+                <li>
+                    <p>Be prepared to take control of the vehicle if needed.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Road Conditions</p>
+        <div class="warning alert-padding">
+            <ul>
+                <li>
+                    <p>The vehicle may not detect a speed limit or detect an incorrect speed limit on certain road segments that include, but are not limited to, on-ramps, exit ramps, and construction zones.</p>
+                </li>
+                <li>
+                    <p>Highway Assist and Enhanced Highway Assist may not perform as expected through road construction zones. Be prepared to take control of the vehicle if needed.</p>
+                </li>
+                <li>
+                    <p> Curve Speed Assist may not work as expected when you're traveling on uneven or loose surfaces such as gravel or sand.</p>
+                </li>
+                <li>
+                    <p> If the lane lines aren't clear, Smart Turn Signals may not work, and Lane Change on Command may not perform lane changes or perform incorrect lane changes.</p>
+                </li>
+                <li>
+                    <p> Lane Change on Command may perform erroneous lane changes in construction zones that use barriers (such as cones, barrels, or other types of barriers) to temporarily define the lane.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Driving Conditions</p>
+        <div class="warning">
+            <p class="KeepWithNext">Adaptive Cruise Control, Highway Assist, Enhanced Highway Assist, and Lane Change on Command may not work as expected under certain driving conditions. Such conditions include, but are not limited to, the following:</p>
+            <ul>
+                <li>
+                    <p>When you closely follow a vehicle ahead of you in the driving lane, or if a vehicle suddenly cuts into the driving lane.</p>
+                </li>
+                <li>
+                    <p>When a vehicle or object is partially in the driving lane, such as in a merge, split, or turn lane.</p>
+                </li>
+                <li>
+                    <p>When you change lanes and the vehicle detects a stationary or slow-moving vehicle or object ahead.</p>
+                </li>
+                <li>
+                    <p>In a busy urban or residential area with rapidly changing road conditions, pedestrians, cyclists, intersections, and roundabouts.</p>
+                </li>
+                <li>
+                    <p>If a motorcycle that is splitting lanes is approaching your vehicle from either side.</p>
+                </li>
+                <li>
+                    <p>If a motorcycle is splitting the lane with your vehicle over long periods of time.</p>
+                </li>
+                <li>
+                    <p>If large vehicles such as buses or semi-trucks are driving closely behind you or in your blind spot areas.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="caution">
+            <p>
+                Driver assistance features may not work as designed if an accessory connected to the vehicle interferes with detections, or is too heavy or large. It is your responsibility to select the correct profile upon connecting an accessory.</p>
+        </div>
+    </body>
+</html>

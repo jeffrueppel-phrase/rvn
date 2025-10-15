@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine,R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Karin Hepler">
+    <head>
+        <link href="../../../../Resources/TableStyles/txt-diff-col-width-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p MadCap:conditions="R1VehicleConditions.R1S">
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/keyfob-2.0-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../../Resources/Images/day/keyfob-2.0-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+            </img>
+            <img class="image-night" src="../../../../Resources/Images/night/keyfob-2.0-R1S-night.svg" MadCap:conditions="R1VehicleConditions.R1S, OutputTypeConditions.Web">
+            </img>
+        </p>
+        <table style="page-break-inside:auto; width: 100%;mc-table-style: url('../../../../Resources/TableStyles/txt-diff-col-width-table.css');" class="TableStyle-txt-diff-col-width-table" cellspacing="0" MadCap:conditions="R1VehicleConditions.R1S">
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 20%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 35%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <thead>
+                <tr class="TableStyle-txt-diff-col-width-table-Head-Header1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Number</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Description</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1" colspan="2">
+                        <p>Button Sequence</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadD-Column1-Header1">
+                        <p>Function</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Front Trunk</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Double press
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Open or close the front trunk.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Press
+then double press						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Single press to pause the front trunk when in motion. Double press to change direction.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Liftgate</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Double press
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Open the liftgate.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">&#160;</td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Press
+then double press						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Single press to pause the liftgate when in motion. Double press to change direction.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Lock</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Press
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Lock all doors.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Double press
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Lock all doors.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dash-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dash-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dash-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Hold</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Activate panic alarm.</p>
+                        <p>Press <b>Unlock</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_lock_unlock_20_unselected_unlocked.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/unlock-inline-day.svg" alt="Unlock icon" MadCap:conditions="OutputTypeConditions.Web"></img><img src="../../../../Resources/Images/Icons/night/unlock-inline-night.svg" alt="Unlock icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"></img> on the key fob to stop the alarm.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dash-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dash-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dash-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Press then press and hold</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Lock all doors and roll up all windows.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Unlock</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Press
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Unlock driver door or all doors.</p>
+                        <p>Configure this option from the center display.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Double press
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Unlock all doors.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dash-inline-online.flsnp" />
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dash-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dash-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>Press then press and hold</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyA-Column1-Body1">
+                        <p>Unlock all doors and roll down all windows.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

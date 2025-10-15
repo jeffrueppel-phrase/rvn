@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">The rear display offers the Climate Controls panel for the second&#8209; and third&#8209;row seats, described in the table below.</p>
+        <table style="width: 100%;page-break-inside:auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Name</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-icon-day.svg" alt="Temperature icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-climate-status-icon-night.svg" alt="Temperature icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Fan</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>If Sync is turned on, the vehicle displays <b>Fan</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/clmt-control-climate-status-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> and the temperature setting of the driver-side zone for the cabin of the vehicle. </p>
+                        <p>If Sync is turned off, the vehicle displays the temperature setting of the second&#8209; and third&#8209;row seats.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/techpubs_text/tp_clmt-control-sync-icon_36.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-sync-icon-day.svg" alt="Sync icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-sync-icon-night.svg" alt="Sync icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Sync</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>The vehicle displays <b>Sync</b> if all climate zones  are synchronized to the same temperature setting on the center display.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/seat-climate-control-v02-heat-inactive-icon-day.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/seat-climate-control-v04-heat-inactive-icon-night.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>Heat seat</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">
+                        <p>Heat the seat. Cycle through levels of heat, including off.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">
+            <p>To lock the rear display so rear-cabin passengers can't access the climate controls, go to <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> &gt; <b>Shortcuts</b> &gt; <b>Rear Display Lock</b> from the status bar on the center display.</p>
+        </div>
+        <h2>Additional Climate Controls</h2>
+        <p>Choose the Climate Controls panel  in the rear display to access additional climate controls, described in the tables below.</p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/climate-control-options-v08-R1S-rear-seats-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../Resources/Images/day/climate-control-options-v08-R1S-rear-seats-day.svg" alt="Select row" MadCap:conditions="OutputTypeConditions.Web">
+            </img>
+            <img class="image-night" src="../../../Resources/Images/night/climate-control-options-v08-R1S-rear-seats-night.svg" alt="Select row" MadCap:conditions="OutputTypeConditions.Web">
+            </img>
+        </p>
+        <table style="width: 100%;page-break-inside:auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 25%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 60%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Item</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Name</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Second-row climate</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Access the second&#8209;row controls.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body2">
+                        <p>Third-row climate</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body2">
+                        <p>Access the third&#8209;row controls.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Choose <b>Second-row climate</b> to access the second-row climate controls, described in the table below.</p>
+        <table style="width: 100%;page-break-inside:auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Name</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/arrows/ic_arrows_temperature_36_unselected_down.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-decrease-temperature-icon-day.svg" alt="Decrease temperature icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-decrease-temperature-icon-night.svg" alt="Decrease temperature icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Decrease temperature</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Decrease the temperature. Choose and hold the blue <b>Decrease Temperature</b> button <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/arrows/ic_arrows_temperature_20_unselected_down.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-decrease-temperature-inline-day.svg" alt="Decrease temperature" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/clmt-control-decrease-temperature-inline-night.svg" alt="Decrease temperature" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> to decrease the temperature to Low.</p>
+                        <div class="note">
+                            <p>This control isn't available under either of the following conditions:</p>
+                            <ul>
+                                <li>
+                                    <p>Heading, Cooling, and Conditioning is turned off.</p>
+                                </li>
+                                <li>
+                                    <p>Sync is turned on.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-icon-day.svg" alt="Temperature icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-climate-status-icon-night.svg" alt="Temperature icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Fan</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>If Sync is turned on, the vehicle displays <b>Fan</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-inline-day.svg" alt="Climate status icon" MadCap:conditions="OutputTypeConditions.Web"></img><img src="../../../Resources/Images/Icons/night/clmt-control-climate-status-inline-night.svg" alt="Climate status icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"></img> and the temperature setting of the driver-side zone for the cabin of the vehicle. </p>
+                        <p>If Sync is turned off, the vehicle displays the temperature setting of the second&#8209; and third&#8209;row seats.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/arrows/ic_arrows_temperature_36_unselected_up.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-increase-temperature-icon-day.svg" alt="Increase temperature icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-increase-temperature-icon-night.svg" alt="Decrease temperature icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Increase temperature</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Increase the temperature. Choose and hold the red <b>Increase Temperature</b> button <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/arrows/ic_arrows_temperature_20_unselected_up.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-increase-temperature-inline-day.svg" alt="Increase temperature" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/clmt-control-increase-temperature-inline-night.svg" alt="Increase temperature" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" />
+					to increase the temperature to High.</p>
+                        <div class="note">
+                            <p>This control isn't available under either of the following conditions:</p>
+                            <ul>
+                                <li>
+                                    <p>Heading, Cooling, and Conditioning is turned off.</p>
+                                </li>
+                                <li>
+                                    <p>Sync is turned on.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/seat-climate-control-v02-heat-inactive-icon-day.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/seat-climate-control-v04-heat-inactive-icon-night.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Heat seat</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Heat the seat. Cycle through levels of heat, including off.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/techpubs/tp_clmt-control-rear-vent-off-icon_36.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-rear-vent-off-icon-day.svg" alt="Rear display vent" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-rear-vent-off-icon-night.svg" alt="Rear display vent" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>Vents</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">
+                        <p>For the second-row seats, choose <b>Vent</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/techpubs/tp_clmt-control-rear-vent-off-icon_20.flsnp" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/clmt-control-rear-vent-off-inline-day.svg" alt="Rear display vent" MadCap:conditions="OutputTypeConditions.Web"></img><img src="../../../Resources/Images/Icons/night/clmt-control-rear-vent-off-inline-night.svg" alt="Rear display vent" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"></img> to cycle through the following:</p>
+                        <ul>
+                            <li>
+                                <p>Turn on the left and right foot vents.</p>
+                            </li>
+                            <li>
+                                <p>Turn off the foot vents, and turn on the left and right center vents. Manually adjust either vent to change the direction of the airflow.</p>
+                            </li>
+                            <li>
+                                <p>Turn on the foot vents, and the center vents stay turned on.</p>
+                            </li>
+                            <li>
+                                <p>Turn off the foot and center vents.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">Choose <b>Third-row climate</b> to access the third-row climate controls, described in the table below.</p>
+        <table style="width: 100%;page-break-inside:auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Name</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/clmt-control-climate-status-icon-day.svg" alt="Temperature icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/clmt-control-climate-status-icon-night.svg" alt="Temperature icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Fan</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Adjust the fan speed down (-) or up (+).</p>
+                        <div class="note">
+                            <p>You can change the fan speed for the third&#8209;row side vents, and the vehicle keeps Auto turned on.</p>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.flsnp" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/seat-climate-control-v02-heat-inactive-icon-day.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/seat-climate-control-v04-heat-inactive-icon-night.svg" alt="Heat Seat icon" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body2">
+                        <p>Heat seat</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body2">
+                        <p>Heat the seat. Cycle through levels of heat, including off.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

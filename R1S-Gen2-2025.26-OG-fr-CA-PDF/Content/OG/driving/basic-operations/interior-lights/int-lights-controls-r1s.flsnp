@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2 class="KeepWithNext">Center Display</h2>
+        <p class="KeepWithNext">Choose  <span class="nonbreaking"><b>Vehicle</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Vehicle icon" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" /></span> from the status bar on the center display. </p>
+        <p class="KeepWithNext">Choose <span class="nonbreaking"><b>Lights</b>&#160;<img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Liftgate lights icon" MadCap:conditions=" OutputTypeConditions.Print-all" /></span> to turn the corresponding lights on or off. </p>
+        <div class="note">
+            <p>For the liftgate lights, the control appears only when the liftgate is open.</p>
+        </div>
+        <h2 class="KeepWithNext">Rear Display</h2>
+        <p>Choose <span class="nonbreaking"><b>Lights</b>&#160;<img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Liftgate lights icon" MadCap:conditions=" OutputTypeConditions.Print-all" /></span> to turn the rear cabin lights on or off. </p>
+    </body>
+</html>

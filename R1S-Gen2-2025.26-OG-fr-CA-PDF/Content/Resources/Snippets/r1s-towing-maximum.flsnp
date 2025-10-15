@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="R1VehicleConditions.R1S">The R1S can tow up to <MadCap:snippetText src="imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:7\,700,;measure.imperial-unit:lbs,;measure.metric-value:3\,492,;measure.metric-unit:kg," /> using a weight distributing hitch, and up to <MadCap:snippetText src="imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:5\,000,;measure.imperial-unit:lbs,;measure.metric-value:2\,267,;measure.metric-unit:kg," /> using a standard hitch. </p>
+    </body>
+</html>

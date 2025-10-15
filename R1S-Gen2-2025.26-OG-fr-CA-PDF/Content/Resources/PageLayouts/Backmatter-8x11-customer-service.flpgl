@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Import.Import-Global" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="custoemr service short" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="1.833333in" Y="3.364583in" Right="1.520833in" Bottom="306px" Width="350px" Height="331px">
+        </Frame>
+    </Page>
+    <Page Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" Name="customer service full size">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="-9px" Width="672px" Height="969px">
+        </Frame>
+    </Page>
+</PageStyles>

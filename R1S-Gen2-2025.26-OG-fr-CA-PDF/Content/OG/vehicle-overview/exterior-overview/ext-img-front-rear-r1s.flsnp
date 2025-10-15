@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <img src="../../../Resources/Images/print/exterior-overview-peregrine-R1S-front-rear-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+            </img>
+        </p>
+        <table style="width:100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-callout-table-Column-Column1" MadCap:conditions="R1VehicleConditions.R1S">
+            </col>
+            <col class="TableStyle-callout-table-Column-Column2" MadCap:conditions="R1VehicleConditions.R1S">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1" MadCap:conditions="">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Item</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Front camera</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Ultrasonic sensors</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Front trunk</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Front trunk button (hidden)</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Front surround view camera</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>6</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Front radar sensor</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>7</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Towing receiver hitch</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">8</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Corner radars</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">9</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Tailgate</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">10</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Liftgate</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">11</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Rear surround view camera</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">12</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">Interior camera</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note" MadCap:conditions="RegionSpecificConditions.CA">
+            <p>All vehicles ship with license plate brackets installed on the rear, and installed on the front by request. If your vehicle does not have a front license plate bracket installed, and you would like one, or if it is required by law in your province, please <a href="../../customer-service/customer-service.htm">contact Rivian</a>. </p>
+        </div>
+        <div class="caution">
+            <p>
+                Installation of a front license plate bracket requires the use of special tools and fasteners. We do not recommend installing the bracket yourself as improper installation can cause damage to the vehicle.</p>
+        </div>
+    </body>
+</html>

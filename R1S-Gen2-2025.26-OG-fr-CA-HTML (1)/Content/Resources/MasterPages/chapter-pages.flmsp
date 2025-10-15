@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta name="viewport" content="width=2248" />
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <script src="../tp-scripts/flash.js" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+        </script>
+        <script src="../tp-scripts/scripts.js" MadCap:conditions="OutputTypeConditions.In-Vehicle">
+        </script>
+    </body>
+</html>

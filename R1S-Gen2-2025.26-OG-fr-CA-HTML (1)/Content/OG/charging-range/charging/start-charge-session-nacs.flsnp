@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karla Reinhardt" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <!-- LB note (7/3/25): to get caution on this page in English (en-US and en-CA) PDFs add style="margin-top: -2pt;" to below h2 tag-->
+        <h2 style="margin-top: -2pt;">NACS Charge Port (Model Year 2026 and Later)</h2>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/charge-port_nacs-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../Resources/Images/day/charge-port_nacs-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/charge-port_nacs-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <!-- LB note (7/3/25): to get caution on this page in English (en-US and en-CA) PDFs add style="margin-bottom: -10pt;" to below image tag-->
+        </p>
+        <!-- LB note (7/3/25): to get caution on this page in English (en-US and en-CA) PDFs add margin-bottom: -2pt; to below table style-->
+        <table style="margin-bottom: -2pt;width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1">
+            </col>
+            <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Item</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Stop charge button</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">2</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">NACS charge port</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">3</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Charge port door sensor</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-electrical">
+            <p>Ensure that the charge port and the charge plug don't contain any foreign debris before you start a charge session. Failure to do so can result in property damage, serious injury, or death. Foreign debris may cause a charging error or overheating. In rare circumstances, extreme overheating can cause a fire. If you find foreign debris, <a href="../../customer-service/customer-service.htm">contact Rivian</a>.</p>
+        </div>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>
+						When charging your vehicle, use a charger that matches the plug type of the vehicle. Use an adapter only as necessary, when a compatible charger is not available.
+					</p>
+                </li>
+                <li>
+                    <p>
+					Adapters are not meant for daily use. Using an adapter to regularly charge the vehicle may cause damage to the adapter and to the vehicle.					</p>
+                </li>
+                <li>
+                    <p>Don't use an extension cord or cable at a DC fast charger, such as a Tesla Supercharger. Using an extension cord can result in vehicle or property damage. </p>
+                </li>
+                <li>
+                    <p>Any damage caused by the use of unauthorized or incompatible charging equipment is not covered by the New Vehicle Limited Warranty.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="KeepWithNext">Start a charge session as follows:</p>
+        <ol>
+            <li>
+                <p>Park at the charger and put the vehicle in <b>P</b> (Park).</p>
+            </li>
+            <li>
+                <p>Open the charge port door. Go to <b>Energy</b>&#160;<img src="../../../Resources/Images/Icons/day/app-energy-off-inline-day.svg" alt="energy app" class=" image-inline-day" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/app-energy-off-inline-night.svg" alt="energy app" class=" image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> <b>&gt; Charging &gt; Open charge port</b> on the center display or touch the charge port door sensor.</p>
+            </li>
+            <li>
+                <p>Get the charge cable.</p>
+                <ul>
+                    <li>
+                        <p>If using your Portable Charger, plug it into a power outlet before you insert the plug into the vehicle.</p>
+                    </li>
+                    <li>
+                        <p>If using a public J1772 AC charger, follow any third-party instructions to release the charge cable. Connect the J1772 adapter to the plug before you insert the plug into the vehicle.</p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/charge-port_nacs-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/j1772-nacs-adapter-overview-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/night/j1772-nacs-adapter-overview-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                        <table style="width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+                            <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1">
+                            </col>
+                            <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2">
+                            </col>
+                            <thead>
+                                <tr class="TableStyle-callout-table-Head-Header1">
+                                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                                        <p>Item</p>
+                                    </th>
+                                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                                        <p>Description</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="TableStyle-callout-table-Body-Body1">
+                                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                                        <p>1</p>
+                                    </td>
+                                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                                        <p>J1772 AC inlet (connects to J1772 AC charge cable plug)</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-callout-table-Body-Body2">
+                                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">2</td>
+                                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">NACS outlet (inserts into vehicle charge port)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+        <ol>
+            <ul>
+                <li>
+                    <p>If using a CCS1 DC fast charger, connect the Combo CCS1 DC&#160;adapter to the plug before you insert the plug into the vehicle.</p>
+                    <p>
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/charge-port_nacs-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-day" src="../../../Resources/Images/day/ccs1-nacs-adapter-overview-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/night/ccs1-nacs-adapter-overview-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    </p>
+                    <table style="width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+                        <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1">
+                        </col>
+                        <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2">
+                        </col>
+                        <thead>
+                            <tr class="TableStyle-callout-table-Head-Header1">
+                                <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                                    <p>Item</p>
+                                </th>
+                                <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                                    <p>Description</p>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="TableStyle-callout-table-Body-Body1">
+                                <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                                    <p>1</p>
+                                </td>
+                                <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                                    <p>Combo CCS1 DC  inlet (connects to CCS1 charge cable plug)</p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-callout-table-Body-Body2">
+                                <td class="TableStyle-callout-table-BodyB-Column1-Body2">2</td>
+                                <td class="TableStyle-callout-table-BodyA-Column2-Body2">NACS outlet (inserts into vehicle charge port)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+            </ul>
+        </ol>
+        <ol start="4">
+            <li>
+                <p>Align the charge plug to the vehicle's charge port. Fully insert the plug into the port. The vehicle starts to charge automatically.</p>
+            </li>
+        </ol>
+    </body>
+</html>

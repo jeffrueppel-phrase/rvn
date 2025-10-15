@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+    </head>
+    <body>
+        <p class="KeepWithNext">Press and hold the <MadCap:conditionalText MadCap:conditions="R1VehicleConditions.R1S">upper </MadCap:conditionalText>washer button <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_washer_fluid_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-washer-front-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-night" src="../../../../Resources/Images/Icons/night/wiper-washer-front-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web" /> to wash the front windshield. Release the button to stop spraying washer fluid. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/stalk-wiper-light-v06-front-washer-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-front-washer-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-front-washer-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <div class="note">
+            <p>Quickly press and release the washer button to do a single wipe with no washer fluid.</p>
+        </div>
+    </body>
+</html>

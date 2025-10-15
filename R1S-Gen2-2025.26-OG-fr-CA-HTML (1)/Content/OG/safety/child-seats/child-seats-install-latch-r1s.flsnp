@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim" MadCap:fileTags="TechPubsAuthors.Daisy Luu" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../Resources/TableStyles/custom-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/txt-3col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>LATCH (Lower Anchors and Tethers for Children) or ISOFIX is a child seat installation option that allows you to install child seats without using the vehicle's seat belts. Instead, the child seats are secured to dedicated anchorage points on the vehicle&#160;seats. </p>
+        <p class="KeepWithNext">Only use the LATCH system to install child seats in accordance with the manufacturer recommendations, including considerations to the child's height and weight. Follow instructions on child seat spacing with LATCH installation. Don't use LATCH in addition to the seat belt installation method.  For forward-facing installation, LATCH can provide more stability with the top tether anchorage since it has an additional connection point between the child seat and the vehicle. </p>
+        <div class="important">
+            <p>In the second row of this vehicle, only the two outboard seats support LATCH installation. The middle seat supports child seats that can be restrained with the seat belt only.</p>
+        </div>
+        <table MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" style="mc-table-style: url('../../../Resources/TableStyles/custom-table.css');" class="TableStyle-custom-table" cellspacing="0">
+            <col style="width: 30%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <col style="width: 50%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <tbody>
+                <tr class="TableStyle-custom-table-Body-Body1">
+                    <td class="TableStyle-custom-table-BodyB-Column1-Body1">
+                        <p class="KeepWithNext">The lower anchorages are marked with this symbol:</p>
+                    </td>
+                    <td class="TableStyle-custom-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/physical/ic_physical_child_seat_latch_36_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-isofix-bottom-tether-anchor-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-isofix-bottom-tether-anchor-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" alt="">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">They are located between the seat cushion and seat back.</p>
+        <table MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" style="mc-table-style: url('../../../Resources/TableStyles/custom-table.css');" class="TableStyle-custom-table" cellspacing="0">
+            <col style="width: 30%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <col style="width: 50%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <tbody>
+                <tr class="TableStyle-custom-table-Body-Body1">
+                    <td class="TableStyle-custom-table-BodyB-Column1-Body1">
+                        <p> The upper anchorages are marked with this symbol:</p>
+                    </td>
+                    <td class="TableStyle-custom-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-top-tether-anchor-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-top-tether-anchor-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-top-tether-anchor-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">They are located on the back of the seats.</p>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" />
+        <h2>Install the Lower Anchorage Guide</h2>
+        <p class="KeepWithNext">This vehicle comes with sets of lower anchorage guides. These anchorage guides make the lower LATCH anchorage points more visible and hold open the cushions, letting  you use  less force to clip on the child seat lower anchorages.</p>
+        <table style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1">
+            </col>
+            <col class="TableStyle-proc-table-Column-Column2">
+            </col>
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyD-Column1-Body1" colspan="2">
+                        <ol class="KeepWithNext">
+                            <li>
+                                <p>Find the two lower anchorage markers corresponding to where you are installing the child seat. The lower anchorage bars are located in between the seat cushion and seat&#160;back. </p>
+                            </li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol start="2">
+                            <li>
+                                <p>Grip the square frame of the anchorage guide on both sides and push the part onto the lower anchorage bars until the guide sits securely in place. The flanged edges of the anchorage guide should sit flush against the seat back.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/child-seats-v07-lower-anchorage-guide-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v07-lower-anchorage-guide-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v07-lower-anchorage-guide-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="notes" style="page-break-inside:avoid;">
+            <ul>
+                <li>
+                    <p>Ensure the anchorage guide is installed as shown, not upside down.</p>
+                </li>
+                <li>
+                    <p>To remove the anchorage guide, grip the square frame on both sides and pull it straight&#160;out.</p>
+                </li>
+                <li>
+                    <p>Remove the anchorage guide before folding or flipping the seat.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>Install the Seat</h2>
+        <table class="TableStyle-proc-table" style="mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1">
+            </col>
+            <col class="TableStyle-proc-table-Column-Column2">
+            </col>
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Position the child seat between the two lower bar LATCH anchorages corresponding to where you are installing the child seat.</p>
+                            </li>
+                            <li>
+                                <p>Connect the lower hooks of the child seat to the lower bar anchorages located in between the seat cushion and seat back. Avoid twisting the LATCH straps or snagging the vehicle seat belt.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/child-seats-v07-anchor-between-seats-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-day" src="../../../Resources/Images/day/child-seats-v07-anchor-between-seats-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                </img>
+                                <img class="image-night" src="../../../Resources/Images/night/child-seats-v07-anchor-between-seats-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                </img>
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ol start="3">
+            <li>
+                <p>For a child seat with tether belts, pull on the tethers to remove any slack. Push the child seat into the bottom and back cushions of the vehicle seat for a tight fit.</p>
+            </li>
+            <li>
+                <p>Attach the top tether hook to the appropriate top anchorage point and tighten the belt to remove any slack.</p>
+            </li>
+        </ol>
+        <h2>LATCH Seat Configuration</h2>
+        <p class="KeepWithNext">The following shows the LATCH seat configurations.</p>
+        <table style="width:100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/txt-3col-table.css');" class="TableStyle-txt-3col-table" cellspacing="0">
+            <col class="TableStyle-txt-3col-table-Column-Column1" />
+            <col class="TableStyle-txt-3col-table-Column-Column2" />
+            <col class="TableStyle-txt-3col-table-Column-Column3" />
+            <thead>
+                <tr class="TableStyle-txt-3col-table-Head-Header1">
+                    <th class="TableStyle-txt-3col-table-HeadE-Column1-Header1">
+                        <p>Seat Row</p>
+                    </th>
+                    <th class="TableStyle-txt-3col-table-HeadE-Column2-Header1">
+                        <p>Number of Bottom Anchorages</p>
+                    </th>
+                    <th class="TableStyle-txt-3col-table-HeadD-Column3-Header1">
+                        <p>Number of Top Tethers</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-3col-table-Body-Body1">
+                    <td class="TableStyle-txt-3col-table-BodyE-Column1-Body1">
+                        <p>
+                            <p>2nd</p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-3col-table-BodyE-Column2-Body1">
+                        <p>4 (2 sets)</p>
+                    </td>
+                    <td class="TableStyle-txt-3col-table-BodyD-Column3-Body1">
+                        <p>3</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-3col-table-Body-Body2">
+                    <td class="TableStyle-txt-3col-table-BodyB-Column1-Body2">
+                        <p>
+                            <p>3rd</p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-3col-table-BodyB-Column2-Body2">4 (2 sets)</td>
+                    <td class="TableStyle-txt-3col-table-BodyA-Column3-Body2">2</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="important">
+            <p style="word-spacing:1.2;">
+                When you install or remove a child seat, ensure that the seat backs in the second and third rows are locked into a fully upright position. They should not be at a recline or folded forward.</p>
+        </div>
+        <h3 class="KeepWithNext">Second-Row Seats</h3>
+        <p class="KeepWithNext">The R1S second-row seats can slide forward and backward along a slider track. </p>
+        <p class="KeepWithNext" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">See <a href="../seating/second-row-seats-r1s.htm">second-</a> and <a href="../seating/third-row-seats-r1s.htm">third-row seats</a> for how to fold the seats.</p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <!-- child-seats-v06-R1S-2nd-row-bottom-anchors -->
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-2nd-row-bottom-anchors-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-2nd-row-bottom-anchors-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-2nd-row-bottom-anchors-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <!-- child-seats-v06-R1S-2nd-row-top-tethers -->
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-2nd-row-top-tethers-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-2nd-row-top-tethers-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-2nd-row-top-tethers-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Third-Row Seats</h3>
+        <p class="KeepWithNext">The third row of the R1S can accommodate up to two child seats.
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-3rd-row-bottom-anchors-online.flsnp" MadCap:conditions="OutputTypeConditions.Web,R1VehicleConditions.R1S" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-3rd-row-bottom-anchors-day.svg" MadCap:conditions="OutputTypeConditions.Web,R1VehicleConditions.R1S" />
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-3rd-row-bottom-anchors-night.svg" MadCap:conditions="OutputTypeConditions.Web,R1VehicleConditions.R1S" />
+                        </p>
+                        <p>&#160;</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <!-- child-seats-v06-R1S-3rd-row-top-tethers -->
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-3rd-row-top-tethers-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-3rd-row-top-tethers-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-3rd-row-top-tethers-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h3>Single Tether</h3>
+                        <p>Route the top tether belt over the center of the head&#160;restraint.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-single-top-tether-config-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-single-top-tether-config-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-single-top-tether-config-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h3>Double Tether </h3>
+                        <p>Route the two top tether belts to either side of the head restraint, wrapping the belts as close as possible to the head restraint without twisting&#160;them.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-double-top-tether-config-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-double-top-tether-config-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-double-top-tether-config-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

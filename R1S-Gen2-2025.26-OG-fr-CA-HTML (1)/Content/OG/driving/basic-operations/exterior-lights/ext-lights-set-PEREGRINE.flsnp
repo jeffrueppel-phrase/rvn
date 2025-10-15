@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">On the center display, go to <span class="nonbreaking"><b>Settings</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Settings icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Settings icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /></span> &gt; <b>Vehicle</b> &gt; <b>Displays and Lighting</b> to access the following settings:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Adaptive High Beams Assist: </b>Enabled by default. To disable <a href="../../../driver-assistance/light-safety/high-beams-assist-PEREGRINE.htm">Adaptive High Beams Assist</a>, go to <span class="nonbreaking"><b>Settings</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Settings icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Settings icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /></span> &gt; <b>Vehicle</b> &gt; <b>Displays and Lighting</b>, and turn off <b>Adaptive High Beams Assist</b>. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Interactive Lighting:</b> Enabled by default. You can turn this setting on or off. If enabled, the light bars react when you lock or unlock the vehicle and you can change the following settings:</p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Light Bars When Charging:</b> Enabled by default. You can turn this setting on or off. If enabled, the light bars indicate the <a href="../../../charging-range/charging/charge-status.htm">charging status</a> while the vehicle charges. The light bars turn off if the vehicle is locked or sleeps while it charges. </p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Entry Lights:</b> Enabled by default. You can turn this setting on or off. If enabled, the <a href="../../../vehicle-overview/exterior-overview/ext-img-side-lights.htm">entry lights</a> turn on when you unlock the vehicle.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Guide Lights:</b> Enabled by default. You can turn this setting on or off. If enabled, the <a href="../../../vehicle-overview/exterior-overview/ext-img-front-rear-lights.htm">guide lights</a> turn on at night when you lock or unlock the vehicle. Choose how long the guide lights stay turned on after you lock the vehicle.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Charge Port Light:</b> Disabled by default. You can turn this setting on or off. The <a href="../../../charging-range/charging/charge-status.htm">charge port light</a> turns on while the vehicle charges. If enabled, the charge port light stays turned on after you lock the vehicle while it charges.</p>
+            </li>
+        </ul>
+    </body>
+</html>

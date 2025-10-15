@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag BackgroundColor="#8b008b" Name="tokenized" Comment="" />
+    <ConditionTag BackgroundColor="#ff7f27" Name="tokenized-no" Comment="" />
+</CatapultConditionTagSet>

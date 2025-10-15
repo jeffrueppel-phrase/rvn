@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-2col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>Once you power on your vehicle, you can charge your Qi-compatible phone and other rechargeable, battery-operated devices on the high-speed wireless charger located on the upper tray of the center console. <MadCap:conditionalText MadCap:conditions="R1PlatformConditions.R1Peregrine">Place the phone face-up on the charger to begin charging, aligning the phone against the center rib of the charging pad.</MadCap:conditionalText> You'll see an active charging icon on your device if this is a supported feature. Charging times may vary depending on the device and applications running on the device, but it takes around 2 to 3&#160;hours to fully charge a depleted phone.</p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <p>
+                                <img src="../../../Resources/Images/print/wireless-charger-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>The charger is designed to work with phones encased in most standard phone cases. </p>
+        <p>While you can charge two phones at the same time, the charging pad is designed to work best simultaneously charging a phone and another small item such as ear buds.</p>
+        <p>The charging pad has a temperature sensor, and it stops charging if a device or environment is too hot.</p>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>To avoid damage to the charging pad, don't put metallic or magnetic objects on the pad or between the phone and charger. The charging pad is only meant to hold a compatible device with a rechargeable battery, such as a phone. </p>
+                </li>
+                <li>
+                    <p>Don't leave items such as key cards or credit cards on the pad. While the charging pad will not damage a key card, the presence of a card on the pad will prevent charging.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>Troubleshooting</h2>
+        <table class="TableStyle-txt-2col-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/txt-2col-table.css');" cellspacing="0">
+            <col class="TableStyle-txt-2col-table-Column-Column1" />
+            <col class="TableStyle-txt-2col-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-txt-2col-table-Head-Header1">
+                    <th class="TableStyle-txt-2col-table-HeadE-Column1-Header1">
+                        <p>If This Happens</p>
+                    </th>
+                    <th class="TableStyle-txt-2col-table-HeadD-Column2-Header1">
+                        <p>Try This</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body1">
+                        <p>Device is too hot</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body1">
+                        <p>Remove the device from the charger, wait for it to cool down, and try charging again later.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body2">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body2">Wireless charger sensor doesn't detect compatible device</td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body2">
+                        <ul>
+                            <li>
+                                <p>Remove any wallet cases from the phone.</p>
+                            </li>
+                            <li>
+                                <p>Remove phone cases thicker than 5 millimeters for best phone detection and charging performance.</p>
+                            </li>
+                            <li>
+                                <p>Remove the device from the charger, wait a few seconds, and place the device back on the pad.</p>
+                            </li>
+                            <li>
+                                <p>Move the device to another position on the charger to find proper charging positioning.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyB-Column1-Body1">
+                        <p>Device won't charge</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyA-Column2-Body1">
+                        <ul>
+                            <li>
+                                <p>Ensure that the device is a 1.2.4 qi-compatible device (such as iPhone<sup>®</sup> and Android<sup>™</sup> mobile devices, or pair of earbuds).</p>
+                            </li>
+                            <li>
+                                <p>Ensure that you're logged into your account on the center display.</p>
+                            </li>
+                            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                                <p>Place the phone face-up against the center rib of the charging pad.</p>
+                            </li>
+                            <li>
+                                <p>Ensure that there isn't an incompatible object on the charging pad (such as key cards, foreign objects, or metal pieces). Remove items such as coins or credit cards from the storage pocket of a phone case.</p>
+                            </li>
+                            <li>
+                                <p>Respond to any warning on the center display that indicates an unauthorized item on the charging pad.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

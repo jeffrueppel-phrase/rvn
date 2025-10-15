@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>To manually turn the cabin lights on or off, choose <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> from the status bar on the center display, or use the rear display.</p>
+        <p>To have the vehicle automatically control the cabin lights, go to <span class="nonbreaking"><b>Settings</b>&#160;<MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Settings icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Settings icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /></span> &gt; <b>Vehicle</b> &gt; <b>Displays and Lighting</b> on the center display. You have two options:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Lights On When Doors Open:</b> Choose <b>Lights On When Doors Open</b> to automatically turn on the cabin lights in any row with an open door during low&#8209;light conditions.</p>
+                <div class="note" MadCap:conditions="R1VehicleConditions.R1S">
+                    <p>If you open a rear door, the second- and third&#8209;row cabin lights turn on.</p>
+                </div>
+            </li>
+            <li>
+                <p>
+                    <b>Lights On Upon Park:</b>&#160;Choose <b>Lights On Upon Park</b> to automatically turn on the cabin lights when you shift the vehicle into <b>P</b> (Park) in low&#8209;light conditions. </p>
+            </li>
+        </ul>
+        <p>You can adjust the brightness of the overhead lights.</p>
+        <div class="note">
+            <p>To lock the rear display so rear-cabin passengers can't control the cabin lights, go to <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> &gt; <b>Shortcuts</b> &gt; <b>Rear Display Lock</b> from the status bar on the center display. </p>
+        </div>
+    </body>
+</html>

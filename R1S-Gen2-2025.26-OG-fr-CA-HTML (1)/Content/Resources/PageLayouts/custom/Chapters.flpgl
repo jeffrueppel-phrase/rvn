@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame X="607px" Y="937px" Width="65px" Height="36px" Flow="footer" Right="0px" Bottom="-13px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col xhtml:style="width: 235px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>&#160;</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">
+                                        <MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="font-size: 10pt;" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="17px" Width="672px" Height="943px">
+        </Frame>
+        <Frame X="0px" Y="943px" Width="1.21875in" Height="0.25in" Flow="decoration2" Right="555px" Bottom="-7px" VerticalAlign="middle" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../../Images/Logo.png" xhtml:style="width: auto;height: auto;max-width: 90%;vertical-align: middle;" MadCap:mediastyle="@media print { max-width: 100%;width: 1.22in; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="209px" Y="469px" Width="1001px" Height="56px" Right="-538px" Bottom="435px" Flow="decoration3" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Chapter page - extended margins" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame X="610px" Y="940px" Width="65px" Height="36px" Flow="footer" Right="-3px" Bottom="-16px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col xhtml:style="width: 235px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>&#160;</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">
+                                        <MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="font-size: 10pt;" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="-9px" Width="672px" Height="969px">
+        </Frame>
+        <Frame X="0px" Y="943px" Width="1.21875in" Height="0.25in" Flow="decoration2" Right="555px" Bottom="-7px" VerticalAlign="middle" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../../Images/print/Rivian_wordmark_black_053024.svg" xhtml:style="height: auto;max-width: 90%;vertical-align: middle;" MadCap:mediastyle="@media print { max-width: 100%;width: 1.22in; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="209px" Y="469px" Width="1001px" Height="56px" Right="-538px" Bottom="435px" Flow="decoration3" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

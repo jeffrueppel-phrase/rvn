@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">
+		The Gear Guard security system monitors the vehicle. It includes the following:</p>
+        <ul>
+            <li>
+                <p>
+                    <a href="gear-guard-video/about-gear-guard-video.htm">Gear Guard Video</a> with <a href="gear-guard-video/road-cam.htm">Road Cam</a>, <a href="gear-guard-video/incidents.htm">Incidents</a>, and <a href="gear-guard-video/motion-cam.htm">Motion Cam</a><![CDATA[
+                ]]></p>
+            </li>
+            <li>
+                <p>
+                    <a href="gear-guard-alarm.htm">Gear Guard Alarm</a>
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

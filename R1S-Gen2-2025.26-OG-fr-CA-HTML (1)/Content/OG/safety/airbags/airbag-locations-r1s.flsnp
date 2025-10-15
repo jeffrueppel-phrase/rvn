@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim" MadCap:fileTags="TechPubsAuthors.Steve Schaefer">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext">Airbag inflators are positioned around passengers in the cabin. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/airbags-v04-R1S-online.flsnp" MadCap:conditions="R1VehicleConditions.R1S,OutputTypeConditions.Web" />
+            <img class="image-day" src="../../../Resources/Images/day/airbags-v04-R1S-day.svg" MadCap:conditions="R1VehicleConditions.R1S,OutputTypeConditions.Web">
+            </img>
+            <img class="image-night" src="../../../Resources/Images/night/airbags-v04-R1S-night.svg" MadCap:conditions="R1VehicleConditions.R1S,OutputTypeConditions.Web">
+            </img>
+        </p>
+        <table style="width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <col class="TableStyle-callout-table-Column-Column1" MadCap:conditions="R1VehicleConditions.R1S" style="width: 25%;">
+            </col>
+            <col class="TableStyle-callout-table-Column-Column2" MadCap:conditions="R1VehicleConditions.R1S" style="width: 75%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Airbag Inflator</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Front passenger knee airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Front passenger airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Side airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Roof rail airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Driver knee airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>6</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Driver airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>7</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Side airbag inflator</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">
+                        <p>8</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">
+                        <p>Roof rail airbag inflator</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

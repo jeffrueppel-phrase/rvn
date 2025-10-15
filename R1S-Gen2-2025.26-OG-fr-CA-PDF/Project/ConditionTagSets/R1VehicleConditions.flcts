@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag BackgroundColor="#0000ff" Name="R1T" Comment="Apply to content that is applicable to R1T only" OriginalName="R1T" />
+    <ConditionTag BackgroundColor="#ffff33" Name="R1S" Comment="Apply to content that is applicable to R1S only" OriginalName="R1S" />
+    <ConditionTag BackgroundColor="#228b22" Name="R1Common" Comment="Apply to content that is applicable to R1S and R1T" />
+</CatapultConditionTagSet>

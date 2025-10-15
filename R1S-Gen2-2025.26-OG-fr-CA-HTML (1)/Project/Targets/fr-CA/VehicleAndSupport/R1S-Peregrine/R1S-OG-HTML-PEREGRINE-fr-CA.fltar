@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp" ShowMadCapBacklink="false" MasterToc="/Project/TOCs/VehicleAndSupport/R1S-All/R1S-OG-TOC.fltoc" ContentInclusionType="Referenced" MasterStylesheet="/Content/Resources/Stylesheets/fr-ca-no-tokens.css" OutputAnalyticsServer="https://rivian.api.madcapcentral.com/" OutputAnalyticsLicenseId="13789" LiveHelpType="Central" OutputAnalyticsKey="82910c55-0329-493b-9eae-d5988f8efe4d" TopNavTocPath="true" Skin="/Project/Skins/Side-Navigation OwnersManual.flskn" DisableAutoSync="true" EnableSitemap="false" PartialWordSearch="true" TopicToolbarSkin="/Project/Skins/back-button.flskn" GenerateAllSkins="false" DefaultUrl="/Content/Home-R1S-no-tokens.htm" OutputFile="DefaultFrames.htm" ConditionTagExpression="include[OutputTypeConditions.In-Vehicle or R1MotorConditions.Dual], exclude[AuthorConditions.Archive or AuthorConditions.Exclude or AuthorConditions.FutureRelease or AuthorConditions.ImageNote or AuthorConditions.InternalNote or AuthorConditions.ReviewerNote or ChargingTypeConditions.CCS2 or LanguageConditions.ar or LanguageConditions.de or LanguageConditions.en or LanguageConditions.es or LanguageConditions.it or OutputTypeConditions.FleetOS-HC or OutputTypeConditions.Internal-HC or OutputTypeConditions.Print-8x11 or OutputTypeConditions.Print-all or R1GuideSpecificConditions.CampSpeakerGuide or R1GuideSpecificConditions.EmergencyResponseGuide or R1GuideSpecificConditions.EnergyCloudGuide or R1GuideSpecificConditions.FlashlightGuide or R1GuideSpecificConditions.HelpGuide or R1GuideSpecificConditions.PortableChargerGuide or R1GuideSpecificConditions.PortableChargerGuide or R1GuideSpecificConditions.SafetyGuide or R1GuideSpecificConditions.TowOperatorGuide or R1GuideSpecificConditions.TravelKitchenGuide or R1GuideSpecificConditions.UpfittingGuide or R1MotorConditions.Quad or R1MotorConditions.Tri or R1PlatformConditions.R1Origin or R1VehicleConditions.R1T or RegionSpecificConditions.DE or RegionSpecificConditions.EU or RegionSpecificConditions.GB or RegionSpecificConditions.KSA or RegionSpecificConditions.UAE or RegionSpecificConditions.US or RegulatoryConditions.HomologationReference or tokens.tokenized or UnitsOfMeasureConditions.Both-Imperial-Metric or UnitsOfMeasureConditions.Imperial or UnitsOfMeasureConditions.Metric]" AbstractLength="168" Medium="html5" MinifyJavaScript="true" GetLatestBeforeCompile="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" OutputFormat="doc" />
+    <Variables>
+        <Variable Name="TitlePageVariables/GuideTitle">CATEGORIES</Variable>
+        <Variable Name="TitlePageVariables/GuideSubtitle"> </Variable>
+        <Variable Name="General/TitlePageDate">May 28, 2021</Variable>
+        <Variable Name="General/PartNumber">PT00262083-A</Variable>
+        <Variable Name="General/ProductNumber">PT00045331</Variable>
+        <Variable Name="TitlePageVariables/PublishDate">NOVEMBER 2022</Variable>
+        <Variable Name="AboutVehicleVariables/vehicle-type">R1S</Variable>
+        <Variable Name="AboutVehicleVariables/region-country">Canada</Variable>
+        <Variable Name="CountryOrRegionVariables/RegionFirstSold">Canada</Variable>
+        <Variable Name="ProductionVariables/ProductionDate">20221114</Variable>
+        <Variable Name="AboutVehicleVariables/software-release">2025.14</Variable>
+        <Variable Name="Internal/vehicle">R1S</Variable>
+        <Variable Name="Language/Language">FRENCH</Variable>
+        <Variable Name="ProductionVariables/FileName">guide-name-en-us-20221114</Variable>
+        <Variable Name="TitlePageVariables/SoftwareVersion">2021.43.x</Variable>
+        <Variable Name="General/Copyright">2021-2025</Variable>
+        <Variable Name="AboutVehicleVariables/model-year">Model Year 2025-2026</Variable>
+        <Variable Name="TitlePageVariables/ProductNumber">PT00045331</Variable>
+    </Variables>
+    <Destinations>
+        <Destination Link="/Destinations/Central.fldes" Publish="true" IsResource="true" />
+    </Destinations>
+    <PostBuild>$(ProjectDirectory)\Content\Resources\tp-scripts\postbuild-no-tokens.bat "$(ProjectDirectory)" "$(OutputDirectory)" "R1S" "fr-ca"</PostBuild>
+    <MicroContentSearch>
+        <FeaturedSnippets type="Empty" numberOfResults="1">
+            <microContentSubset />
+        </FeaturedSnippets>
+        <KnowledgePanel type="Empty" numberOfResults="1">
+            <microContentSubset />
+        </KnowledgePanel>
+    </MicroContentSearch>
+</CatapultTarget>

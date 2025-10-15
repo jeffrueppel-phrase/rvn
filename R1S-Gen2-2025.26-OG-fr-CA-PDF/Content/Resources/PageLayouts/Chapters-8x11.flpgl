@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Import.Import-Global" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-5px" Y="0.34375in" Right="0in" Bottom="17px" Width="677px" Height="910px">
+        </Frame>
+        <Frame X="209px" Y="469px" Width="1001px" Height="56px" Right="-538px" Bottom="435px" Flow="decoration3" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="938px" Width="674px" Height="70px" Flow="footer" Right="-2px" Bottom="-48px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../Snippets/print-footer-right.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="-18px" Width="674px" Height="56px" Flow="header" Right="-2px" Bottom="922px" BorderTopStyle="none" BorderTopWidth="1px" Anchors="" FlowIndex="1" TextAlign="left" VerticalAlign="middle">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../Snippets/print-header-chapters-right.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="First" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="-9px" Width="672px" Height="969px">
+        </Frame>
+        <Frame X="209px" Y="469px" Width="1001px" Height="56px" Right="-538px" Bottom="435px" Flow="decoration3" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="938px" Width="674px" Height="70px" Flow="footer" Right="-2px" Bottom="-48px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../Snippets/print-footer-right.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="First Left" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="firstleft" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.5in" PaddingBottom="0.5in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="-9px" Width="672px" Height="969px">
+        </Frame>
+        <Frame X="209px" Y="469px" Width="1001px" Height="56px" Right="-538px" Bottom="435px" Flow="decoration3" VerticalAlign="middle" TextAlign="center" Anchors="" Rotate="90">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <MadCap:variable xhtml:name="General.DraftText" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="938px" Width="665px" Height="70px" Flow="footer" Right="7px" Bottom="-48px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../Snippets/print-footer-right.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

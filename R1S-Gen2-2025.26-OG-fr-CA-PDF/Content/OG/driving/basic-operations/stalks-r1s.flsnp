@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyE-Column1-Body1">
+                        <p>Locate the drive stalk to the right of the steering column. Use it to <a href="gear-selection.htm">select a gear</a>, set <a href="../../driver-assistance/driving-assist/adaptive-cruise-control.htm">cruise control</a>, and select <a href="../../driver-assistance/introduction/about-driver-assistance.htm">driver assistance</a> features.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyD-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/stalk-drive-peregrine-stalk-drive-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>Locate the lights stalk to the left of the steering column. Use it to control the lights, <a href="exterior-lights/high-beams.htm">high beams</a>, <a href="exterior-lights/turn-signals.htm">turn signals</a>, and windshield <a href="wipers/wipers.htm">wipers</a>.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/stalk-wiper-light-v06-wiper-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

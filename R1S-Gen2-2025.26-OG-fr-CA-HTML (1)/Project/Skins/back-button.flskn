@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="4" SkinType="Component" Comment="HTML5 Toolbar skin" ComponentType="TopicToolbar" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Style Name="ToolbarItem">
+                <Classes>
+                    <StyleClass Name="back-button" Custom="true">
+                        <Properties>
+                            <Property Name="BackgroundRepeat">no-repeat</Property>
+                            <Property Name="BackgroundPosition">center center</Property>
+                            <Property Name="ButtonIcon">url('home-icon-day.png')</Property>
+                            <Property Name="Click">goBack()</Property>
+                            <Property Name="Width">22px</Property>
+                            <Property Name="Height">39px</Property>
+                            <Property Name="BoxShadowColor">transparent</Property>
+                            <Property Name="BoxShadowVShadow">0px</Property>
+                            <Property Name="BackgroundColor">transparent</Property>
+                            <Property Name="ButtonIconHeight">39px</Property>
+                            <Property Name="ButtonIconWidth">22px</Property>
+                        </Properties>
+                    </StyleClass>
+                    <StyleClass Name="CurrentTopicIndex">
+                        <Properties>
+                            <Property Name="BorderLeft">none 1px #e1e1e1</Property>
+                            <Property Name="BorderRight">none 1px #e1e1e1</Property>
+                            <Property Name="BorderTop">none 1px #e1e1e1</Property>
+                            <Property Name="BorderBottom">none 1px #e1e1e1</Property>
+                            <Property Name="TextShadowVisibility">hidden</Property>
+                            <Property Name="BackgroundColor">transparent</Property>
+                            <Property Name="Width">70px</Property>
+                            <Property Name="Height">90px</Property>
+                            <Property Name="ButtonIconHeight">90px</Property>
+                            <Property Name="ButtonIconWidth">70px</Property>
+                        </Properties>
+                    </StyleClass>
+                </Classes>
+            </Style>
+            <Medium Name="Tablet">
+                <Style Name="ToolbarItem">
+                    <Classes>
+                        <StyleClass Name="back-button">
+                            <Properties>
+                                <Property Name="BackgroundRepeat">no-repeat</Property>
+                                <Property Name="BackgroundPosition">center center</Property>
+                            </Properties>
+                        </StyleClass>
+                    </Classes>
+                </Style>
+            </Medium>
+            <Medium Name="Mobile">
+                <Style Name="ToolbarItem">
+                    <Classes>
+                        <StyleClass Name="back-button">
+                            <Properties>
+                                <Property Name="BackgroundRepeat">no-repeat</Property>
+                                <Property Name="BackgroundPosition">center center</Property>
+                            </Properties>
+                        </StyleClass>
+                    </Classes>
+                </Style>
+            </Medium>
+        </Styles>
+        <Stylesheet>
+        </Stylesheet>
+        <Resources>
+            <Resource Name="home-icon-day.png">H4sIAAAAAAAEAAE5Asb9iVBORw0KGgoAAAANSUhEUgAAABYAAAAnCAYAAAALkrgzAAACAElEQVRIia3XzatNURzG8Q/XHyAjSRkaoHTLSwZOEXkn5H1AJndwY2CgpK4rNyWlmCApA6XuQDcvg5vyliIlEnJJUWYmxgqtWrtWq3P32fvs/UxOzzlrf3v273f2+q09Y+mK1VrSbKzDeDAz26JiGa5iXpvgTZjEHLzDcBvgxXiQ+E+YagrejfeJH0Vo2mQT8KqiUVG3caYw/YJ34EXiR3AoXdAPeAvuJv4KzuaL6oI34l7iA/BYt4V1wKFRDxM/FkvQVVXBm7NGhaSnyy6oAt6F+4k/V5a00Kwev+/FncSfxIUKYUoT78mgI1WhShIfwc3EH8flqlDTJD6YQc/XheqS+ChuJH4I1+pCZYmHMuipfqGSxMPx0Sx0GLf6hYqJl2fQ8abQoIG58xf8xG9siN8twtdsn+0LHD5f4nvcDoN2xrt50hQc9BY/sD36Dn7hdVNwAU+ThyE5gMdNwQX8Q3yki+R/8LwpOOgjvsSdLWhtXfh0YPFf8Qb7E3jlhpaBg6ZiafZF34kPVc+a9wIHfc6Sh3PDXzwru6jqaAoDdFviw2i61DRxobwsK8saWnf8T2B94seyHbGvxIW+ZckH8Q9PmyQuNBFLUWg0nt0ag4NeYWtMG3QAF9sAi+eNwcSfiAfwThsH71Dv8O5RJF+ChW29KjzCmjggwh1cb4mbCf8BHzNk06YZamIAAAAASUVORK5CYILZct9oOQIAAA==</Resource>
+        </Resources>
+    </Stylesheet>
+    <TopicToolbar EnableCustomLayout="true" Buttons="back-button">
+        <Script>function goBack()
+{
+window.history.back();
+}</Script>
+    </TopicToolbar>
+    <Strings>
+        <Stylesheet lang="en-us">
+            <Stylesheet>
+                <Styles>
+                    <Style Name="ToolbarItem">
+                        <Classes>
+                            <StyleClass Name="back-button">
+                                <Properties>
+                                    <Property Name="Tooltip">Back</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                </Styles>
+            </Stylesheet>
+        </Stylesheet>
+    </Strings>
+</CatapultSkin>

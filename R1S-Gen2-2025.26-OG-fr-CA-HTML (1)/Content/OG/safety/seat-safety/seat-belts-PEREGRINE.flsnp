@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-icon-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <div class="danger-nonelectrical" MadCap:conditions="R1VehicleConditions.R1S,RegulatoryConditions.HomologatedContent">
+            <p>Given their higher center of gravity, utility vehicles have a significantly higher rollover rate than other types of vehicles. Avoid sharp turns at excessive speeds. In a rollover crash, an unbelted person is significantly more likely to die than a person wearing a seat belt.</p>
+        </div>
+        <!-- LB note 4/10/25: to get this danger on page above in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to the below div -->
+        <div class="danger-nonelectrical" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Adjust the seat to the proper position before operating the vehicle. Make sure the shoulder belt sits firmly across your chest and shoulder. Don't operate the vehicle if there is a gap between the seat belt and your chest.</p>
+            <p>To avoid risk of injury or death from sudden stops, collisions, or improper use, do the following:</p>
+            <ul>
+                <li>
+                    <p>Use one seat belt per person.</p>
+                </li>
+                <li>
+                    <p>Fasten seat belts before the vehicle starts to move to avoid risk of injury from sudden stops or collisions. </p>
+                </li>
+                <li>
+                    <p>Ensure that all seat belts are fastened securely.</p>
+                </li>
+                <li>
+                    <p>Ensure that the seat belt isn't worn twisted or reversed.</p>
+                </li>
+                <li>
+                    <p>Wear the seat belt so that it rests over the shoulder without touching the neck. Don't route the belt behind your back.</p>
+                </li>
+                <li>
+                    <p>Wear the lap belt as low as possible on your hips.</p>
+                </li>
+                <li>
+                    <p>Sit well back in the seat and in an upright position.</p>
+                </li>
+                <li>
+                    <p>Don't tamper with or make modifications to the seat belt that will prevent it from taking up slack, such as using "comfort clips." A&#160;slack seat belt could significantly reduce the effectiveness of the shoulder belt in an accident.</p>
+                </li>
+                <li>
+                    <p>Take care handling the metal portion of the seat belt as it can become very hot in sunny weather.</p>
+                </li>
+                <li>
+                    <p>Have a service professional routinely inspect all seat belt parts. In case of an accident, we recommend taking the vehicle to a Rivian certified collision center for a safety inspection. In some cases, seat belt parts in use during an accident may need to be replaced, even if there isn't any visible damage.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>
+            <a name="Fasten">
+            </a>Fasten Seat Belts</h2>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Adjust the seat to an upright position.</p>
+                            </li>
+                            <li>
+                                <p>Sit with your back and hips against the back of the&#160;seat.</p>
+                            </li>
+                            <li>
+                                <p>Hold the tongue plate and pull the belt toward the&#160;buckle.</p>
+                                <div class="note">
+                                    <p>Avoid twisting the seat belt, and avoid quick or jerky movements to prevent the belt from&#160;locking.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <p>Insert the tongue plate into the buckle until you hear&#160;a click.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-buckled-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-buckled-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-buckled-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyE-Column1-Body1">
+                        <ol start="5">
+                            <li>
+                                <p>Adjust the lap belt to be as low as possible on the&#160;hips.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyD-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-correct-position-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-correct-position-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-correct-position-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol start="6">
+                            <li>
+                                <p>Press and hold the shoulder anchor button and slide it up or down to adjust the shoulder belt&#160;height.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-shoulder-anchor-adjustment-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/day/seat-belts-shoulder-anchor-adjustment-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/seat-belts-shoulder-anchor-adjustment-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            <p>The shoulder belt should pass over the middle of the shoulder and across the chest without touching the neck. The seat belts aren't meant to be used with any tension-relieving devices, such as comfort clips. Wearing the belt in an improper position or introducing slack to the belt could significantly reduce its effectiveness in an accident.</p>
+        </div>
+        <h2>Unfasten Seat Belts</h2>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Press the release button on the&#160;buckle.</p>
+                            </li>
+                            <li>
+                                <p>Allow the seat belt to retract slowly to avoid any&#160;twists.</p>
+                            </li>
+                            <li>
+                                <p>Ensure that the belt has fully retracted to avoid closing the door on the belt or tongue plate.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-release-button-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-release-button-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-release-button-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Children</h2>
+        <p class="KeepWithNext">Children should be in the rear seats and properly restrained in a child seat appropriate for their height and weight. </p>
+        <p>If the child is too big for a child seat, they can be restrained using the seat belt. For proper fit, the shoulder belt should cross over the child's front and not touch the face or neck. The lap belt should be secured as low as possible on the hips and not on the child's waist. See also <a href="../child-seats/child-seats-getting-started.htm">Child Seats</a>.</p>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h2>Pregnant Occupants</h2>
+                        <p>Wear the lap belt securely and as low as possible over the hips, not over the waist. Wear the shoulder belt between the breasts and to the side of the&#160;abdomen.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-correct-position-pregnant-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-correct-position-pregnant-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-correct-position-pregnant-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Seat Belt Reminder</h2>
+        <ul MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <li>
+                <p>Fasten the seat belts properly when operating the vehicle.</p>
+            </li>
+            <li>
+                <p>If occupied front seats are unbuckled, the Seat Belt Reminder indicator
+					<MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/ttales_seatbelt_airbag/ic_telltales_seatbelt_and_airbag_seatbelt_20_selected_default.flsnp" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-seatbelts-inline-day.svg" alt="Seatbelts icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-seatbelts-inline-night.svg" alt="Seatbelts icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> lights up on the&#160;driver display, along with a notification. Under certain conditions, you'll hear an audible warning.</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/txt-icon-table.css');margin-left: 0;margin-right: auto;" class="TableStyle-txt-icon-table" cellspacing="0" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-txt-icon-table-Column-Column1" />
+            <col class="TableStyle-txt-icon-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-txt-icon-table-Body-Body1">
+                    <td class="TableStyle-txt-icon-table-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p>An accompanying graphic appears on the driver display to show the seat belt statuses for all seats.</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-txt-icon-table-BodyA-Column2-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/icons-seatbelt-reminder-R1S-online.flsnp" />
+                        <img class="image-day" src="../../../Resources/Images/Icons/day/icons-seatbelt-reminder-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/Icons/night/icons-seatbelt-reminder-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ul MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <li>
+                <p>A child seat or other heavy object placed on a seat could cause the Seat Belt Reminder indicator to remain on even when the seat is unoccupied.</p>
+            </li>
+        </ul>
+        <div class="note" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <p>If you have a child seat installed, buckle the seat belt to dismiss the chimes.</p>
+        </div>
+        <h2>Seat Belt Pretensioners</h2>
+        <p>First-row and second-row outboard seat belts are equipped with a seat belt pretensioner. The pretensioners generally activate along with the airbags during accidents that involve force to the front and sides of the vehicle, including rollover accidents. In these instances, the seat belt pretensioner removes slack in the seat belt to help restrain the occupant. The seat belt pretensioners aren't designed to activate in minor impacts.</p>
+        <p>If the  seat belt pretensioners have been activated or are malfunctioning so that the seat belts can't retract or pull out, the corresponding airbag indicators appear on the driver display. <a href="../../customer-service/customer-service.htm">Contact Rivian</a> for assistance or service.</p>
+        <table class="TableStyle-img-img-table" style="mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" cellspacing="0">
+            <col style="width: 10%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 30%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v03-airbag-malfunction-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v03-airbag-malfunction-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-airbag-malfunction-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/techpubs_text/tp_status-indicator-icon-v04-passenger-airbag-off_36.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v04-passenger-airbag-off-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v04-passenger-airbag-off-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Modifications or front-end attachments to the vehicle, such as bars, winches, or snow plows, may affect seat belt pretensioner sensors. Don't modify the vehicle with parts not approved by Rivian.</p>
+        </div>
+        <h2>Seat Belt Maintenance</h2>
+        <p class="KeepWithNext">Use mild soap with water and a soft cloth to clean surface stains on the seat belt. Inspect the seat belts periodically for signs of damage, including wear and tear. <a href="../../customer-service/customer-service.htm">Contact Rivian</a> to schedule service for your seat belts. </p>
+        <p>Don't use bleach or other harsh substances to clean the belts because this can affect their strength and performance. Don't make modifications to the seat belts that would prevent them from properly operating. </p>
+    </body>
+</html>

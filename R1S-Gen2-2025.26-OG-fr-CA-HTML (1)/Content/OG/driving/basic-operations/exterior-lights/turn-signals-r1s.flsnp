@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Use the lights stalk on the left side of the steering wheel to control the turn signals. </p>
+        <h2>Lights Stalk Controls</h2>
+        <p>To flash the turn signals for a lane change, lightly push the lights stalk up or down according to the direction of the lane change. The turn signals automatically stop after they flash three times.</p>
+        <p>To flash continuous turn signals, push until the lights stalk clicks. To stop the turn signals, perform one of the following:</p>
+        <ul>
+            <li>
+                <p>Move the steering wheel and complete the turn.</p>
+            </li>
+            <li>
+                <p>Lightly push the lights stalk up or down.</p>
+            </li>
+            <li>
+                <p>Push the lights stalk in the opposite direction of the initial turn until it clicks. This also initiates continuous turn signals for that opposite direction.</p>
+            </li>
+        </ul>
+        <h2>Direction of Turn</h2>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>Push the lights stalk up to indicate a right turn or lane change.</p>
+                        <p> Push the lights stalk down to indicate a left turn or lane change.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../../Resources/Images/online/stalk-wiper-light-v06-light-turn-signal-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-light-turn-signal-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-light-turn-signal-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

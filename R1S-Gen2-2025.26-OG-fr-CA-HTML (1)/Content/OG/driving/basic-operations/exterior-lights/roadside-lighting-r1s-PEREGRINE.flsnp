@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine,R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Roadside lighting can animate in specific directions to help guide traffic around your vehicle. To specify the direction, use the Roadside lighting panel. </p>
+        <h2>Roadside Lighting Panel</h2>
+        <p>Access the Roadside lighting panel through one of the following:</p>
+        <ul>
+            <li>
+                <p> Go to <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> from the status bar of the center display to open  the <a href="../../display-screens/center-display-quick-controls.htm">quick controls</a> panel. Go to <b>Shortcuts</b> &gt; <b>Roadside lighting</b>. </p>
+                <div class="note">
+                    <p>If the vehicle is in <b>P</b> (Park), the Roadside lighting panel opens.</p>
+                </div>
+            </li>
+            <li>
+                <p>Press the <b>Hazard Lights</b> button <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/roadside-assistance-v03-hazard-inline-day.svg" alt="Hazard Lights button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/roadside-assistance-v03-hazard-inline-night.svg" alt="Hazard Lights button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> on the overhead console to turn on the <a href="hazard-lights.htm">hazard lights</a>. Shift the vehicle to <span class="nonbreaking"><b>P</b>&#160;(Park)</span>. The <a href="../../display-screens/center-display-quick-controls.htm">quick controls</a> panel automatically appears (if it doesn't, go to <b>Vehicle</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Vehicle icon" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Vehicle icon" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" /> on the status bar of the center display). Choose the <b>Hazard Lights</b> icon <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.flsnp" /><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/roadside-assistance-v03-hazard-inline-day.svg" alt="Hazard Lights button" MadCap:conditions="OutputTypeConditions.Web" /><img src="../../../../Resources/Images/Icons/night/roadside-assistance-v03-hazard-inline-night.svg" alt="Hazard Lights button" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" />.</p>
+                <div class="note">
+                    <p>If the vehicle is in <b>P</b> (Park), the roadside lighting options are available.</p>
+                </div>
+            </li>
+        </ul>
+        <MadCap:pageBreak MadCap:conditions="LanguageConditions.fr,R1GuideSpecificConditions.OwnersGuide" />
+        <h2 class="KeepWithNext">Roadside Lighting Options</h2>
+        <p class="KeepWithNext">To turn on roadside lighting, choose the appropriate option. To turn off roadside lighting, choose the option again.</p>
+        <table style="width: 100%;page-break-inside: auto;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 85%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Name</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/icons-exterior-lights-safety-r1s-left-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/icons-exterior-lights-safety-r1s-left-icon-day.svg" alt="Pass left icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/icons-exterior-lights-safety-r1s-left-icon-night.svg" alt="Pass left icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Pass on the left</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/icons-exterior-lights-safety-r1s-goaround-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/icons-exterior-lights-safety-r1s-goaround-icon-day.svg" alt="Go around icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/icons-exterior-lights-safety-r1s-goaround-icon-night.svg" alt="Go around icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Go around</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/icons-exterior-lights-safety-r1s-right-icon-online.flsnp" />
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/icons-exterior-lights-safety-r1s-right-icon-day.svg" alt="Pass right icon" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/icons-exterior-lights-safety-r1s-right-icon-night.svg" alt="Pass right icon" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Pass on the right</td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">Choose <b>Close</b> to exit the Roadside lighting panel.</p>
+        <div class="note">
+            <p>Roadside lighting options are available only if the vehicle is in <b>P</b> (Park). If you shift the vehicle out of <b>P</b> (Park), roadside lighting automatically turns off.</p>
+        </div>
+    </body>
+</html>

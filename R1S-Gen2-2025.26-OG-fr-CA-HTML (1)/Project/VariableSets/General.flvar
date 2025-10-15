@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Import.Import-Global">
+    <Variable Comment="" Name="CompanyName" EvaluatedDefinition="Rivian Automotive, LLC">Rivian Automotive, LLC</Variable>
+    <Variable Name="Copyright" Comment="Per Maureen Shannon, dates should include the range of years the guide has been published. If a guide is new, it should not include previous years. For new guides, this variable should be overridden in the target for the current year." EvaluatedDefinition="2025">2025</Variable>
+    <Variable Name="TagLine" Comment="" EvaluatedDefinition="keep the world adventurous forever.">keep the world adventurous forever.</Variable>
+    <Variable Name="DraftText" Comment="" EvaluatedDefinition="Rivian Proprietary &amp; Confidential Draft - DO NOT DISTRIBUTE">Rivian Proprietary &amp; Confidential Draft - DO NOT DISTRIBUTE</Variable>
+    <Variable Name="Website" Comment="" EvaluatedDefinition="rivian.com">rivian.com</Variable>
+    <Variable Name="PublishDate" Comment="Build date used for review drafts" EvaluatedDefinition="July 13, 2021">[%=TitlePageVariables.BuildDate%]</Variable>
+    <Variable Name="PublishDate" Comment="JULY&#160;2021 (Production&#160;Date used for most published guides)" EvaluatedDefinition="JANUARY 2023">JANUARY 2023</Variable>
+    <Variable Name="CityStateZip" Comment="" EvaluatedDefinition="Irvine, CA 92606">Irvine, CA 92606</Variable>
+    <Variable Name="StreetAddress" Comment="" EvaluatedDefinition="14600 Myford Road">14600 Myford Road</Variable>
+</CatapultVariableSet>

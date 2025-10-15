@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet conditions="Import.Import-Global">
+    <ConditionTag Comment="Apply to content that should only be displayed in the vehicle" Name="In-Vehicle" BackgroundColor="Blue" />
+    <ConditionTag Comment="Apply for page breaks and other formatting changes needed for a particular print size" Name="Print-8x11" BackgroundColor="#e9967a" />
+    <ConditionTag BackgroundColor="#008000" Name="Web" Comment="Apply to content that should only be displayed on the web" />
+    <ConditionTag BackgroundColor="#ffa500" Name="Tablet" Comment="Apply to content that should only be displayed on a tablet" />
+    <ConditionTag BackgroundColor="#8b008b" Name="Mobile" Comment="Apply to content that should only be displayed on a mobile device" />
+    <ConditionTag BackgroundColor="#dda0dd" Name="Print-all" Comment="Apply for page breaks and other formatting changes needed for a particular print size" />
+    <ConditionTag BackgroundColor="#9acd32" Name="Internal-HC" Comment="Apply for page breaks and other formatting changes needed for a particular print size" OriginalName="Internal-HC" />
+    <ConditionTag BackgroundColor="#ffff33" Name="FleetOS-HC" Comment="Apply to content only visible in FleetOS Help Center output" OriginalName="FleetOS-HC" />
+</CatapultConditionTagSet>
