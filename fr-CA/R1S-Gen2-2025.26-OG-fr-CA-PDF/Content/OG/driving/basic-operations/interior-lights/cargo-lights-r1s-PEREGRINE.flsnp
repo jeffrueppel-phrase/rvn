@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Les feux de fret éclairent la zone de cargaison arrière. Ces feux s'allument automatiquement lorsque le chariots s'ouvre dans des conditions de faible luminosité, et ils s'éteignent automatiquement lorsque le dispositif de levage se ferme.</p>
+        <p>Pour allumer ou éteindre manuellement les feux de fret, vous avez deux options : </p>
+        <ul>
+            <li>
+                <p>Choisir un <b>véhicule</b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icône du véhicule" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> à partir de la barre d'état de l'écran central. Choisissez <b>les lumières</b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Icône des voyants du chariots élévateurs" MadCap:conditions=" OutputTypeConditions.Print-all"/> allumer ou éteindre les feux de cargaison et de porte de levage. </p>
+            </li>
+            <li>
+                <p>Utilisez le toucher pour contrôler les feux de fret. </p>
+            </li>
+        </ul>
+    </body>
+</html>
