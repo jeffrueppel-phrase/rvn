@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+    </head>
+    <body>
+        <h2>Abre desde el exterior</h2>
+        <p class="KeepWithNext">Cuando <a href="../lock-and-unlock/about-lock-and-unlock.htm">desbloqueas el vehículo</a>, las manijas de las puertas exteriores se presentan. Tira de una manija para abrir una puerta. </p>
+        <p>
+            <img src="../../../Resources/Images/print/door-handles-exterior-manual-open-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Las manijas exteriores se retraen y se bloquean cuando conduces el vehículo.</p>
+                </li>
+                <li>
+                    <p>En condiciones de congelación, es posible que las manijas de las puertas se congelen y no se presenten al desbloquear. Para descongelar y abrir una manija, presiona en el extremo trasero de ella varias veces hasta que "rompa" el hielo y se abra.</p>
+                </li>
+                <li>
+                    <p>Para abrir una puerta desbloqueada si una manija no se presenta, empuja la hendidura en la parte trasera de la manija de la puerta y luego tira de la manija como de costumbre para abrir la puerta.</p>
+                    <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                        <img src="../../../Resources/Images/print/door-handles-exterior-manual-open-press-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                    </p>
+                </li>
+            </ul>
+        </div>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.Print-8x11" />
+        <h2 class="KeepWithNext">Abre desde el interior</h2>
+        <p class="KeepWithNext">Presiona el botón de abrir la puerta para abrir la puerta.</p>
+        <div class="note">
+            <p>En el improbable caso de que el vehículo pierda energía, puedes usar los <a href="../../troubleshooting-help/help/manually-open-doors-peregrine.htm">liberaciones manuales</a> para abrir una puerta delantera o trasera desde el interior.</p>
+        </div>
+        <p>
+            <img src="../../../Resources/Images/print/door-handles-interior-button-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+    </body>
+</html>
