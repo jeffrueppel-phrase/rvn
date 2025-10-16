@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Les feux de route augmentent la visibilité vers l'avant dans les zones peu éclairées. </p>
+        <h2>Contrôler les feux de route</h2>
+        <p>Pour contrôler manuellement les feux de route, utilisez la tige des feux sur le côté gauche du volant. </p>
+        <h2>Utilisez la tige de lumière</h2>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p>Tirez les lumières vers vous pour allumer les feux de route. Les feux de route restent allumés tant que vous tenez les lumières en haleine. Relâchez la tige des lumières pour éteindre les feux de route.</p>
+                            </li>
+                            <li>
+                                <p>Quand les feux de croisement sont déjà allumés, poussez les feux loin de vous pour allumer les feux de route. Repoussez les lumières pour éteindre les feux de route.</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../../Resources/Images/online/stalk-wiper-light-v06-high-beam-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-high-beam-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-high-beam-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="important">
+            <p>Assurez-vous que les feux de route sont adaptés aux conditions météorologiques et de conduite.</p>
+        </div>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Nom</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_high_beams_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-high-beams-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-high-beams-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Feux de route</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_auto_high_beams_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-auto-high-beams-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-auto-high-beams-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">
+                        <p>Feux de route adaptatifs Assist</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
