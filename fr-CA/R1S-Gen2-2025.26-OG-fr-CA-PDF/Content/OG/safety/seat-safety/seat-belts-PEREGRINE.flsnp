@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-icon-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <div class="danger-nonelectrical" MadCap:conditions="R1VehicleConditions.R1S,RegulatoryConditions.HomologatedContent">
+            <p>Étant donné leur centre de gravité plus élevé, les véhicules utilitaires ont un taux de renversement nettement plus élevé que les autres types de véhicules. Évitez les virages serrés à des vitesses excessives. En cas de renversement, une personne non ceinte a beaucoup plus de risques de mourir qu'une personne portant sa ceinture de sécurité.</p>
+        </div>
+        <!-- LB note 4/10/25: to get this danger on page above in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to the below div -->
+        <div class="danger-nonelectrical" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Ajustez le siège à la position appropriée avant de conduire le véhicule. Assurez-vous que la ceinture de sécurité repose fermement sur votre poitrine et votre épaule. Ne conduisez pas le véhicule s'il y a un espace entre la ceinture de sécurité et votre poitrine.</p>
+            <p>Pour éviter les risques de blessures ou de décès dus à des arrêts brusques, des collisions ou une utilisation inappropriée, procédez comme suit :</p>
+            <ul>
+                <li>
+                    <p>Utilisez une ceinture de sécurité par personne.</p>
+                </li>
+                <li>
+                    <p>Attachez les ceintures de sécurité avant que le véhicule ne commence à bouger pour éviter les risques de blessures dues à des arrêts brusques ou des collisions. </p>
+                </li>
+                <li>
+                    <p>Assurez-vous que toutes les ceintures de sécurité sont bien attachées.</p>
+                </li>
+                <li>
+                    <p>Assurez-vous que la ceinture de sécurité n'est pas portée tordue ou à l'envers.</p>
+                </li>
+                <li>
+                    <p>Portez la ceinture de sécurité de manière à ce qu'elle repose sur l'épaule sans toucher le cou. Ne pas faire passer la ceinture derrière le dos.</p>
+                </li>
+                <li>
+                    <p>Portez la ceinture abdominale aussi bas que possible sur les hanches.</p>
+                </li>
+                <li>
+                    <p>Asseyez-vous bien en arrière dans le siège et en position verticale.</p>
+                </li>
+                <li>
+                    <p>Ne modifiez pas la ceinture de sécurité de manière à empêcher l'absorption des chocs, par exemple en utilisant des « clips de confort ». Une ceinture de sécurité lâche pourrait réduire considérablement l'efficacité de la ceinture épaulière en cas d'accident.</p>
+                </li>
+                <li>
+                    <p>Faites attention lorsque vous manipulez la partie métallique de la ceinture de sécurité, car elle peut devenir très chaude par temps ensoleillé.</p>
+                </li>
+                <li>
+                    <p>Faites inspecter régulièrement toutes les parties de la ceinture de sécurité par un professionnel. En cas d'accident, nous vous recommandons de faire inspecter le véhicule par un centre de collision certifié Rivian pour une inspection de sécurité. Dans certains cas, les parties de la ceinture de sécurité utilisées lors d'un accident doivent être remplacées, même s'il n'y a aucun dommage visible.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>
+            <a name="Fasten"> </a>Attachez les ceintures de sécurité</h2>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Ajustez le siège à une position verticale.</p>
+                            </li>
+                            <li>
+                                <p>Asseyez-vous avec le dos et les hanches contre le dossier du siège.</p>
+                            </li>
+                            <li>
+                                <p>Tenez la plaque de la languette et tirez la ceinture vers la boucle.</p>
+                                <div class="note">
+                                    <p>Évitez de tordre la ceinture de sécurité et évitez les mouvements rapides ou brusques pour empêcher la ceinture de se bloquer.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <p>Insérez la plaque de la languette dans la boucle jusqu'à entendre un clic.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/seat-belts-v03-seat-belt-buckled-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyE-Column1-Body1">
+                        <ol start="5">
+                            <li>
+                                <p>Ajustez la ceinture abdominale aussi bas que possible sur les hanches.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyD-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/seat-belts-v03-seat-belt-correct-position-print.svg" MadCap:conditions=" OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol start="6">
+                            <li>
+                                <p>Appuyez et maintenez enfoncé le bouton d'ancrage de l'épaule et faites-le glisser vers le haut ou le bas pour ajuster la hauteur de la ceinture d'épaule.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/seat-belts-shoulder-anchor-adjustment-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            <p>La ceinture d'épaule doit passer sur le milieu de l'épaule et sur la poitrine sans toucher le cou. Les ceintures de sécurité ne doivent pas être utilisées avec des dispositifs de détente, tels que des pinces de confort. Porter la ceinture dans une position incorrecte ou introduire un relâchement de la ceinture pourrait réduire considérablement son efficacité en cas d'accident.</p>
+        </div>
+        <h2>Défermer les ceintures de sécurité</h2>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Appuyez sur la commande de déverrouillage de la serrure.</p>
+                            </li>
+                            <li>
+                                <p>Laissez la ceinture de sécurité se rétracter lentement pour éviter tout torsion.</p>
+                            </li>
+                            <li>
+                                <p>Assurez-vous que la ceinture est entièrement rétractée pour éviter de fermer la porte sur la ceinture ou la plaque de la langue.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <img src="../../../Resources/Images/print/seat-belts-v03-seat-belt-release-button-print.svg" MadCap:conditions=" OutputTypeConditions.Print-all" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Enfants</h2>
+        <p class="KeepWithNext">Les enfants doivent être assis à l'arrière et correctement retenus dans un siège pour enfant adapté à leur taille et à leur poids. </p>
+        <p>Si l'enfant est trop grand pour un siège pour enfant, il peut être retenu à l'aide de la ceinture de sécurité. Pour un ajustement correct, la ceinture épaulière doit traverser le devant de l'enfant et ne pas toucher le visage ou le cou. La ceinture abdominale doit être fixée aussi bas que possible sur les hanches et non sur la taille de l'enfant. Voir également <a href="../child-seats/child-seats-getting-started.htm">Sièges pour enfants</a>.</p>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h2>Occupants enceintes</h2>
+                        <p>Portez la ceinture abdominale de manière sécurisée et aussi bas que possible sur les hanches, et non sur la taille. Portez la ceinture épaulière entre les seins et sur le côté de l'abdomen.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <img src="../../../Resources/Images/print/seat-belts-v03-seat-belt-correct-position-pregnant-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:pageBreak MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA,R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.Print-8x11,R1VehicleConditions.R1S" />
+        <h2>Rappel de la ceinture de sécurité</h2>
+        <ul MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <li>
+                <p>Attachez correctement les ceintures de sécurité lorsque vous conduisez le véhicule.</p>
+            </li>
+            <li>
+                <p>Si les sièges avant occupés ne sont pas bouclés, l'indicateur de rappel de la ceinture de sécurité
+					<img src="../../../Resources/Images/Icons/print/status-indicator-icon-v02-seatbelts-inline-print.svg" alt="Icône de ceinture de sécurité" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> s'allume sur l'écran du conducteur, accompagné d'une notification. Dans certaines conditions, vous entendrez un avertissement sonore.</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/txt-icon-table.css');margin-left: 0;margin-right: auto;" class="TableStyle-txt-icon-table" cellspacing="0" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-txt-icon-table-Column-Column1" />
+            <col class="TableStyle-txt-icon-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-txt-icon-table-Body-Body1">
+                    <td class="TableStyle-txt-icon-table-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p>Une image accompagnant apparaît sur l'écran du conducteur pour indiquer l'état de la ceinture de sécurité pour tous les sièges.</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-txt-icon-table-BodyA-Column2-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/icons-seatbelt-reminder-R1S-online.flsnp"></MadCap:snippetText>
+                        <img src="../../../Resources/Images/Icons/print/icons-seatbelt-reminder-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" style="vertical-align: top;" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ul MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <li>
+                <p>Un siège pour enfant ou tout autre objet lourd placé sur un siège pourrait faire en sorte que l'indicateur de rappel de ceinture de sécurité reste allumé même lorsque le siège est inoccupé.</p>
+            </li>
+        </ul>
+        <div class="note" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <p>Si vous avez installé un siège pour enfant, attachez la ceinture de sécurité pour faire cesser les signaux sonores.</p>
+        </div>
+        <h2>Prétensionneurs de ceinture de sécurité</h2>
+        <p>Les ceintures de sécurité des sièges extérieurs de la première et de la deuxième rangée sont équipées d'un prétensionneur de ceinture de sécurité. Les prétensionneurs s'activent généralement avec les airbags lors d'accidents impliquant une force sur la partie avant et les côtés du véhicule, y compris les accidents de renversement. Dans ces cas, le prétensionneur de ceinture de sécurité élimine la détente de la ceinture de sécurité pour aider à retenir l'occupant. Les prétensionneurs de ceinture de sécurité ne sont pas conçus pour s'activer lors d'impacts mineurs.</p>
+        <p>Si les prétensionneurs de ceinture de sécurité ont été activés ou sont défectueux de sorte que les ceintures de sécurité ne peuvent pas se rétracter ou s'extraire, les indicateurs d'airbag correspondants apparaissent sur l'écran du conducteur. <a href="../../customer-service/customer-service.htm">Contactez Rivian</a> pour obtenir de l'aide ou un service.</p>
+        <table class="TableStyle-img-img-table" style="mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" cellspacing="0">
+            <col style="width: 10%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 30%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/status-indicator-icon-v03-airbag-malfunction-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/status-indicator-icon-v04-passenger-airbag-off-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="padding-left:5px;" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Les modifications ou accessoires avant du véhicule, tels que barres, treuils ou chasse-neige, peuvent affecter les capteurs de prétension des ceintures de sécurité. Ne modifiez pas le véhicule avec des pièces non approuvées par Rivian.</p>
+        </div>
+        <h2>Entretien de la ceinture de sécurité</h2>
+        <p class="KeepWithNext">Utilisez de l'eau savonneuse et un chiffon doux pour nettoyer les taches de surface sur la ceinture de sécurité. Inspectez périodiquement les ceintures de sécurité pour détecter tout signe de dommage, y compris l'usure. <a href="../../customer-service/customer-service.htm">Contactez Rivian</a> pour planifier l'entretien de vos ceintures de sécurité. </p>
+        <p>N'utilisez pas d'eau de Javel ou d'autres substances agressives pour nettoyer les ceintures, car cela peut affecter leur résistance et leur performance. Ne modifiez pas les ceintures de sécurité de manière à empêcher leur bon fonctionnement. </p>
+    </body>
+</html>
