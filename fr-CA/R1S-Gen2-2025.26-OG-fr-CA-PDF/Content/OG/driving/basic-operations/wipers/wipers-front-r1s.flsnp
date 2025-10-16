@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext">Utiliser l’interrupteur d’essuie-glace <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.svg" /><img class="icon-in-line" src="../../../../Resources/Images/Icons/print/wiper-front-inline-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" /> sur la manette des feux pour contrôler les essuie-glaces. Dans <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.svg" /><img src="../../../../Resources/Images/Icons/print/wiper-auto-inline-print.svg" alt="Icône d’état climatique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> , les essuie-glaces s’allument et s’éteignent automatiquement lorsque de la pluie est détectée sur le pare-brise.</p>
+        <ul>
+            <li>
+                <p>Poussez l’interrupteur d’essuie-glace vers le haut pour passer dans les modes d’essuie-glace. Maintenez l’interrupteur d’essuie-glace enfoncé pour passer en mode Tempête.</p>
+            </li>
+            <li>
+                <p>Poussez l’interrupteur d’essuie-glace vers le bas pour descendre dans les modes d’essuie-glace. Maintenez l’interrupteur d’essuie-glace enfoncé pour éteindre les essuie-glaces.</p>
+            </li>
+        </ul>
+        <p>
+            <img src="../../../../Resources/Images/print/stalk-wiper-light-v06-wiper-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" style="margin-top: -5pt;margin-bottom: -3pt;" />
+        </p>
+        <p class="KeepWithNext">L’écran du conducteur affiche les modes d’essuie-glace.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Vitesse d’essuie-glace</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_storm.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_storm.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-storm-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Tempête</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_pour.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_pour.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-downpour-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Averse</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_shower.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_shower.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-shower-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Douche</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_drizzle.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_drizzle.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-drizzle-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Drizzle</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_sprinkle.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_sprinkle.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-sprinkle-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Sprinkle</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Auto</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-off-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>De</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">En auto <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.svg" /><img src="../../../../Resources/Images/Icons/print/wiper-auto-inline-print.svg" alt="Icône d’état climatique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> mode, vous pouvez ajuster les niveaux de sensibilité. Voir <a href="wipers-front-auto.htm">Essuie-glaces automatiques</a>.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-high-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-high-v2-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Auto - haute sensibilité</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-medium-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-medium-v2-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Auto - sensibilité moyenne</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-low-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-low-v2-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Auto - faible sensibilité</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>Par temps froid, dégagez le pare-brise de la neige et de la glace et dégivrez-le complètement avant d’allumer les essuie-glaces. Si les essuie-glaces sont gelés sur le pare-brise, cela pourrait endommager le moteur des essuie-glaces. </p>
+                </li>
+                <li>
+                    <p>Ne cirez pas, ne lavez pas et ne recouvrez pas le pare-brise de produits hydrofuges. Ces produits peuvent affecter la détection de pluie, empêchant la fonction d’essuie-glace automatique de fonctionner correctement.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
