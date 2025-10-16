@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>El techo de vidrio laminado duradero bloquea más del 99,9 % de la luz ultravioleta (UV).</p>
+        <div class="warning">
+            <p>El techo no soporta carga. Para evitar daños, no coloque ningún objeto sobre el techo. Para transportar artículos en la parte superior de su vehículo, instale y utilice las barras transversales de carga opcionales.</p>
+        </div>
+        <p>Hay dos opciones:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Techo de cristal estándar:</b> Un tinte fijo proporciona un único nivel de opacidad.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Techo de cristal dinámico:</b> Una neblina variable ofrece dos estados de opacidad, activada o desactivada. Para aclarar u oscurecer el techo, seleccione <b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icono de vehículo" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> desde la barra de estado en la pantalla central. Elegir <span class="nonbreaking"><b>Techo</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_dynamic_glass_roof_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_dynamic_glass_roof_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/controls-pdlc-inline-print.svg" alt="icono de techo de cristal dinámico" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> para cambiar el estado de opacidad. <br /></p>
+            </li>
+        </ul>
+    </body>
+</html>
