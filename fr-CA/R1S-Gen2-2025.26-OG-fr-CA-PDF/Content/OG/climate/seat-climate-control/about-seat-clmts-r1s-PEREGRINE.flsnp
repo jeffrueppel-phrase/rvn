@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Les sièges du conducteur et du passager avant peuvent être chauffés ou ventilés.</p>
+        <p>Les sièges gauches et droits des deuxième et troisième rangées peuvent être chauffés.</p>
+        <p>
+            <img src="../../../Resources/Images/print/seat-climate-control-seats-R1S-gen2-print.svg" alt="Sièges" MadCap:conditions=" OutputTypeConditions.Print-all"/>
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 85%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Article</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Siège conducteur</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <p>2</p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Siège passager avant</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Siège gauche de la deuxième rangée</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Siège droit de la deuxième rangée</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">5</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Siège gauche de la troisième rangée</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">6</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">Siège droit de la troisième rangée</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Pour chauffer ou ventiler les sièges avant d'entrer dans le véhicule, utilisez l'application mobile Rivian.</p>
+        <div class="notes">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>Si un siège est réglé sur le niveau de chaleur le plus élevé, le véhicule le réduit automatiquement au niveau de chaleur moyen après 30 minutes.</p>
+                </li>
+                <li>
+                    <p>Si un siège est réglé sur le niveau de chaleur moyen, le véhicule le réduit automatiquement au niveau de chaleur le plus bas après 1 heure.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
