@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-diff-col-width-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Le tableau ci-dessous décrit les principaux contrôles climatiques qui apparaissent au bas de l'affichage central.</p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Nom</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/arrows/ic_arrows_temperature_36_unselected_down.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/arrows/ic_arrows_temperature_36_unselected_down.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-decrease-temperature-icon-print.svg" alt="Diminuer la température icône" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Diminuer la température</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Diminuez la température. Choisissez et maintenez le bouton bleu <b>Diminuer la température</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/arrows/ic_arrows_temperature_20_unselected_down.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/arrows/ic_arrows_temperature_20_unselected_down.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-decrease-temperature-inline-print.svg" alt="Diminuer la température" class="icon-in-line" MadCap:conditions=" OutputTypeConditions.Print-all"/> pour diminuer la température à Low.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-icon-print.svg" alt="Icône de température" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Fan</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Choisissez <b>Fan</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Icône d'état climatique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> pour accéder à des contrôles climatiques supplémentaires.</p>
+                        <ul>
+                            <li>
+                                <p>Si Chauffage, refroidissement et conditionnement est activé, le véhicule affiche la température actuelle et l'état du climat à côté de cette icône. </p>
+                            </li>
+                            <li>
+                                <p>Si Chauffage, refroidissement et conditionnement sont désactivés, le véhicule affiche le niveau de vitesse actuel du ventilateur et les commandes en regard de cette icône. Réglez la vitesse du ventilateur vers le bas (-) ou vers le haut (+).</p>
+                                <div class="note">
+                                    <p>Si Auto est activé, le véhicule affiche Low, Medium ou High comme niveau de vitesse du ventilateur.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/arrows/ic_arrows_temperature_36_unselected_up.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/arrows/ic_arrows_temperature_36_unselected_up.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-increase-temperature-icon-print.svg" alt="Augmenter la température" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Augmenter la température</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Augmentez la température. Choisissez et maintenez le bouton rouge <b>Augmenter la température</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/arrows/ic_arrows_temperature_20_unselected_up.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/arrows/ic_arrows_temperature_20_unselected_up.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-increase-temperature-inline-print.svg" alt="Augmenter la température" class="icon-in-line" MadCap:conditions=" OutputTypeConditions.Print-all"/>
+					pour augmenter la température à High.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.svg" />
+                            <img src="../../../Resources/Images/Icons/print/seat-climate-control-v02-heat-inactive-icon-print.svg" alt="Icône Heat Seat" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Climat du siège</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Choisissez <b>Seat Climate</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_driver_seat_20_unselected_heating.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_driver_seat_20_unselected_heating.svg" /><img src="../../../Resources/Images/Icons/print/seat-climate-control-v02-heat-inactive-inline-print.svg" alt="Icône Seat Climate Control" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> pour accéder aux paramètres climatiques suivants:</p>
+                        <ul>
+                            <li>
+                                <p>
+                                    <a href="heated-steering-wheel.htm">Chauffez le volant</a> pendant une durée limitée. (Disponible du côté conducteur seulement.)</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <a href="../seat-climate-control/about-seat-clmts.htm">Ventilez le siège</a>. Un siège ventilé recircule l'air dans la cabine. Choisir <b>Ventile</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp"></MadCap:snippetText>r<img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Icône de ventilateur" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> pour parcourir les niveaux de ventilation de l'air, y compris hors tension.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <a href="../seat-climate-control/about-seat-clmts.htm">Chauffez le siège</a>. Choisissez <b>Heat</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_heat_20_unselected_us_canada.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_heat_20_unselected_us_canada.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-heat-inline-print.svg" alt="Icône de chaleur" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> pour parcourir les niveaux de chaleur, y compris hors tension.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_windshield_defrost_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_windshield_defrost_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/defrost-front-off-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Débrouillard avant ou dégivrage</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>
+                            <a href="window-defrost.htm">Dégagez le pare-brise</a> avant. Choisissez <b>Front Defog ou Degost</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_windshield_defrost_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_windshield_defrost_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/defrost-front-off-inline-print.svg" class="icon-in-line" alt="Icône de dégivrage avant" MadCap:conditions=" OutputTypeConditions.Print-all"/> pour parcourir le déboage, le dégivrage et l'arrêt. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_rear_defrost_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_rear_defrost_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/defrost-rear-off-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body2">
+                        <p>Dégel arrière</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body2">
+                        <p>
+                            <a href="window-defrost.htm">Dégagez la vitre arrière et les rétroviseurs</a> latéraux.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">Fan <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Icône d'état climatique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> offre des contrôles supplémentaires dans les panneaux Contrôles climatiques et Contrôles d'évent.</p>
+        <h2>Climate Controls Panel</h2>
+        <p>Les panneaux conducteur et passager avant offrent les mêmes commandes, sauf pour le volant chauffant.</p>
+        <table style="width: 100%;page-break-inside: auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Nom</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/system/ic_system_power_onoff_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/system/ic_system_power_onoff_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-all-climate-icon-print.svg" alt="Icône All Climate" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Énergie climatique</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Mettez sous tension les commandes de climatisation des sièges de la première, deuxième et troisième rangées.</p>
+                        <div class="note">
+                            <p>Si vous désactivez Climate Power, cela n'affecte ni les sièges ni le volant.</p>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_mirrors_heat_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_mirrors_heat_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/heated-mirrors-icon-print.svg" alt="Miroirs de chaleur" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Rétroviseurs latéraux thermiques</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>
+                            <a href="window-defrost.htm">Chauffez les rétroviseurs latéraux et la lunette arrière</a>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_heated_steering_wheel_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_heated_steering_wheel_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/heated-steering-wheel-steering-wheel-icon-print.svg" alt="Icône Volant thermique" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Volant thermique</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>
+                            <a href="heated-steering-wheel.htm">Chauffez le volant</a> pendant une durée limitée.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_pet_comfort_36_selected_default.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_pet_comfort_36_selected_default.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-pet-mode-icon-print.svg" alt="Icône Pet Comfort" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Pet Comfort</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Utilisez <a href="../pet-comfort/about-pet-comfort.htm">Pet Comfort</a> pour maintenir la température de l'habitacle des animaux après avoir quitté votre véhicule. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>(pas d'icône)</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Calendrier</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Utilisez <a href="../climate-schedule/about-clmt-schedule.htm">Climate Schedule</a> pour préparer le véhicule et ses conditions climatiques d'habitacle avant l'heure de départ du voyage les jours que vous indiquez.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_hcc_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_hcc_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-heat-cool-condition-inactive-icon-print.svg" alt="Icône de chauffage, refroidissement, conditionnement" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Chauffage, refroidissement et conditionnement</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Activez <b>Chauffage, refroidissement et climatisation</b> pour que le véhicule chauffe ou refroidisse l'air en fonction de la température que vous spécifiez. </p>
+                        <p>Désactivez <b>chauffage, refroidissement et climatisation</b> pour que le véhicule ne souffle que de l'air. (L'air ne sera pas chauffé ou refroidi.) En bas de l'écran central, les contrôles de température deviennent des contrôles de vitesse du ventilateur.</p>
+                        <div class="note">
+                            <p>Vous pouvez désactiver le chauffage, le refroidissement et le conditionnement par temps extrême pour économiser de l'énergie.</p>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-sync-icon-print.svg" alt="Icône de synchronisation" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Synchroniser</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Activez <b>Sync</b> pour que le réglage de la température des zones côté passager avant et arrière de la cabine soit le même que celui de la zone côté conducteur. </p>
+                        <p>Désactivez <b>Sync</b> pour permettre un contrôle indépendant de la température des différentes zones.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/vehicle/ic_vehicle_recirculated_air_r1s_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/vehicle/ic_vehicle_recirculated_air_r1s_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-recirculate-air-R1S-icon-print.svg" alt="Icône Recirculation de l'air" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/vehicle/ic_vehicle_fresh_air_r1s_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/vehicle/ic_vehicle_fresh_air_r1s_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-recirculate-off-R1S-icon-print.svg" alt="Icône Take In Fresh Air" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Recirculation de l'air</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Activez <b>Air Recirculation</b> pour recirculer l'air à l'intérieur du véhicule. </p>
+                        <p>Désactivez la <b>recirculation d'air</b> pour laisser entrer l'air de l'extérieur dans le véhicule.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-auto-icon-print.svg" alt="Icône auto" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Auto</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Activez <b>Auto</b> pour que le véhicule contrôle les évents, la vitesse du ventilateur, le chauffage, le refroidissement et la climatisation, et la recirculation de l'air pour atteindre la température que vous spécifiez. Réglez la direction du flux d'air des bouches d'aération. </p>
+                        <p>Auto s'éteint automatiquement si vous effectuez l'une des opérations suivantes :</p>
+                        <ul>
+                            <li>
+                                <p>Activez <b>Defrost</b> ou <b>Defog</b>.</p>
+                            </li>
+                            <li>
+                                <p>Désactivez le <b>chauffage, refroidissement et conditionnement</b>.</p>
+                            </li>
+                        </ul>
+                        <div class="note">
+                            <p>Si vous modifiez la vitesse du ventilateur pour les aérations latérales de la troisième rangée et souhaitez que le climat de la troisième rangée revienne à Auto, désactivez <b>Auto</b>, puis réactivez <b>Auto</b>.</p>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_blower_36_selected_default.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-icon-print.svg" alt="Icône de température" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>Fan</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">
+                        <p>Réglez la vitesse du ventilateur vers le bas (-) ou vers le haut (+). Si Auto est activé, les options sont Basse, Moyenne et Haute.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 style="page-break-before:always;">Vent Controls Panel</h2>
+        <p class="KeepWithNext">Les commandes varient en fonction de la ligne que vous sélectionnez, Avant, Milieu ou Arrière.</p>
+        <p>
+            <img src="../../../Resources/Images/print/climate-control-options-v08-climate-vents-surfaces-print.svg" alt="Vent Controls Panel" MadCap:conditions=" OutputTypeConditions.Print-all"/>
+        </p>
+        <table style="width: 100%;page-break-inside: auto;mc-table-style: url('../../../Resources/TableStyles/txt-diff-col-width-table.css');" class="TableStyle-txt-diff-col-width-table" cellspacing="0">
+            <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 5%;" MadCap:pattern="0" />
+            <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 10%;" />
+            <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-txt-diff-col-width-table-Head-Header1">
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>Point</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Nom</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadD-Column1-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_36_unselected_off_vertical.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_36_unselected_off_vertical.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-vent-center-off-icon-print.svg" alt="Icône d'évent" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Évents avant centraux et latéraux</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Choisissez <b>Vent</b> pour allumer chaque évent.</p>
+                        <p>Choisissez <b>Vent</b> et déplacez-le pour changer la direction du flux d'air.</p>
+                        <p>Utilisez l'affichage central pour régler le positionnement de l'évent.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_neutral_air_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_neutral_air_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-neutral-icon-print.svg" alt="Icône de température de cabine" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Air de cabine</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Les bouches soufflent de l'air. (La température de l'air est indiquée par la couleur indiquée sur l'écran central.)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>(pas d'icône)</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Volant thermique</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Choisissez le volant pour <a href="heated-steering-wheel.htm">le chauffer</a> pendant une durée limitée.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_mirrors_heat_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_mirrors_heat_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/heated-mirrors-icon-print.svg" alt="Icône d'évent" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Rétroviseurs latéraux thermiques</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Choisissez l'un ou l'autre rétroviseur latéral pour <a href="window-defrost.htm">chauffer les rétroviseurs latéraux et</a> la lunette arrière.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_neutral_air_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_neutral_air_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-neutral-icon-print.svg" alt="Icône de température de cabine" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Évent du pare-brise avant</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Allumez l'évent du pare-brise avant. Si les réglages de température des zones côté conducteur et côté passager avant diffèrent, l'évent du pare-brise avant souffle de l'air à la température de la zone côté conducteur.</p>
+                        <div class="note">
+                            <p>En coupant l'évent du pare-brise avant, on coupe <b>le dégivrage</b> ou <b>le défog</b>.</p>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_neutral_air_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_neutral_air_36_unselected.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-neutral-icon-print.svg" alt="Icône de température de cabine" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Évents du pied avant</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Allumez les bouches d'aération des pieds côté conducteur et côté passager.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_presets_36_selected_a_driver.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_presets_36_selected_a_driver.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-vent-preset-A-icon-print.svg" alt="Vent Preset Icône A" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Évent préréglé A</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p> Choisissez <b>Vent preset A</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_vent_presets_20_selected_a_driver.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_vent_presets_20_selected_a_driver.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-vent-preset-A-inline-print.svg" alt="Vent Preset Icône A" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> pour appliquer le positionnement de l'évent enregistré dans ce préréglage.</p>
+                        <p>Si vous apportez des modifications et souhaitez mettre à jour le préréglage, choisissez <b>Enregistrer le préréglage</b>. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_presets_36_unselected_b_driver.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_presets_36_unselected_b_driver.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-vent-preset-B-icon-print.svg" alt="Icône Vent Preset B" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Évent préréglé B</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Choisissez <b>Vent preset B</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_vent_presets_20_unselected_b_driver.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_vent_presets_20_unselected_b_driver.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-vent-preset-B-inline-print.svg" alt="Icône Vent Preset B" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> pour appliquer le positionnement de l'évent enregistré dans ce préréglage.</p>
+                        <p>Si vous apportez des modifications et souhaitez mettre à jour le préréglage, choisissez <b>Enregistrer le préréglage</b>. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="RegionSpecificConditions.CA,LanguageConditions.fr">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-front-icon-fr-CA-print.svg" alt="Icône avant" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Climat frontal</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Accédez aux commandes de la cabine avant.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA,R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-second-icon-FR-print.svg" alt="Deuxième icône" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Climat moyen</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Accédez aux <a href="clmt-second-row-controls-r1s.htm">commandes de deuxième</a> rangée.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-rear-icon-fr-CA-print.svg" alt="Icône arrière" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Climat de dos</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Accédez aux <a href="clmt-third-row-controls-r1s.htm">commandes de troisième</a> rangée.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2" style="text-align: center;border-right-style: solid;border-right-width: 1px;">
+                        <p>(pas d'icône)</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2">
+                        <p>Siège chauffant</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyA-Column1-Body2">
+                        <p>Choisissez un siège pour accéder aux paramètres climatiques suivants:</p>
+                        <ul>
+                            <li>
+                                <p>
+                                    <a href="../seat-climate-control/about-seat-clmts.htm">Ventilez le siège</a>. Un siège ventilé recircule l'air dans la cabine. Traversez les niveaux de ventilation de l'air, y compris hors tension.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <a href="../seat-climate-control/about-seat-clmts.htm">Chauffez le siège</a>. Traversez les niveaux de chaleur, y compris hors tension.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
