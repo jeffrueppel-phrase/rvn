@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Atteindre <span class="nonbreaking"><b>Paramètres</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Icône Paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> > <b>Véhicule</b> > <b>Affichages et éclairage</b> sur l’écran central pour accéder aux commandes et paramètres suivants :	</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Éclairage d’accentuation :</b> Allumez les lumières d’accentuation dans des conditions de faible luminosité ou éteignez-les. </p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Thème:</b> Vous pouvez choisir un thème d’éclairage différent pour changer la couleur des lumières d’accentuation. </p>
+                        <p>Choisissez le thème actuel ; Un panneau s’affiche et affiche d’autres options. Choisissez un autre thème pour le prévisualiser. </p>
+                        <p>Par défaut, le véhicule lit également l’audio correspondant ; Vous pouvez choisir <span class="nonbreaking"><b>Volume</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_volume_20_unselected_0.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/system/ic_system_volume_20_unselected_0.svg" /><img src="../../../../Resources/Images/Icons/print/app-volume-on-inline-print.svg" alt="Bouton de volume" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> pour le mettre en sourdine.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Luminosité:</b> Lorsque les lumières d’accentuation sont allumées, utilisez le curseur pour régler leur luminosité.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Lumières allumées à l’ouverture des portes :</b> Tourner <b>Lumières allumées à l’ouverture des portes</b> allumé ou désactivé. Si l’option Feux allumés lorsque les portes s’ouvrent est activée, le véhicule allume automatiquement les feux de l’habitacle dans n’importe quelle rangée avec une porte ouverte dans des conditions de faible luminosité.</p>
+                <div class="note">
+                    <p>Si vous ouvrez une porte arrière, les phares de l’habitacle des deuxième et troisième rangées s’allument.</p>
+                </div>
+            </li>
+            <li>
+                <p>
+                    <b>Lumières allumées sur le parc :</b> Tourner <b>Lumières allumées sur le parc</b> allumé ou désactivé. Si l’option « Feux allumés lors du stationnement » est activée, le véhicule allume automatiquement les feux de l’habitacle lorsque vous passez le véhicule en position de stationnement dans des conditions de faible luminosité. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Luminosité des plafonniers :</b> Utilisez le curseur pour régler la luminosité des plafonniers.</p>
+            </li>
+            <li>
+                <b>Luminosité de l’éclairage du hayon :</b> Lorsque le hayon est ouvert, utilisez le curseur pour régler la luminosité des feux du hayon.</li>
+        </ul>
+    </body>
+</html>
