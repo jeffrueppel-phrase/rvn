@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="RegulatoryConditions.HomologatedContent,LanguageConditions.fr,RegionSpecificConditions.CA">El transmisor/receptor exento de licencia incluido en este dispositivo cumple con los NCM de Innovación, Ciencias y Desarrollo Económico de Canadá aplicables a los dispositivos de radio exentos de licencia. L'exploitation est autorisée aux deux conditions suivantes :</p>
+        <ol MadCap:conditions="RegulatoryConditions.HomologatedContent,LanguageConditions.fr,RegionSpecificConditions.CA">
+            <li>
+                <p>El dispositivo no debe producir interferencias.</p>
+            </li>
+            <li>
+                <p>El dispositivo debe aceptar cualquier interferencia electromagnética que sufra, incluso si la interferencia es susceptible de comprometer su funcionamiento.</p>
+            </li>
+        </ol>
+    </body>
+</html>
