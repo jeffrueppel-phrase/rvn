@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td style="vertical-align: text-top; padding-top: 8px; color: #9f9f9f; font-size: 10pt">
+                        <span style="font-weight: bold;">
+                            <MadCap:variable name="Heading.Level1" />
+                        </span>
+                    </td>
+                    <td style="text-align: right;">
+                        <img src="../Images/print/Rivian_compass_black_053024.svg" style="display: inline-block; height: 48px; margin-right: -12px" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
