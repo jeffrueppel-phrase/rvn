@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karla Reinhardt" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <!-- LB note (7/3/25): to get caution on this page in English (en-US and en-CA) PDFs add style="margin-top: -2pt;" to below h2 tag-->
+        <h2 style="margin-top: -2pt;">Port de recharge NACS (modèles 2026 et ultérieurs)</h2>
+        <p>
+            <!-- LB note (7/3/25): to get caution on this page in English (en-US and en-CA) PDFs add style="margin-bottom: -10pt;" to below image tag-->
+            <img src="../../../Resources/Images/print/charge-port_nacs-print.svg" MadCap:conditions=" OutputTypeConditions.Print-all" style="margin-bottom: -10pt;" />
+        </p>
+        <!-- LB note (7/3/25): to get caution on this page in English (en-US and en-CA) PDFs add margin-bottom: -2pt; to below table style-->
+        <table style="margin-bottom: -2pt;width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1">
+            </col>
+            <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Article</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Bouton d'arrêt de charge</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">2</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Port de charge NACS</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">3</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Capteur de porte du port de charge</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-electrical">
+            <p>Assurez-vous que le port de charge et la fiche de charge ne contiennent aucun débris étranger avant de commencer une session de charge. Le non-respect de cette consigne peut entraîner des dommages matériels, des blessures graves, voire la mort. La présence de débris étrangers peut entraîner une erreur de charge ou une surchauffe. Dans de rares cas, une surchauffe extrême peut provoquer un incendie. Si vous trouvez des débris étrangers, <a href="../../customer-service/customer-service.htm">contactez Rivian</a>.</p>
+        </div>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>
+						Lorsque vous rechargez votre véhicule, utilisez un chargeur adapté au type de prise du véhicule. N'utilisez un adaptateur qu'en cas de nécessité, lorsqu'aucun chargeur compatible n'est disponible.
+					</p>
+                </li>
+                <li>
+                    <p>
+					Les adaptateurs ne sont pas destinés à un usage quotidien. L'utilisation d'un adaptateur pour recharger régulièrement le véhicule peut endommager l'adaptateur et le véhicule.					</p>
+                </li>
+                <li>
+                    <p>N'utilisez pas de rallonge ou de câble avec un chargeur rapide à courant continu, tel qu'un Supercharger Tesla. L'utilisation d'une rallonge électrique peut entraîner des dommages au véhicule ou à la propriété. </p>
+                </li>
+                <li>
+                    <p>Tout dommage causé par l'utilisation d'un équipement de recharge non autorisé ou incompatible n'est pas couvert par la garantie limitée pour véhicules neufs.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="KeepWithNext">Commencez une session de recharge comme suit :</p>
+        <ol>
+            <li>
+                <p>Garez-vous près de la borne de recharge et mettez le véhicule en <b>position P</b> (stationnement).</p>
+            </li>
+            <li>
+                <p>Ouvrez la trappe du port de recharge. Aller à <b>Énergie</b> <img src="../../../Resources/Images/Icons/print/app-energy-off-inline-print.svg" alt="application énergétique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> <b>> Recharge > Ouvrez le port de recharge</b> sur l'écran central ou touchez le capteur de la trappe du port de recharge.</p>
+            </li>
+            <li>
+                <p>Prenez le câble de recharge.</p>
+                <ul>
+                    <li>
+                        <p>Si vous utilisez votre chargeur portable, branchez-le à une prise électrique avant d'insérer la fiche dans le véhicule.</p>
+                    </li>
+                    <li>
+                        <p>Si vous utilisez un chargeur CA J1772 public, suivez les instructions du fabricant tiers pour déconnecter le câble de charge. Connectez l'adaptateur J1772 à la fiche avant d'insérer celle-ci dans le véhicule.</p>
+                        <p>
+                            <img src="../../../Resources/Images/print/j1772-nacs-adapter-overview-print.svg" MadCap:conditions=" OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                        <table style="width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+                            <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1">
+                            </col>
+                            <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2">
+                            </col>
+                            <thead>
+                                <tr class="TableStyle-callout-table-Head-Header1">
+                                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                                        <p>Article</p>
+                                    </th>
+                                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                                        <p>Description</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="TableStyle-callout-table-Body-Body1">
+                                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                                        <p>1</p>
+                                    </td>
+                                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                                        <p>Prise J1772 CA (se connecte à la fiche du câble de recharge CA J1772)</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-callout-table-Body-Body2">
+                                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">2</td>
+                                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">Prise NACS (se branche sur le port de recharge du véhicule)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+        <ol>
+            <ul>
+                <li>
+                    <p>Si vous utilisez un chargeur rapide CCS1 DC, connectez l'adaptateur Combo CCS1 DC à la prise avant d'insérer la prise dans le véhicule.</p>
+                    <p>
+                        <img src="../../../Resources/Images/print/ccs1-nacs-adapter-overview-print.svg" MadCap:conditions=" OutputTypeConditions.Print-all" />
+                    </p>
+                    <table style="width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+                        <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1">
+                        </col>
+                        <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2">
+                        </col>
+                        <thead>
+                            <tr class="TableStyle-callout-table-Head-Header1">
+                                <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                                    <p>Article</p>
+                                </th>
+                                <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                                    <p>Description</p>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="TableStyle-callout-table-Body-Body1">
+                                <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                                    <p>1</p>
+                                </td>
+                                <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                                    <p>Entrée CC Combo CCS1 (se connecte à la fiche du câble de charge CCS1)</p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-callout-table-Body-Body2">
+                                <td class="TableStyle-callout-table-BodyB-Column1-Body2">2</td>
+                                <td class="TableStyle-callout-table-BodyA-Column2-Body2">Prise NACS (se branche sur le port de recharge du véhicule)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+            </ul>
+        </ol>
+        <ol start="4">
+            <li>
+                <p>Alignez la fiche de recharge sur le port de recharge du véhicule. Insérez complètement la fiche dans le port. Le véhicule commence à se recharger automatiquement.</p>
+            </li>
+        </ol>
+    </body>
+</html>
