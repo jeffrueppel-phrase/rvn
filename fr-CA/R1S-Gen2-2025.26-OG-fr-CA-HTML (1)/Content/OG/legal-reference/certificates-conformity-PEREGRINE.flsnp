@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../Resources/TableStyles/txt-4col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <table style="mc-table-style: url('../../Resources/TableStyles/txt-4col-table.css');" class="TableStyle-txt-4col-table" cellspacing="0">
+            <col class="TableStyle-txt-4col-table-Column-Column1" style="width:25%;" />
+            <col class="TableStyle-txt-4col-table-Column-Column2" style="width:24%;" />
+            <col class="TableStyle-txt-4col-table-Column-Column3" style="width:27%;" />
+            <col class="TableStyle-txt-4col-table-Column-Column4" style="width:24%;" />
+            <thead>
+                <tr class="TableStyle-txt-4col-table-Head-Header1">
+                    <th class="TableStyle-txt-4col-table-HeadE-Column1-Header1">
+                        <p>Appareil sans fil</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column2-Header1">
+                        <p>Modèle</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column3-Header1">
+                        <p>IDENTIFIANT FCC </p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadD-Column4-Header1">
+                        <p>IDENTIFIANT DE LA CARTE </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-4col-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Radar à longue portée pour automobiles</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>ARS540</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>OAYARS5A</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>4135A-ARS5A</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Radars à courte portée pour l'automobile</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>SRR6PS</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">
+                        <p>L2CSRR6PS</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>2432A-SRR6PS</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Module Expérience Autonomie</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>AXM 2.0</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">2AW3A-2NAT23AXM</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">26958-2NAT23AXM</td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Conférencier du camp </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>RCS 0,9, 1,0</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>Contient l'ID de la FCC : <br />2AOHH-TURBOXC404</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Contient du CI :<br />23465-TURBOXC40X</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Chargeur de console centrale</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>Console centrale</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">
+                        <p>2AW3A-2WWG23CC</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>26958-2WWG23CC</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Ouvre-porte de garage</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>AccueilLien</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>NZLUAHL5R</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>4112A-UAHL5R</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Poignée de porte NFC (NDH)</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>NDH 2.0</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">
+                        <p>2AW3A-2WWG23NDH</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>26958-2WWG23NDH</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Clé de commande R1S</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>R1SKFB</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>2AW3A-2WWG24R1SKFB</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>26958-2WWG24R1SKF</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Système de surveillance de la pression des pneus</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>TPMS</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>YGOTSSRE4A</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>4008C-TSSRE4A</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-txt-4col-table-BodyB-Column1-Body2">
+                        <p>Système d'accès aux véhicules<br /></p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column2-Body2">
+                        <p>VAS 2.0</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column3-Body2">
+                        <p>2AW3A-2WWG23VAS</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyA-Column4-Body2">
+                        <p>26958-2WWG23VAS</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
