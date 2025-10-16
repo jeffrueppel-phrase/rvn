@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>El bloqueo por proximidad bloquea o desbloquea automáticamente el vehículo cuando estás cerca con una llave de teléfono o un llavero. Para activar el bloqueo por proximidad:</p>
+        <ol>
+            <li>
+                <p>Ve a <b>Configuración <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-settings-on-inline-day.svg" alt="Icono de configuración" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-settings-on-inline-night.svg" alt="Icono de configuración" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> > Vehículo > Acceso</b>.</p>
+            </li>
+            <li>
+                <p>Activa <b>Bloqueo por Proximidad</b>.</p>
+            </li>
+            <li>
+                <p>Selecciona las llaves para activar.</p>
+            </li>
+        </ol>
+        <p class="KeepWithNext">Para personalizar el comportamiento de bloqueo y desbloqueo automático de estas llaves en casa, haz lo siguiente:</p>
+        <ol style="page-break-inside:avoid;">
+            <li>
+                <p>Si aún no has establecido una ubicación en casa:</p>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>
+                        <p>Bajo "Comportamiento de bloqueo en casa," elige <b>Establecer Ubicación en Casa</b>.</p>
+                    </li>
+                    <li>
+                        <p>Ingresa la dirección y guárdala.</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>Elige uno de los siguientes comportamientos para todas las llaves de proximidad activas:</p>
+                <ol>
+                    <li>
+                        <p>
+                            <b>Bloquear y Desbloquear</b> (predeterminado): Bloquear y desbloquear cuando estés en casa.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Solo Bloquear</b>: Bloquear pero no desbloquear cuando estés en casa. Con esta configuración, debes desbloquear activamente el vehículo con una llave.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Apagar</b>: No bloquear ni desbloquear cuando estés en casa. Con esta configuración, debes bloquear y desbloquear activamente el vehículo con una llave.</p>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+        <div class="note" MadCap:conditions="R1VehicleConditions.R1S">
+            <p>"Solo cerrar" en casa se aplica solo a las puertas del conductor y del pasajero. Las áreas de almacenamiento—maletero delantero y portón trasero—siguen desbloqueándose y bloqueándose con un llavero o llave de teléfono cercanos. </p>
+        </div>
+    </body>
+</html>
