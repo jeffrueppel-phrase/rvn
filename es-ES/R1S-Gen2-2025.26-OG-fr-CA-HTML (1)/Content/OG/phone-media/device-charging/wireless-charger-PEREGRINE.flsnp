@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-2col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>Una vez que enciendas tu vehículo, puedes cargar tu teléfono compatible con Qi y otros dispositivos recargables con batería en el cargador inalámbrico de alta velocidad ubicado en la bandeja superior de la consola central. <MadCap:conditionalText MadCap:conditions="R1PlatformConditions.R1Peregrine">Coloca el teléfono boca arriba en el cargador para comenzar a cargar, alineando el teléfono contra la nervadura central de la almohadilla de carga.</MadCap:conditionalText> Verás un ícono de carga activa en tu dispositivo si esta es una función compatible. Los tiempos de carga pueden variar dependiendo del dispositivo y las aplicaciones que se estén ejecutando en el dispositivo, pero toma alrededor de 2 a 3 horas cargar completamente un teléfono agotado.</p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <p>
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/wireless-charger-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/day/wireless-charger-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/night/wireless-charger-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>El cargador está diseñado para funcionar con teléfonos en la mayoría de las fundas estándar. </p>
+        <p>Aunque puedes cargar dos teléfonos al mismo tiempo, la almohadilla de carga está diseñada para funcionar mejor cargando simultáneamente un teléfono y otro pequeño artículo como auriculares.</p>
+        <p>La almohadilla de carga tiene un sensor de temperatura, y deja de cargar si un dispositivo o el entorno está demasiado caliente.</p>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>Para evitar daños a la almohadilla de carga, no coloques objetos metálicos o magnéticos sobre la almohadilla o entre el teléfono y el cargador. La almohadilla de carga solo está destinada a sostener un dispositivo compatible con una batería recargable, como un teléfono. </p>
+                </li>
+                <li>
+                    <p>No dejes objetos como tarjetas de acceso o tarjetas de crédito sobre la almohadilla. Aunque la almohadilla de carga no dañará una tarjeta de acceso, la presencia de una tarjeta sobre la almohadilla impedirá la carga.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>Solución de problemas</h2>
+        <table class="TableStyle-txt-2col-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/txt-2col-table.css');" cellspacing="0">
+            <col class="TableStyle-txt-2col-table-Column-Column1" />
+            <col class="TableStyle-txt-2col-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-txt-2col-table-Head-Header1">
+                    <th class="TableStyle-txt-2col-table-HeadE-Column1-Header1">
+                        <p>Si esto sucede</p>
+                    </th>
+                    <th class="TableStyle-txt-2col-table-HeadD-Column2-Header1">
+                        <p>Prueba esto</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body1">
+                        <p>El dispositivo está demasiado caliente</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body1">
+                        <p>Retira el dispositivo del cargador, espera a que se enfríe y vuelve a intentar cargar más tarde.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body2">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body2">El sensor del cargador inalámbrico no detecta el dispositivo compatible</td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body2">
+                        <ul>
+                            <li>
+                                <p>Retira cualquier funda de billetera del teléfono.</p>
+                            </li>
+                            <li>
+                                <p>Retira las fundas de teléfono más gruesas de 5 milímetros para una mejor detección del teléfono y rendimiento de carga.</p>
+                            </li>
+                            <li>
+                                <p>Retira el dispositivo del cargador, espera unos segundos y coloca el dispositivo de nuevo sobre la almohadilla.</p>
+                            </li>
+                            <li>
+                                <p>Mueva el dispositivo a otra posición en el cargador para encontrar la posición de carga adecuada.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyB-Column1-Body1">
+                        <p>El dispositivo no se carga</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyA-Column2-Body1">
+                        <ul>
+                            <li>
+                                <p>Asegúrese de que el dispositivo sea un dispositivo compatible con qi 1.2.4 (como iPhone<sup>®</sup> y dispositivos móviles Android<sup>™</sup>, o un par de auriculares).</p>
+                            </li>
+                            <li>
+                                <p>Asegúrese de que haya iniciado sesión en su cuenta en la pantalla central.</p>
+                            </li>
+                            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                                <p>Coloque el teléfono boca arriba contra la nervadura central de la base de carga.</p>
+                            </li>
+                            <li>
+                                <p>Asegúrese de que no haya un objeto incompatible en la base de carga (como tarjetas de acceso, objetos extraños o piezas metálicas). Retire elementos como monedas o tarjetas de crédito del bolsillo de almacenamiento de una funda de teléfono.</p>
+                            </li>
+                            <li>
+                                <p>Responda a cualquier advertencia en la pantalla central que indique un artículo no autorizado en la base de carga.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
