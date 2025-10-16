@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Las luces de carga iluminan el área de carga trasera. Estas luces se encienden automáticamente cuando la puerta se abre en condiciones de poca luz y se apagan automáticamente cuando se cierra.</p>
+        <p>Para encender o apagar manualmente las luces de carga, tiene dos opciones: </p>
+        <ul>
+            <li>
+                <p>Elegir <b>vehícul</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>o<img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Icono del vehículo" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Icono del vehículo" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> desde la barra de estado en la pantalla central. Elegir <b>luce</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>s<img src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" class="image-inline-day" alt="Icono de luces de puerta elevadora" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Icono de luces de puerta elevadora" MadCap:conditions="OutputTypeConditions.Web"/> para encender o apagar las luces de carga y de la puerta elevadora. </p>
+            </li>
+            <li>
+                <p>Utilice el tacto para controlar las luces de carga. </p>
+            </li>
+        </ul>
+    </body>
+</html>
