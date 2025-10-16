@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2>Parte delantera y trasera</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/driver-plus-overview-peregrine-r1s-front-rear-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/driver-plus-overview-peregrine-r1s-front-rear-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/driver-plus-overview-peregrine-r1s-front-rear-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <table style="width: 100%; mc-table-style: url('../../../Resources/TableStyles/callout-table.css'); margin-left: 0; margin-right: auto;" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Artículo</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Cámara frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Sensores ultrasónicos</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Sensor de radar frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Radars de esquina</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Cámara interior</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">La cámara interior (5) está situada en el espejo retrovisor, orientada hacia el conductor, y se utiliza para detectar la atención del conductor a la carretera.</p>
+        <p>
+            <!-- adas-driver-attention --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/adas-driver-attention-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/adas-driver-attention-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/adas-driver-attention-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <div class="important" style="page-break-inside:avoid;">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>La cámara delantera está situada detrás del espejo retrovisor. </p>
+                </li>
+                <li>
+                    <p>El radar delantero está situado en el centro del parachoques delantero. </p>
+                </li>
+                <li>
+                    <p>Los sensores de radar de las esquinas traseras están en las esquinas de los parachoques traseros. </p>
+                </li>
+                <li>
+                    <p>Los sensores ultrasónicos situados alrededor del vehículo miden la distancia entre el vehículo y los objetos circundantes.</p>
+                </li>
+            </ul>
+            <p>Mantenga estas áreas limpias y libres de obstrucciones. No aplique películas, adhesivos, placas metálicas u otros equipos que puedan bloquear las cámaras, radares o sensores. Solo utilice la película protectora de pintura (PPF) suministrada por Rivian.</p>
+        </div>
+        <div class="note">
+            <p>Si un sensor funciona mal, aparece un triángulo rojo con un signo de exclamación en la parte inferior de la pantalla del conductor.</p>
+        </div>
+        <h2>Lado del conductor</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/driver-plus-overview-peregrine-r1s-left-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/driver-plus-overview-peregrine-r1s-left-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/driver-plus-overview-peregrine-r1s-left-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <table style="width: 100%; mc-table-style: url('../../../Resources/TableStyles/callout-table.css'); margin-left: 0; margin-right: auto;" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Artículo</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Cámara de ala</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Cámara de visión envolvente</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Cámara de cambio de carril</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 class="KeepWithNext">Cámaras automáticas</h2>
+        <p class="KeepWithNext">Las diferentes vistas de la cámara facilitan estacionar en espacios de estacionamiento estrechos y proporcionan una visibilidad adicional alrededor del vehículo. El vehículo utiliza sensores ultrasónicos para detectar la distancia a los objetos cercanos y activa automáticamente la cámara frontal a bajas velocidades.</p>
+        <p class="KeepWithNext">Puede ajustar la configuración de la cámara automática en la pantalla central yendo a <b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-settings-on-inline-day.svg" alt="Ícono de Configuración" MadCap:conditions="OutputTypeConditions.Web" style="font-weight: bold;"/><img src="../../../Resources/Images/Icons/night/app-settings-on-inline-night.svg" alt="Ícono de Configuración" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" style="font-weight: bold;"/><b> > Vehículo > Asistencia al conductor > Cámaras automáticas</b>. </p>
+        <p class="KeepWithNext">Active la cámara para mostrar una vista de la cámara frontal en la pantalla central en las siguientes condiciones:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>Cuando <a href="../parking-safety/park-assist.htm">el asistente de estacionamiento</a> detecta objetos (como cuando se aparca en un espacio de estacionamiento).</p>
+            </li>
+            <li>
+                <p>Al cambiar de <b>R</b> (Reversa) a <b>D</b> (Conducción).</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>La vista de la cámara frontal se activa cuando la velocidad del vehículo es <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:6,;measure.imperial-unit:mph,;measure.metric-value:10,;measure.metric-unit:km/h,"></MadCap:snippetText> o menos.</p>
+        </div>
+    </body>
+</html>
