@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2 class="KeepWithNext">Écran central</h2>
+        <p class="KeepWithNext">Choisissez<b>un véhicul</b> <span class="nonbreaking"><b></b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icône du véhicule" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> à partir de la barre d'état sur l'écran central. </p>
+        <p class="KeepWithNext">Choisissez<b>les lumières d'</b> <span class="nonbreaking"><b></b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Icône des feux du hayon élévateur" MadCap:conditions=" OutputTypeConditions.Print-all"/></span> pour allumer ou éteindre les lumières correspondantes. </p>
+        <div class="note">
+            <p>Pour les feux du hayon, la commande n'apparaît que lorsque le hayon est ouvert.</p>
+        </div>
+        <h2 class="KeepWithNext">Écran arrière</h2>
+        <p>Choisissez<b>les lumières d'</b> <span class="nonbreaking"><b></b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Icône des feux du hayon élévateur" MadCap:conditions=" OutputTypeConditions.Print-all"/></span> pour allumer ou éteindre les lumières arrière de l'habitacle. </p>
+    </body>
+</html>
