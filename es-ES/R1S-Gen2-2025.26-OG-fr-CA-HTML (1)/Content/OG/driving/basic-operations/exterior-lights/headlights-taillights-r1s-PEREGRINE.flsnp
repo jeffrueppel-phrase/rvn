@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Utiliza el interruptor de luz en el vástago de las luces para controlar los faros, las luces traseras y las luces antiniebla. En modo automático, las luces se encienden automáticamente cuando los sensores detectan que está oscuro afuera.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1">
+            </col>
+            <col class="TableStyle-proc-table-Column-Column2">
+            </col>
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p>Empuja el interruptor de luz hacia arriba para seleccionar un ajuste más alto y encender las luces. Mantén el interruptor de luz hacia arriba para desplazarte hacia arriba. </p>
+                            </li>
+                            <li>
+                                <p>Empuja el interruptor de luz hacia abajo para seleccionar un ajuste más bajo y apagar las luces. Mantén el interruptor de luz hacia abajo para desplazarte hacia abajo. </p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../../Resources/Images/online/stalk-wiper-light-v06-headlight-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-headlight-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-headlight-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>En condiciones invernales, es posible que necesites <a href="../../../service-maintenance/cold-weather-care/cold-care-lights.htm">quitar la nieve y el hielo de los faros</a>.</p>
+                </li>
+                <li>
+                    <p>Los faros derecho e izquierdo están alineados en un patrón asimétrico. Esto mejora la visibilidad al conducir de noche y minimiza la cantidad de luz dirigida a los conductores que vienen en sentido contrario. Si notas una visibilidad reducida, <a href="../../../customer-service/customer-service.htm">contacta a Rivian</a>. Los faros no son reparables por el usuario.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="KeepWithNext">La pantalla del conductor muestra las luces encendidas o apagadas de la siguiente manera:</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width:15%;">
+            </col>
+            <col class="TableStyle-callout-table-Column-Column2" style="width:85%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icono</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Nombre</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>
+                                    <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_rear_fog_light_36_unselected.flsnp"></MadCap:snippetText>
+                                    <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-fog-rear-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                    </img>
+                                    <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-fog-rear-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                    </img>
+                                </p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Luces + antiniebla trasera</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_low_beams_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-low-beams-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-low-beams-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Luces</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/drive_modes/ic_drive_modes_auto_ride_height_36_unselected.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-auto-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                </img>
+                                <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-auto-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                </img>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Automático (predeterminado)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_marker_light_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-marker-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-marker-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Luces de estacionamiento</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>
+                                    <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.flsnp"></MadCap:snippetText>
+                                    <img class="image-day" src="../../../../Resources/Images/Icons/day/exterior-lights-off-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                    </img>
+                                    <img class="image-night" src="../../../../Resources/Images/Icons/night/exterior-lights-off-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                                    </img>
+                                </p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Apagar</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note" MadCap:conditions="RegionSpecificConditions.CA">
+            <p MadCap:conditions="RegionSpecificConditions.CA">El vehículo establece las luces en modo automático bajo las siguientes condiciones:</p>
+            <ul MadCap:conditions="RegionSpecificConditions.CA">
+                <li>
+                    <p>El modo de iluminación está configurado en luces de estacionamiento o apagado, y conduces más rápido que la velocidad de <MadCap:snippetText src="../../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-unit:mph,;measure.metric-unit:km/h,;measure.metric-value:10,;measure.imperial-value:6,"></MadCap:snippetText>.</p>
+                </li>
+                <li>
+                    <p>El vehículo se despierta del sueño.</p>
+                </li>
+            </ul>
+        </div>
+        <p>Si las luces están configuradas en Luces + niebla trasera, Luces, o Automático, los faros también cuentan con lo siguiente: </p>
+        <ul>
+            <li>
+                <p>
+                    <b>Faros de dirección dinámica:</b> Tanto las luces bajas como las altas siguen el ángulo de dirección para iluminar el camino mientras giras el vehículo. </p>
+                <p>
+                    <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/adaptive-lighting-gen2-steering-r1s-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                    <img class="image-day" src="../../../../Resources/Images/day/adaptive-lighting-gen2-steering-r1s-day.svg" MadCap:conditions="OutputTypeConditions.Web" alt="faros de dirección dinámica"/>
+                    <img class="image-night" src="../../../../Resources/Images/night/adaptive-lighting-gen2-steering-r1s-night.svg" MadCap:conditions="OutputTypeConditions.Web" alt="faros de dirección dinámica"/>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <b>Nivelación de luces bajas dinámicas:</b> Las luces bajas ajustan su trayectoria de haz para proyectar luz de manera uniforme si el vehículo se inclina hacia atrás al acelerar o hacia adelante al frenar. </p>
+                <p>
+                    <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/adaptive-lighting-gen2-low-beams-leveling-r1s-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                    <img class="image-day" src="../../../../Resources/Images/day/adaptive-lighting-gen2-low-beams-leveling-r1s-day.svg" MadCap:conditions="OutputTypeConditions.Web" alt="nivelación de luces bajas dinámicas"/>
+                    <img class="image-night" src="../../../../Resources/Images/night/adaptive-lighting-gen2-low-beams-leveling-r1s-night.svg" MadCap:conditions="OutputTypeConditions.Web" alt="nivelación de luces bajas dinámicas"/>
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>
