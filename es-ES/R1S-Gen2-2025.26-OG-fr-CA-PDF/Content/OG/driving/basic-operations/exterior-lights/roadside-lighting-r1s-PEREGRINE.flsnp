@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine,R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>La iluminación de la carretera puede animarse en direcciones específicas para ayudar a guiar el tráfico alrededor de su vehículo. Para especificar la dirección, use el panel de iluminación de la carretera. </p>
+        <h2>Panel de Iluminación de la Carretera</h2>
+        <p>Acceda al panel de iluminación de la carretera a través de uno de los siguientes:</p>
+        <ul>
+            <li>
+                <p> Vaya a <b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icono de vehículo" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> desde la barra de estado de la pantalla central para abrir el panel de <a href="../../display-screens/center-display-quick-controls.htm">controles rápidos</a>. Vaya a <b>Accesos directos</b> > <b>Iluminación de la carretera</b>. </p>
+                <div class="note">
+                    <p>Si el vehículo está en <b>P</b> (Estacionado), se abre el panel de iluminación de la carretera.</p>
+                </div>
+            </li>
+            <li>
+                <p>Presione el botón <b>Luces de emergencia</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/roadside-assistance-v03-hazard-inline-print.svg" alt="Botón de luces de emergencia" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> en la consola superior para encender las <a href="hazard-lights.htm">luces de emergencia</a>. Cambia el vehículo a <span class="nonbreaking"><b>P</b> (Estacionado)</span>. El panel de <a href="../../display-screens/center-display-quick-controls.htm">controles rápidos</a> aparece automáticamente (si no aparece, vaya a <b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icono de vehículo" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> en la barra de estado de la pantalla central). Elija el icono de <b>Luces de emergencia</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/roadside-assistance-v03-hazard-inline-print.svg" alt="Botón de luces de emergencia" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/>.</p>
+                <div class="note">
+                    <p>Si el vehículo está en <b>P</b> (Estacionado), las opciones de iluminación de la carretera están disponibles.</p>
+                </div>
+            </li>
+        </ul>
+        <MadCap:pageBreak MadCap:conditions="LanguageConditions.fr,R1GuideSpecificConditions.OwnersGuide" />
+        <h2 class="KeepWithNext">Opciones de Iluminación de la Carretera</h2>
+        <p class="KeepWithNext">Para encender la iluminación de la carretera, elija la opción adecuada. Para apagar la iluminación de la carretera, elija la opción nuevamente.</p>
+        <table style="width: 100%;page-break-inside: auto;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 85%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icono</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Nombre</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/icons-exterior-lights-safety-r1s-left-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/icons-exterior-lights-safety-r1s-left-icon-print.svg" alt="Icono de pasar a la izquierda" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Pasar a la izquierda</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/icons-exterior-lights-safety-r1s-goaround-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/icons-exterior-lights-safety-r1s-goaround-icon-print.svg" alt="Icono de rodear" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Rodear</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/icons-exterior-lights-safety-r1s-right-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/icons-exterior-lights-safety-r1s-right-icon-print.svg" alt="Icono de pasar a la derecha" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Pasar a la derecha</td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">Elige <b>Cerrar</b> para salir del panel de iluminación lateral.</p>
+        <div class="note">
+            <p>Las opciones de iluminación lateral están disponibles solo si el vehículo está en <b>P</b> (Estacionado). Si cambias el vehículo de <b>P</b> (Estacionado), la iluminación lateral se apaga automáticamente.</p>
+        </div>
+    </body>
+</html>
