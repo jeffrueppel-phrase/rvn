@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim" MadCap:fileTags="TechPubsAuthors.Daisy Luu" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../Resources/TableStyles/custom-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/txt-3col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>LATCH (Lower Anchors and Tethers for Children) ou ISOFIX est une option d’installation de siège enfant qui vous permet d’installer des sièges enfants sans utiliser les ceintures de sécurité du véhicule. Au lieu de cela, les sièges enfants sont fixés à des points d’ancrage dédiés sur les sièges du véhicule. </p>
+        <p class="KeepWithNext">N’utilisez le système LATCH que pour installer les sièges pour enfants conformément aux recommandations du fabricant, y compris les considérations relatives à la taille et au poids de l’enfant. Suivez les instructions sur l’espacement des sièges d’enfant avec l’installation LATCH. N’utilisez pas LATCH en plus de la méthode d’installation de la ceinture de sécurité. Pour une installation face à l’avant, LATCH peut offrir plus de stabilité avec l’ancrage de la sangle supérieure car il dispose d’un point de connexion supplémentaire entre le siège enfant et le véhicule. </p>
+        <div class="important">
+            <p>Dans la deuxième rangée de ce véhicule, seuls les deux sièges latéraux prennent en charge l’installation LATCH. Le siège du milieu prend en charge les sièges enfants qui peuvent être retenus uniquement avec la ceinture de sécurité.</p>
+        </div>
+        <table MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" style="mc-table-style: url('../../../Resources/TableStyles/custom-table.css');" class="TableStyle-custom-table" cellspacing="0">
+            <col style="width: 30%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <col style="width: 50%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <tbody>
+                <tr class="TableStyle-custom-table-Body-Body1">
+                    <td class="TableStyle-custom-table-BodyB-Column1-Body1">
+                        <p class="KeepWithNext">Les ancrages inférieurs sont marqués par ce symbole :</p>
+                    </td>
+                    <td class="TableStyle-custom-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/child-seats-v06-isofix-bottom-tether-anchor-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Ils sont situés entre le coussin d’assise et le dossier.</p>
+        <table MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" style="mc-table-style: url('../../../Resources/TableStyles/custom-table.css');" class="TableStyle-custom-table" cellspacing="0">
+            <col style="width: 30%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <col style="width: 50%;" class="TableStyle-custom-table-Column-Column1">
+            </col>
+            <tbody>
+                <tr class="TableStyle-custom-table-Body-Body1">
+                    <td class="TableStyle-custom-table-BodyB-Column1-Body1">
+                        <p> Les ancrages supérieurs sont marqués par ce symbole :</p>
+                    </td>
+                    <td class="TableStyle-custom-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-top-tether-anchor-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Ils sont situés à l’arrière des sièges.</p>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" />
+        <h2>Installer le guide d’ancrage inférieur</h2>
+        <p class="KeepWithNext">Ce véhicule est livré avec des jeux de guides d’ancrage inférieurs. Ces guides d’ancrage rendent les points d’ancrage inférieurs LATCH plus visibles et maintiennent les coussins ouverts, ce qui vous permet d’utiliser moins de force pour fixer les ancrages inférieurs du siège enfant.</p>
+        <table style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1">
+            </col>
+            <col class="TableStyle-proc-table-Column-Column2">
+            </col>
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyD-Column1-Body1" colspan="2">
+                        <ol class="KeepWithNext">
+                            <li>
+                                <p>Trouvez les deux marqueurs d’ancrage inférieurs correspondant à l’endroit où vous installez le siège enfant. Les barres d’ancrage inférieures sont situées entre le coussin d’assise et le dossier. </p>
+                            </li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol start="2">
+                            <li>
+                                <p>Saisissez le cadre carré du guide d’ancrage des deux côtés et poussez la pièce sur les barres d’ancrage inférieures jusqu’à ce que le guide soit bien en place. Les bords à bride du guide d’ancrage doivent affleurer le dossier du siège.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/child-seats-v07-lower-anchorage-guide-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="notes" style="page-break-inside:avoid;">
+            <ul>
+                <li>
+                    <p>Assurez-vous que le guide d’ancrage est installé comme illustré, et non à l’envers.</p>
+                </li>
+                <li>
+                    <p>Pour retirer le guide d’ancrage, saisissez le cadre carré des deux côtés et tirez-le tout droit.</p>
+                </li>
+                <li>
+                    <p>Retirez le guide d’ancrage avant de plier ou de retourner le siège.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>Installer le siège</h2>
+        <table class="TableStyle-proc-table" style="mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1">
+            </col>
+            <col class="TableStyle-proc-table-Column-Column2">
+            </col>
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Positionnez le siège enfant entre les deux ancrages LATCH de la barre inférieure correspondant à l’endroit où vous installez le siège enfant.</p>
+                            </li>
+                            <li>
+                                <p>Connectez les crochets inférieurs du siège enfant aux ancrages de la barre inférieure situés entre le coussin du siège et le dossier du siège. Évitez de tordre les sangles LATCH ou d’accrocher la ceinture de sécurité du véhicule.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <img src="../../../Resources/Images/print/child-seats-v07-anchor-between-seats-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide">
+                                </img>
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ol start="3">
+            <li>
+                <p>Pour un siège enfant avec ceintures d’attache, tirez sur les attaches pour enlever tout mou. Enfoncez le siège d’enfant dans les coussins inférieurs et dorsaux du siège du véhicule pour un ajustement serré.</p>
+            </li>
+            <li>
+                <p>Fixez le crochet de fixation supérieur au point d’ancrage supérieur approprié et serrez la ceinture pour éliminer tout mou.</p>
+            </li>
+        </ol>
+        <h2>Configuration du siège LATCH</h2>
+        <p class="KeepWithNext">Ce qui suit montre les configurations de siège LATCH.</p>
+        <table style="width:100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/txt-3col-table.css');" class="TableStyle-txt-3col-table" cellspacing="0">
+            <col class="TableStyle-txt-3col-table-Column-Column1" />
+            <col class="TableStyle-txt-3col-table-Column-Column2" />
+            <col class="TableStyle-txt-3col-table-Column-Column3" />
+            <thead>
+                <tr class="TableStyle-txt-3col-table-Head-Header1">
+                    <th class="TableStyle-txt-3col-table-HeadE-Column1-Header1">
+                        <p>Rangée de sièges</p>
+                    </th>
+                    <th class="TableStyle-txt-3col-table-HeadE-Column2-Header1">
+                        <p>Nombre d’ancrages de fond</p>
+                    </th>
+                    <th class="TableStyle-txt-3col-table-HeadD-Column3-Header1">
+                        <p>Nombre de sangle supérieure</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-3col-table-Body-Body1">
+                    <td class="TableStyle-txt-3col-table-BodyE-Column1-Body1">
+                        <p>
+                            <p>deuxième</p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-3col-table-BodyE-Column2-Body1">
+                        <p>4 (2 ensembles)</p>
+                    </td>
+                    <td class="TableStyle-txt-3col-table-BodyD-Column3-Body1">
+                        <p>3</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-3col-table-Body-Body2">
+                    <td class="TableStyle-txt-3col-table-BodyB-Column1-Body2">
+                        <p>
+                            <p>troisième</p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-3col-table-BodyB-Column2-Body2">4 (2 ensembles)</td>
+                    <td class="TableStyle-txt-3col-table-BodyA-Column3-Body2">2</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="important">
+            <p style="word-spacing:1.2;">
+                Lorsque vous installez ou retirez un siège enfant, assurez-vous que les dossiers des deuxième et troisième rangées sont verrouillés en position verticale. Ils ne doivent pas être inclinés ou repliés vers l’avant.</p>
+        </div>
+        <h3 class="KeepWithNext">Sièges de la deuxième rangée</h3>
+        <p class="KeepWithNext">Les sièges de la deuxième rangée R1S peuvent glisser vers l’avant et vers l’arrière le long d’un rail coulissant. </p>
+        <p class="KeepWithNext" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Voir <a href="../seating/second-row-seats-r1s.htm">deuxième-</a> et <a href="../seating/third-row-seats-r1s.htm">Sièges de troisième rangée</a> pour savoir comment plier les sièges.</p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <!-- child-seats-v06-R1S-2nd-row-bottom-anchors -->
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-2nd-row-bottom-anchors-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1VehicleConditions.R1S,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <!-- child-seats-v06-R1S-2nd-row-top-tethers -->
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-2nd-row-top-tethers-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1VehicleConditions.R1S,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Sièges de la troisième rangée</h3>
+        <p class="KeepWithNext">La troisième rangée du R1S peut accueillir jusqu’à deux sièges enfants.
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-3rd-row-bottom-anchors-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1VehicleConditions.R1S,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                        <p> </p>
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <!-- child-seats-v06-R1S-3rd-row-top-tethers -->
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-3rd-row-top-tethers-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1VehicleConditions.R1S,R1GuideSpecificConditions.OwnersGuide" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h3>Attache simple</h3>
+                        <p>Acheminez la ceinture d’attache supérieure au centre de l’appuie-tête.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-single-top-tether-config-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h3>Sangle double </h3>
+                        <p>Acheminez les deux sangles de sangle supérieure de chaque côté de l’appuie-tête, en enroulant les ceintures aussi près que possible de l’appuie-tête sans les tordre.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/child-seats-v06-R1S-double-top-tether-config-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
