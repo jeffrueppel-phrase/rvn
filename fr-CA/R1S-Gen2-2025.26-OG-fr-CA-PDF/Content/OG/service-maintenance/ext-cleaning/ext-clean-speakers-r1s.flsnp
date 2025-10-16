@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:keyword term="avas; acoustic vehicle alerting system" />La fonction d'alerte sonore piétonne émet un son pour aider à avertir les piétons de votre véhicule en mouvement. Les haut-parleurs qui émettent le son sont situés sous les pare-chocs avant et arrière du véhicule. Gardez ces haut-parleurs propres et exempts d'obstacles.</p>
+        <p>
+            <div class="important">
+                <ul>
+                    <li>
+                        <p>Si vous remarquez une diminution du volume des sons de courtoisie ou d'alerte de votre véhicule, vous devrez peut-être utiliser une brosse à tube pour nettoyer délicatement les haut-parleurs.</p>
+                    </li>
+                    <li>
+                        <p>Nettoyez les orifices de sortie du son après des conditions météorologiques extrêmes qui provoquent une accumulation de débris ou des aventures qui incluent la conduite hors route ou à travers l'eau.</p>
+                    </li>
+                </ul>
+            </div>
+        </p>
+        <p>
+            <!-- avas-sound-ports-v01-R1S -->
+            <img src="../../../Resources/Images/print/avas-sound-ports-v01-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+    </body>
+</html>
