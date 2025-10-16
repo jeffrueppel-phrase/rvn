@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>L'écran arrière est un écran tactile situé à l'arrière de la console centrale. Il indique les réglages climatiques des passagers de la deuxième rangée et leur permet de régler leurs évents et leurs sièges chauffants. Les passagers de la deuxième rangée peuvent également régler la vitesse du ventilateur pour les sièges de la troisième rangée. L'écran arrière permet également aux passagers de fonctions limitées aux commandes de base du véhicule et aux médias (y compris le point d'accès Wi-Fi et la connexion <i>Bluetooth</i> <sup>®</sup>), ainsi que de visualiser la progression du voyage pour une session de navigation active.</p>
+                        <div class="notes" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <ul>
+                                <li>
+                                    <p>Vous pouvez verrouiller l'écran arrière de l'écran central.</p>
+                                </li>
+                                <li>
+                                    <p>Si l'écran arrière est utilisé pour déverrouiller le véhicule alors qu'il n'est pas stationné, le véhicule se reverrouille au bout de 3 secondes.</p>
+                                </li>
+                                <li>
+                                    <p>Lorsque le véhicule roule au-dessus d'une certaine vitesse, les commandes de verrouillage et de déverrouillage ne sont pas disponibles sur l'écran arrière.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/display-screens-v03-display-rear-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
