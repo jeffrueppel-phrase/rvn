@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Les feux d'accentuation sont situés dans les zones suivantes :</p>
+        <ul>
+            <li>
+                <p>Potages avant</p>
+            </li>
+            <li>
+                <p>Poches de porte</p>
+            </li>
+            <li>
+                <p>Tableau de bord</p>
+            </li>
+            <li>
+                <p>Console centrale</p>
+            </li>
+            <li>
+                <p>Garniture de porte</p>
+            </li>
+        </ul>
+        <p><b>Pour allumer les feux d'accentuation dans des conditions de faible luminosité ou pour les éteindre, accédez à Paramètres <span class="nonbreaking"></span> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icône Paramètres" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icône Paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></b> > <b>Véhicule</b> > <b>Écrans et éclairage</b> sur l'écran central. </p>
+        <p>Lorsque les voyants d'accentuation sont allumés, vous pouvez régler leur luminosité.</p>
+    </body>
+</html>
