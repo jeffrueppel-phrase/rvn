@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+    </head>
+    <body>
+        <p>Lorsque vous conduisez dans la circulation, le régulateur de vitesse adaptatif, l'assistance autoroutière et l'assistance autoroutière améliorée permettent au véhicule de s'arrêter complètement et de redémarrer automatiquement en fonction du véhicule qui précède. L'assistance à la vitesse dans les virages offre davantage de sécurité et de confort lors de la conduite sur des routes sinueuses. La fonction Lane Change on Command vous aide à changer de voie automatiquement et en toute sécurité à votre demande lorsque les fonctions Highway Assist ou Enhanced Highway Assist sont activées. Les clignotants intelligents désactivent automatiquement les clignotants lorsqu'un changement de voie manuel est détecté sur autoroute. Go Chime émet une notification sonore lorsque le véhicule devant vous démarre à un arrêt et que vous ne regardez pas devant vous.</p>
+        <div class="notes">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>Dans les zones où aucune limitation de vitesse n'est détectée, si vous activez le régulateur de vitesse adaptatif, l'assistance autoroutière ou l'assistance autoroutière améliorée alors que vous roulez en dessous de la vitesse minimale d'activation, la fonction s'activera à <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-unit:mph,;measure.imperial-value:20,;measure.metric-unit:km/h,;measure.metric-value:32,"></MadCap:snippetText>.</p>
+                </li>
+                <li>
+                    <p>Vous ne pouvez pas modifier le mode de conduite ou la hauteur de caisse lorsque le régulateur de vitesse adaptatif, l'assistance autoroutière ou l'assistance autoroutière améliorée est activé.</p>
+                </li>
+                <li>
+                    <p>Le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée et le changement de voie sur commande ne sont pas disponibles lorsque vous tractez une remorque. Reportez-vous à <a href="../../driving/towing-trailer/manual-cruise-control.htm">la section Régulateur de vitesse manuel</a>.</p>
+                </li>
+                <li>
+                    <p>Reportez-vous aux <a href="../../driving/towing-trailer/trailer-settings.htm#TrailerProfiles">sections Profils de remorque</a> et <a href="../../driving/towing-trailer/trailer-settings.htm#RearAccessoryMode">Mode accessoire arrière</a> pour plus d'informations sur l'utilisation des fonctions d'aide à la conduite avec un accessoire connecté à l'attelage de remorque.</p>
+                </li>
+                <li>
+                    <p>La fonction « Changement de voie sur commande » n'effectuera pas de changement de voie vers une voie de convergence, un échangeur obligatoire ou une voie de sortie obligatoire.</p>
+                </li>
+                <li>
+                    <p>La fonction « Lane Change on Command » (Changement de voie sur commande) n'effectuera pas de changement de voie à partir d'une voie de sortie obligatoire si vous approchez d'une sortie.</p>
+                </li>
+                <li>
+                    <p>La fonction « Lane Change on Command » peut ramener le véhicule sur sa voie d'origine si le changement de voie ne peut être effectué en raison des conditions routières ou de circulation.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="important">
+            <ul>
+                <li>
+                    <p>Les fonctions Adaptive Cruise Control (régulateur de vitesse adaptatif), Highway Assist (assistance autoroutière), Enhanced Highway Assist (assistance autoroutière améliorée) et Lane Change on Command (changement de voie sur commande) peuvent être indisponibles ou se désactiver si les radars sont bloqués ou si la visibilité de la caméra avant est réduite en raison d'un flou ou d'un éblouissement. Dans ces cas, un signal sonore retentit et une notification apparaît sur l'écran du conducteur.</p>
+                </li>
+                <li>
+                    <p>Les modifications apportées au châssis, à la suspension ou aux pneus qui ne sont pas approuvées par Rivian peuvent affecter les performances des fonctions d'aide à la conduite.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>Lorsque le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée ou le changement de voie sur commande sont activés, surveillez toujours le trafic et les conditions de conduite, et soyez prêt à freiner ou à tourner le volant si nécessaire. Ces fonctions, ainsi que les réglages de vitesse d'engagement, sont conçues pour aider le conducteur et ne remplacent en aucun cas son attention, son jugement et la nécessité de contrôler le véhicule. Ces fonctionnalités n'empêcheront pas les collisions dans toutes les situations. </p>
+                </li>
+                <li>
+                    <p>Le régulateur de vitesse adaptatif, l'assistance autoroutière et l'assistance autoroutière améliorée n'ajustent pas la vitesse réglée en fonction des limitations de vitesse affichées. Il est de votre responsabilité d'ajuster la vitesse réglée en fonction de la limite de vitesse affichée.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="danger-nonelectrical">
+            <ul>
+                <li>
+                    <p>Le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée et le changement de voie sur commande peuvent se désactiver sans avertissement en raison des conditions routières, des conditions environnementales ou d'un dysfonctionnement du système. </p>
+                </li>
+                <li>
+                    <p>Lorsque l'assistance routière est activée ou que la fonction « Changement de voie sur commande » effectue des changements de voie, le système vous rappelle périodiquement de garder les mains sur le volant. </p>
+                </li>
+                <li>
+                    <p>Soyez toujours prêt à prendre le contrôle du véhicule.</p>
+                </li>
+                <li>
+                    <p>Lorsque l'assistance routière améliorée est activée, le système peut vous demander de prêter attention à la route si le système de détection de l'attention du conducteur détecte que vous n'êtes pas attentif.</p>
+                </li>
+                <li>
+                    <p>Lorsque le véhicule est sur le point d'entrer dans une zone non prise en charge par l'assistance autoroutière améliorée, le système vous informe de garder les mains sur le volant pour continuer à utiliser l'assistance autoroutière.</p>
+                </li>
+                <li>
+                    <p>Lors d'un changement de voie, si le véhicule n'est pas en mesure de terminer le changement de voie ni de revenir à la voie d'origine, la fonction émet des avertissements et se désactive. Soyez prêt à prendre immédiatement le contrôle du véhicule.</p>
+                </li>
+                <li>
+                    <p>Si vous ne reprenez pas rapidement le contrôle du véhicule, cela peut entraîner des dommages matériels, des blessures ou la mort.</p>
+                </li>
+            </ul>
+        </div>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" />
+        <h2>Paramètres</h2>
+        <p>Accédez aux paramètres d'<b>. <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icône Paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" style="font-weight: bold;"/> &amp;gt; Véhicule &amp;gt; Aide à la conduite</b> pour activer ou désactiver les paramètres des fonctionnalités suivantes.</p>
+        <p class="KeepWithNext">Pour le régulateur de vitesse adaptatif et l'assistance autoroutière sur les autoroutes à voies séparées :</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Activé :</b> Active le régulateur de vitesse adaptatif ou l'assistance autoroutière à la vitesse maximale autorisée. Cela s'applique lorsque la limite de vitesse est supérieure à la vitesse actuelle du véhicule.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Désactivé :</b> Active le régulateur de vitesse adaptatif ou l'assistance autoroutière en utilisant la vitesse actuelle du véhicule comme vitesse de consigne.</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>Cette fonctionnalité fonctionne sur les autoroutes à voies séparées où la circulation se fait dans des directions opposées, séparées par une barrière.</p>
+        </div>
+        <div class="warning">
+            <p>Soyez prudent et contrôlez le véhicule de manière appropriée, par exemple sur les routes sinueuses où vous devrez peut-être réduire votre vitesse. Lorsque vous ne roulez pas sur une autoroute à voies séparées, le régulateur de vitesse adaptatif s'active en utilisant la vitesse actuelle du véhicule comme vitesse de consigne, quel que soit le réglage.</p>
+        </div>
+        <p>Pour l'assistance routière améliorée :</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Activé :</b> Permet la conduite mains libres sur certaines autoroutes lorsque l'assistance autoroutière est activée et que vous regardez la route.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Désactivé :</b> Désactive l'assistance routière améliorée.</p>
+            </li>
+        </ul>
+        <p class="KeepWithNext">Pour changer de voie sur commande :</p>
+        <ul class="KeepWithNext" style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Activé :</b> Active la fonction Lane Change on Command pour vous aider activement à changer de voie sur l'autoroute lorsque vous activez votre clignotant.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Désactivé :</b> Désactive le changement de voie sur commande.</p>
+            </li>
+        </ul>
+        <p>Pour dépasser la vitesse définie (lors d'un changement de voie sur commande) :</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Activé :</b> Permet au véhicule de dépasser temporairement la vitesse définie pour l'assistance autoroutière lors d'un changement de voie sur commande, jusqu'à <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:5,;measure.imperial-unit:mph,;measure.metric-value:8,;measure.metric-unit:km/h,"></MadCap:snippetText>.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Désactivé :</b> Désactive l'option « Exceed Set Speed » (Dépasser la vitesse définie), ce qui fait de la vitesse définie par l'assistance autoroutière la vitesse maximale autorisée par la fonction.</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>La fonction Highway Assist Reengage n'est pas disponible lorsque la fonction Lane Change on Command est activée.</p>
+        </div>
+        <p class="KeepWithNext">Pour les clignotants intelligents :</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <b>Activé :</b> Active les clignotants intelligents pour désactiver automatiquement vos clignotants après un changement de voie manuel sur autoroute.<li><p><b>Désactivé :</b> Désactive les clignotants intelligents.</p></li></li>
+        </ul>
+        <p class="KeepWithNext">Pour Go Chime :</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <b>Activé :</b> Permet à Go Chime d'émettre une notification sonore lorsque le véhicule devant vous démarre à un arrêt et que vous ne regardez pas devant vous.<li><p><b>Désactivé :</b> Désactive Go Chime.</p></li></li>
+        </ul>
+        <h2>Conditions de conduite</h2>
+        <p>Dans certaines conditions, le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée, le changement de voie sur commande et l'assistance à la vitesse en virage peuvent ne pas fonctionner comme prévu. Le régulateur de vitesse adaptatif peut soit freiner inutilement, soit ne pas freiner devant des véhicules ou des objets. La fonction « Lane Change on Command » (changement de voie sur commande) peut effectuer un changement de voie même lorsqu'un véhicule se trouve à proximité dans la voie adjacente, ou ne pas effectuer de changement de voie lorsque la voie est libre.</p>
+        <p class="alert-heading">Conditions météorologiques extrêmes</p>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>Les conditions météorologiques difficiles affectent les performances du régulateur de vitesse adaptatif, de l'assistance autoroutière, de l'assistance autoroutière améliorée, du changement de voie sur commande, du signal sonore de démarrage et de l'assistance à la vitesse en virage. Faites preuve de bon sens lorsque vous conduisez sous une pluie battante, dans la neige ou dans d'autres conditions environnementales qui réduisent la visibilité autour du véhicule. </p>
+                </li>
+                <li>
+                    <p>Le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée et le changement de voie sur commande peuvent se désactiver sans avertissement en cas de conditions météorologiques difficiles, de températures extrêmes ou si la lumière du soleil brille directement dans la caméra avant.</p>
+                </li>
+                <li>
+                    <p>N'utilisez pas le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée, le changement de voie sur commande et l'assistance à la vitesse dans les virages sur des routes glissantes, non pavées, mouillées ou enneigées.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Courbes serrées et pentes raides</p>
+        <div class="warning">
+            <p>Les routes présentant des virages serrés ou des pentes raides affectent les performances du régulateur de vitesse adaptatif, de l'assistance autoroutière, de l'assistance autoroutière améliorée, du changement de voie sur commande et de l'assistance à la vitesse dans les virages. Soyez toujours prêt à prendre le contrôle du véhicule si nécessaire.</p>
+        </div>
+        <p class="alert-heading">Véhicules adjacents et voies de convergence</p>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>Le régulateur de vitesse adaptatif, l'assistance autoroutière et l'assistance autoroutière améliorée n'accélèrent ni ne décélèrent en réponse aux véhicules ou aux objets présents sur les voies adjacentes. Soyez toujours attentif aux véhicules circulant sur les voies adjacentes, en particulier lorsque votre voie de circulation rejoint une autre voie. </p>
+                </li>
+                <li>
+                    <p>La fonction « Lane Change on Command » ajuste légèrement la vitesse des véhicules qui vous précèdent sur les voies adjacentes.</p>
+                </li>
+                <li>
+                    <p>Soyez prêt à prendre le contrôle du véhicule si nécessaire.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">État des routes</p>
+        <div class="warning alert-padding">
+            <ul>
+                <li>
+                    <p>Le véhicule peut ne pas détecter une limitation de vitesse ou détecter une limitation de vitesse incorrecte sur certains tronçons routiers, notamment, mais sans s'y limiter, les bretelles d'accès, les bretelles de sortie et les zones de travaux.</p>
+                </li>
+                <li>
+                    <p>Les fonctions Highway Assist et Enhanced Highway Assist peuvent ne pas fonctionner comme prévu dans les zones de travaux routiers. Soyez prêt à prendre le contrôle du véhicule si nécessaire.</p>
+                </li>
+                <li>
+                    <p> L'assistance à la vitesse en virage peut ne pas fonctionner comme prévu lorsque vous roulez sur des surfaces irrégulières ou meubles telles que du gravier ou du sable.</p>
+                </li>
+                <li>
+                    <p> Si les lignes de voie ne sont pas claires, les clignotants intelligents peuvent ne pas fonctionner et le changement de voie sur commande peut ne pas effectuer de changement de voie ou effectuer des changements de voie incorrects.</p>
+                </li>
+                <li>
+                    <p> La fonction « Changement de voie sur commande » peut effectuer des changements de voie erronés dans les zones de travaux où des barrières (telles que des cônes, des barils ou d'autres types de barrières) sont utilisées pour délimiter temporairement la voie.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Conditions de conduite</p>
+        <div class="warning">
+            <p class="KeepWithNext">Le régulateur de vitesse adaptatif, l'assistance autoroutière, l'assistance autoroutière améliorée et le changement de voie sur commande peuvent ne pas fonctionner comme prévu dans certaines conditions de conduite. Ces conditions comprennent, sans s'y limiter, les suivantes :</p>
+            <ul>
+                <li>
+                    <p>Lorsque vous suivez de près un véhicule qui vous précède sur la voie de circulation, ou si un véhicule s'insère soudainement dans la voie de circulation.</p>
+                </li>
+                <li>
+                    <p>Lorsqu'un véhicule ou un objet se trouve partiellement sur la voie de circulation, par exemple dans une voie de convergence, de séparation ou de virage.</p>
+                </li>
+                <li>
+                    <p>Lorsque vous changez de voie et que le véhicule détecte un véhicule ou un objet immobile ou se déplaçant lentement devant vous.</p>
+                </li>
+                <li>
+                    <p>Dans une zone urbaine ou résidentielle très fréquentée où les conditions routières changent rapidement, avec des piétons, des cyclistes, des intersections et des ronds-points.</p>
+                </li>
+                <li>
+                    <p>Si une moto qui roule entre les files s'approche de votre véhicule d'un côté ou de l'autre.</p>
+                </li>
+                <li>
+                    <p>Si une moto roule entre votre véhicule et celui qui le précède pendant une longue période.</p>
+                </li>
+                <li>
+                    <p>Si de gros véhicules tels que des bus ou des semi-remorques roulent trop près derrière vous ou dans votre angle mort.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="caution">
+            <p>
+                Les fonctions d'aide à la conduite peuvent ne pas fonctionner comme prévu si un accessoire connecté au véhicule interfère avec les détections ou s'il est trop lourd ou trop volumineux. Il est de votre responsabilité de sélectionner le profil correct lors de la connexion d'un accessoire.</p>
+        </div>
+    </body>
+</html>
