@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>El techo de vidrio laminado y duradero bloquea más del 99,9% de la luz ultravioleta (UV).</p>
+        <div class="warning">
+            <p>El techo no soporta carga. Para evitar daños, no coloque ningún artículo encima del techo. Para transportar artículos encima de su vehículo, instale y utilice las barras transversales de carga opcionales.</p>
+        </div>
+        <p>Hay dos opciones:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Techo de cristal estándar:</b> Un tinte fijo proporciona un solo nivel de opacidad.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Techo de cristal dinámico:</b> Una neblina variable ofrece dos estados de opacidad, encendido o apagado. Para aclarar u oscurecer el techo, elija <b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Icono del vehículo" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Icono del vehículo" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> desde la barra de estado en la pantalla central. Elegir <span class="nonbreaking"><b>tech</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_dynamic_glass_roof_20_unselected.flsnp"></MadCap:snippetText>o<img class="image-inline-day" src="../../../Resources/Images/Icons/day/controls-pdlc-inline-day.svg" alt="Icono de techo de vidrio dinámico" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/controls-pdlc-inline-night.svg" alt="Icono de techo de vidrio dinámico" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> para cambiar el estado de opacidad. <br /></p>
+            </li>
+        </ul>
+    </body>
+</html>
