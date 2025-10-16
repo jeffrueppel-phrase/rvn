@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2>Delante y Detrás</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <img src="../../../Resources/Images/print/driver-plus-overview-peregrine-r1s-front-rear-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" style="margin-bottom: -8pt;" />
+        </p>
+        <table style="width: 100%; mc-table-style: url('../../../Resources/TableStyles/callout-table.css'); margin-left: 0; margin-right: auto;" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Artículo</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Cámara frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Sensores ultrasónicos</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Sensor de radar frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Radares de esquina</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Cámara interior</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">La cámara interior (5) está ubicada en el espejo retrovisor frente al conductor y se utiliza para detectar la atención del conductor hacia la carretera.</p>
+        <p>
+            <!-- adas-driver-attention -->
+            <img src="../../../Resources/Images/print/adas-driver-attention-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <div class="important" style="page-break-inside:avoid;">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>La cámara frontal está ubicada detrás del espejo retrovisor. </p>
+                </li>
+                <li>
+                    <p>El radar frontal está ubicado en el centro del parachoques delantero. </p>
+                </li>
+                <li>
+                    <p>Los sensores de radar de esquina traseros están en las esquinas de los parachoques traseros. </p>
+                </li>
+                <li>
+                    <p>Los sensores ultrasónicos ubicados alrededor del vehículo miden la distancia entre el vehículo y los objetos circundantes.</p>
+                </li>
+            </ul>
+            <p>Mantenga estas áreas limpias y libres de obstrucciones. No aplique película, pegatinas, placas de metal u otro equipo que pueda bloquear las cámaras, radares o sensores. Utilice únicamente la película protectora de pintura (PPF) suministrada por Rivian.</p>
+        </div>
+        <div class="note">
+            <p>Si un sensor falla, aparece un triángulo rojo con un signo de exclamación en la parte inferior de la pantalla del conductor.</p>
+        </div>
+        <h2>Lado del Conductor</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <img src="../../../Resources/Images/print/driver-plus-overview-peregrine-r1s-left-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <table style="width: 100%; mc-table-style: url('../../../Resources/TableStyles/callout-table.css'); margin-left: 0; margin-right: auto;" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Artículo</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Cámara de ala</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Cámara de vista envolvente</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Cámara de cambio de carril</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 class="KeepWithNext">Cámaras automáticas</h2>
+        <p class="KeepWithNext">Diferentes vistas de la cámara facilitan el aparcamiento en espacios reducidos y proporcionan visibilidad adicional alrededor del vehículo. El vehículo utiliza sensores ultrasónicos para detectar la distancia a objetos cercanos y activa automáticamente la cámara frontal a bajas velocidades.</p>
+        <p class="KeepWithNext">Puedes ajustar la configuración de la cámara automática en la pantalla central yendo a <b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icono de configuración" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" style="font-weight: bold;"/><b> > Vehículo > Asistencia al conductor > Cámaras automáticas</b>. </p>
+        <p class="KeepWithNext">Activa la cámara en "on" para mostrar una vista de la cámara frontal en la pantalla central bajo las siguientes condiciones:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>Cuando <a href="../parking-safety/park-assist.htm">Asistencia de aparcamiento</a> detecta objetos (como cuando entras en un espacio de aparcamiento).</p>
+            </li>
+            <li>
+                <p>Al cambiar de <b>R</b> (Reversa) a <b>D</b> (Conducción).</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>La vista de la cámara frontal se activa cuando la velocidad del vehículo es <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:6,;measure.imperial-unit:mph,;measure.metric-value:10,;measure.metric-unit:km/h,"></MadCap:snippetText> o menos.</p>
+        </div>
+    </body>
+</html>
