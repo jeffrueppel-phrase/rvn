@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../../Resources/TableStyles/txt-4col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>
+			Las cámaras vigilan el perímetro del vehículo.
+		</p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/gear-guard-v04-monitoring-cameras-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../../Resources/Images/day/gear-guard-v04-monitoring-cameras-R1S-day.svg" alt="Cámaras que monitorean el vehículo" MadCap:conditions="OutputTypeConditions.Web"/>
+            <img class="image-night" src="../../../../Resources/Images/night/gear-guard-v04-monitoring-cameras-R1S-night.svg" alt="Cámaras que monitorean el vehículo" MadCap:conditions="OutputTypeConditions.Web"/>
+        </p>
+        <p>Estas cámaras ofrecen los siguientes tipos de grabación de vídeo:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Cámara de carretera:</b> Requiere un dispositivo de almacenamiento externo para su uso. Si <a href="road-cam.htm">Road Cam</a> está encendida y hay una unidad de almacenamiento externa conectada, el vehículo graba todo el recorrido y guarda clips de Road Cam a pedido. También graba mientras el vehículo está estacionado y ocupado.</p>
+                <p>Los clips de Road Cam son videos cortos que inicias al elegir <b>Guardar clip</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/techpubs/tp_gear-guard-status-bar-inline_20.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-status-bar-inline-day.svg" alt="Botón Guardar clip" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/gear-guard-status-bar-inline-night.svg" alt="Botón Guardar clip" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> en la barra de estado. La Road Cam también graba videos y guarda clips de la Road Cam cuando tocas la bocina durante más de un segundo o presionas el <span class="nonbreaking">Botón<b>SOS</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/roadside-assistance-v03-sos-inline-day.svg" alt="Botón SOS" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/roadside-assistance-v03-sos-inline-night.svg" alt="Botón SOS" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span>. </p>
+                <p>El vehículo graba tanto las grabaciones continuas como los clips de Road Cam en el dispositivo de almacenamiento externo. Los clips de Road Cam aparecen en la pestaña de video de Road Cam.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Incidentes:</b> Habilitado por defecto. Si está habilitado, el vehículo <a href="incidents.htm">registra automáticamente ciertos eventos de conducción,</a> como colisiones o frenadas bruscas. Puede activar o desactivar los incidentes. Los videos grabados aparecen en la pestaña de videos de Incidentes.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Cámara de movimiento:</b> Deshabilitado por defecto. Encienda Motion Cam para <a href="motion-cam.htm">grabar el movimiento</a> alrededor de su vehículo mientras está lejos de él. También puedes activar Motion Cam para grabar video durante un evento de alarma. Los videos grabados aparecen en la pestaña de video de Motion Cam.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Alarma:</b> Habilitado por defecto. La <a href="../gear-guard-alarm.htm">alarma</a> protege su vehículo cuando está bloqueado. Cuando se activa la alarma, el vehículo hace parpadear las luces exteriores, suena la bocina y envía un mensaje a la aplicación móvil Rivian del propietario. </p>
+                <p>Si la cámara de movimiento está activada, el vehículo también graba videos. Los videos grabados aparecen en la pestaña de video de Motion Cam.</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/txt-4col-table.css');" class="TableStyle-txt-4col-table" cellspacing="0">
+            <col class="TableStyle-txt-4col-table-Column-Column1" />
+            <col class="TableStyle-txt-4col-table-Column-Column2" />
+            <col class="TableStyle-txt-4col-table-Column-Column3" />
+            <col class="TableStyle-txt-4col-table-Column-Column4" />
+            <thead>
+                <tr class="TableStyle-txt-4col-table-Head-Header1">
+                    <th class="TableStyle-txt-4col-table-HeadE-Column1-Header1">
+                        <p>Características de Gear Guard</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column2-Header1">
+                        <p>Disparadores de grabación</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column3-Header1">
+                        <p>Ubicación guardada</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadD-Column4-Header1">
+                        <p>Ver acceso</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Cámara de carretera: Clips de leva de carretera</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <ul>
+                            <li>
+                                <p>Elegir <b>Ahorrar <br MadCap:conditions="LanguageConditions.fr,R1GuideSpecificConditions.OwnersGuide" />Acortar</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/techpubs/tp_gear-guard-status-bar-inline_20.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-status-bar-inline-day.svg" alt="Botón Guardar clip" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/gear-guard-status-bar-inline-night.svg" alt="Botón Guardar clip" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> en la barra de estado.</p>
+                            </li>
+                            <li>
+                                <p>Toque la bocina durante más de un segundo.</p>
+                            </li>
+                            <li>
+                                <p>Prensa <br MadCap:conditions="LanguageConditions.fr,OutputTypeConditions.Web" /><b>SOS</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/roadside-assistance-v03-sos-inline-day.svg" alt="Botón SOS" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/roadside-assistance-v03-sos-inline-night.svg" alt="Botón SOS" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/>.</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">Dispositivo de almacenamiento externo</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Pestaña de vídeo de Road Cam </p>
+                        <p>(El dispositivo de almacenamiento externo debe estar conectado).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Cámara de carretera: Grabaciones continuas</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>El vehículo graba vídeo continuamente mientras se mueve.</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">Dispositivo de almacenamiento externo</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>Tu computadora</p>
+                        <p>(Expulse el dispositivo de almacenamiento externo y conéctelo a su computadora). </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">Incidentes</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">El vehículo detecta determinados eventos de conducción, como colisiones o frenadas bruscas.</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">Disco duro integrado</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Pestaña de vídeo de incidentes</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">Cámara de movimiento</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>El vehículo detecta movimiento mientras la cámara de movimiento está encendida y la grabación está disponible. </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">Disco duro integrado</td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>Pestaña de vídeo de Motion Cam</p>
+                        <p>(Se elimina automáticamente después de 10 días a menos que usted elija <br MadCap:conditions="LanguageConditions.fr" /><b>Estrella</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_favorite_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-save-inline-day.svg" alt="Botón Guardar" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/gear-guard-save-inline-night.svg" alt="Botón Guardar" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/>.)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyB-Column1-Body1">Alarma</td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column2-Body1">La alarma se activa mientras la cámara de movimiento está encendida.</td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column3-Body1">Disco duro integrado</td>
+                    <td class="TableStyle-txt-4col-table-BodyA-Column4-Body1">
+                        <p>Pestaña de vídeo de Motion Cam</p>
+                        <p>(Se elimina automáticamente después de 10 días a menos que usted elija <br MadCap:conditions="LanguageConditions.fr" /><b>Estrella</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_favorite_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/gear-guard-save-inline-day.svg" alt="Botón Guardar" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/gear-guard-save-inline-night.svg" alt="Botón Guardar" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/>.)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">
+            <p>Si las funciones de Gear Guard con grabación de video están activadas, pueden reducir el alcance del vehículo con el tiempo.</p>
+        </div>
+    </body>
+</html>
