@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+    </head>
+    <body>
+        <p>Cuando conduces en el tráfico, el Control de Crucero Adaptativo, el Asistente de Carretera y el Asistente de Carretera Mejorado detienen el vehículo por completo y reanudan automáticamente en respuesta al vehículo de delante. El Asistente de Velocidad en Curvas proporciona seguridad y comodidad adicionales al conducir por carreteras sinuosas. El Cambio de Carril a Pedido ayuda a realizar cambios de carril de forma automática y segura a tu solicitud mientras el Asistente de Carretera o el Asistente de Carretera Mejorado están activados. Las Señales de Giro Inteligentes apagan automáticamente las señales de giro después de detectar un cambio de carril manual en las autopistas. El Aviso de Salida proporciona una notificación audible cuando el vehículo delante de ti se aleja en una parada y no estás mirando hacia adelante.</p>
+        <div class="notes">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>En áreas donde no se detecta un límite de velocidad publicado, si activas el Control de Crucero Adaptativo, el Asistente de Carretera o el Asistente de Carretera Mejorado mientras conduces por debajo de la velocidad mínima de activación, la función se activará a <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-unit:mph,;measure.imperial-value:20,;measure.metric-unit:km/h,;measure.metric-value:32,"></MadCap:snippetText>.</p>
+                </li>
+                <li>
+                    <p>No puedes cambiar el modo de conducción o la altura de la suspensión cuando el Control de Crucero Adaptativo, el Asistente de Carretera o el Asistente de Carretera Mejorado están activados.</p>
+                </li>
+                <li>
+                    <p>El Control de Crucero Adaptativo, el Asistente de Carretera, el Asistente de Carretera Mejorado y el Cambio de Carril a Pedido no están disponibles cuando estás remolcando un remolque. Consulta <a href="../../driving/towing-trailer/manual-cruise-control.htm">Manual de Control de Crucero</a>.</p>
+                </li>
+                <li>
+                    <p>Consulta <a href="../../driving/towing-trailer/trailer-settings.htm#TrailerProfiles">Perfiles de Remolque</a> y <a href="../../driving/towing-trailer/trailer-settings.htm#RearAccessoryMode">Modo de Accesorio Trasero</a> para obtener información sobre el uso de las funciones de asistencia al conductor con un accesorio conectado al enganche del remolque.</p>
+                </li>
+                <li>
+                    <p>El Cambio de Carril a Pedido no realizará cambios de carril en una fusión próxima, un intercambio obligatorio o un carril de salida obligatorio.</p>
+                </li>
+                <li>
+                    <p>El Cambio de Carril a Pedido no realizará cambios de carril fuera de un carril de salida obligatorio si te estás acercando a una salida.</p>
+                </li>
+                <li>
+                    <p>El Cambio de Carril a Pedido puede devolver el vehículo al carril original si el cambio de carril no se puede completar debido a condiciones de carretera o tráfico.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="important">
+            <ul>
+                <li>
+                    <p>Las funciones Control de Crucero Adaptativo, Asistente de Carretera, Asistente de Carretera Mejorado y Cambio de Carril a Pedido pueden no estar disponibles o pueden desconectarse si los radares están bloqueados o la visibilidad de la cámara frontal se reduce por borrosidad o deslumbramiento. En estos casos, suena un aviso y aparece una notificación en la pantalla del conductor.</p>
+                </li>
+                <li>
+                    <p>Las modificaciones en el chasis, la suspensión o los neumáticos no aprobadas por Rivian pueden afectar el rendimiento de las funciones de asistencia a la conducción.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>Cuando el Control de Crucero Adaptativo, el Asistente de Carretera, el Asistente de Carretera Mejorado o el Cambio de Carril a Pedido están activados, siempre monitorea el tráfico y las condiciones de conducción, y prepárate para frenar o dirigir si es necesario. Estas funciones, junto con la configuración de activación de velocidad, están diseñadas para apoyar al conductor y no reemplazan la atención, el juicio y la necesidad de controlar el vehículo por parte del conductor. Estas funciones no evitarán colisiones en todas las situaciones. </p>
+                </li>
+                <li>
+                    <p>El Control de Crucero Adaptativo, el Asistente de Carretera y el Asistente de Carretera Mejorado no ajustan la velocidad establecida de acuerdo con los límites de velocidad publicados. Es tu responsabilidad ajustar la velocidad establecida de acuerdo con el límite de velocidad publicado.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="danger-nonelectrical">
+            <ul>
+                <li>
+                    <p>El Control de Crucero Adaptativo, Asistencia en Carretera, Asistencia Mejorada en Carretera y Cambio de Carril a Pedido pueden desconectarse sin previo aviso debido a las condiciones de la carretera, condiciones ambientales o un mal funcionamiento del sistema. </p>
+                </li>
+                <li>
+                    <p>Cuando la Asistencia en Carretera está activada o el Cambio de Carril a Pedido está realizando cambios de carril, el sistema te recuerda periódicamente que mantengas las manos en el volante. </p>
+                </li>
+                <li>
+                    <p>Siempre debes estar listo para tomar el control del vehículo.</p>
+                </li>
+                <li>
+                    <p>Cuando la Asistencia Mejorada en Carretera está activada, el sistema puede pedirte que prestes atención a la carretera si el sistema de Detección de Atención del Conductor reconoce que no estás atento.</p>
+                </li>
+                <li>
+                    <p>Cuando el vehículo esté a punto de entrar en una zona no soportada por la Asistencia Mejorada en Carretera, el sistema te informa que mantengas las manos en el volante para continuar utilizando la Asistencia en Carretera.</p>
+                </li>
+                <li>
+                    <p>Durante un cambio de carril, si el vehículo no puede completar el cambio de carril ni regresar al carril original, la función emite advertencias y se desconecta. Prepárate para tomar el control del vehículo de inmediato.</p>
+                </li>
+                <li>
+                    <p>No tomar el control del vehículo de manera oportuna puede resultar en daños a la propiedad, lesiones o muerte.</p>
+                </li>
+            </ul>
+        </div>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" />
+        <h2>Configuraciones</h2>
+        <p>Ve a <b>Configuraciones <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icono de configuraciones" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" style="font-weight: bold;"/> > Vehículo > Asistencia al Conductor</b> para activar o desactivar configuraciones para las siguientes funciones.</p>
+        <p class="KeepWithNext">Para el Control de Crucero Adaptativo y la Asistencia en Carretera en carreteras divididas:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Activado:</b> Activa el Control de Crucero Adaptativo o la Asistencia en Carretera al límite de velocidad publicado. Esto se aplica cuando el límite de velocidad es mayor que la velocidad actual del vehículo.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Desactivado:</b> Activa el Control de Crucero Adaptativo o la Asistencia en Carretera con la velocidad actual del vehículo como velocidad establecida.</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>Esta función funciona en carreteras divididas donde hay tráfico en diferentes direcciones, separado por una barrera.</p>
+        </div>
+        <div class="warning">
+            <p>Utiliza precaución y controla el vehículo según sea apropiado, como en carreteras sinuosas donde puede que necesites reducir tu velocidad. Cuando no estés conduciendo en una carretera dividida, el Control de Crucero Adaptativo se activa con la velocidad actual del vehículo como la velocidad establecida, independientemente de la configuración.</p>
+        </div>
+        <p>Para Asistencia Mejorada en Autopista:</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Activado:</b> Permite la conducción sin manos en algunas autopistas mientras la Asistencia en Autopista está activada y estás mirando la carretera.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Desactivado:</b> Desactiva la Asistencia Mejorada en Autopista.</p>
+            </li>
+        </ul>
+        <p class="KeepWithNext">Para Cambio de Carril a Pedido:</p>
+        <ul class="KeepWithNext" style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Activado:</b> Activa el Cambio de Carril a Pedido para ayudarte activamente a cambiar de carril en la autopista cuando señales.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Desactivado:</b> Desactiva el Cambio de Carril a Pedido.</p>
+            </li>
+        </ul>
+        <p>Para Exceder la Velocidad Establecida (durante el Cambio de Carril a Pedido):</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Activado:</b> Permite que el vehículo exceda temporalmente tu velocidad establecida de Asistencia en Autopista durante una maniobra de Cambio de Carril a Pedido hasta <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:5,;measure.imperial-unit:mph,;measure.metric-value:8,;measure.metric-unit:km/h,"></MadCap:snippetText>.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Desactivado:</b> Desactiva la opción de Exceder la Velocidad Establecida, haciendo que tu velocidad establecida de Asistencia en Autopista sea la velocidad máxima permitida.</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>La Reactivación de Asistencia en Autopista no está disponible cuando el Cambio de Carril a Pedido está habilitado.</p>
+        </div>
+        <p class="KeepWithNext">Para Señales de Giro Inteligentes:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <b>Activado:</b> Activa las Señales de Giro Inteligentes para apagar automáticamente tus señales de giro después de un cambio de carril manual en las autopistas.<li><p><b>Desactivado:</b> Desactiva las Señales de Giro Inteligentes.</p></li></li>
+        </ul>
+        <p class="KeepWithNext">Para Sonido de Salida:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <b>Activado:</b> Activa el Sonido de Salida para proporcionar una notificación audible cuando el vehículo delante de ti se aleja en una parada, y no estás mirando hacia adelante.<li><p><b>Desactivado:</b> Desactiva el Sonido de Salida.</p></li></li>
+        </ul>
+        <h2>Condiciones de Conducción</h2>
+        <p>Bajo ciertas condiciones, el Control de Crucero Adaptativo, la Asistencia en Autopista, la Asistencia Mejorada en Autopista, el Cambio de Carril a Pedido y la Asistencia de Velocidad en Curva pueden no funcionar como se espera. El Control de Crucero Adaptativo puede frenar cuando no es necesario, o puede no frenar para vehículos y objetos. El Cambio de Carril a Pedido puede realizar un cambio de carril incluso cuando hay un vehículo cerca de ti en el carril adyacente, o no realizar un cambio de carril cuando el carril está despejado.</p>
+        <p class="alert-heading">Clima Severo</p>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>El clima severo afecta el rendimiento del Control de Crucero Adaptativo, Asistencia en Carretera, Asistencia Mejorada en Carretera, Cambio de Carril a Pedido, Sonido de Advertencia y Asistencia de Velocidad en Curvas. Usa tu juicio al conducir en lluvia intensa, nieve u otras condiciones ambientales que reduzcan la visibilidad alrededor del vehículo. </p>
+                </li>
+                <li>
+                    <p>El Control de Crucero Adaptativo, la Asistencia en Carretera, la Asistencia Mejorada en Carretera y el Cambio de Carril a Pedido pueden desconectarse sin previo aviso en clima severo, temperaturas extremas, o si la luz del sol brilla directamente en la cámara frontal.</p>
+                </li>
+                <li>
+                    <p>No uses el Control de Crucero Adaptativo, la Asistencia en Carretera, la Asistencia Mejorada en Carretera, el Cambio de Carril a Pedido y la Asistencia de Velocidad en Curvas en carreteras resbaladizas, sin pavimentar, mojadas o nevadas.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Curvas Agudas y Pendientes Pronunciadas</p>
+        <div class="warning">
+            <p>Las carreteras con curvas agudas o pendientes pronunciadas afectan el rendimiento del Control de Crucero Adaptativo, la Asistencia en Carretera, la Asistencia Mejorada en Carretera, el Cambio de Carril a Pedido y la Asistencia de Velocidad en Curvas. Siempre estate preparado para tomar el control del vehículo si es necesario.</p>
+        </div>
+        <p class="alert-heading">Vehículos Adyacentes y Carriles en Fusión</p>
+        <div class="warning">
+            <ul>
+                <li>
+                    <p>El Control de Crucero Adaptativo, la Asistencia en Carretera y la Asistencia Mejorada en Carretera no aceleran ni desaceleran en respuesta a vehículos u objetos en carriles adyacentes. Siempre observa los vehículos en los carriles adyacentes, especialmente cuando tu carril de conducción se fusiona con otro carril. </p>
+                </li>
+                <li>
+                    <p>El Cambio de Carril a Pedido ajusta mínimamente las velocidades para los vehículos frente a ti en los carriles adyacentes.</p>
+                </li>
+                <li>
+                    <p>Esté preparado para tomar el control del vehículo si es necesario.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Condiciones de la Carretera</p>
+        <div class="warning alert-padding">
+            <ul>
+                <li>
+                    <p>El vehículo puede no detectar un límite de velocidad o detectar un límite de velocidad incorrecto en ciertos segmentos de carretera que incluyen, pero no se limitan a, rampas de entrada, rampas de salida y zonas de construcción.</p>
+                </li>
+                <li>
+                    <p>La Asistencia en Carretera y la Asistencia Mejorada en Carretera pueden no funcionar como se espera a través de zonas de construcción de carreteras. Esté preparado para tomar el control del vehículo si es necesario.</p>
+                </li>
+                <li>
+                    <p> La Asistencia de Velocidad en Curvas puede no funcionar como se espera cuando viajas sobre superficies irregulares o sueltas como grava o arena.</p>
+                </li>
+                <li>
+                    <p> Si las líneas de carril no son claras, las Señales de Giro Inteligentes pueden no funcionar, y el Cambio de Carril a Pedido puede no realizar cambios de carril o realizar cambios de carril incorrectos.</p>
+                </li>
+                <li>
+                    <p> El cambio de carril a demanda puede realizar cambios de carril erróneos en zonas de construcción que utilizan barreras (como conos, barriles u otros tipos de barreras) para definir temporalmente el carril.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="alert-heading">Condiciones de Conducción</p>
+        <div class="warning">
+            <p class="KeepWithNext">El control de crucero adaptativo, la asistencia en carretera, la asistencia mejorada en carretera y el cambio de carril a demanda pueden no funcionar como se espera en ciertas condiciones de conducción. Tales condiciones incluyen, pero no se limitan a, lo siguiente:</p>
+            <ul>
+                <li>
+                    <p>Cuando sigues de cerca a un vehículo delante de ti en el carril de conducción, o si un vehículo se corta repentinamente en el carril de conducción.</p>
+                </li>
+                <li>
+                    <p>Cuando un vehículo u objeto está parcialmente en el carril de conducción, como en una fusión, división o carril de giro.</p>
+                </li>
+                <li>
+                    <p>Cuando cambias de carril y el vehículo detecta un vehículo u objeto estacionario o en movimiento lento delante.</p>
+                </li>
+                <li>
+                    <p>En una zona urbana o residencial concurrida con condiciones de carretera que cambian rápidamente, peatones, ciclistas, intersecciones y rotondas.</p>
+                </li>
+                <li>
+                    <p>Si una motocicleta que está dividiendo carriles se acerca a tu vehículo desde cualquiera de los lados.</p>
+                </li>
+                <li>
+                    <p>Si una motocicleta está dividiendo el carril con tu vehículo durante largos períodos de tiempo.</p>
+                </li>
+                <li>
+                    <p>Si vehículos grandes como autobuses o camiones semirremolque están conduciendo de cerca detrás de ti o en tus áreas de punto ciego.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="caution">
+            <p>
+                Las funciones de asistencia al conductor pueden no funcionar como se diseñaron si un accesorio conectado al vehículo interfiere con las detecciones, o es demasiado pesado o grande. Es tu responsabilidad seleccionar el perfil correcto al conectar un accesorio.</p>
+        </div>
+    </body>
+</html>
