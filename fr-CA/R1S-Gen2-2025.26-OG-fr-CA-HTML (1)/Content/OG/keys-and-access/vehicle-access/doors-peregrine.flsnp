@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+    </head>
+    <body>
+        <h2>Ouvert de l’extérieur</h2>
+        <p class="KeepWithNext">Lorsque vous <a href="../lock-and-unlock/about-lock-and-unlock.htm">Déverrouiller le véhicule</a>, les poignées de porte extérieures présentes. Tirez sur une poignée pour ouvrir une porte. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/door-handles-exterior-manual-open-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/door-handles-exterior-manual-open-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/door-handles-exterior-manual-open-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Les poignées extérieures se rétractent et se verrouillent lorsque vous conduisez le véhicule.</p>
+                </li>
+                <li>
+                    <p>Dans des conditions inférieures au point de congélation, il est possible que les poignées de porte se figent et ne soient pas présentes lors du déverrouillage. Pour dégeler et ouvrir une poignée, appuyez plusieurs fois sur l’extrémité arrière de celle-ci jusqu’à ce qu’elle « brise » la glace et s’ouvre.</p>
+                </li>
+                <li>
+                    <p>Pour ouvrir une porte déverrouillée si aucune poignée n’est présente, poussez l’indentation à l’arrière de la poignée de porte, puis tirez sur la poignée comme d’habitude pour ouvrir la porte.</p>
+                    <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/door-handles-exterior-manual-open-press-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                        <img class="image-day" src="../../../Resources/Images/day/door-handles-exterior-manual-open-press-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/night/door-handles-exterior-manual-open-press-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    </p>
+                </li>
+            </ul>
+        </div>
+        <h2 class="KeepWithNext">Ouvrir de l’intérieur</h2>
+        <p class="KeepWithNext">Appuyez sur le bouton d’ouverture de la porte pour ouvrir la porte.</p>
+        <div class="note">
+            <p>Dans le cas peu probable où le véhicule perdrait de la puissance, vous pouvez utiliser le <a href="../../troubleshooting-help/help/manually-open-doors-peregrine.htm">déblocages manuels</a> pour ouvrir une porte avant ou arrière de l’intérieur.</p>
+        </div>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/door-handles-interior-button-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/door-handles-interior-button-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/door-handles-interior-button-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+    </body>
+</html>
