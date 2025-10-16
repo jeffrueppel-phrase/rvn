@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/front-matter/new-title-page.htm" BreakType="pageLayout" PageType="title" StartSection="false" PageLayout="/Content/Resources/PageLayouts/custom/OwnersGuideFrontmatter-8x11-titlepage.flpgl" ReplaceMergeNode="false" PageNumberReset="continue" conditions="OutputTypeConditions.Print-8x11"/>
+  <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/front-matter/copyright-vehicle.htm" BreakType="chapter" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Frontmatter-8x11-copyright-toc.flpgl" PageType="firstleft" PageNumberReset="continue" conditions="OutputTypeConditions.Print-8x11"/>
+  <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/front-matter/toc.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Frontmatter-8x11-copyright-toc.flpgl" PageType="firstright" PageNumberReset="continue" conditions="OutputTypeConditions.Print-8x11"/>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/vehicle-overview.htm" StartSection="false" BreakType="chapter" PageType="first" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Introduction">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/introduction/symbols.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/introduction/high-voltage-dngr.htm"/>
+    </TocEntry>
+    <TocEntry Title="Vue d'ensemble extérieure" StartSection="false" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/exterior-overview/ext-img-front-rear.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/exterior-overview/ext-img-driver-side.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/exterior-overview/ext-img-front-rear-lights.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/exterior-overview/ext-img-side-lights.htm"/>
+    </TocEntry>
+    <TocEntry Title="Vue d'ensemble intérieure" StartSection="false" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/interior-overview/int-front-view.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/interior-overview/int-rear-view.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/interior-overview/int-cargo-view-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+    </TocEntry>
+    <TocEntry Title="Prises électriques">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/power-outlets/power-outlets-ovw.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/power-outlets/accessory-power.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+    </TocEntry>
+    <TocEntry Title="Mises à jour et améliorations" FrameName="fContent" ReplaceMergeNode="false" StartSection="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/updates-upgrades/veh-sw-update.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/updates-upgrades/key-fob-sw-update-gen2.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/vehicle-overview/updates-upgrades/upgrades.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/keys-and-access.htm" BreakType="chapter" PageType="first" StartSection="Unchecked" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Comptes et clés Rivian">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/rivian-account/about-rivian-account.htm"/>
+    </TocEntry>
+    <TocEntry Title="Types de clés">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/phone-key.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2.htm" conditions="R1PlatformConditions.R1Peregrine" StartSection="false">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2-about.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2-add.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2-buttons.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2-led-states.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2-nfc.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-fob-2.0/key-fob-2-start-vehicle.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-types/key-card-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+    </TocEntry>
+    <TocEntry Title="Verrouiller et déverrouiller">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/lock-and-unlock/about-lock-and-unlock.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/lock-and-unlock/proximity-locking.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/lock-and-unlock/press-to-lock-unlock-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/lock-and-unlock/lock-unlock-center-display.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/lock-and-unlock/child-locks-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/lock-and-unlock/manage-lock-sounds.htm"/>
+    </TocEntry>
+    <TocEntry Title="Gestion des clés">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/key-management/high-security-drive-authentication.htm"/>
+    </TocEntry>
+    <TocEntry Title="Accès au véhicule">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/vehicle-access/theft-protection-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/vehicle-access/doors.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/vehicle-access/roomy-entry-exit.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/vehicle-access/kneel-vehicle.htm"/>
+    </TocEntry>
+    <TocEntry Title="Garages">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/garages/supported-brands.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/garages/add-a-garage.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/garages/one-touch-prompt.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/garages/open-close-garage.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/garages/rename-garage.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/keys-and-access/garages/delete-garage.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/safety.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Sièges" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/seating/adjust-front-seats.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/seating/seat-climate-control.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/seating/second-row-seats-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/seating/third-row-seats-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+    </TocEntry>
+    <TocEntry Title="Sécurité des sièges" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/seat-safety/seat-belts.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/seat-safety/head-restraints.htm"/>
+    </TocEntry>
+    <TocEntry Title="Sièges pour enfants" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seats-getting-started.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seats-choose.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seats-install.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seats-install-latch.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seats-install-booster.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seat-remove.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/child-seats/child-seats-alr.htm"/>
+    </TocEntry>
+    <TocEntry Title="Airbags" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/airbag-about.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/airbag-status.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/airbag-locations.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/airbag-functions.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/front-passenger-airbag.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/front-passenger-airbag-about.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/front-passenger-airbag-status.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/front-passenger-detection.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/proper-sitting.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/children-rear-seats.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/airbags/airbags-deployed.htm"/>
+    </TocEntry>
+    <TocEntry Title="Rétroviseurs" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/side-mirrors.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/adjust-side-mirrors.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/automatic-fold-side-mirrors.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/automatic-tilt-on-reverse.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/manually-fold-side-mirrors.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/tint-control.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/side-mirrors/defrost.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/mirrors/rearview-mirror.htm"/>
+    </TocEntry>
+    <TocEntry Title="Vitres">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/windows/open-close-windows.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/windows/lock-passenger-windows.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/windows/sun-visors.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/windows/toll-devices.htm"/>
+    </TocEntry>
+    <TocEntry Title="Pneus et roues">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/tire-pressure-care.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/load-capacity.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/steps-determining-load-limit.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/uniform-tire-quality-grading.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/snow-traction-devices.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/tire-markings.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/glossary-tire-terminology.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/tire-pressure-monitoring-system.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/safety/tires-wheels/aero-wheel-cover.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/climate.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Réglage du climat de l'habitacle">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/about-clmt-control.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/clmt-center-display-controls.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/clmt-second-row-controls-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/clmt-third-row-controls-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/clmt-rear-display-controls.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/heated-steering-wheel.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/cabin-climate-control/window-defrost.htm"/>
+    </TocEntry>
+    <TocEntry Title="Réglage du climat du siège">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/seat-climate-control/about-seat-clmts.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/seat-climate-control/front-seat-clmts.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/seat-climate-control/second-row-seat-clmts-r1s.htm" conditions="R1VehicleConditions.R1S" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/seat-climate-control/third-row-seat-clmts-r1s-PEREGRINE.htm" conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine"/>
+    </TocEntry>
+    <TocEntry Title="Confort pour animaux de compagnie" StartSection="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/pet-comfort/about-pet-comfort.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/pet-comfort/pet-comfort-center-display.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/pet-comfort/pet-comfort-rivian-mobile-app.htm"/>
+    </TocEntry>
+    <TocEntry Title="Programme climatique" StartSection="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/climate-schedule/about-clmt-schedule.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/climate-schedule/set-up-clmt-schedule.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/climate-schedule/change-clmt-schedule.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/climate-schedule/remove-clmt-schedule.htm" FrameName="fContent" ReplaceMergeNode="false" BreakType="none" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+    </TocEntry>
+    <TocEntry Title="Toit">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/climate/roof/about-roof.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/phone-media.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Téléphone">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/phone/bluetooth-pairing.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/phone/phone-call.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/phone/smartphone-integration.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/phone/rivian-mobile-app.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/phone/thumb-controls-phone.htm"/>
+    </TocEntry>
+    <TocEntry Title="Connectivité">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/cellular-connectivity.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/wi-fi-hotspot/wi-fi-hotspot.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/wi-fi-hotspot/about-wi-fi-hotspot.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/wi-fi-hotspot/use-wi-fi-hotspot.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/wi-fi-hotspot/change-name.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/wi-fi-hotspot/change-pwd.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/vehicle-wi-fi/vehicle-wi-fi.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/vehicle-wi-fi/about-vehicle-wi-fi.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/vehicle-wi-fi/connect-to-wi-fi.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/vehicle-wi-fi/access-wi-fi-set.htm" BreakType="none" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/connectivity/vehicle-wi-fi/rivianvehicles-network.htm"/>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Charge du dispositif" StartSection="false" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/device-charging/usb-charge-ports.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/device-charging/wireless-charger.htm"/>
+    </TocEntry>
+    <TocEntry Title="Audio" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/sound-system.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/about-sound-system.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/adjust-volume.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/adjust-other-audio-settings.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/thumb-controls-media.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/thumb-controls-fm-radio.htm"/>
+      </TocEntry>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/media-sources.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/about-media-sources.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/source-selector.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/radio.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/apple-music.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/audible.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/siriusxm.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/spotify.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/tidal.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/tunein.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/audio/bluetooth.htm"/>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Video">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/video/about-video-sources.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/video/google-cast.htm" MadCap:generatedToc="true"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/video/youtube-living-room.htm" MadCap:generatedToc="true"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/video/launch-cam.htm"/>
+    </TocEntry>
+    <TocEntry Title="Alexa" BreakType="none" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/custom/Chapters.flpgl" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/alexa/ovw-setup.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/alexa/disable-wake-word.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/phone-media/alexa/things-you-can-ask-alexa.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/driving.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Opérations de base du véhicule" FrameName="fContent">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/startup-sleep.htm" FrameName="fContent"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/vehicle-data.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/brakes.htm" FrameName="fContent"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/gear-selection.htm" FrameName="fContent"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/ext-lights.htm" ReplaceMergeNode="false">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/about-ext-lights.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/headlights-taillights.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/high-beams.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/ext-lights-high-beams-assist-PEREGRINE.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/turn-signals.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/hazard-lights.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/roadside-lighting.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/exterior-lights/ext-lights-set.htm"/>
+      </TocEntry>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/int-lights.htm" ReplaceMergeNode="false">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/about-int-lights.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/reading-lights.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/cargo-lights-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/liftgate-lights-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/accent-lights.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/int-lights-controls.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/interior-lights/int-lights-set.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/steering-wheel/steering-wheel.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/steering-wheel/thumb-controls.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/steering-wheel/thumb-controls-adjust-wheel.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/horn.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/stalks.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/wipers/wipers.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/wipers/wipers-front.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/wipers/wipers-front-auto.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/wipers/washer-windshield.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/wipers/wipers-rear-r1s.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/wipers/wipers-rear-auto-r1s.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/driver-profile-settings/driver-profile-settings.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/driver-profile-settings/driver-profile-seat.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/basic-operations/driver-profile-settings/driver-profile-media.htm"/>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Commandes de conduite">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/driving-controls/status-indicators-with-table.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/driving-controls/power-gauge.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/driving-controls/vehicle-hold.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/driving-controls/emergency-deceleration.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/driving-controls/electronic-stability-control.htm"/>
+    </TocEntry>
+    <TocEntry Title="Écrans d'affichage">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/center-display.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/center-display-about.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/center-display-settings.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/center-display-app-launcher.htm" BreakType="none" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/center-display-quick-controls.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/driver-display.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/driver-display-about.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/driver-display-indicators.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/display-screens/rear-display.htm"/>
+    </TocEntry>
+    <TocEntry Title="Modes de conduite">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/drive-modes-about.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/drive-modes-onroad.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/drive-modes-offroad.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/launch-mode.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/drive-mode-settings.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/stability-setting.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/ride-feel-setting.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/brake-regen-setting.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/hold-setting.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/ride-height.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/drive-modes/gauge-view.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]"/>
+    </TocEntry>
+    <TocEntry Title="Navigation">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/navigation/nav-ovw.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/navigation/charging-stops.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/navigation/trip-preferences.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/navigation/add-stops.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/navigation/send-location-from-phone.htm"/>
+    </TocEntry>
+    <TocEntry Title="Remorquage d'une remorque">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/towing-trailer/trailer-load-capacity.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/towing-trailer/trailer-hitch.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/towing-trailer/trailer-settings.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/towing-trailer/trailer-brakes.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/towing-trailer/manual-cruise-control.htm"/>
+    </TocEntry>
+    <TocEntry Title="Conduite hors route">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/trip-preparation.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/tread-lightly-principles.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/tips-techniques.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/air-down-tires.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/drive-across-water.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/negotiate-obstacles.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/recover-extract-vehicle.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driving/off-road-driving/post-trip-inspection.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driver-assistance.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl" PageType="first">
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Assistance au conducteur Introduction">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/introduction/about-driver-assistance.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/introduction/sensors-and-cameras.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Assistance à la conduite">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/set-safety-info-driving-asst.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/adaptive-cruise-control.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/highway-assist.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/enhanced-highway-assist.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/curve-speed-assist.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/lane-change-on-command.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/smart-turn-signals.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/driving-assist/go-chime.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Sécurité de voie">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/lane-safety/set-safety-info-lane-safety.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/lane-safety/lane-departure-warning.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/lane-safety/lane-keeping-assist.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/lane-safety/blind-spot-monitoring.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Réduction des collisions">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/collision-mitigation/set-safety-info-collision-mit.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/collision-mitigation/fwd-collision-warning.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/collision-mitigation/auto-emergency-braking.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/collision-mitigation/dynamic-brake-support.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Sécurité de stationnement">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/parking-safety/set-safety-info-park-safety.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/parking-safety/park-assist.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/parking-safety/rear-x-traffic-warning.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Sécurité des feux">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/driver-assistance/light-safety/high-beams-assist-PEREGRINE.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging-range.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Charge">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/find-charger.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/start-charge-session.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/set-charge-amperage.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/set-charge-limit.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/charge-status.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/charge-session-data.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/stop-charge-session.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/charging/set-charge-schedule.htm"/>
+    </TocEntry>
+    <TocEntry Title="Gamme">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/range/range-estimates.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/range/energy-monitor.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/range/effects-on-range.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/range/low-battery.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/charging-range/range/battery-life.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/storage-security.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Rangement intérieur">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/center-console.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/storage-drawer.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/rear-seat-armrest.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/door-pockets.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/seat-back-pockets.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/under-seat-storage.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/cargo-storage-r1s.htm" conditions="R1VehicleConditions.R1S">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/cargo-tie-downs-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/cargo-d-rings-r1s.htm" conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/cargo-bed-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/interior-storage/spare-tire-compart-r1s-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine,R1VehicleConditions.R1S" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Rangement extérieur">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/exterior-storage/front-trunk-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/exterior-storage/liftgate-r1s.htm" conditions="R1VehicleConditions.R1S"/>
+    </TocEntry>
+    <TocEntry Title="Sécurité" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/about-gear-guard-security.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-set.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/gear-guard-video.htm" FrameName="" ReplaceMergeNode="false">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/about-gear-guard-video.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/view-recorded-videos.htm"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/copy-video.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/road-cam.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/incidents.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-video/motion-cam.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      </TocEntry>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/storage-security/security/gear-guard-alarm.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-recreation.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Commandes de camping" PageNumber="1" BreakType="none" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/about-camping-controls.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/energy-use.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/outlets.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/camp-courtesy.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/turn-displays-off.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/flood-lights.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/camping-controls/vehicle-leveling.htm"/>
+    </TocEntry>
+    <TocEntry Title="Montrer et expliquer">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/camping-recreation/show-and-tell/about-show-and-tell.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/accessories.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Compresseur d'air" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/custom/Chapters.flpgl" PageNumber="1" BreakType="none" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/air-compressor/about-air-compressor.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/air-compressor/use-air-compressor-accessory-kit.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/air-compressor/use-the-air-compressor.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/air-compressor/inflate-tires-and-adventure-gear.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Kit de premiers soins">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/first-aid-kit/about-first-aid.htm"/>
+    </TocEntry>
+    <TocEntry Title="Torche Rivian" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/rivian-torch/use-rivian-torch.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/rivian-torch/torch-settings.htm" FrameName="fContent"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/rivian-torch/charge-torch.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/rivian-torch/torch-replace-battery.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/rivian-torch/torch-charging-compartment.htm" FrameName="fContent" ReplaceMergeNode="false"/>
+    </TocEntry>
+    <TocEntry Title="Autres accessoires">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/accessories/other-accessories.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/service-maintenance.htm" StartSection="false" BreakType="chapter" PageType="first" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Nettoyage extérieur">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/ext-cleaning/car-wash-mode.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/ext-cleaning/commercial-car-wash.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/ext-cleaning/hand-wash-and-wax.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/ext-cleaning/ext-clean-speakers.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/clean-wheels/clean-road-wheel.htm"/>
+    </TocEntry>
+    <TocEntry Title="Nettoyage intérieur">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/int-cleaning/int-clean-surfaces.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/int-cleaning/int-clean-display-screens.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/int-cleaning/int-clean-floor-mats.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Soins par temps froid">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/cold-weather-care/cold-care-surfaces.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/cold-weather-care/cold-care-lights.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Entretien de routine">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/about-maintenance.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/windshield-washer-fluid.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/replace-wiper-blades.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/replace-key-fob-battery-gen2.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/replace-cabin-air-filter.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/refrigerant-system.htm" StartSection="false"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/rotate-tires.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/routine/replace-tires.htm"/>
+    </TocEntry>
+    <TocEntry Title="Changement de pneu" StartSection="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/about-tire-change.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/change-tire-prepare-vehicle.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/change-tire-prepare-spare.htm" BreakType="none" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/lift-vehicle-tire-service-kit.htm" ReplaceMergeNode="false">
+        <TocEntry Title="[%=System.LinkedTitle%]"/>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/lift-vehicle-post2023-kit.htm"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/remove-replace-wheel.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/wheel-tire-swap.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/lift-vehicle-non-rivian-jack.htm"/>
+    </TocEntry>
+    <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="Réparation des pneus crevés">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/service-maintenance/tires/seal-flat-tire.htm"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting-help.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Dépannage">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/restart.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/restart-software.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/restart-vehicle.htm" BreakType="none" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      </TocEntry>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/jump-start-12v-batteries.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/about-jump-start.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/jump-start-1st-12v-battery.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/manually-open-hood.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/manually-release-charge-plug.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/calibration-settings.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/calibrate-drivers-seat.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/calibrate-steering-wheel.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/calibrate-windows.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      </TocEntry>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/overheating.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/troubleshooting/system-failures.htm"/>
+    </TocEntry>
+    <TocEntry Title="Assistance routière">
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/transport-tow-vehicle.htm">
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/prepare-tow.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/connect-tow-trailer-hitch.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/connect-tow-eye.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/lift-rear-wheels.htm"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/load-tow-vehicle.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+        <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/roadside-assistance/vehicle-shipping-mode.htm" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Aide">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/help/emergency-sos.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/troubleshooting-help/help/manually-open-doors-peregrine.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/legal-reference.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl">
+    <TocEntry Title="Légal" FrameName="fContent" ReplaceMergeNode="false">
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/certificates-conformity.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/ised-ic-statement.htm" conditions="RegionSpecificConditions.CA"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/exposure-radio-freq.htm"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/class-1-laser-product.htm" conditions="R1PlatformConditions.R1Peregrine"/>
+      <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/event-data-recorder.htm" FrameName="fContent" ReplaceMergeNode="false" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/data-and-privacy.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/clear-settings.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/odometer-disclosure.htm"/>
+      <TocEntry xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" Title="[%=System.LinkedTitle%]" Link="/Content/OG/legal-reference/reporting-safety-defects-ca.htm" conditions="RegionSpecificConditions.CA" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Chapters-8x11.flpgl"/>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/OG/customer-service/customer-service.htm" BreakType="chapter" PageType="first" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Backmatter-8x11-customer-service.flpgl"/>
+</CatapultToc>
