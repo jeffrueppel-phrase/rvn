@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Utilisez l’une des clés et méthodes suivantes pour verrouiller et déverrouiller le véhicule :</p>
+        <ul>
+            <li>
+                <p>Choisissez Verrouiller ou Déverrouiller sur la touche du téléphone.</p>
+            </li>
+            <li>
+                <p>Appuyez sur les boutons Verrouiller ou Déverrouiller sur le porte-clés.</p>
+            </li>
+            <li>
+                <p>Tenez la carte-clé ou le porte-clés sur le lecteur NFC (Near Field Communication) situé sur la poignée de la porte conducteur.</p>
+            </li>
+            <li>
+                <p>Choisissez les icônes Verrouiller ou Déverrouiller dans l’affichage central ou arrière.</p>
+            </li>
+            <li>
+                <p>Utilisez le verrouillage de proximité lorsque vous êtes à proximité du véhicule avec une clé de téléphone ou un porte-clés.</p>
+            </li>
+            <li>
+                <p>Utilisez Appuyez pour déverrouiller lorsque vous êtes à proximité avec une touche de téléphone. </p>
+            </li>
+        </ul>
+        <p>Atteindre <b>Paramètres <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icône Paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> > Accès > véhicule</b> pour définir tous les comportements de verrouillage.</p>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Dans le <b>Paramètres <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icône Paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> > Pilotes et clés</b> , les indicateurs (points noirs) identifient la clé qui a déverrouillé le véhicule et le propriétaire de cette clé. </p>
+                </li>
+                <li>
+                    <p>Les portes se verrouillent automatiquement lorsque vous commencez à conduire.</p>
+                </li>
+                <li>
+                    <p>Si le véhicule reçoit une commande de déverrouillage actif ou passif et qu’une porte n’est pas ouverte dans les 2 minutes, le véhicule se reverrouille automatiquement.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
