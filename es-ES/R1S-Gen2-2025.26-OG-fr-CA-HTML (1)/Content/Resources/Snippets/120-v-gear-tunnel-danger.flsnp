@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="danger-electrical">
+            <p MadCap:conditions="R1VehicleConditions.R1S">Los accesorios suministrados por Rivian son los que mejor se adaptan a su vehículo. Para reducir el riesgo de incendio o de un incidente térmico, tenga cuidado al dejar dispositivos que no sean de Rivian enchufados y sin supervisión.</p>
+            <p MadCap:conditions="R1VehicleConditions.R1S">No permita que ningún objeto obstruya las salidas en uso.</p>
+        </div>
+    </body>
+</html>
