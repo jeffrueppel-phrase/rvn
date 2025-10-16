@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-icon-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <div class="danger-nonelectrical" MadCap:conditions="R1VehicleConditions.R1S,RegulatoryConditions.HomologatedContent">
+            <p>Dado que su centro de gravedad es más alto, los vehículos utilitarios tienen una tasa de vuelco significativamente mayor que otros tipos de vehículos. Evite las curvas bruscas a velocidades excesivas. En caso de vuelco, una persona sin cinturón de seguridad tiene muchas más probabilidades de morir que una persona que lo lleva abrochado.</p>
+        </div>
+        <!-- LB note 4/10/25: to get this danger on page above in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to the below div -->
+        <div class="danger-nonelectrical" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Ajuste el asiento a la posición adecuada antes de conducir el vehículo. Asegúrese de que el cinturón de seguridad quede bien sujeto en el pecho y el hombro. No conduzca el vehículo si hay un espacio entre el cinturón de seguridad y el pecho.</p>
+            <p>Para evitar el riesgo de lesiones o la muerte por frenadas bruscas, colisiones o uso inadecuado, haga lo siguiente:</p>
+            <ul>
+                <li>
+                    <p>Use un cinturón de seguridad por persona.</p>
+                </li>
+                <li>
+                    <p>Abroche los cinturones de seguridad antes de que el vehículo comience a moverse para evitar el riesgo de lesiones por frenadas bruscas o colisiones. </p>
+                </li>
+                <li>
+                    <p>Asegúrese de que todos los cinturones de seguridad estén bien abrochados.</p>
+                </li>
+                <li>
+                    <p>Asegúrese de que el cinturón de seguridad no esté torcido ni al revés.</p>
+                </li>
+                <li>
+                    <p>Use el cinturón de seguridad de modo que se apoye sobre el hombro sin tocar el cuello. No pase el cinturón por detrás de la espalda.</p>
+                </li>
+                <li>
+                    <p>Use el cinturón de seguridad en la cadera lo más bajo posible.</p>
+                </li>
+                <li>
+                    <p>Siéntese bien en el asiento y en posición erguida.</p>
+                </li>
+                <li>
+                    <p>No manipule ni realice modificaciones en el cinturón de seguridad que impidan que absorba el holgura, como el uso de "clips de confort". Un cinturón de seguridad holgado podría reducir significativamente la eficacia del cinturón de seguridad en caso de accidente.</p>
+                </li>
+                <li>
+                    <p>Tenga cuidado al manipular la parte metálica del cinturón de seguridad, ya que puede calentarse mucho en días soleados.</p>
+                </li>
+                <li>
+                    <p>Un profesional de servicio debe inspeccionar de forma rutinaria todas las partes del cinturón de seguridad. En caso de accidente, le recomendamos llevar el vehículo a un centro de colisiones certificado por Rivian para una inspección de seguridad. En algunos casos, las partes del cinturón de seguridad en uso durante un accidente pueden necesitar ser reemplazadas, incluso si no hay ningún daño visible.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>
+            <a name="Fasten"> </a>Abrochar los cinturones de seguridad</h2>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Ajuste el asiento a una posición vertical.</p>
+                            </li>
+                            <li>
+                                <p>Siéntese con la espalda y las caderas apoyadas en el respaldo del asiento.</p>
+                            </li>
+                            <li>
+                                <p>Mantenga la placa de la lengüeta y tire de el cinturón hacia la hebilla.</p>
+                                <div class="note">
+                                    <p>Evite torcer el cinturón de seguridad y evite movimientos rápidos o bruscos para evitar que el cinturón se bloquee.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <p>Inserte la placa de la lengüeta en la hebilla hasta que escuche un clic.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-buckled-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-buckled-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-buckled-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyE-Column1-Body1">
+                        <ol start="5">
+                            <li>
+                                <p>Ajuste el cinturón de cadera lo más bajo posible en las caderas.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyD-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-correct-position-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-correct-position-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-correct-position-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol start="6">
+                            <li>
+                                <p>Mantenga presionado el botón del anclaje del hombro y deslícelo hacia arriba o hacia abajo para ajustar la altura del cinturón de hombro.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-shoulder-anchor-adjustment-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/day/seat-belts-shoulder-anchor-adjustment-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/seat-belts-shoulder-anchor-adjustment-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            <p>El cinturón de hombro debe pasar por la parte media del hombro y a través del pecho sin tocar el cuello. Los cinturones de seguridad no están diseñados para usarse con dispositivos de alivio de tensión, como los clips de comodidad. Usar el cinturón en una posición inadecuada o introducir holgura en el cinturón podría reducir significativamente su efectividad en caso de accidente.</p>
+        </div>
+        <h2>Desabrochar los cinturones de seguridad</h2>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ol>
+                            <li>
+                                <p>Presione el botón de liberación de la  hebilla.</p>
+                            </li>
+                            <li>
+                                <p>Permita que el cinturón de seguridad se retraiga lentamente para evitar cualquier  torsión.</p>
+                            </li>
+                            <li>
+                                <p>Asegúrese de que el cinturón se haya retraído completamente para evitar cerrar la puerta sobre el cinturón o la placa de la lengüeta.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-release-button-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-release-button-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-release-button-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Niños</h2>
+        <p class="KeepWithNext">Los niños deben estar en los asientos traseros y correctamente sujetos en un asiento infantil adecuado para su altura y peso. </p>
+        <p>Si el niño es demasiado grande para un asiento infantil, puede sujetarse con el cinturón de seguridad. Para un ajuste adecuado, el cinturón de seguridad para los hombros debe cruzar la parte delantera del niño y no tocar la cara o el cuello. El cinturón de seguridad para el abdomen debe sujetarse lo más bajo posible en las caderas y no en la cintura del niño. Ver también <a href="../child-seats/child-seats-getting-started.htm">Asientos para niños</a>.</p>
+        <table class="TableStyle-proc-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <h2>Personas embarazadas</h2>
+                        <p>Use el cinturón de seguridad para el abdomen de forma segura y lo más bajo posible sobre las caderas, no sobre la cintura. Use el cinturón de seguridad entre los senos y en el lado del abdomen.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/seat-belts-v03-seat-belt-correct-position-pregnant-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/day/seat-belts-v03-seat-belt-correct-position-pregnant-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/night/seat-belts-v03-seat-belt-correct-position-pregnant-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Recordatorio de cinturón de seguridad</h2>
+        <ul MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <li>
+                <p>Asegúrese de abrocharse bien los cinturones de seguridad al conducir el vehículo.</p>
+            </li>
+            <li>
+                <p>Si los asientos delanteros ocupados no están abrochados, el indicador de recordatorio del cinturón de seguridad <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/ttales_seatbelt_airbag/ic_telltales_seatbelt_and_airbag_seatbelt_20_selected_default.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-seatbelts-inline-day.svg" alt="Icono del cinturón de seguridad" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-seatbelts-inline-night.svg" alt="Icono del cinturón de seguridad" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> se enciende en la pantalla del conductor, junto con una notificación. Bajo ciertas condiciones, escuchará una advertencia audible.</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/txt-icon-table.css');margin-left: 0;margin-right: auto;" class="TableStyle-txt-icon-table" cellspacing="0" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-txt-icon-table-Column-Column1" />
+            <col class="TableStyle-txt-icon-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-txt-icon-table-Body-Body1">
+                    <td class="TableStyle-txt-icon-table-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p>En la pantalla del conductor aparece un gráfico adjunto que muestra el estado del cinturón de seguridad para todos los asientos.</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-txt-icon-table-BodyA-Column2-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/icons-seatbelt-reminder-R1S-online.flsnp"></MadCap:snippetText>
+                        <img class="image-day" src="../../../Resources/Images/Icons/day/icons-seatbelt-reminder-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/Icons/night/icons-seatbelt-reminder-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ul MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <li>
+                <p>Un asiento infantil u otro objeto pesado colocado en un asiento podría hacer que el indicador de recordatorio del cinturón de seguridad permanezca encendido incluso cuando el asiento esté vacío.</p>
+            </li>
+        </ul>
+        <div class="note" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <p>Si tiene una silla de seguridad instalada, abroche el cinturón de seguridad para desactivar los timbres.</p>
+        </div>
+        <h2>Prensadores de cinturón de seguridad</h2>
+        <p>Los cinturones de seguridad de los asientos exteriores de la primera y segunda fila están equipados con un pretensor de cinturón de seguridad. Los pretensores generalmente se activan junto con los airbags durante accidentes que involucran fuerza en la parte delantera y lateral del vehículo, incluidos los accidentes de vuelco. En estos casos, el pretensor del cinturón de seguridad elimina el holgura del cinturón de seguridad para ayudar a retener al ocupante. Los pretensores del cinturón de seguridad no están diseñados para activarse en impactos menores.</p>
+        <p>Si los pretensores del cinturón de seguridad se han activado o están funcionando mal de modo que los cinturones de seguridad no pueden retraerse o estirarse, los indicadores de airbag correspondientes aparecen en la pantalla del conductor. <a href="../../customer-service/customer-service.htm">Póngase en contacto con Rivian</a> para obtener asistencia o servicio.</p>
+        <table class="TableStyle-img-img-table" style="mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" cellspacing="0">
+            <col style="width: 10%;" class="TableStyle-img-img-table-Column-Column1" />
+            <col style="width: 30%;" class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v03-airbag-malfunction-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v03-airbag-malfunction-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-airbag-malfunction-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/techpubs_text/tp_status-indicator-icon-v04-passenger-airbag-off_36.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v04-passenger-airbag-off-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v04-passenger-airbag-off-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Las modificaciones o accesorios en la parte delantera del vehículo, como barras, cabrestantes o quitanieves, pueden afectar a los sensores del pretensor del cinturón de seguridad. No modifique el vehículo con piezas no aprobadas por Rivian.</p>
+        </div>
+        <h2>Mantenimiento del cinturón de seguridad</h2>
+        <p class="KeepWithNext">Use agua y un jabón suave con un paño blando para limpiar las manchas superficiales del cinturón de seguridad. Inspeccione periódicamente los cinturones de seguridad en busca de signos de daño, incluyendo desgaste. <a href="../../customer-service/customer-service.htm">Póngase en contacto con Rivian</a> para programar el servicio de sus cinturones de seguridad. </p>
+        <p>No utilice lejía u otras sustancias agresivas para limpiar los cinturones, ya que esto puede afectar su resistencia y rendimiento. No realice modificaciones en los cinturones de seguridad que impidan su funcionamiento adecuado. </p>
+    </body>
+</html>
