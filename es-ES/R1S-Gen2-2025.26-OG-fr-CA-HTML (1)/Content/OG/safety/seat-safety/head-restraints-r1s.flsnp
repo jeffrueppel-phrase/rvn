@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2>Respaldos de cabeza del asiento delantero</h2>
+        <p>El asiento del conductor y el asiento del acompañante están equipados con reposacabezas integrados. Los reposacabezas no son ajustables. </p>
+        <h2>Apoyacabezas del asiento central de la segunda fila</h2>
+        <p>Para ajustar el reposacabezas del asiento central de la segunda fila, tire hacia arriba de la sujeción hasta que se bloquee en su lugar. </p>
+        <div class="note">
+            <p>Los reposacabezas exteriores de la segunda fila no son ajustables. </p>
+        </div>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/head-restraints-v02-R1T-raise-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/head-restraints-v02-R1T-raise-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/head-restraints-v02-R1T-raise-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <p>Para bajar el reposacabezas, presione el botón en la parte inferior de la barra izquierda del reposacabezas mientras empuja hacia abajo en la parte superior del reposacabezas. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/head-restraints-v02-R1S-lower-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/head-restraints-v02-R1S-lower-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/head-restraints-v02-R1S-lower-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <!-- LB note 4/10/25: To get danger on one page with rest of content in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to p of danger below -->
+        <div class="danger-nonelectrical">
+            <p>Levante el reposacabezas del asiento central de la segunda fila a su posición bloqueada antes de que un pasajero ocupe el asiento para ayudar a minimizar el riesgo de lesiones (incluidas lesiones en el cuello) en caso de choque. El conductor no debe accionar el vehículo hasta que el reposacabezas esté en la posición bloqueada.</p>
+        </div>
+        <h2>Apoyacabezas de asiento exterior de segunda fila</h2>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Quite los apoyacabezas de los asientos exteriores de la segunda fila presionando los botones en la parte inferior de las varillas del apoyacabezas y levantando el apoyacabezas hacia arriba.</p>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>El desmontaje y la reinstalación de los apoyacabezas exteriores del asiento de la segunda fila solo deben ser realizados por personal de servicio cualificado.</p>
+        </div>
+        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-2ndrow-remove-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+        <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-2ndrow-remove-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-2ndrow-remove-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <p>Para volver a instalar el reposacabezas, alinee las varillas con los orificios en la parte superior del asiento y empuje la parte superior del reposacabezas hacia abajo hasta que se bloquee en su lugar.</p>
+        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-2ndrow-install-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+        <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-2ndrow-install-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-2ndrow-install-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <div class="danger-nonelectrical">
+            <p>Asegúrese de que los reposacabezas del asiento exterior de la segunda fila estén completamente en la posición bloqueada antes de que un pasajero ocupe los asientos exteriores para ayudar a minimizar el riesgo de lesiones (incluidas lesiones en el cuello) en caso de choque. El conductor no debe accionar el vehículo hasta que los apoyacabezas estén en la posición bloqueada.</p>
+        </div>
+        <h2 class="KeepWithNext">Respaldos de cabeza de asiento de tercera fila</h2>
+        <p class="KeepWithNext">Tire del pestillo manual hasta la primera muesca para plegar un reposacabezas del asiento de la tercera fila hacia abajo.</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-3rdrow-down-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                        <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-3rdrow-down-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-3rdrow-down-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-3rdrow-up-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-3rdrow-up-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-3rdrow-up-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-nonelectrical">
+            <p>Levante los apoyacabezas de los asientos de la tercera fila a la posición bloqueada antes de que los pasajeros ocupen los asientos para ayudar a minimizar el riesgo de lesiones (incluidas las lesiones del cuello) en caso de choque. El conductor no debe accionar el vehículo hasta que los apoyacabezas estén en la posición bloqueada.</p>
+        </div>
+    </body>
+</html>
