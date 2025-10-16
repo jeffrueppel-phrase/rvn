@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2>Avant et arrière</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <img src="../../../Resources/Images/print/driver-plus-overview-peregrine-r1s-front-rear-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" style="margin-bottom: -8pt;" />
+        </p>
+        <table style="width: 100%; mc-table-style: url('../../../Resources/TableStyles/callout-table.css'); margin-left: 0; margin-right: auto;" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Article</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Caméra avant</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Capteurs ultrasoniques</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Capteur radar avant</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Radars de coin</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Caméra intérieure</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">La caméra intérieure (5) est située dans le rétroviseur face au conducteur et est utilisée pour détecter l'attention du conducteur sur la route.</p>
+        <p>
+            <!-- adas-driver-attention -->
+            <img src="../../../Resources/Images/print/adas-driver-attention-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <div class="important" style="page-break-inside:avoid;">
+            <ul style="page-break-inside:avoid;">
+                <li>
+                    <p>La caméra avant est située derrière le rétroviseur. </p>
+                </li>
+                <li>
+                    <p>Le radar avant est situé au centre du pare-chocs avant. </p>
+                </li>
+                <li>
+                    <p>Les capteurs radar de coin arrière se trouvent aux coins des pare-chocs arrière. </p>
+                </li>
+                <li>
+                    <p>Les capteurs ultrasoniques situés autour du véhicule mesurent la distance entre le véhicule et les objets environnants.</p>
+                </li>
+            </ul>
+            <p>Gardez ces zones propres et dégagées d'obstructions. N'appliquez pas de film, d'autocollants, de plaques métalliques ou d'autres équipements qui pourraient bloquer les caméras, les radars ou les capteurs. Utilisez uniquement le film de protection de peinture (PPF) fourni par Rivian.</p>
+        </div>
+        <div class="note">
+            <p>Si un capteur tombe en panne, un triangle rouge avec un point d'exclamation apparaît en bas de l'affichage du conducteur.</p>
+        </div>
+        <h2>Côté conducteur</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <img src="../../../Resources/Images/print/driver-plus-overview-peregrine-r1s-left-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <table style="width: 100%; mc-table-style: url('../../../Resources/TableStyles/callout-table.css'); margin-left: 0; margin-right: auto;" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Article</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Caméra d'aile</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Caméra de vue panoramique</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Caméra de changement de voie</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 class="KeepWithNext">Caméras automatiques</h2>
+        <p class="KeepWithNext">Différentes vues de caméra facilitent le stationnement dans des espaces restreints et offrent une visibilité supplémentaire autour du véhicule. Le véhicule utilise des capteurs ultrasoniques pour détecter la distance aux objets à proximité et active automatiquement la caméra avant à basse vitesse.</p>
+        <p class="KeepWithNext">Vous pouvez ajuster les paramètres de la caméra automatique sur l'écran central en allant dans <b>Paramètres</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icône des paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all" style="font-weight: bold;"/><b> > Véhicule > Assistance au conducteur > Caméras automatiques</b>. </p>
+        <p class="KeepWithNext">Activez la caméra en "on" pour afficher une vue de la caméra avant sur l'écran central dans les conditions suivantes :</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>Lorsque <a href="../parking-safety/park-assist.htm">Aide au stationnement</a> détecte des objets (comme lorsque vous entrez dans une place de stationnement).</p>
+            </li>
+            <li>
+                <p>Lors du passage de <b>R</b> (Recul) à <b>D</b> (Conduite).</p>
+            </li>
+        </ul>
+        <div class="note">
+            <p>La vue de la caméra avant s'active lorsque la vitesse du véhicule est <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:6,;measure.imperial-unit:mph,;measure.metric-value:10,;measure.metric-unit:km/h,"></MadCap:snippetText> ou moins.</p>
+        </div>
+    </body>
+</html>
