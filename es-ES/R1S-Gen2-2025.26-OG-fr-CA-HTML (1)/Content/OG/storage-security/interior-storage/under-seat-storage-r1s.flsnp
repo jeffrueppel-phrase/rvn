@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Hannah Levin">
+    <head>
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p class="KeepWithNext" MadCap:conditions="R1PlatformConditions.R1Peregrine">Un cajón de almacenamiento se encuentra debajo del asiento del conductor. Si su vehículo incluye un cajón de almacenamiento para el pasajero delantero, se encuentra debajo del asiento del pasajero delantero. Para acceder al cajón de almacenamiento, tire del pestillo. Para cerrarlo, empuje el cajón hacia adentro.</p>
+                        <div class="note">
+                            <p> La capacidad máxima de peso del cajón de almacenamiento debajo del asiento es de aproximadamente <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:0.5,;measure.imperial-unit:lb,;measure.metric-value:230,;measure.metric-unit:g,"></MadCap:snippetText>.</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <p>
+                                <p>
+                                    <p>
+                                        <p>
+                                            <!-- origin under-seat-storage-v02-under-seat-storage -->
+                                        </p>
+                                        <p>
+                                            <!-- peregrine under-seat-storage --> <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/under-seat-storage_first-row-online.flsnp" MadCap:conditions="OutputTypeConditions.Web,R1PlatformConditions.R1Peregrine"></MadCap:snippetText>
+                                            <img class="image-day" src="../../../Resources/Images/day/under-seat-storage_first-row-day.svg" MadCap:conditions="OutputTypeConditions.Web,R1PlatformConditions.R1Peregrine" />
+                                            <img class="image-night" src="../../../Resources/Images/night/under-seat-storage_first-row-night.svg" MadCap:conditions="OutputTypeConditions.Web,R1PlatformConditions.R1Peregrine" />
+                                        </p>
+                                    </p>
+                                </p>
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
