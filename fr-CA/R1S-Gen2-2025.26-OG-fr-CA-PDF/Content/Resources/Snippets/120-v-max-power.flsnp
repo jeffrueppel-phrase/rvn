@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>N’utilisez pas de prise pour alimenter un appareil nécessitant une puissance supérieure à 1 500 W (1,5 kW). En cas de surcharge des circuits 120 V, l’alimentation est coupée. Débranchez les appareils avant de les rallumer.</p>
+                </li>
+                <li>
+                    <p>N’utilisez pas plus d’un appareil puissant en même temps. Les prises de 120 V partagent la puissance de 1 500 W (1,5 kW).</p>
+                </li>
+                <li>
+                    <p>Laisser les prises 120 V sous tension réduit l’autonomie de votre véhicule, même si aucun appareil n’est branché.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
