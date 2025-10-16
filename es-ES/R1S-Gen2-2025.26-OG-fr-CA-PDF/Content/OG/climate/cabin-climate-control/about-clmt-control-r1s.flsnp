@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>El vehículo ofrece tres zonas climáticas en la cabina:  </p>
+        <ul>
+            <li>
+                <p>Asiento del conductor</p>
+            </li>
+            <li>
+                <p>Asiento del pasajero delantero</p>
+            </li>
+            <li>
+                <p>Asientos de la segunda y tercera fila</p>
+            </li>
+        </ul>
+        <p>Controla el clima para cada zona con los botones en la parte inferior de la pantalla central.</p>
+        <p>
+            <img src="../../../Resources/Images/print/climate-control-options-v07-climate-tri-zones-r1s-print.svg" alt="clima de tres zonas" MadCap:conditions=" OutputTypeConditions.Print-all"/>
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 85%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Elemento</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Zona climática para el asiento del conductor</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Zona climática para el asiento del pasajero delantero</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Zona climática para los asientos de la segunda y tercera fila</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="page-break-before:always;">Para más configuraciones, elige <b>Ventilador</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Icono de estado del clima" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> en la parte inferior de la pantalla central. </p>
+        <p>Controla el clima para los asientos de la segunda y tercera fila con la pantalla central o trasera. </p>
+        <p>Para activar la preacondicionamiento del clima o establecer la temperatura antes de entrar en el vehículo, utiliza la aplicación móvil de Rivian.</p>
+        <div class="note" style="page-break-inside:avoid;">
+            <p>Mientras está estacionado, el vehículo puede hacer sonidos durante cualquiera de estas condiciones:</p>
+            <ul>
+                <li>
+                    <p>Preacondicionamiento del clima</p>
+                </li>
+                <li>
+                    <p>Carga del vehículo</p>
+                </li>
+                <li>
+                    <p>Instalación de una actualización de software</p>
+                </li>
+                <li>
+                    <p>Condicionamiento de la batería (calentamiento o enfriamiento) en condiciones climáticas extremas</p>
+                </li>
+                <li>
+                    <p>Protección de las pantallas o del vehículo contra el sobrecalentamiento</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
