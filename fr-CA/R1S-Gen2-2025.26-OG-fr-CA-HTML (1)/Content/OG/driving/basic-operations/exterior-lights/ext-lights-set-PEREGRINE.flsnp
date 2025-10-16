@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Sur l'écran central, allez dans<b>Paramètres d'</b> <span class="nonbreaking"><b></b>. <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icône Paramètres" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icône Paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> &amp;gt; <b>Véhicule</b> &amp;gt; <b>Affichages et éclairage</b> pour accéder aux paramètres suivants :</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Assistance aux feux de route adaptative : </b>Activé par défaut. Pour désactiver <a href="../../../driver-assistance/light-safety/high-beams-assist-PEREGRINE.htm">l'assistance adaptative aux feux de route</a>, accédez à<b>l'</b> <span class="nonbreaking"><b>Paramètres</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icône Paramètres" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icône Paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> &amp;gt; <b>Véhicule</b> &amp;gt; <b>Affichages et éclairage</b>, puis désactivez <b>l'assistance aux feux de route adaptatifs</b>. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Éclairage interactif :</b> Activé par défaut. Vous pouvez activer ou désactiver ce paramètre. Si cette fonction est activée, les barres lumineuses réagissent lorsque vous verrouillez ou déverrouillez le véhicule. Vous pouvez modifier les paramètres suivants :</p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Barres lumineuses lors du chargement :</b> Activé par défaut. Vous pouvez activer ou désactiver ce paramètre. Si cette fonction est activée, les barres lumineuses indiquent <a href="../../../charging-range/charging/charge-status.htm">l'état de charge</a> pendant que le véhicule se recharge. Les barres lumineuses s'éteignent si le véhicule est verrouillé ou en veille pendant qu'il se recharge. </p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Lumières d'entrée :</b> Activé par défaut. Vous pouvez activer ou désactiver ce paramètre. Si cette fonction est activée, les <a href="../../../vehicle-overview/exterior-overview/ext-img-side-lights.htm">feux d'entrée</a> s'allument lorsque vous déverrouillez le véhicule.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Feux de guidage :</b> Activé par défaut. Vous pouvez activer ou désactiver ce paramètre. Si cette fonction est activée, les <a href="../../../vehicle-overview/exterior-overview/ext-img-front-rear-lights.htm">feux de guidage</a> s'allument la nuit lorsque vous verrouillez ou déverrouillez le véhicule. Choisissez la durée pendant laquelle les feux de guidage restent allumés après avoir verrouillé le véhicule.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Voyant du port de charge :</b> Désactivé par défaut. Vous pouvez activer ou désactiver ce paramètre. <a href="../../../charging-range/charging/charge-status.htm">Le voyant du port de recharge</a> s'allume pendant que le véhicule se recharge. Si cette fonction est activée, le voyant du port de recharge reste allumé après le verrouillage du véhicule pendant la recharge.</p>
+            </li>
+        </ul>
+    </body>
+</html>
