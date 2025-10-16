@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Utiliza la palanca de luces en el lado izquierdo del volante para controlar los intermitentes. </p>
+        <h2>Controles de la Palanca de Luces</h2>
+        <p>Para hacer parpadear los intermitentes al cambiar de carril, empuja ligeramente la palanca de luces hacia arriba o hacia abajo según la dirección del cambio de carril. Los intermitentes se detienen automáticamente después de parpadear tres veces.</p>
+        <p>Para hacer parpadear intermitentes continuos, empuja hasta que la palanca de luces haga clic. Para detener los intermitentes, realiza una de las siguientes acciones:</p>
+        <ul>
+            <li>
+                <p>Mueve el volante y completa el giro.</p>
+            </li>
+            <li>
+                <p>Empuja ligeramente la palanca de luces hacia arriba o hacia abajo.</p>
+            </li>
+            <li>
+                <p>Empuja la palanca de luces en la dirección opuesta al giro inicial hasta que haga clic. Esto también inicia intermitentes continuos para esa dirección opuesta.</p>
+            </li>
+        </ul>
+        <h2>Dirección del Giro</h2>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>Empuja la palanca de luces hacia arriba para indicar un giro a la derecha o un cambio de carril.</p>
+                        <p> Empuja la palanca de luces hacia abajo para indicar un giro a la izquierda o un cambio de carril.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../../Resources/Images/online/stalk-wiper-light-v06-light-turn-signal-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-light-turn-signal-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-light-turn-signal-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
