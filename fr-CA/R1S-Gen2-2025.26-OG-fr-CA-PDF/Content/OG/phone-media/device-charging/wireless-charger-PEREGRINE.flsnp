@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-2col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>Une fois votre véhicule allumé, vous pouvez charger votre téléphone compatible Qi et d'autres appareils rechargeables fonctionnant sur batterie sur le chargeur sans fil haute vitesse situé sur le plateau supérieur de la console centrale. <MadCap:conditionalText MadCap:conditions="R1PlatformConditions.R1Peregrine">Placez le téléphone face vers le haut sur le chargeur pour commencer la charge, en alignant le téléphone contre la nervure centrale du socle de charge.</MadCap:conditionalText> Vous verrez une icône de charge active sur votre appareil s'il s'agit d'une fonctionnalité prise en charge. Les temps de charge peuvent varier en fonction de l'appareil et des applications exécutées sur l'appareil, mais il faut environ 2 à 3 heures pour charger complètement un téléphone déchargé.</p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <p>
+                                <img src="../../../Resources/Images/print/wireless-charger-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Le chargeur est conçu pour fonctionner avec les téléphones enfermés dans la plupart des étuis de téléphone standard. </p>
+        <p>Bien que vous puissiez charger deux téléphones en même temps, le socle de chargement est conçu pour fonctionner de manière optimale en chargeant simultanément un téléphone et un autre petit objet tel que des écouteurs.</p>
+        <p>Le socle de charge est doté d'un capteur de température et arrête la charge si un appareil ou un environnement est trop chaud.</p>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>Pour éviter d'endommager le socle de chargement, ne placez pas d'objets métalliques ou magnétiques sur le socle ou entre le téléphone et le chargeur. Le socle de chargement est uniquement destiné à contenir un appareil compatible avec une batterie rechargeable, comme un téléphone. </p>
+                </li>
+                <li>
+                    <p>Ne laissez pas d’objets tels que des cartes-clés ou des cartes de crédit sur le pavé. Bien que le socle de chargement n'endommage pas une carte-clé, la présence d'une carte sur le socle empêchera le chargement.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>Dépannage</h2>
+        <table class="TableStyle-txt-2col-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/txt-2col-table.css');" cellspacing="0">
+            <col class="TableStyle-txt-2col-table-Column-Column1" />
+            <col class="TableStyle-txt-2col-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-txt-2col-table-Head-Header1">
+                    <th class="TableStyle-txt-2col-table-HeadE-Column1-Header1">
+                        <p>Si cela arrive</p>
+                    </th>
+                    <th class="TableStyle-txt-2col-table-HeadD-Column2-Header1">
+                        <p>Essayez ceci</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body1">
+                        <p>L'appareil est trop chaud</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body1">
+                        <p>Retirez l'appareil du chargeur, attendez qu'il refroidisse et essayez de le recharger plus tard.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body2">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body2">Le capteur du chargeur sans fil ne détecte pas l'appareil compatible</td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body2">
+                        <ul>
+                            <li>
+                                <p>Retirez tous les étuis portefeuille du téléphone.</p>
+                            </li>
+                            <li>
+                                <p>Retirez les coques de téléphone plus épaisses que 5 millimètres pour une meilleure détection du téléphone et des performances de charge.</p>
+                            </li>
+                            <li>
+                                <p>Retirez l’appareil du chargeur, attendez quelques secondes et remettez l’appareil sur le support.</p>
+                            </li>
+                            <li>
+                                <p>Déplacez l'appareil vers une autre position sur le chargeur pour trouver le positionnement de charge approprié.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyB-Column1-Body1">
+                        <p>L'appareil ne se charge pas</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyA-Column2-Body1">
+                        <ul>
+                            <li>
+                                <p>Assurez-vous que l'appareil est un appareil compatible Qi 1.2.4 (tel que les appareils mobiles iPhone<sup>®</sup> et Android<sup>™</sup> ou une paire d'écouteurs).</p>
+                            </li>
+                            <li>
+                                <p>Assurez-vous que vous êtes connecté à votre compte sur l'écran central.</p>
+                            </li>
+                            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                                <p>Placez le téléphone face vers le haut contre la nervure centrale du socle de chargement.</p>
+                            </li>
+                            <li>
+                                <p>Assurez-vous qu'il n'y a pas d'objet incompatible sur le socle de chargement (comme des cartes-clés, des objets étrangers ou des pièces métalliques). Retirez les objets tels que les pièces de monnaie ou les cartes de crédit de la poche de rangement d’un étui de téléphone.</p>
+                            </li>
+                            <li>
+                                <p>Répondez à tout avertissement sur l’écran central indiquant un élément non autorisé sur le socle de chargement.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
