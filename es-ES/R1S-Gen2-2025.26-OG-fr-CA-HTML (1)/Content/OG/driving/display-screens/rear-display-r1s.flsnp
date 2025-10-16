@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>La pantalla trasera es una pantalla táctil ubicada en la parte posterior de la consola central. Muestra la configuración climática para los pasajeros de la segunda fila y les permite ajustar las rejillas de ventilación y los asientos con calefacción. Los pasajeros de la segunda fila también pueden ajustar la velocidad del ventilador de los asientos de la tercera fila. La pantalla trasera también permite a los pasajeros funciones limitadas a los controles básicos del vehículo y multimedia (incluido punto de acceso Wi-Fi y<sup>conexión</sup> <i>Bluetooth®</i>), así como ver el progreso del viaje durante una sesión de navegación activa.</p>
+                        <div class="notes" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <ul>
+                                <li>
+                                    <p>Puede bloquear la pantalla trasera desde la pantalla central.</p>
+                                </li>
+                                <li>
+                                    <p>Si se utiliza la pantalla trasera para desbloquear el vehículo mientras no está estacionado, el vehículo se vuelve a bloquear automáticamente después de 3 segundos.</p>
+                                </li>
+                                <li>
+                                    <p>Cuando el vehículo viaja por encima de una determinada velocidad, los controles de bloqueo y desbloqueo no están disponibles en la pantalla trasera.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../Resources/Images/online/display-screens-v03-display-rear-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/day/display-screens-v03-display-rear-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/display-screens-v03-display-rear-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
