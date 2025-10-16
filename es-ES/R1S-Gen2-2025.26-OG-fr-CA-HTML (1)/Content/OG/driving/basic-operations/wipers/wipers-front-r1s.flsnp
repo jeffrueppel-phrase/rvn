@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext">Utiliza el interruptor del limpiaparabrisas <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-front-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-night" src="../../../../Resources/Images/Icons/night/wiper-front-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web" /> en la palanca de luces para controlar los limpiaparabrisas del parabrisas. En <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-auto-inline-day.svg" alt="Icono de estado del clima" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/wiper-auto-inline-night.svg" alt="Icono de estado del clima" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> modo, los limpiaparabrisas se encienden y apagan automáticamente cuando se detecta lluvia en el parabrisas.</p>
+        <ul>
+            <li>
+                <p>Empuja el interruptor del limpiaparabrisas hacia arriba para avanzar a través de los modos del limpiaparabrisas. Mantén el interruptor del limpiaparabrisas hacia arriba para saltar al modo Tormenta.</p>
+            </li>
+            <li>
+                <p>Empuja el interruptor del limpiaparabrisas hacia abajo para retroceder a través de los modos del limpiaparabrisas. Mantén el interruptor del limpiaparabrisas hacia abajo para apagar los limpiaparabrisas.</p>
+            </li>
+        </ul>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/stalk-wiper-light-v06-wiper-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-wiper-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-wiper-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <p class="KeepWithNext">La pantalla del conductor muestra los modos del limpiaparabrisas.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icono</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Velocidad del limpiaparabrisas</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_storm.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-storm-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-storm-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Tormenta</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_pour.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-downpour-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-downpour-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Lluvia intensa</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_shower.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-shower-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-shower-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Chubasco</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_drizzle.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-drizzle-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-drizzle-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Llovizna</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_sprinkle.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-sprinkle-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-sprinkle-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Rociar</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Auto</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-off-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-off-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Apagar</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="KeepWithNext">En Auto <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-auto-inline-day.svg" alt="Icono de estado del clima" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/wiper-auto-inline-night.svg" alt="Icono de estado del clima" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> modo, puedes ajustar los niveles de sensibilidad. Ver <a href="wipers-front-auto.htm">Limpiaparabrisas Automáticos</a>.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" />
+            <col class="TableStyle-callout-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-high-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-high-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-high-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Automático - alta sensibilidad</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-medium-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-medium-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-medium-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Automático - sensibilidad media</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-low-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/Icons/day/wiper-auto-low-v2-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/Icons/night/wiper-auto-low-v2-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">Automático - baja sensibilidad</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>En clima frío, limpia el parabrisas de cualquier nieve y hielo, y descongélalo completamente antes de encender los limpiaparabrisas. Si los limpiaparabrisas están congelados al parabrisas, esto podría causar daños al motor del limpiaparabrisas. </p>
+                </li>
+                <li>
+                    <p>No enceres, laves ni recubras el parabrisas con productos que contengan repelente de agua. Estos productos pueden afectar la detección de lluvia, impidiendo que la función de limpiaparabrisas automático funcione correctamente.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
