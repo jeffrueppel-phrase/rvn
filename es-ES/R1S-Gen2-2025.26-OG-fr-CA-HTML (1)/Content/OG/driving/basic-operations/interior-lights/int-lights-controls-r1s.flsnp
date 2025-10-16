@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2 class="KeepWithNext">Pantalla central</h2>
+        <p class="KeepWithNext">Elige <span class="nonbreaking"><b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Icono del vehículo" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Icono del vehículo" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> de la barra de estado en la pantalla central. </p>
+        <p class="KeepWithNext">Elige <span class="nonbreaking"><b>Luces</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" class="image-inline-day" alt="Icono de luces del portón trasero" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Icono de luces del portón trasero" MadCap:conditions="OutputTypeConditions.Web"/></span> para encender o apagar las luces correspondientes. </p>
+        <div class="note">
+            <p>Para las luces del portón trasero, el control aparece solo cuando el portón trasero está abierto.</p>
+        </div>
+        <h2 class="KeepWithNext">Pantalla trasera</h2>
+        <p>Elige <span class="nonbreaking"><b>Luces</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" alt="Icono de luces del portón trasero" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Icono de luces del portón trasero" MadCap:conditions="OutputTypeConditions.Web"/></span> para encender o apagar las luces de la cabina trasera. </p>
+    </body>
+</html>
