@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Le mode Show and Tell fait ce qui suit :</p>
+        <ul>
+            <li>
+                <p>Garde les affichages et les lumières extérieures allumés. </p>
+            </li>
+            <li>
+                <p>Garde le véhicule éveillé.</p>
+            </li>
+            <li>
+                <p>Désactive le klaxon.</p>
+            </li>
+            <li>
+                <p>Désactive le verrouillage et le déverrouillage de proximité.</p>
+            </li>
+            <li>
+                <p>Régle les <a href="../../driving/basic-operations/exterior-lights/headlights-taillights.htm">lumières</a> sur <b>Auto</b>, ce qui permet d'avoir les lumières les plus brillantes, si les lumières sont éteintes lorsque vous activez le mode Show and Tell.</p>
+            </li>
+            <li>
+                <p>Désactive le climatiseur et active par défaut la Limite de Performance Climatique. La Limite de Performance Climatique désactive la climatisation pour éviter l'accumulation d'eau sous le véhicule.</p>
+                <div class="notes">
+                    <ul>
+                        <li>
+                            <p>Avec la Limite de Performance Climatique activée, le ventilateur est toujours disponible.</p>
+                        </li>
+                        <li>
+                            <p>Désactivez <b>la Limite de Performance Climatique</b> pour activer les commandes de climatisation.</p>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <p>Dirige tous les appels SOS vers un numéro de test.</p>
+                <div class="note">
+                    <p>Pour passer un appel SOS réel, choisissez <b>Quitter Show and Tell</b> puis appuyez sur le bouton <b>SOS</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/roadside-assistance-v03-sos-inline-day.svg" alt="Bouton SOS" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/roadside-assistance-v03-sos-inline-night.svg" alt="Bouton SOS" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/>. </p>
+                </div>
+            </li>
+        </ul>
+        <p>Pour activer le mode Show and Tell :</p>
+        <ol>
+            <li>
+                <p>Mettez le véhicule en <b>P</b> (Stationnement). Le mode Show and Tell n'est disponible que lorsque le véhicule est en <b>P</b> (Stationnement).</p>
+            </li>
+            <li>
+                <p>Allez à <b>Paramètres</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icône des paramètres" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icône des paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> > <b>Véhicule</b> > <b>Service</b> sur l'affichage central.</p>
+            </li>
+            <li>
+                <p>Activez <b>Show and Tell</b>.</p>
+            </li>
+        </ol>
+        <div class="important">
+            <p>Lorsque le mode Montrer et Dire est activé, il réduit la portée du véhicule au fil du temps.</p>
+        </div>
+        <p class="KeepWithNext">Le mode Montrer et Dire s'éteint automatiquement dans l'une des conditions suivantes :</p>
+        <ul>
+            <li>
+                <p>Le véhicule a <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:30,;measure.imperial-unit:mi,;measure.metric-value:49,;measure.metric-unit:km,"></MadCap:snippetText> de portée restante.</p>
+            </li>
+            <li>
+                <p>Vous sortez le véhicule de <b>P</b> (Stationnement).</p>
+            </li>
+            <li>
+                <p>Vous utilisez le levier des phares pour éteindre les phares.</p>
+            </li>
+        </ul>
+    </body>
+</html>
