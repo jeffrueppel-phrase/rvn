@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Utilisez l'interrupteur de lumière sur la tige des feux pour contrôler les phares, les feux arrière et les feux de brouillard. En mode Auto, les feux s'allument automatiquement lorsque les capteurs détectent qu'il fait sombre à l'extérieur.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1">
+            </col>
+            <col class="TableStyle-proc-table-Column-Column2">
+            </col>
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p>Pousser l'interrupteur de lumière vers le haut pour sélectionner un réglage supérieur et allumer les feux. Maintenez l'interrupteur de lumière enfoncé pour faire défiler vers le haut. </p>
+                            </li>
+                            <li>
+                                <p>Pousser l'interrupteur de lumière vers le bas pour sélectionner un réglage inférieur et éteindre les feux. Maintenez l'interrupteur de lumière enfoncé pour faire défiler vers le bas. </p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <img src="../../../../Resources/Images/print/stalk-wiper-light-v06-headlight-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>En hiver, il peut être nécessaire de <a href="../../../service-maintenance/cold-weather-care/cold-care-lights.htm">retirer la neige et la glace des phares</a>.</p>
+                </li>
+                <li>
+                    <p>Les phares droit et gauche sont orientés de manière asymétrique. Cela améliore la visibilité pendant la conduite de nuit et minimise la quantité de lumière dirigée vers les conducteurs venant en sens inverse. Si vous remarquez une visibilité réduite, <a href="../../../customer-service/customer-service.htm">contactez Rivian</a>. Les projecteurs ne sont pas accessibles pour maintenance par l'utilisateur.</p>
+                </li>
+            </ul>
+        </div>
+        <p class="KeepWithNext">L'écran du conducteur indique les feux allumés ou éteints comme suit :</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width:15%;">
+            </col>
+            <col class="TableStyle-callout-table-Column-Column2" style="width:85%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Nom</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>
+                                    <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_rear_fog_light_36_unselected.flsnp"></MadCap:snippetText>
+                                    <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_rear_fog_light_36_unselected.svg" />
+                                    <img src="../../../../Resources/Images/Icons/print/exterior-lights-fog-rear-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" style="width: 38px;height: 41px;">
+                                    </img>
+                                </p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Feux + brouillard arrière</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_low_beams_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_low_beams_36_unselected.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/exterior-lights-low-beams-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Feux</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>
+                            <p>
+                                <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/drive_modes/ic_drive_modes_auto_ride_height_36_unselected.flsnp"></MadCap:snippetText>
+                                <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/drive_modes/ic_drive_modes_auto_ride_height_36_unselected.svg" />
+                                <img src="../../../../Resources/Images/Icons/print/exterior-lights-auto-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                                </img>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Auto (par défaut)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_marker_light_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/ttales_lights_wipers/ic_telltales_lights_and_wipers_marker_light_36_unselected.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/exterior-lights-marker-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Feux de stationnement</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>
+                                    <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.flsnp"></MadCap:snippetText>
+                                    <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_off.svg" />
+                                    <img src="../../../../Resources/Images/Icons/print/exterior-lights-off-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                                    </img>
+                                </p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body1">
+                        <p>Désactivé</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note" MadCap:conditions="RegionSpecificConditions.CA">
+            <p MadCap:conditions="RegionSpecificConditions.CA">Le véhicule règle les feux sur le mode automatique dans les conditions suivantes :</p>
+            <ul MadCap:conditions="RegionSpecificConditions.CA">
+                <li>
+                    <p>Le mode d'éclairage est réglé sur Feux de stationnement ou Éteint, et vous conduisez plus vite que la vitesse de <MadCap:snippetText src="../../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-unit:mph,;measure.metric-unit:km/h,;measure.metric-value:10,;measure.imperial-value:6,"></MadCap:snippetText>.</p>
+                </li>
+                <li>
+                    <p>Le véhicule se réveille du mode veille.</p>
+                </li>
+            </ul>
+        </div>
+        <p>Si les feux sont réglés sur Feux + brouillard arrière, Feux ou Auto, les projecteurs présentent également les caractéristiques suivantes : </p>
+        <ul>
+            <li>
+                <p>
+                    <b>Projecteurs directionnels dynamiques :</b> Les feux de croisement et les feux de route suivent l'angle de braquage pour éclairer la route lorsque vous tournez le véhicule. </p>
+                <p>
+                    <img src="../../../../Resources/Images/print/adaptive-lighting-gen2-steering-r1s-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="phares directionnels dynamiques"/>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <b>Réglage dynamique du niveau des feux de croisement :</b> Les feux de croisement ajustent leur faisceau lumineux pour qu’il soit projeté de manière uniforme si le véhicule penche vers l’arrière en accélérant ou vers l’avant en décélérant. </p>
+                <p>
+                    <img src="../../../../Resources/Images/print/adaptive-lighting-gen2-low-beams-leveling-r1s-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="réglage dynamique du niveau des feux de croisement"/>
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>
