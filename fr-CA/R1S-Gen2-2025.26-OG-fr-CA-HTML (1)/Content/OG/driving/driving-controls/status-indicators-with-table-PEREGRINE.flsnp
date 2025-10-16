@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-diff-col-width-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2>Vérification de la fonction</h2>
+        <p>Après un redémarrage, le véhicule effectue un contrôle de fonctionnement. Tous les indicateurs d'état s'allument pendant quelques secondes lorsque vous appuyez sur le frein ou maintenez le frein enfoncé pour sortir de la position <b>P</b> (Park). </p>
+        <p>Les indicateurs d’état sont souvent associés à une notification qui explique l’indicateur et peut fournir certaines étapes de dépannage. Les notifications disparaissent des écrans d’affichage après un délai défini. Vous pouvez accéder aux notifications les plus critiques qui nécessitent une attention particulière en choisissant le bouton <b>Notifications</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_notification_20_unselected_unread.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/status-bar-notifications-active-inline-day.svg" alt="Bouton de notification actif" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/status-bar-notifications-active-inline-night.svg" alt="Bouton de notification actif" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> depuis la barre d'état en haut de l'écran. Un jaune <span class="nonbreaking">point <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/techpubs/tp_gear-guard-not-viewed-inline_20.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/gear-guard-not-viewed-inline-day.svg" alt="événement non visualisé" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/gear-guard-not-viewed-inline-night.svg" alt="événement non visualisé" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> sur le bouton <b>Notifications</b> indique qu'il y a des notifications actives que vous pouvez consulter.</p>
+        <div class="danger-nonelectrical">
+            <p>Si l'un des voyants « dysfonctionnement » ou « défaillance du système » reste allumé ou apparaît après le contrôle initial du fonctionnement, il peut être dangereux de conduire le véhicule et celui-ci peut ne pas être utilisable. <a href="../../customer-service/customer-service.htm">Contactez Rivian</a> pour faire inspecter le véhicule.</p>
+        </div>
+        <p>
+            <p MadCap:conditions="RegionSpecificConditions.CA">
+                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-R1T-canada-peregrine-online.flsnp"></MadCap:snippetText>
+            </p>
+            <p MadCap:conditions="RegionSpecificConditions.CA">
+                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-R1S-canada-peregrine-online.flsnp"></MadCap:snippetText>
+                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicators-R1S-canada-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web,R1VehicleConditions.R1S" />
+                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicators-R1S-canada-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web,R1VehicleConditions.R1S" />
+            </p>
+            <table style="margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../Resources/TableStyles/txt-diff-col-width-table.css');" class="TableStyle-txt-diff-col-width-table" cellspacing="0">
+                <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 15%;" />
+                <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 20%;" />
+                <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 35%;" />
+                <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 15%;" />
+                <col class="TableStyle-txt-diff-col-width-table-Column-Column1" style="width: 15%;" />
+                <thead>
+                    <tr class="TableStyle-txt-diff-col-width-table-Head-Header1">
+                        <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                            <p>Icon</p>
+                        </th>
+                        <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                            <p>Nom</p>
+                        </th>
+                        <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                            <p>Description</p>
+                        </th>
+                        <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                            <p>Emplacement</p>
+                        </th>
+                        <th class="TableStyle-txt-diff-col-width-table-HeadD-Column1-Header1">
+                            <p>État actif</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-12v-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicators-12v-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicators-12v-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Avertissement concernant la batterie 12 V</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>La batterie 12 V nécessite un entretien (jaune fixe) ou doit être remplacée (rouge fixe).</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge uni ou jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <!-- status-indicator-icon-v02-auto-high-beams --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-auto-high-beams-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-auto-high-beams-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-auto-high-beams-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Assistance aux feux de route adaptatifs</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Les feux de route s'allument et s'éteignent automatiquement pour la circulation venant en sens inverse.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Bleu uni lorsqu'il est allumé</p>
+                            <p>Gris uni lorsqu'il est éteint</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <!-- status-indicator-icon-v02 -airbag-malfunction--> <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-air-bag-driver-off-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-air-bag-driver-off-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-air-bag-driver-off-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dysfonctionnement de l'airbag</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le système d'airbag ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="RegionSpecificConditions.CA">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <!-- status-indicator-icon-v02-abs --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-antilock-brake-malfunction-CA-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-antilock-brake-malfunction-CA-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-antilock-brake-malfunction-CA-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dysfonctionnement du système de freinage antiblocage (ABS)</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>L'ABS ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-fcd-R1S-on-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-fcd-R1S-on-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-fcd-R1S-on-night.svg" MadCap:conditions="OutputTypeConditions.Web" style="width: 54px;height: 54px;" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Freinage automatique d'urgence (AEB)</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>L'AEB est désactivé ou fonctionne mal.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Affichage du conducteur</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <!-- status-indicator-icon-v02-blindspot-on --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-blindspot-on-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-blindspot-on-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-blindspot-on-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Avertissement d'angle mort (BSW) </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>BSW ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Affichage du conducteur</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="RegionSpecificConditions.CA">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-v05-brake-system-malfunction-CA-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicators-v05-brake-system-malfunction-CA-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicators-v05-brake-system-malfunction-CA-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dysfonctionnement du système de freinage</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le système de freinage ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-door-ajar-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-door-ajar-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-door-ajar-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Indication de porte entrouverte</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Une ou plusieurs portes du véhicule ne sont pas complètement fermées. </p>
+                            <p>Lorsque cet indicateur apparaît, une image montre quelles portes sont ouvertes.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p> Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-caution-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicators-caution-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicators-caution-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Dysfonctionnement du système de fusibles électriques</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Le système de fusibles électriques ne fonctionne pas correctement.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">Rouge uni</td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-esc-system-off-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-esc-system-off-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-esc-system-off-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Système de contrôle électronique de stabilité (ESC) désactivé</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le système ESC a été désactivé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-esc-system-malfunction-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-esc-system-malfunction-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-esc-system-malfunction-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Système de contrôle électronique de la stabilité (ESC) activé</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le système ESC est actif, améliorant la traction en fournissant un support antidérapant.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune clignotant</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-esc-system-malfunction-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-esc-system-malfunction-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-esc-system-malfunction-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Dysfonctionnement du système de contrôle électronique de la stabilité (ESC)</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le système ESC ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-v05-fcd_R1S_on-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicators-v05-fcd_R1S_on-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicators-v05-fcd_R1S_on-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Avertissement de collision avant (FCW)</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Le FCW ne fonctionne pas correctement.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">Jaune uni</td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-high-beams-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-high-beams-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-high-beams-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Feux de route</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Les feux de route sont allumés.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Bleu uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-hood-ajar-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-hood-ajar-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-hood-ajar-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Indication de capot entrouverte</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le capot n'est pas complètement fermé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-hood-malfuntion-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-hood-malfuntion-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-hood-malfuntion-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Dysfonctionnement du capot</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Le capot ne fonctionne pas correctement.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">Rouge uni</td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-ldw-on-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-ldw-on-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-ldw-on-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Avertissement de franchissement de ligne (LDW)</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>LDW ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr MadCap:conditions="R1VehicleConditions.R1S" class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-liftgate-malfunction-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-liftgate-malfunction-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-liftgate-malfunction-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Dysfonctionnement du hayon</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Le hayon ne fonctionne pas correctement.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">Rouge uni</td>
+                    </tr>
+                    <tr MadCap:conditions="R1VehicleConditions.R1S" class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-liftgate-tailgate-malfunction-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-liftgate-tailgate-malfunction-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-liftgate-tailgate-malfunction-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Dysfonctionnement du hayon et du hayon</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Le hayon et le hayon ne fonctionnent pas correctement.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">Rouge uni</td>
+                    </tr>
+                    <tr MadCap:conditions="R1VehicleConditions.R1S" class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-tailgate-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-tailgate-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-tailgate-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Hayon ouvert</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le hayon n'est pas complètement fermé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr MadCap:conditions="R1VehicleConditions.R1S" class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-liftgate-tailgate-open-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-liftgate-tailgate-open-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-liftgate-tailgate-open-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Hayon et hayon ouverts</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Le hayon et le hayon ne sont pas complètement fermés.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">Rouge uni</td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-light-out-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-light-out-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-light-out-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dysfonctionnement de l'éclairage</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Un ou plusieurs de ces voyants sont éteints ou fonctionnent mal :</p>
+                            <ul>
+                                <li>
+                                    <p>Feux de croisement</p>
+                                </li>
+                                <li>
+                                    <p>Feux de route</p>
+                                </li>
+                                <li>
+                                    <p>Clignotants</p>
+                                </li>
+                                <li>
+                                    <p>Feux de brouillard arrière</p>
+                                </li>
+                                <li>
+                                    <p>Feux stop</p>
+                                </li>
+                                <li>
+                                    <p>Feux de stationnement</p>
+                                </li>
+                                <li MadCap:conditions="RegionSpecificConditions.CA">
+                                    <p>Feux de route adaptatifs</p>
+                                </li>
+                                <li MadCap:conditions="RegionSpecificConditions.CA">
+                                    <p>Phares à direction dynamique</p>
+                                </li>
+                            </ul>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-limited-performance-mode-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-limited-performance-mode-day.svg" MadCap:conditions="OutputTypeConditions.Web" alt="boiter, tortue"/>
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-limited-performance-mode-night.svg" MadCap:conditions="OutputTypeConditions.Web" alt="boiter, tortue"/>
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>
+                                <MadCap:keyword term="limited performance;turtle mode" />Mode de performances limitées</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>La puissance de conduite du véhicule est limitée en raison d'une faible charge de la batterie, de défauts du véhicule ou de températures ambiantes froides. Le véhicule peut être conduit en toute sécurité, mais l'accélération est limitée.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" style="page-break-inside:avoid;">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-battery-half-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-battery-half-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-battery-half-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-lowbattery-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-lowbattery-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-lowbattery-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-battery-empty-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-battery-empty-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-battery-empty-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Avertissement de batterie faible</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>L'autonomie calculée du véhicule est faible :</p>
+                            <ul>
+                                <li>
+                                    <p>Jaune = <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:50,;measure.imperial-unit:mi,;measure.metric-value:80,;measure.metric-unit:km,"></MadCap:snippetText> restant</p>
+                                </li>
+                                <li>
+                                    <p>Rouge = <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:5 to 30,;measure.imperial-unit:mi,;measure.metric-value:10 to 50,;measure.metric-unit:km,"></MadCap:snippetText> restant <br /></p>
+                                </li>
+                            </ul>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni ou rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-low-beams-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-low-beams-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-low-beams-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Feux de croisement allumés</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Les feux de croisement sont allumés.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Vert uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-low-tire-pressure-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-low-tire-pressure-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-low-tire-pressure-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Faible pression des pneus</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Un ou plusieurs pneus ont une faible pression.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-marker-lights-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-marker-lights-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-marker-lights-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Feux de gabarit</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le système d’éclairage du véhicule est allumé, en particulier l’éclairage de gabarit.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Vert uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="RegionSpecificConditions.CA">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicators-v05-parking-brake-applied-CA-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicators-v05-parking-brake-applied-CA-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-parking-brake-applied-CA-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Frein de stationnement serré</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le frein de stationnement est serré.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-park-brake-malfunction-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-park-brake-malfunction-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-park-brake-malfunction-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Dysfonctionnement du système de frein de stationnement</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le système de frein de stationnement ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Rouge clignotant</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/callout/techpubs_text/tp_status-indicator-icon-v04-passenger-airbag-off_36.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v03-passenger-airbag-off-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-passenger-airbag-off-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Airbag passager désactivé</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le système d'airbag passager est désactivé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Affichage central</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-prnd-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-prnd-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-prnd-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>PRND</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Indique dans quelle vitesse se trouve le véhicule : <b>P</b> (Stationnement), <b>R</b> (Marche arrière), <b>D</b> (Conduite), <br MadCap:conditions="R1GuideSpecificConditions.OwnersGuide" /><b>N</b> (Neutre). </p>
+                            <p>(La couleur de l'état actif varie selon le mode jour ou nuit.)</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Solide</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-fog-light-rear-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-fog-light-rear-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-fog-light-rear-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Feux de brouillard arrière</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Les feux antibrouillard arrière sont allumés.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-rear-defrost-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-rear-defrost-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-rear-defrost-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dégivrage/désembuage de la lunette arrière</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le dégivrage/désembuage de la lunette arrière est activé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Affichage central</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge fixe lorsqu'il est allumé</p>
+                            <p>Blanc fixe lorsqu'il est éteint</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/icons-seatbelt-reminder-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/icons-seatbelt-reminder-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/icons-seatbelt-reminder-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Indicateur de ceinture de sécurité</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Indique si les sièges sont inoccupés (cercle clair), bouclés (cercle plein) ou occupés mais débouclés (x).</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">Cercle blanc plein (siège inoccupé),<br />Cercle gris uni (siège bouclé),<br />ou X rouge uni (siège débouclé)</td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-seatbelts-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-seatbelts-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-seatbelts-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Rappel de ceinture de sécurité</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>La ceinture de sécurité du conducteur et/ou du passager n'est pas bouclée.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Affichage du conducteur</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Rouge continu ou clignotant</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-system-failure-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-system-failure-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-system-failure-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Panne du système</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Une ou plusieurs défaillances du système.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr MadCap:conditions="R1VehicleConditions.R1S" class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-tailgate-malfunction-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-tailgate-malfunction-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-tailgate-malfunction-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Dysfonctionnement du hayon</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Le hayon ne fonctionne pas correctement.</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">Rouge uni</td>
+                    </tr>
+                    <tr MadCap:conditions="R1VehicleConditions.R1S" class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-tailgate-open-R1S-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-tailgate-open-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-tailgate-open-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Hayon ouvert</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le hayon n'est pas complètement verrouillé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Rouge uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-low-tire-pressure-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-low-tire-pressure-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-low-tire-pressure-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dysfonctionnement du système de surveillance de la pression des pneus (TPMS)</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le système TPMS ne fonctionne pas correctement.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Jaune clignotant</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-turn-indicators-right-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-turn-indicators-right-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-turn-indicators-right-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-turn-indicators-left-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-turn-indicators-left-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-turn-indicators-left-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Clignotants</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le clignotant est allumé dans une direction (un indicateur clignotant), ou</p>
+                            <p>les feux de détresse sont allumés (les deux clignotent simultanément). Un clignotement rapide indique qu'une ampoule est grillée.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Vert clignotant</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-hold-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-hold-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-hold-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Véhicule en attente</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">La fonction de maintien du véhicule est activée, ce qui permet au véhicule de rester automatiquement immobile sans appliquer le frein. Cela apparaît comme une grande image sur l’écran du conducteur. (La couleur de l'état actif varie selon le mode jour ou nuit)</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">Solide</td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-hold-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-hold-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-hold-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Dysfonctionnement du système de retenue du véhicule</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                            <p>Le système de retenue du véhicule ne fonctionne pas correctement. Cela apparaît sous la forme d’une petite icône en bas de l’écran du pilote.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body1">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-windshield-defrost-defog-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-windshield-defrost-defog-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v03-windshield-defrost-defog-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Dégivrage/désembuage du pare-brise</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Le dégivrage/désembuage du pare-brise est activé.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                            <p>Affichage central</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                            <p>Rouge fixe lorsque le dégivrage est activé</p>
+                            <p>Bleu fixe lorsque le désembuage est activé</p>
+                            <p>Blanc fixe lorsqu'il est éteint</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-txt-diff-col-width-table-Body-Body2">
+                        <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2">
+                            <p style="text-align: center">
+                                <MadCap:snippetText class="image-online" src="../../../Resources/Images/Icons/online/status-indicator-icon-v02-wiper-fluid-online.flsnp"></MadCap:snippetText>
+                                <img class="image-day" src="../../../Resources/Images/Icons/day/status-indicator-icon-v02-wiper-fluid-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                <img class="image-night" src="../../../Resources/Images/Icons/night/status-indicator-icon-v02-wiper-fluid-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2">
+                            <p>Niveau de liquide lave-glace bas</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2">
+                            <p>Le niveau de liquide lave-glace est bas.</p>
+                        </td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body2">Affichage du conducteur</td>
+                        <td class="TableStyle-txt-diff-col-width-table-BodyA-Column1-Body2">
+                            <p>Jaune uni</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+    </body>
+</html>
