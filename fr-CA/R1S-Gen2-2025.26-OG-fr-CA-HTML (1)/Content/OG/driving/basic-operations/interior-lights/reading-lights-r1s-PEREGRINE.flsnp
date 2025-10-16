@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Utilisez le toucher pour contrôler les lampes de lecture. </p>
+        <p>Appuyez une fois pour allumer à une luminosité partielle. Appuyez une deuxième fois pour augmenter la luminosité et une troisième fois pour l'éteindre.</p>
+        <p class="KeepWithNext">Les lampes de lecture sont situées dans les zones suivantes :</p>
+        <ul>
+            <li>
+                <p>Console au pavillon entre les sièges conducteur et passager</p>
+            </li>
+            <li>
+                <p>Côtés au-dessus de la zone des portes et des fenêtres pour les sièges de deuxième et troisième rangées</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" />
+            <col class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/cabin-lights-peregrine-overhead-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/day/cabin-lights-peregrine-overhead-day.svg" MadCap:conditions="OutputTypeConditions.Web" alt="plafonnier"/>
+                            <img class="image-night" src="../../../../Resources/Images/night/cabin-lights-peregrine-overhead-night.svg" MadCap:conditions="OutputTypeConditions.Web" alt="plafonnier"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/cabin-lights-peregrine-rear-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/day/cabin-lights-peregrine-rear-day.svg" MadCap:conditions="OutputTypeConditions.Web" alt="feu latéral"/>
+                            <img class="image-night" src="../../../../Resources/Images/night/cabin-lights-peregrine-rear-night.svg" MadCap:conditions="OutputTypeConditions.Web" alt="feu latéral"/>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
