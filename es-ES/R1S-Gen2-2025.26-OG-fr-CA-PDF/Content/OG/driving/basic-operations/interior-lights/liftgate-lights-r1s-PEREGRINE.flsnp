@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Las luces del portón trasero iluminan el área más allá del portón trasero o el propio portón trasero cuando lo usas como superficie de trabajo para tareas como cocinar. Estas luces se encienden automáticamente cuando se abre el portón trasero en condiciones de poca luz, y se apagan automáticamente cuando se cierra el portón trasero. </p>
+        <p>Para encender o apagar manualmente las luces del portón trasero, tienes dos opciones: </p>
+        <ul>
+            <li>
+                <p>Elige <b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icono de vehículo" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> desde la barra de estado en la pantalla central. Elige <b>Luces</b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Icono de luces del portón trasero" MadCap:conditions=" OutputTypeConditions.Print-all"/> para encender o apagar las luces del portón trasero y de carga. </p>
+                <div class="note">
+                    <p>El control aparece solo cuando el portón trasero está abierto.</p>
+                </div>
+            </li>
+            <li>
+                <p>Usa el tacto para controlar las luces del portón trasero. </p>
+            </li>
+        </ul>
+        <p>Cuando el portón trasero está abierto, usa el control deslizante para ajustar el brillo de las luces del portón trasero. Ve a <span class="nonbreaking"><b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Icono de configuración" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> > <b>Vehículo</b> > <b>Pantallas y Iluminación</b> en la pantalla central.</p>
+    </body>
+</html>
