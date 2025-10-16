@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="RegionSpecificConditions.CA,ai-config.ai-verbatim,LanguageConditions.fr">
+    <head>
+        <link href="../../Resources/TableStyles/contact-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="margin-left: 0;margin-right: auto;max-width: 840px;mc-table-style: url('../../Resources/TableStyles/contact-table.css');" class="TableStyle-contact-table" cellspacing="0">
+            <col class="TableStyle-contact-table-Column-Column1" style="width: 48%;" />
+            <col class="TableStyle-contact-table-Column-Column2" style="width: 5%;" />
+            <col class="TableStyle-contact-table-Column-Column3" style="width: 47%;" />
+            <tbody>
+                <tr class="TableStyle-contact-table-Body-Body1">
+                    <td class="TableStyle-contact-table-BodyE-Column1-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Centre d'engagement client</h3>
+                        <p MadCap:conditions="OutputTypeConditions.Print-all">
+                            <a href="tel:8447484261" title="Rivian Customer Service vanity phone" alt="Call Rivian Customer Service vanity phone" style="text-decoration:none;">(844) RIVIAN1</a> / <a href="tel:8447484261" title="Rivian Customer Service" alt="Call Rivian Customer Service phone" style="text-decoration:none;">(844) 748-4261<br /></a><a href="https://rivian.com/fr-CA/support/contact" alt="Visit the Rivian support website" title="the Rivian support website">rivian.com/fr-CA/support/contact</a></p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyE-Column2-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyD-Column3-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Assistance routière 24/7 </h3>
+                        <p MadCap:conditions="OutputTypeConditions.Print-all">
+                            <a href="tel:8447484261" title="Rivian Roadside Assistance vanity phone" alt="Call Rivian Roadside Assistance vanity phone" style="text-decoration:none;">(844) RIVIAN1</a> / <a href="tel:8447484261" title="Rivian Roadside Assistance" alt="Call Rivian Roadside Assistance" style="text-decoration:none;">(844) 748-4261</a></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-contact-table-Body-Body1" MadCap:conditions="OutputTypeConditions.Print-all">
+                    <td class="TableStyle-contact-table-BodyE-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyE-Column2-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyD-Column3-Body1">
+                        <p> </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-contact-table-Body-Body1">
+                    <td class="TableStyle-contact-table-BodyB-Column1-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Assurance </h3>
+                        <p MadCap:conditions="OutputTypeConditions.Print-all">
+                            <a href="mailto:insurancesupport@rivian.com" title="insurancesupport@rivian.com">insurancesupport@rivian.com</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyB-Column2-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyA-Column3-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Service 24/7 </h3>
+                        <p MadCap:conditions="OutputTypeConditions.Print-all">
+                            <a href="tel:8887484261" title="Rivian Roadside Assistance vanity phone" alt="Call Rivian Roadside Assistance vanity phone" style="text-decoration:none;">(844) RIVIAN1</a> / <a href="tel:8447484261" title="Rivian Roadside Assistance" alt="Call Rivian Roadside Assistance" style="text-decoration:none;">(844) 748-4261<a href="http://rivian.com/fr-CA/support/service" alt="Service Support and Chat" title="Service Support and Chat"><br />rivian.com/fr-CA/support/service</a></a></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
