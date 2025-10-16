@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Ventilateur <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Icône de statut climatique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> offre des commandes de climatisation pour les sièges de la troisième rangée.</p>
+        <h2>Panneau de contrôle climatique</h2>
+        <p>Choisissez <b>Retour</b>, et le panneau Climatage Controls vous permet de régler la vitesse du ventilateur arrière <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/climate/ic_climate_blower_20_selected_default.svg" /><img src="../../../Resources/Images/Icons/print/clmt-control-climate-status-inline-print.svg" alt="Icône de statut climatique" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> vers le bas (-) ou vers le haut (+).</p>
+        <div class="note">
+            <p>Vous pouvez modifier la vitesse du ventilateur pour les évents latéraux de la troisième rangée, et le véhicule maintient la fonction Auto allumée.</p>
+        </div>
+        <h2>Panneau de commandes de ventilation</h2>
+        <p class="KeepWithNext">Choisissez <b>Retour</b>, et le panneau Commandes de ventilation offre les commandes décrites dans le tableau ci-dessous.</p>
+        <table style="width: 100%;page-break-inside:auto;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column2" style="width: 15%;" />
+            <col class="TableStyle-callout-table-3col-Column-Column3" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Icon</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Nom</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="RegionSpecificConditions.CA,LanguageConditions.fr">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <img src="../../../Resources/Images/Icons/print/clmt-control-front-icon-fr-CA-print.svg" alt="Icône avant" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Climat frontal</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Accédez aux <a href="clmt-center-display-controls.htm">commandes de la cabine avant</a>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="RegionSpecificConditions.CA,LanguageConditions.fr">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <img src="../../../Resources/Images/Icons/print/clmt-control-second-icon-FR-print.svg" alt="Deuxième icône" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Climat moyen</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Accédez aux commandes de la <a href="clmt-second-row-controls-r1s.htm">deuxième rangée</a>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <img src="../../../Resources/Images/Icons/print/clmt-control-rear-icon-fr-CA-print.svg" alt="Icône arrière" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Climat arrière</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Accédez aux commandes de la troisième rangée.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_36_unselected_off_horizontal.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_vent_36_unselected_off_horizontal.svg" />
+                            <img src="../../../Resources/Images/Icons/print/clmt-control-vent-foot-off-icon-print.svg" alt="Icône de ventilation" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>Évents latéraux de troisième rangée</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Les sièges de la troisième rangée sont munis d'évents latéraux dans les piliers derrière les portes de la deuxième rangée. </p>
+                        <p>Choisissez un bouton de <b>ventilation</b> pour activer les deux évents latéraux.</p>
+                        <p>Pour que le réglage automatique de la climatisation contrôle les évents latéraux de la troisième rangée, effectuez l'une des opérations suivantes :</p>
+                        <ul>
+                            <li>
+                                <p>Avoir au moins un passager occuper un siège à la troisième rangée.</p>
+                            </li>
+                            <li>
+                                <p>Attachez une ceinture de sécurité à troisième rangée.</p>
+                            </li>
+                        </ul>
+                        <p>Les évents de la troisième rangée :</p>
+                        <ul>
+                            <li>
+                                <p>La température de la cabine de soufflage ou l'air de refroidissement seulement.</p>
+                                <div class="note">
+                                    <p>Si vous activez les évents de la troisième rangée lorsque vous chauffez la cabine, les évents de la troisième rangée soufflent la température de la cabine ou l'air de refroidissement au lieu de l'air chauffé.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <p>Permettent de régler la vitesse du ventilateur si la température du véhicule est réglée sur Auto ; le réglage de la vitesse du ventilateur pour la troisième rangée ne désactionne pas la fonction Auto.</p>
+                            </li>
+                        </ul>
+                        <p>Réglez manuellement tout évent pour changer la direction du flux d'air.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/callout/climate/ic_climate_driver_seat_36_unselected_heating.svg" />
+                            <img src="../../../Resources/Images/Icons/print/seat-climate-control-v02-heat-inactive-icon-print.svg" alt="Icône Heat Heat" MadCap:conditions="OutputTypeConditions.Print-all"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>Siège chauffant</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">
+                        <p>Chauffer le siège. Cycle à travers les niveaux de chaleur, y compris à l'arrêt.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
