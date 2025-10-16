@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:keyword term="avas; acoustic vehicle alerting system" />La función de alerta de audio para peatones emite un sonido para ayudar a alertar a los peatones sobre su vehículo en movimiento. Los altavoces que emiten el sonido se encuentran debajo de los parachoques delantero y trasero del vehículo. Mantenga estos altavoces limpios y libres de obstrucciones.</p>
+        <p>
+            <div class="important">
+                <ul>
+                    <li>
+                        <p>Si nota una disminución del volumen en los sonidos de cortesía o alerta de su vehículo, es posible que necesite usar un cepillo de tubo para limpiar suavemente los altavoces.</p>
+                    </li>
+                    <li>
+                        <p>Limpie los puertos de sonido después de condiciones climáticas severas que causen acumulación de escombros o aventuras que incluyan conducir fuera de carretera o cruzar agua.</p>
+                    </li>
+                </ul>
+            </div>
+        </p>
+        <p>
+            <!-- avas-sound-ports-v01-R1S -->
+            <img src="../../../Resources/Images/print/avas-sound-ports-v01-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+    </body>
+</html>
