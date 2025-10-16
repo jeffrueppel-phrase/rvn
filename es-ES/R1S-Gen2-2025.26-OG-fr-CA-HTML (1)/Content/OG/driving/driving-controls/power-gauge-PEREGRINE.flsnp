@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Hannah Levin" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="kernTighter" style="page-break-inside:avoid;">El medidor de potencia muestra la potencia total disponible, la potencia actualmente utilizada para acelerar el vehículo y la tasa de desaceleración. </p>
+        <ul>
+            <li>
+                <p class="kernTighter">La mitad superior del medidor representa la aceleración del vehículo, mostrada en azul. </p>
+            </li>
+            <li>
+                <p class="kernTighter">La mitad inferior muestra la tasa de desaceleración en verde, un valor combinado de la frenada regenerativa y cualquier frenada suplementaria de <a href="../basic-operations/brakes.htm">Asistencia de Frenado Regenerativo</a>.</p>
+            </li>
+        </ul>
+        <p class="kernTighter">El medidor de potencia comunica cualquier restricción en la propulsión o el frenado regenerativo debido a condiciones ambientales o fallos en el sistema del vehículo. También puede mostrar una limitación de propulsión cuando la batería está baja.</p>
+        <p class="kernTighter">La Asistencia de Frenado Regenerativo es una función habilitada automáticamente que ayuda a crear una experiencia de conducción más suave con una desaceleración más consistente al aumentar el frenado regenerativo cuando es necesario.</p>
+        <p class="kernTighter">El medidor de potencia aparece en la pantalla del conductor cuando cambias de <b>P</b> (Estacionamiento). Diferentes íconos aparecen según las condiciones descritas a continuación.  </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1" />
+            <col class="TableStyle-callout-table-3col-Column-Column2" />
+            <col class="TableStyle-callout-table-3col-Column-Column3" />
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Ícono</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Nombre</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/climate/ic_climate_air_conditioning_36_unselected_default.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/power-gauge-cold-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/power-gauge-cold-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>Clima Frío</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>El copo de nieve aparece con una notificación única debido al impacto del clima frío. Las bajas temperaturas pueden limitar la propulsión. El frenado regenerativo también puede estar limitado si la Asistencia de Frenado Regenerativo está desactivada.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/callout/ttales_breaks_acc/ic_telltales_brakes_and_acceleration_regen_braking_36_unselected.flsnp"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/Icons/day/power-gauge-high-charge-icon-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/Icons/night/power-gauge-high-charge-icon-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body2">
+                        <p>Frenado Regenerativo Limitado</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body2">
+                        <p>La luz indicadora de frenado regenerativo aparece cuando el frenado regenerativo puede estar limitado. El frenado regenerativo puede sentirse limitado a altas velocidades, pero no ser muy notable. La capacidad regresa a medida que disminuye el nivel de carga. La Asistencia de Frenado Regenerativo reduce la frecuencia de este escenario.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">
+            <p> Los escenarios a continuación se basan en la prioridad de visualización. Asumen que el Asistente de Frenado Regenerativo está fallando o desactivado temporalmente, como cuando los frenos se calientan demasiado.</p>
+        </div>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/power-gauge-limited-modes-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/power-gauge-limited-modes-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/power-gauge-limited-modes-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+    </body>
+</html>
