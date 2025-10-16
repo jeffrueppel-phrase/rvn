@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Ve a <span class="nonbreaking"><b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icono de configuración" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icono de configuración" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> > <b>Vehículo</b> > <b>Pantallas y Iluminación</b> en la pantalla central para acceder a los siguientes controles y configuraciones:	</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Iluminación de acento:</b> Enciende las luces de acento en condiciones de poca luz o apágalas. </p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Tema:</b> Puedes elegir un tema de iluminación diferente para cambiar el color de las luces de acento. </p>
+                        <p>Elige el tema actual; aparece un panel y muestra más opciones. Elige un tema diferente para previsualizarlo. </p>
+                        <p>Por defecto, el vehículo también reproduce el audio correspondiente; puedes elegir <span class="nonbreaking"><b>Volumen</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_volume_20_unselected_0.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-volume-on-inline-day.svg" alt="Botón de volumen" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-volume-on-inline-night.svg" alt="Botón de volumen" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> para silenciarlo.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Brillo:</b> Cuando las luces de acento están encendidas, usa el control deslizante para ajustar su brillo.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Luces encendidas al abrir puertas:</b> Enciende <b>Luces encendidas al abrir puertas</b> o apágalo. Si las luces encendidas al abrir puertas están activadas, el vehículo enciende automáticamente las luces de la cabina en cualquier fila con una puerta abierta durante condiciones de poca luz.</p>
+                <div class="note">
+                    <p>Si abres una puerta trasera, las luces de la cabina de la segunda y tercera fila se encienden.</p>
+                </div>
+            </li>
+            <li>
+                <p>
+                    <b>Luces encendidas al aparcar:</b> Enciende <b>Luces encendidas al aparcar</b> o apágalo. Si las luces de cabina se encienden al poner el vehículo en Park, el vehículo enciende automáticamente las luces de la cabina cuando cambias el vehículo a Park en condiciones de poca luz. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Brillo de las luces de techo:</b> Utiliza el control deslizante para ajustar el brillo de las luces de techo.</p>
+            </li>
+            <li>
+                <b>Brillo de la iluminación del portón trasero:</b> Cuando el portón trasero está abierto, utiliza el control deslizante para ajustar el brillo de las luces del portón trasero.</li>
+        </ul>
+    </body>
+</html>
