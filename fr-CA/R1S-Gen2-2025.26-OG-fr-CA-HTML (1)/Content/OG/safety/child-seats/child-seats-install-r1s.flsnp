@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim" MadCap:fileTags="TechPubsAuthors.Daisy Luu" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext" MadCap:conditions="RegionSpecificConditions.CA,R1GuideSpecificConditions.OwnersGuide">Suivez les directives du fabricant du siège et celles de votre province ou territoire pour savoir s'il faut installer le siège pour enfant face à l'arrière ou face à l'avant. Ces règles sont souvent basées sur l'âge, la taille et le poids de l'enfant.</p>
+        <p class="warning ">Si un siège pour enfant ne peut pas être installé solidement à la place assise arrière centrale en raison de la taille du siège, des limitations d'espace ou du contour du siège, installez le siège pour enfant de chaque côté des sièges latéraux près des fenêtres. La place assise arrière centrale peut être mieux adaptée à un siège d'appoint plus petit ou à un siège baquet pour bébé dont la base inférieure épouse parfaitement les contours des coussins de siège. Ces types de sièges pour enfants doivent être bien fixés avec la ceinture de sécurité du véhicule.</p>
+        <ol>
+            <li style="page-break-inside:avoid;">
+                <p>Positionner le siège enfant face à l'arrière ou face à l'avant sur le siège du véhicule.</p>
+                <div class="important " MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+                    <p>Si un siège pour enfant orienté vers l'avant nécessite une attache supérieure, verrouiller le crochet dans l'ancrage de l'attache derrière le siège et serrer la ceinture.</p>
+                    <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+                        <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1">
+                        </col>
+                        <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1">
+                        </col>
+                        <tbody>
+                            <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                                <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                                    <!-- child-seats-v06-R1S-top-tether-anchor --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-top-tether-anchor-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                    <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-top-tether-anchor-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-top-tether-anchor-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                </td>
+                                <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                                    <!-- child-seats-v06-R1S-single-top-tether-config --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-single-top-tether-config-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                    <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-single-top-tether-config-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-single-top-tether-config-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <!-- LB note 6/4/25: to get this on one page in the English (en-US and en-CA), may need to replace style in below image with style="margin-top: -8pt;margin-bottom: -8pt;" and make sure no extra spacing between image tags throughout topic-->
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+        </ol>
+        <ol MadCap:continue="true">
+            <li>
+                <p style="margin-bottom: -10pt;">Faites passer la ceinture de sécurité du véhicule sur le trajet de la ceinture conformément aux instructions du fabricant du siège pour enfant.</p>
+                <div class="note">
+                    <p>Si vous installez une base de siège qui accompagne un siège baquet pour bébé, vous devrez peut-être clipser la ceinture de sécurité en place avec le verrouillage de la ceinture comme indiqué par le fabricant du siège.</p>
+                </div>
+            </li>
+            <li>
+                <p>Insérez la languette de la ceinture de sécurité dans la boucle jusqu'à ce qu'elle s'enclenche.</p>
+            </li>
+            <li>
+                <p>Tirez sur la ceinture abdominale pour prendre le mou et assurer un ajustement serré.</p>
+            </li>
+            <li>
+                <p>Retirez la ceinture d'épaule complètement de l'enrouleur, puis laissez la ceinture se rétracter. La ceinture de sécurité se bloque en place en se rétractant.</p>
+            </li>
+            <li>
+                <p>Poussez le siège enfant vers le bas et vers le coussin de dossier du siège du véhicule, en éliminant le plus possible le jeu de la ceinture de sécurité. </p>
+            </li>
+        </ol>
+        <!-- LB note 5/6/25: to get this on one page in the Canadian English (en-CA), replace inline style in below important p tag style="margin-top: -5pt;margin-bottom: -10pt;" -->
+        <div class="important" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p style="margin-bottom: -10pt;">Installez le siège enfant de façon à ce que sa base au niveau du chemin de ceinture ne puisse pas bouger plus de <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:1,;measure.imperial-unit:in,;measure.metric-value:2.5,;measure.metric-unit:cm,"></MadCap:snippetText> d'un côté à l'autre. Assurez-vous que le siège est bien fixé avant de conduire le véhicule.</p>
+        </div>
+    </body>
+</html>
