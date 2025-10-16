@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Daisy Luu" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p MadCap:conditions="LanguageConditions.fr,RegionSpecificConditions.CA">Votre vie privée est importante pour Rivian. Pour en savoir plus sur les données que nous recueillons auprès de vous et de votre véhicule et sur nos pratiques de traitement des données, et pour contacter l'équipe de protection de la vie privée, consultez la Politique de confidentialité de Rivian à l'adresse https://rivian.com/fr-CA/privacy/notice. <MadCap:conditionalText MadCap:conditions="OutputTypeConditions.In-Vehicle"></MadCap:conditionalText></p>
+        <p>
+            <a href="../customer-service/customer-service.htm">Contactez Rivian</a> pour toute question sur les caractéristiques ou la fonctionnalité du véhicule.</p>
+        <p>Les véhicules Rivian sont conçus pour offrir une expérience de conduite connectée, et les données sont au cœur de nombreuses fonctionnalités. Allez à <b>Paramètres </b><MadCap:snippetText class="image-online-inline" src="../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../Resources/Images/Icons/day/alexa-settings-menu-inline-day.svg" alt="Icône Paramètres" MadCap:conditions="OutputTypeConditions.Web" style="font-weight: bold;"/><img src="../../Resources/Images/Icons/night/alexa-settings-menu-inline-night.svg" alt="Icône Paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web" style="font-weight: bold;"/><b>> Données et confidentialité</b> sur l'écran central du véhicule pour ajuster ces paramètres (lorsque disponible).</p>
+        <p>Afin d'améliorer et de développer les fonctions d'aide à la conduite, vous pouvez choisir de partager les données de la caméra de votre véhicule avec Rivian et nos fournisseurs de services. Pour protéger votre vie privée, nous n'associons pas directement ces données à vous ou à votre véhicule à des fins d'amélioration ou de développement de produits.</p>
+        <h2>Détection de l'attention du conducteur</h2>
+        <p>La détection de l'attention du conducteur utilise la caméra intérieure pour suivre les mouvements de la tête et des yeux et confirmer votre attention à la route, en prenant en charge les fonctions d'aide à la conduite telles que l'assistance routière améliorée. L'assistance routière améliorée permet de conduire en mains libres sur les autoroutes lorsque vous êtes attentif à la route. La détection de l'attention du conducteur devrait être activée pour assurer la meilleure expérience d'aide à la conduite. La détection de l'attention du conducteur traite les images de la caméra intérieure dans le véhicule, et seules certaines données sont enregistrées et partagées avec Rivian. Les images ne sont partagées avec Rivian que si vous autorisez également le partage de données de caméras intérieures.</p>
+        <div class="note">
+            <p>La désactivation de la détection de l'attention du conducteur rendra certaines fonctions d'aide à la conduite indisponibles, telles que l'assistance routière améliorée.</p>
+        </div>
+        <h2>Caméra intérieure</h2>
+        <p>Votre véhicule est équipé d'une caméra intérieure dans le rétroviseur. Lorsque vous optez pour ce partage, les images de l'habitacle du véhicule et les données dérivées de ces images seront partagées avec Rivian pour développer ou améliorer les systèmes de sécurité du véhicule, y compris les modèles d'apprentissage automatique et la détection de l'attention du conducteur, qui peuvent aider à détecter la distraction du conducteur. Les images sont parfois capturées en fonction de certains déclencheurs, tels que les mouvements de la tête ou des yeux du conducteur, ou à des intervalles de temps spécifiques. </p>
+        <p>Rivian prend des mesures pour protéger votre vie privée, telles que ne pas associer ces images à vous ou à votre véhicule à des fins d'amélioration du produit, et recueillir les images uniquement lorsque votre véhicule est dans Drive (et non Park).</p>
+        <div class="note">
+            <p>Si la caméra intérieure du véhicule est éteinte, la caméra ne traite aucune vidéo. </p>
+        </div>
+        <h2>Caméras extérieures</h2>
+        <p>Rivian assure le contrôle des images extérieures partagées du véhicule à des fins d'amélioration des produits d'aide à la conduite. Les images des caméras extérieures qui sont partagées avec Rivian aident à améliorer et développer les fonctions de sécurité de l'aide à la conduite. Vous pouvez choisir de ne pas partager les images de la caméra extérieure avec Rivian.</p>
+        <p>Rivian applique des techniques d'amélioration de la confidentialité lorsqu'il utilise ces images pour améliorer ou développer des produits, notamment les suivantes :</p>
+        <ul>
+            <li>
+                <p>Les images ne sont pas associées à vous ou à votre véhicule, sauf en cas de collision.</p>
+            </li>
+            <li>
+                <p> La première et la dernière minute de votre trajet ne sont pas utilisées.</p>
+            </li>
+            <li>
+                <p>La localisation précise est jointe aux images uniquement lorsque vous avez accepté le partage des données de localisation pour l'aide à la conduite. Cela permet à Rivian de comprendre et de diagnostiquer les problèmes d'aide à la conduite qui peuvent survenir à un endroit particulier, en fonction des caractéristiques du segment de route comme le marquage des voies ou la signalisation.</p>
+            </li>
+        </ul>
+        <p>Si vous refusez de partager des images de caméras extérieures avec Rivian, vos caméras extérieures traiteront les images uniquement dans votre véhicule pour fournir des fonctions de sécurité d'assistance à la conduite. Les caméras extérieures de votre véhicule sont également utilisées pour d'autres fonctionnalités, telles que le stationnement, le remorquage et le Gear Guard. Les images extérieures peuvent être partagées avec Rivian et associées à votre VIN en cas de crash, quels que soient vos choix de partager ces images, afin de permettre les enquêtes sur les crashs et les rapports réglementaires.</p>
+        <p>Les images extérieures sont programmées pour être capturées uniquement lors de collisions importantes et peuvent ne pas être envoyées à Rivian en raison de problèmes tels que le mauvais service cellulaire et l'équipement endommagé. Insérez une clé USB ou un disque dur externe dans le véhicule pour capturer des vidéos directement à l'aide de la caméra routière. Voir <a href="../storage-security/security/gear-guard-video/view-recorded-videos.htm">Afficher les vidéos</a> et <a href="../storage-security/security/gear-guard-video/copy-video.htm">copier une vidéo</a>.</p>
+        <h2 MadCap:conditions="RegionSpecificConditions.CA">Connectivité des véhicules</h2>
+        <p MadCap:conditions="RegionSpecificConditions.CA" style="page-break-inside:avoid;">Votre véhicule Rivian s'appuie sur le Wi-Fi<sup>®</sup> et la connectivité cellulaire pour offrir de nombreuses fonctionnalités, notamment la navigation, les mises à jour logicielles, les estimations d'autonomie et l'aide à la conduite. Vous avez la possibilité de désactiver la connectivité dans votre véhicule, mais cela limitera ou désactivera ces fonctionnalités. Si vous choisissez de l'éteindre, nous vous recommandons de le rallumer périodiquement, afin que votre véhicule puisse télécharger tout logiciel critique ou mise à jour de sécurité. Cela peut aider à éviter les problèmes nécessitant plusieurs mises à jour logicielles ou une visite à un centre de service Rivian.</p>
+        <div class="warning" MadCap:conditions="RegionSpecificConditions.CA">
+            <p>Désactiver la connectivité désactive le Wi-Fi, les données cellulaires de votre véhicule et le hotspot. Vous ne pouvez pas les activer ou les désactiver individuellement. Les fonctionnalités affectées comprennent, sans s'y limiter, les éléments suivants :</p>
+            <ul>
+                <li>
+                    <p>Sécurité et service (SOS demande une assistance routière d'urgence, et des services de déverrouillage à distance du véhicule)</p>
+                </li>
+                <li>
+                    <p>	Navigation (données de trafic en direct, disponibilité du chargeur EV et cartes mises à jour)</p>
+                </li>
+                <li>
+                    <p>Fonctionnalités du véhicule (assistance à la conduite, assistance routière et applications intégrées telles que les applications multimédia et les commandes embarquées Alexa)</p>
+                </li>
+                <li>
+                    <p>Conducteurs et clés (nouveaux conducteurs ou clés attribués au véhicule, et clés supprimées ou réattribuées)</p>
+                </li>
+            </ul>
+            <p>La désactivation de la connectivité n'affecte pas l'émission ou la réception d'appels sur votre téléphone via <i>Bluetooth</i><sup>®</sup>, ni les informations stockées localement dans votre véhicule, telles que les vidéos Gear Guard, l'historique des recherches de navigation, les emplacements enregistrés ou les garages enregistrés.</p>
+        </div>
+        <h2>Partage de données de localisation</h2>
+        <p>Pour activer certaines fonctionnalités et services, vos données de localisation précises sont partagées avec Rivian et des partenaires tiers.</p>
+        <div class="warning">
+            <p>Vous avez la possibilité de désactiver le partage de localisation précis, mais cela limitera ou désactivera certaines fonctionnalités. Ces fonctionnalités comprennent, sans s'y limiter, les éléments suivants:</p>
+            <ul>
+                <li>
+                    <p>Navigation (cartographie en temps réel, disponibilité du chargeur EV et données de trafic)</p>
+                </li>
+                <li>
+                    <p>Highway Assist (cartographie de haute précision et centrage des voies)</p>
+                </li>
+                <li>
+                    <p>Rivian Mobile App (affichant la position de votre véhicule dans l'application)</p>
+                </li>
+                <li>
+                    <p>Alexa (services de recherche et météo à proximité)</p>
+                </li>
+                <li>
+                    <p>Rivian Data Analytics (améliorations des produits et services) </p>
+                </li>
+            </ul>
+        </div>
+        <div class="note" style="margin-top: -10pt;margin-bottom: -10pt;">
+            <p>Votre position précise sera communiquée à Rivian à des fins de sécurité critiques, quels que soient vos choix en matière de partage de données de localisation, comme les appels SOS, les enquêtes sur les accidents et les rapports réglementaires. Votre position générale, sur un rayon d'environ <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:7,;measure.imperial-unit:mi,;measure.metric-unit:km,;measure.metric-value:11,"></MadCap:snippetText>, sera également partagée avec Rivian.</p>
+        </div>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.In-Vehicle"> </p>
+    </body>
+</html>
