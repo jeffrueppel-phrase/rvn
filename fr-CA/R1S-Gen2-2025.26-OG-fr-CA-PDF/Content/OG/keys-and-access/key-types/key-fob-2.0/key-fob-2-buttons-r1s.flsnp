@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine,R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Karin Hepler">
+    <head>
+        <link href="../../../../Resources/TableStyles/txt-diff-col-width-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p MadCap:conditions="R1VehicleConditions.R1S">
+            <img src="../../../../Resources/Images/print/keyfob-2.0-R1S-print.svg" MadCap:conditions="R1VehicleConditions.R1S, OutputTypeConditions.Print-all">
+            </img>
+        </p>
+        <table style="page-break-inside:auto; width: 100%;mc-table-style: url('../../../../Resources/TableStyles/txt-diff-col-width-table.css');" class="TableStyle-txt-diff-col-width-table" cellspacing="0" MadCap:conditions="R1VehicleConditions.R1S">
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 20%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 35%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <thead>
+                <tr class="TableStyle-txt-diff-col-width-table-Head-Header1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Numéro</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Description</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1" colspan="2">
+                        <p>Séquence de touches</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadD-Column1-Header1">
+                        <p>Fonction</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Coffre avant</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Double pression
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Ouvrir ou fermer le coffre avant.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Appuyer puis double pression						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Appuyer une seule fois pour mettre en pause le coffre avant en mouvement. Double pression pour changer de direction.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Hayon</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Double pression
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Ouvrir le hayon.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Appuyer puis double pression						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Appuyer une seule fois pour mettre en pause le hayon en mouvement. Double pression pour changer de direction.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Verrouiller</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Appuyer sur
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Verrouiller toutes les portes.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Double pression
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Verrouiller toutes les portes.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dash-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dash-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Maintenir</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Activer l'alarme de panique.</p>
+                        <p>Presse <b>Déverrouiller</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_lock_unlock_20_unselected_unlocked.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_lock_unlock_20_unselected_unlocked.svg" /><img src="../../../../Resources/Images/Icons/print/unlock-inline-print.svg" alt="Icône de déverrouillage" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> sur la clé à distance pour arrêter l'alarme.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dash-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dash-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Appuyer puis maintenir enfoncé</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Verrouiller toutes les portes et remonter toutes les vitres.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Déverrouiller</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Appuyer sur
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Déverrouiller la portière du conducteur ou toutes les portières.</p>
+                        <p>Configurez cette option à partir de l'écran central.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dot-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Double pression
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Déverrouillez toutes les portes.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dash-inline-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/button-press-patterns-v01-dot-dash-inline-print.svg" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>Appuyer puis maintenir enfoncé</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyA-Column1-Body1">
+                        <p>Déverrouillez toutes les portes et baissez toutes les vitres.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
