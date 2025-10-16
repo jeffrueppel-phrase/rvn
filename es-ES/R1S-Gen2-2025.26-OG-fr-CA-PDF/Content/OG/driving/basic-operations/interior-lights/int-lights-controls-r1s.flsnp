@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2 class="KeepWithNext">Pantalla central</h2>
+        <p class="KeepWithNext">Elige <span class="nonbreaking"><b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icono del vehículo" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> de la barra de estado en la pantalla central. </p>
+        <p class="KeepWithNext">Elige <span class="nonbreaking"><b>Luces</b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Icono de luces del portón trasero" MadCap:conditions=" OutputTypeConditions.Print-all"/></span> para encender o apagar las luces correspondientes. </p>
+        <div class="note">
+            <p>Para las luces del portón trasero, el control aparece solo cuando el portón está abierto.</p>
+        </div>
+        <h2 class="KeepWithNext">Pantalla trasera</h2>
+        <p>Elige <span class="nonbreaking"><b>Luces</b> <img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/ui-icons-qc-lighting-unselected-inline-print.svg" class="icon-in-line" alt="Icono de luces del portón trasero" MadCap:conditions=" OutputTypeConditions.Print-all"/></span> para encender o apagar las luces de la cabina trasera. </p>
+    </body>
+</html>
