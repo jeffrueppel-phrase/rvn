@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Le verrouillage de proximité verrouille ou déverrouille automatiquement le véhicule lorsque vous êtes à proximité à l'aide d'une clé de téléphone ou d'un porte clés. Pour activer le verrouillage de proximité :</p>
+        <ol>
+            <li>
+                <p>Aller à <b> Paramètres <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-settings-on-inline-print.svg" alt="Icône Paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> > Véhicule > Accès</b>.</p>
+            </li>
+            <li>
+                <p>Activez le <b>verrouillage de proximité</b>.</p>
+            </li>
+            <li>
+                <p>Sélectionnez les touches à activer.</p>
+            </li>
+        </ol>
+        <p class="KeepWithNext">Pour personnaliser le comportement de verrouillage et de déverrouillage automatiques de ces clés à la maison, effectuez les opérations suivantes :</p>
+        <ol style="page-break-inside:avoid;">
+            <li>
+                <p>Si vous n'avez pas encore défini de lieu de résidence :</p>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>
+                        <p>Sous « Comportement de verrouillage à la maison », choisissez <b>Définir l'emplacement du domicile</b>.</p>
+                    </li>
+                    <li>
+                        <p>Saisissez l'adresse et enregistrez-la.</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>Choisissez l'un des comportements suivants pour toutes les touches de proximité actives :</p>
+                <ol>
+                    <li>
+                        <p>
+                            <b>Verrouiller et déverrouiller</b> (par défaut) : Verrouiller et déverrouiller à la maison.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Verrouillage seulement</b> : Verrouillez mais ne déverrouillez pas lorsque vous vous trouvez à la maison. Avec ce réglage, vous devez déverrouiller activement le véhicule à l'aide d'une clé.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Désactivé</b> : Ne verrouillez pas ou ne déverrouillez pas lorsque vous vous rentre à la maison. Avec ce réglage, vous devez verrouiller et déverrouiller activement le véhicule à l'aide d'une clé.</p>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+        <div class="note" MadCap:conditions="R1VehicleConditions.R1S">
+            <p>Le « verrouillage seulement » à la maison s'applique uniquement aux portes du conducteur et des passagers. Les espaces de rangement — coffre avant et téléphone—continuent de se déverrouiller et de se verrouiller à l'aide d'un téléphone‑clé ou d'une clé téléphonique à proximité. </p>
+        </div>
+    </body>
+</html>
