@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Para ajustar la sensibilidad de los limpiaparabrisas automáticos para que limpien más o menos frecuentemente, utilice el interruptor de los limpiaparabrisas <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_wiper_20_unselected_manual.svg" /><img class="icon-in-line" src="../../../../Resources/Images/Icons/print/wiper-front-inline-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" /> Para cambiar entre los modos del limpiaparabrisas y seleccionar <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.svg" /><img src="../../../../Resources/Images/Icons/print/wiper-auto-inline-print.svg" alt="Ícono de estado climático" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> en la pantalla del conductor. Ajuste la sensibilidad de los limpiaparabrisas recorriendo el modo Auto.</p>
+        <ul>
+            <li>
+                <p>Empuje hacia arriba el interruptor de los limpiaparabrisas para aumentar la sensibilidad de los limpiaparabrisas. </p>
+            </li>
+            <li>
+                <p>Empuje hacia abajo el interruptor de los limpiaparabrisas para disminuir la sensibilidad de los limpiaparabrisas.</p>
+            </li>
+            <li>
+                <p>Cuando <b>Auto</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_wiper_20_unselected_auto.svg" /><img src="../../../../Resources/Images/Icons/print/wiper-auto-inline-print.svg" alt="Ícono de estado climático" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> se selecciona, el vehículo guarda su último nivel de sensibilidad de los limpiaparabrisas cuando el menú en la pantalla del conductor se cierra.</p>
+            </li>
+        </ul>
+        <MadCap:pageBreak MadCap:conditions="R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.Print-8x11" />
+        <p>La pantalla del conductor muestra los niveles de sensibilidad de los limpiaparabrisas.</p>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Auto en</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Ícono de sensibilidad</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1" rowspan="3" style="vertical-align: middle;text-align: center;">
+                        <p>
+                            <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.flsnp"></MadCap:snippetText>
+                            <img class="image-print-callout" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/callout/vehicle_controls/ic_vehicle_controls_wiper_36_unselected_auto.svg" />
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" style="width: 38px;height: 41px;">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-high-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-high-v2-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">Auto - alta sensibilidad</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-medium-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-medium-v2-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">Automático - sensibilidad media</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/wiper-auto-low-v2-icon-online.flsnp"></MadCap:snippetText>
+                            <img src="../../../../Resources/Images/Icons/print/wiper-auto-low-v2-icon-print.svg" MadCap:conditions="OutputTypeConditions.Print-all">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">Auto - baja sensibilidad</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Para evitar salpicar a los pasajeros al entrar o salir del vehículo, los limpiaparabrisas delanteros se detienen temporalmente mientras el vehículo está en movimiento. <br MadCap:conditions="LanguageConditions.fr,R1GuideSpecificConditions.OwnersGuide,OutputTypeConditions.Print-8x11" /><b>P</b> (Parque) y cualquiera de las puertas delanteras está abierta. Los limpiaparabrisas se reanudan cuando las puertas están cerradas o el vehículo no está en marcha. <b>P</b> (Parque).</p>
+                </li>
+                <li>
+                    <p>Cuando las temperaturas exteriores están cerca o por debajo del punto de congelación, los limpiaparabrisas automáticos pueden no funcionar hasta que comience a conducir.</p>
+                </li>
+                <li>
+                    <p>Los limpiaparabrisas automáticos no funcionan en el modo de lavado de autos.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
