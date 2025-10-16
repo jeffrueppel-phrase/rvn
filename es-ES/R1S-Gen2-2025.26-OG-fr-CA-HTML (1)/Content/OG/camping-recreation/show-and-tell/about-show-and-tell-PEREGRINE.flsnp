@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>El modo Mostrar y Contar hace lo siguiente:</p>
+        <ul>
+            <li>
+                <p>Mantiene las pantallas y las luces exteriores encendidas. </p>
+            </li>
+            <li>
+                <p>Mantiene el vehículo despierto.</p>
+            </li>
+            <li>
+                <p>Desactiva la bocina.</p>
+            </li>
+            <li>
+                <p>Desactiva el bloqueo y desbloqueo por proximidad.</p>
+            </li>
+            <li>
+                <p>Establece las <a href="../../driving/basic-operations/exterior-lights/headlights-taillights.htm">luces</a> en <b>Auto</b>, lo que permite las luces más brillantes, si las luces están apagadas cuando habilitas el modo Mostrar y Contar.</p>
+            </li>
+            <li>
+                <p>Desactiva el clima y habilita el Rendimiento Limitado del Clima por defecto. El Rendimiento Limitado del Clima apaga el aire acondicionado para evitar la acumulación de agua debajo del vehículo.</p>
+                <div class="notes">
+                    <ul>
+                        <li>
+                            <p>Con el Rendimiento Limitado del Clima habilitado, el ventilador sigue estando disponible.</p>
+                        </li>
+                        <li>
+                            <p>Apaga <b>Rendimiento Limitado del Clima</b> para habilitar los controles del aire acondicionado.</p>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <p>Dirige cualquier llamada SOS a un número de prueba.</p>
+                <div class="note">
+                    <p>Para hacer una llamada SOS real, elige <b>Salir de Mostrar y Contar</b> y luego presiona el botón <b>SOS</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/ttales_system_diag/ic_telltales_system_and_dynamics_sos_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/roadside-assistance-v03-sos-inline-day.svg" alt="Botón SOS" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/roadside-assistance-v03-sos-inline-night.svg" alt="Botón SOS" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/>. </p>
+                </div>
+            </li>
+        </ul>
+        <p>Para activar el modo Mostrar y Contar:</p>
+        <ol>
+            <li>
+                <p>Pon el vehículo en <b>P</b> (Estacionado). El modo Mostrar y Contar solo está disponible mientras el vehículo está en <b>P</b> (Estacionado).</p>
+            </li>
+            <li>
+                <p>Ve a <b>Ajustes</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icono de ajustes" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icono de ajustes" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> > <b>Vehículo</b> > <b>Servicio</b> en la pantalla central.</p>
+            </li>
+            <li>
+                <p>Activa <b>Mostrar y Contar</b>.</p>
+            </li>
+        </ol>
+        <div class="important">
+            <p>Cuando se activa, el modo Mostrar y Contar reduce el alcance del vehículo con el tiempo.</p>
+        </div>
+        <p class="KeepWithNext">El modo Mostrar y Contar se apaga automáticamente bajo cualquiera de las siguientes condiciones:</p>
+        <ul>
+            <li>
+                <p>El vehículo tiene <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:30,;measure.imperial-unit:mi,;measure.metric-value:49,;measure.metric-unit:km,"></MadCap:snippetText> de alcance restante.</p>
+            </li>
+            <li>
+                <p>Sacas el vehículo de <b>P</b> (Estacionado).</p>
+            </li>
+            <li>
+                <p>Usas la palanca de luces para apagar los faros.</p>
+            </li>
+        </ul>
+    </body>
+</html>
