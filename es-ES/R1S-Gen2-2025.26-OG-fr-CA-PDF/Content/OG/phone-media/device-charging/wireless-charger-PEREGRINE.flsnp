@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/txt-2col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>
+                            <p>
+                                <p>Una vez que encienda su vehículo, podrá cargar su teléfono compatible con Qi y otros dispositivos recargables que funcionen con batería en el cargador inalámbrico de alta velocidad ubicado en la bandeja superior de la consola central. <MadCap:conditionalText MadCap:conditions="R1PlatformConditions.R1Peregrine">Coloque el teléfono boca arriba sobre el cargador para comenzar a cargar, alineando el teléfono contra la nervadura central de la plataforma de carga.</MadCap:conditionalText> Verá un ícono de carga activo en su dispositivo si esta es una función compatible. Los tiempos de carga pueden variar según el dispositivo y las aplicaciones que se ejecutan en el dispositivo, pero se necesitan entre 2 y 3 horas para cargar completamente un teléfono agotado.</p>
+                            </p>
+                        </p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                            <p>
+                                <img src="../../../Resources/Images/print/wireless-charger-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                            </p>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>El cargador está diseñado para funcionar con teléfonos alojados en la mayoría de las fundas estándar. </p>
+        <p>Si bien puedes cargar dos teléfonos al mismo tiempo, la plataforma de carga está diseñada para funcionar mejor al cargar simultáneamente un teléfono y otro elemento pequeño, como auriculares.</p>
+        <p>La plataforma de carga tiene un sensor de temperatura y deja de cargar si el dispositivo o el entorno están demasiado calientes.</p>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>Para evitar dañar la plataforma de carga, no coloque objetos metálicos o magnéticos sobre ella ni entre el teléfono y el cargador. La plataforma de carga solo está diseñada para sostener un dispositivo compatible con una batería recargable, como un teléfono. </p>
+                </li>
+                <li>
+                    <p>No deje elementos como tarjetas de acceso o tarjetas de crédito sobre la plataforma. Si bien la plataforma de carga no dañará la tarjeta llave, la presencia de una tarjeta en la plataforma evitará la carga.</p>
+                </li>
+            </ul>
+        </div>
+        <h2>Solución de problemas</h2>
+        <table class="TableStyle-txt-2col-table" style="width:100%;mc-table-style: url('../../../Resources/TableStyles/txt-2col-table.css');" cellspacing="0">
+            <col class="TableStyle-txt-2col-table-Column-Column1" />
+            <col class="TableStyle-txt-2col-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-txt-2col-table-Head-Header1">
+                    <th class="TableStyle-txt-2col-table-HeadE-Column1-Header1">
+                        <p>Si esto sucede</p>
+                    </th>
+                    <th class="TableStyle-txt-2col-table-HeadD-Column2-Header1">
+                        <p>Prueba esto</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body1">
+                        <p>El dispositivo está demasiado caliente</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body1">
+                        <p>Retire el dispositivo del cargador, espere a que se enfríe e intente cargarlo nuevamente más tarde.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body2">
+                    <td class="TableStyle-txt-2col-table-BodyE-Column1-Body2">El sensor del cargador inalámbrico no detecta el dispositivo compatible</td>
+                    <td class="TableStyle-txt-2col-table-BodyD-Column2-Body2">
+                        <ul>
+                            <li>
+                                <p>Retire cualquier funda tipo billetera del teléfono.</p>
+                            </li>
+                            <li>
+                                <p>Retire las fundas de teléfono con un grosor superior a 5 milímetros para obtener una mejor detección del teléfono y un mejor rendimiento de carga.</p>
+                            </li>
+                            <li>
+                                <p>Retire el dispositivo del cargador, espere unos segundos y vuelva a colocar el dispositivo en la almohadilla.</p>
+                            </li>
+                            <li>
+                                <p>Mueva el dispositivo a otra posición en el cargador para encontrar la posición de carga adecuada.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-2col-table-Body-Body1">
+                    <td class="TableStyle-txt-2col-table-BodyB-Column1-Body1">
+                        <p>El dispositivo no se carga</p>
+                    </td>
+                    <td class="TableStyle-txt-2col-table-BodyA-Column2-Body1">
+                        <ul>
+                            <li>
+                                <p>Asegúrese de que el dispositivo sea compatible con Qi 1.2.4 (como dispositivos móviles iPhone<sup>®</sup> y Android<sup>™</sup> o un par de auriculares).</p>
+                            </li>
+                            <li>
+                                <p>Asegúrese de haber iniciado sesión en su cuenta en la pantalla central.</p>
+                            </li>
+                            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                                <p>Coloque el teléfono boca arriba contra la nervadura central de la plataforma de carga.</p>
+                            </li>
+                            <li>
+                                <p>Asegúrese de que no haya ningún objeto incompatible en el panel de carga (como tarjetas de acceso, objetos extraños o piezas de metal). Retire elementos como monedas o tarjetas de crédito del bolsillo de almacenamiento de la funda del teléfono.</p>
+                            </li>
+                            <li>
+                                <p>Responda a cualquier advertencia en la pantalla central que indique que hay un elemento no autorizado en la plataforma de carga.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
