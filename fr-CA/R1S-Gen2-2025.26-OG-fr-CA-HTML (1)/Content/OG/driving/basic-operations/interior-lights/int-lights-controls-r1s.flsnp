@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2 class="KeepWithNext">Écran central</h2>
+        <p class="KeepWithNext">Choisir un <span class="nonbreaking"> <b>véhicule</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Icône du véhicule" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Icône du véhicule" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> à partir de la barre d'état de l'écran central. </p>
+        <p class="KeepWithNext">Choisissez <span class="nonbreaking"> <b>les lumières</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" class="image-inline-day" alt="Icône des voyants du chariots élévateurs" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Icône des voyants du chariots élévateurs" MadCap:conditions="OutputTypeConditions.Web"/></span> pour allumer ou éteindre les feux correspondants. </p>
+        <div class="note">
+            <p>Dans le cas des feux de porte de levage, la commande n'apparaît que lorsque le chariots est ouvert.</p>
+        </div>
+        <h2 class="KeepWithNext">Affichage arrière</h2>
+        <p>Choisissez <span class="nonbreaking"> <b>les lumières</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" alt="Icône des voyants du chariots élévateurs" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Icône des voyants du chariots élévateurs" MadCap:conditions="OutputTypeConditions.Web"/></span> allumer ou éteindre les feux arrière de la cabine. </p>
+    </body>
+</html>
