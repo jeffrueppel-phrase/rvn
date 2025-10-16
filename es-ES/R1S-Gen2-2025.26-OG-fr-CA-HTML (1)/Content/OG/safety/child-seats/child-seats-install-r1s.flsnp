@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim" MadCap:fileTags="TechPubsAuthors.Daisy Luu" style="mc-template-page: url('../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="KeepWithNext" MadCap:conditions="RegionSpecificConditions.CA,R1GuideSpecificConditions.OwnersGuide">Siga las pautas del fabricante del asiento y las pautas de su provincia o territorio sobre si debe instalar el asiento para niños mirando hacia atrás o hacia adelante. Estas reglas a menudo se basan en la edad, altura y peso del niño.</p>
+        <p class="warning ">Si no se puede instalar un asiento para niños de forma segura en la posición central trasera debido al tamaño del asiento, limitaciones de espacio o contornos del asiento, instale el asiento para niños en cualquiera de las posiciones laterales de los asientos exteriores cerca de las ventanas. La posición central trasera puede acomodar mejor un asiento elevador más pequeño o un asiento de cubo para bebés con una base inferior que se ajuste perfectamente a los contornos de los cojines del asiento. Estos tipos de asientos para niños deben asegurarse firmemente con el cinturón de seguridad del vehículo.</p>
+        <ol>
+            <li style="page-break-inside:avoid;">
+                <p>Coloque el asiento para niños mirando hacia atrás o hacia adelante en el asiento del vehículo.</p>
+                <div class="important " MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+                    <p>Si un asiento para niños orientado hacia adelante requiere un anclaje superior, enganche el gancho en el anclaje del anclaje detrás del asiento y ajuste el cinturón.</p>
+                    <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+                        <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1">
+                        </col>
+                        <col style="width: 50%;" class="TableStyle-img-img-table-Column-Column1">
+                        </col>
+                        <tbody>
+                            <tr MadCap:conditions="" class="TableStyle-img-img-table-Body-Body1">
+                                <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                                    <!-- child-seats-v06-R1S-top-tether-anchor --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-top-tether-anchor-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                    <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-top-tether-anchor-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-top-tether-anchor-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                </td>
+                                <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                                    <!-- child-seats-v06-R1S-single-top-tether-config --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/child-seats-v06-R1S-single-top-tether-config-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                                    <img class="image-day" src="../../../Resources/Images/day/child-seats-v06-R1S-single-top-tether-config-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <img class="image-night" src="../../../Resources/Images/night/child-seats-v06-R1S-single-top-tether-config-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                                    <!-- LB note 6/4/25: to get this on one page in the English (en-US and en-CA), may need to replace style in below image with style="margin-top: -8pt;margin-bottom: -8pt;" and make sure no extra spacing between image tags throughout topic-->
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+        </ol>
+        <ol MadCap:continue="true">
+            <li>
+                <p style="margin-bottom: -10pt;">Pase el cinturón de seguridad del vehículo a través de la ruta del cinturón según las instrucciones del fabricante del asiento para niños.</p>
+                <div class="note">
+                    <p>Si está instalando una base de asiento que acompaña a un asiento de cubo para bebés, es posible que deba sujetar el cinturón de seguridad en su lugar con el bloqueo del cinturón apagado, según lo indicado por el fabricante del asiento.</p>
+                </div>
+            </li>
+            <li>
+                <p>Inserte la placa de la lengüeta del cinturón de seguridad en la hebilla hasta que haga clic.</p>
+            </li>
+            <li>
+                <p>Tire del cinturón de la cadera para eliminar la holgura y asegurar un ajuste ceñido.</p>
+            </li>
+            <li>
+                <p>Tire completamente del cinturón de hombro del retráctil y luego permita que el cinturón se retraiga. El cinturón de seguridad se bloquea en su lugar a medida que se retrae.</p>
+            </li>
+            <li>
+                <p>Empuje el asiento para niños hacia abajo y hacia el cojín trasero del asiento del vehículo, eliminando tanta holgura del cinturón de seguridad como sea posible. </p>
+            </li>
+        </ol>
+        <!-- LB note 5/6/25: to get this on one page in the Canadian English (en-CA), replace inline style in below important p tag style="margin-top: -5pt;margin-bottom: -10pt;" -->
+        <div class="important" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p style="margin-bottom: -10pt;">Instale el asiento para niños de manera que su base en la ruta del cinturón no pueda moverse más de <MadCap:snippetText src="../../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:1,;measure.imperial-unit:in,;measure.metric-value:2.5,;measure.metric-unit:cm,"></MadCap:snippetText> de lado a lado. Asegúrese de que el asiento esté firmemente asegurado antes de conducir el vehículo.</p>
+        </div>
+    </body>
+</html>
