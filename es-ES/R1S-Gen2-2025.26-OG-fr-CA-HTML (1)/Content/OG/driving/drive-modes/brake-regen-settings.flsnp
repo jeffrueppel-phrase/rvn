@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee">
+    <body>
+        <ul>
+            <li>
+                <p>
+                    <b>Estándar:</b> Frenado regenerativo moderado. Estándar es la configuración predeterminada para todos los modos excepto los modos Nieve y Arena Suave. </p>
+            </li>
+            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                <p>
+                    <b>Alto:</b> Frenado regenerativo más fuerte. El vehículo se desacelera más rápido y captura más energía. Alto no está disponible en los vehículos Dual Standard del Año Modelo 2025 y 2026.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Bajo:</b> Frenado regenerativo limitado. Bajo es la configuración predeterminada para los modos Nieve y Arena Suave. </p>
+            </li>
+        </ul>
+    </body>
+</html>
