@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee">
+    <body>
+        <ul>
+            <li>
+                <p>
+                    <b>Norme:</b> Freinage à récupération modéré. Standard est le paramètre par défaut pour tous les modes sauf les modes Neige et Sable mou. </p>
+            </li>
+            <li MadCap:conditions="R1PlatformConditions.R1Peregrine">
+                <p>
+                    <b>Haut :</b> Freinage à récupération plus fort. Le véhicule ralentit plus vite et capte plus d'énergie. High n'est pas disponible sur les véhicules Dual Standard de l'année modèle 2025 et 2026.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Bas:</b> Freinage à récupération limité. Low est le paramètre par défaut pour les modes Neige et Sable mou. </p>
+            </li>
+        </ul>
+    </body>
+</html>
