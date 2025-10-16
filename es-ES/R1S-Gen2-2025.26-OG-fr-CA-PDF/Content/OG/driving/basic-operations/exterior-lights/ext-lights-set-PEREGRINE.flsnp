@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">En la pantalla central, ve a <span class="nonbreaking"><b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Icono de configuración" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> > <b>Vehículo</b> > <b>Pantallas y Iluminación</b> para acceder a la siguiente configuración:</p>
+        <ul style="page-break-inside:avoid;">
+            <li>
+                <p>
+                    <b>Asistencia de luces altas adaptativas: </b>Habilitado por defecto. Para desactivar <a href="../../../driver-assistance/light-safety/high-beams-assist-PEREGRINE.htm">Asistencia de luces altas adaptativas</a>, ve a <span class="nonbreaking"><b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Icono de configuración" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> > <b>Vehículo</b> > <b>Pantallas y Iluminación</b>, y apaga <b>Asistencia de luces altas adaptativas</b>. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Iluminación Interactiva:</b> Habilitado por defecto. Puedes activar o desactivar esta configuración. Si está habilitado, las barras de luz reaccionan cuando bloqueas o desbloqueas el vehículo y puedes cambiar la siguiente configuración:</p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Barras de Luz al Cargar:</b> Habilitado por defecto. Puedes activar o desactivar esta configuración. Si está habilitado, las barras de luz indican el <a href="../../../charging-range/charging/charge-status.htm">estado de carga</a> mientras el vehículo se carga. Las barras de luz se apagan si el vehículo está bloqueado o en reposo mientras se carga. </p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Luces de Entrada:</b> Habilitado por defecto. Puedes activar o desactivar esta configuración. Si está habilitado, las <a href="../../../vehicle-overview/exterior-overview/ext-img-side-lights.htm">luces de entrada</a> se encienden cuando desbloqueas el vehículo.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Luces de Guía:</b> Habilitado por defecto. Puedes activar o desactivar esta configuración. Si está habilitado, las <a href="../../../vehicle-overview/exterior-overview/ext-img-front-rear-lights.htm">luces de guía</a> se encienden por la noche cuando bloqueas o desbloqueas el vehículo. Elige cuánto tiempo permanecen encendidas las luces de guía después de bloquear el vehículo.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Luces del Puerto de Carga:</b> Desactivado por defecto. Puedes activar o desactivar esta configuración. La <a href="../../../charging-range/charging/charge-status.htm">luz del puerto de carga</a> se enciende mientras el vehículo se carga. Si está habilitado, la luz del puerto de carga permanece encendida después de que bloqueas el vehículo mientras se carga.</p>
+            </li>
+        </ul>
+    </body>
+</html>
