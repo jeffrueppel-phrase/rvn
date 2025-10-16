@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Pour allumer ou éteindre manuellement les lumières de la cabine, choisissez <b>Véhicule</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icône du véhicule" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> à partir de la barre d’état de l’écran central ou à l’aide de l’écran arrière.</p>
+        <p>Pour que le véhicule contrôle automatiquement les feux de l’habitacle, rendez-vous sur <span class="nonbreaking"><b>Paramètres</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-settings-off-inline-print.svg" alt="Icône Paramètres" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/></span> > <b>Véhicule</b> > <b>Affichages et éclairage</b> sur l’écran central. Deux options s’offrent à vous :</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Lumières allumées à l’ouverture des portes :</b> Choisir <b>Lumières allumées à l’ouverture des portes</b> pour allumer automatiquement les lumières de la cabine dans n’importe quelle rangée avec une porte ouverte dans des conditions de faible luminosité.</p>
+                <div class="note" MadCap:conditions="R1VehicleConditions.R1S">
+                    <p>Si vous ouvrez une porte arrière, les phares de l’habitacle des deuxième et troisième rangées s’allument.</p>
+                </div>
+            </li>
+            <li>
+                <p>
+                    <b>Lumières allumées sur le parc :</b> Choisir <b>Lumières allumées sur le parc</b> pour allumer automatiquement les feux de l’habitacle lorsque vous mettez le véhicule en <b>P</b> (Stationner) dans des conditions de faible luminosité. </p>
+            </li>
+        </ul>
+        <p>Vous pouvez régler la luminosité des plafonniers.</p>
+        <div class="note">
+            <p>Pour verrouiller l’écran arrière afin que les passagers arrière de l’habitacle ne puissent pas contrôler les feux de l’habitacle, accédez à <b>Véhicule</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icône du véhicule" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> > <b>Raccourcis</b> > <b>Verrouillage de l’affichage arrière</b> à partir de la barre d’état de l’écran central. </p>
+        </div>
+    </body>
+</html>
