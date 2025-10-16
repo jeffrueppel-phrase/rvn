@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2>Appuie-tête avant</h2>
+        <p>Le siège du conducteur et le siège passager sont équipés d'appuie-têtes intégrés. Les appuie-têtes ne sont pas réglables. </p>
+        <h2>Appuie-tête du siège central de la deuxième rangée</h2>
+        <p>Pour régler l'appuie-tête du siège central de la deuxième rangée, tirez vers le haut sur l'appuie-tête jusqu'à ce qu'il se verrouille en place. </p>
+        <div class="note">
+            <p>Les appuie-têtes des sièges latéraux de la deuxième rangée ne sont pas réglables. </p>
+        </div>
+        <p>
+            <img src="../../../Resources/Images/print/head-restraints-v02-R1T-raise-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="margin-top: -5pt;margin-bottom: -2pt;" />
+        </p>
+        <p>Pour abaisser l'appuie-tête, appuyez sur le bouton situé au bas de la tige de l'appuie-tête gauche tout en poussant vers le bas sur le dessus de l'appuie-tête. </p>
+        <p>
+            <img src="../../../Resources/Images/print/head-restraints-v02-R1S-lower-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="margin-top: -2pt;margin-bottom: -5pt;" />
+        </p>
+        <!-- LB note 4/10/25: To get danger on one page with rest of content in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to p of danger below -->
+        <div class="danger-nonelectrical">
+            <p>Soulevez l'appuie-tête du siège central de la deuxième rangée jusqu'à sa position verrouillée avant qu'un passager n'occupe le siège pour aider à minimiser le risque de blessures (y compris les blessures au cou) en cas de collision. Le conducteur ne doit pas actionner le véhicule tant que l'appuie-tête n'est pas en position verrouillée.</p>
+        </div>
+        <h2>Appuie-tête des sièges extérieurs de la deuxième rangée</h2>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Retirez les appuie-têtes des sièges latéraux de la deuxième rangée en appuyant sur les boutons situés au bas des tiges de l'appuie-tête et en soulevant l'appuie-tête directement vers le haut.</p>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Le démontage et la réinstallation des appuie-têtes des sièges latéraux de la deuxième rangée ne doivent être effectués que par du personnel de service qualifié.</p>
+        </div>
+        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-2ndrow-remove-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+        <p>Pour réinstaller l'appuie-tête, alignez les tiges avec les trous en haut du siège et poussez le haut de l'appuie-tête tout en bas jusqu'à ce qu'il se verrouille en place.</p>
+        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-2ndrow-install-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+        <div class="danger-nonelectrical">
+            <p>Assurez-vous que les appuie-têtes des sièges latéraux de la deuxième rangée sont bien abaissés en position verrouillée avant qu'un passager n'occupe les sièges latéraux pour aider à minimiser le risque de blessures (y compris les blessures au cou) en cas de collision. Le conducteur ne doit pas actionner le véhicule tant que les appuie-têtes ne sont pas en position verrouillée.</p>
+        </div>
+        <h2 class="KeepWithNext">Appuie-tête des sièges de la troisième rangée</h2>
+        <p class="KeepWithNext">Tirez le verrou manuel à la première encoche pour abaisser l'appuie-tête d'un siège de la troisième rangée.</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-3rdrow-down-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-3rdrow-up-print.svg" style="padding-left:10px;" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-nonelectrical">
+            <p>Soulevez les appuie-têtes de la troisième rangée en position verrouillée avant que les passagers n'occupent les sièges pour aider à minimiser le risque de blessures (y compris les blessures au cou) en cas de collision. Le conducteur ne doit pas actionner le véhicule tant que les appuie-têtes ne sont pas en position verrouillée.</p>
+        </div>
+    </body>
+</html>
