@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+    </head>
+    <body>
+        <div class="danger-nonelectrical">
+            <p>Les tapis de sol mal installés peuvent gêner la pédale de frein ou l'accélérateur lorsque vous conduisez et peuvent entraîner une perte de contrôle du véhicule.</p>
+            <ul>
+                <li>
+                    <p>N'utilisez que des tapis de sol conçus pour votre véhicule spécifique. N'utilisez jamais de tapis de sol conçus pour d'autres modèles ou des véhicules d'une autre année de modèle, même s'ils s'agit de tapis de sol Rivian authentiques.</p>
+                </li>
+                <li>
+                    <p>Assurez-vous que les tapis de sol sont correctement fixés au sol. Cela maintient les tapis en place afin qu'ils ne glissent pas ni ne se soulèvent aux coins lorsque vous conduisez. Les tapis de sol doivent être inspectés périodiquement pour s'assurer qu'ils sont correctement installés.</p>
+                </li>
+                <li>
+                    <p>Un seul tapis de sol doit être installé dans chaque position. Ne superposez jamais les tapis de sol les uns sur les autres (par exemple, ne superposez jamais les tapis de sol pour tous les temps sur un tapis de sol moquette).</p>
+                </li>
+                <li>
+                    <p>Installez les tapis de sol avec le bon côté vers le haut. Ne jamais installer les tapis de sol à l'envers ou le côté inférieur vers le haut.</p>
+                </li>
+                <li>
+                    <p>Effectuez ce test de sécurité après la nouvelle installation du tapis de sol. Avant de conduire, et lorsque le véhicule est en {i}marche{i} <b>P</b> (Parc), enfoncez complètement chaque pédale jusqu'au plancher pour vous assurer que le tapis de sol n'interfère pas avec la pédale de frein ou l'accélérateur.</p>
+                </li>
+                <li>
+                    <p>Le non-respect de ces avertissements peut entraîner une collision, des dommages matériels, des blessures graves ou la mort.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="danger-nonelectrical">
+            <p>
+			Les tapis de sol pour les années modèles 2022-2024 peuvent potentiellement interférer avec la pédale d'accélérateur lorsqu'ils sont installés sur un véhicule 2025 ou plus récent. N'installez pas les tapis de sol 2022-2024 sur un véhicule 2025 ou plus récent.</p>
+        </div>
+        <p class="KeepWithNext">Les tapis de sol se fixent au sol avec des languettes à enfoncer. Les tapis avant ont une languette à enfoncer à chaque coin inférieur. Les tapis arrière ont trois languettes à enfoncer le long du côté. </p>
+        <p>
+            <img src="../../../Resources/Images/print/r1s-all-weather-floor-mats-v01-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <h2>Retirez les tapis de sol</h2>
+        <ol class="KeepTogether">
+            <li>
+                <p>Tirez fermement sur une section du tapis de sol près d'une languette à enfoncer. </p>
+            </li>
+            <li>
+                <p>Retirez une languette à pression à la fois. </p>
+            </li>
+        </ol>
+        <h2>Fixez les tapis de sol</h2>
+        <ol class="KeepTogether">
+            <li>
+                <p>Alignez les tapis de sol avec les languettes à pression sur le sol. Assurez-vous que les languettes à pression sont au-dessus des languettes correspondantes.</p>
+            </li>
+            <li>
+                <p>Appuyez fermement pour encliqueter les languettes à pression en place une à la fois. </p>
+            </li>
+        </ol>
+        <h2>Nettoyez les tapis de sol</h2>
+        <p>Secouez ou aspirez les tapis de sol pour enlever les débris. Les tapis de sol peuvent être lavés à l'eau et avec des solutions de nettoyage courantes telles que du savon doux ou un détachant pour tapis. </p>
+    </body>
+</html>
