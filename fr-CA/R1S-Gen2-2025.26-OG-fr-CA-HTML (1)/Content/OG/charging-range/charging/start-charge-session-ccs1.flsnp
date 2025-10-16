@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karla Reinhardt">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2 MadCap:conditions="R1PlatformConditions.R1Peregrine">CCS1 Charge Port (année de modèle 2025 et antérieure)</h2>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/charge-port-charge-port-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/charge-port-charge-port-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/charge-port-charge-port-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <table style="width: 100%;caption-side: top;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col style="width: 15%;" class="TableStyle-callout-table-Column-Column1" />
+            <col style="width: 85%;" class="TableStyle-callout-table-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Article</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Port de charge J1772 (charge AC)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Port de charge CCS1 (charge rapide CC)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">3</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Bouton d'arrêt de la charge</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">4</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">Capteur de porte de port de charge</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-electrical">
+            <p>Assurez-vous qu'aucun débris étranger ne se trouve dans le port de charge et dans la prise de charge avant de commencer une session de charge. Le fait de ne pas le faire peut entraîner des dommages matériels, des blessures graves ou la mort. Les débris étrangers peuvent provoquer une erreur de charge ou une surchauffe. Dans de rares circonstances, une surchauffe extrême peut provoquer un incendie. Si vous trouvez des débris étrangers, <a href="../../customer-service/customer-service.htm">contactez Rivian</a>. </p>
+        </div>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>Lorsque vous chargez votre véhicule, utilisez un chargeur qui correspond au type de prise du véhicule. Utilisez un adaptateur uniquement si nécessaire, lorsqu'un chargeur compatible n'est pas disponible.</p>
+                </li>
+                <li>
+                    <p>
+						Les adaptateurs ne sont pas destinés à une utilisation quotidienne. L'utilisation d'un adaptateur pour charger régulièrement le véhicule peut endommager l'adaptateur et le véhicule.</p>
+                </li>
+                <li>
+                    <p>Seuls les adaptateurs CC NACS fournis par Rivian sont autorisés pour une utilisation sur le réseau de superchargeurs Tesla ; l'utilisation d'adaptateurs tiers ou incorrects peut entraîner des dommages au véhicule ou à la propriété.</p>
+                </li>
+                <li>
+                    <p>N'utilisez pas d'adaptateur AC NACS tiers pour charger le véhicule à un chargeur rapide CC. Le chargement avec un équipement incompatible peut entraîner des dommages au véhicule ou à la propriété.</p>
+                </li>
+            </ul>
+            <p>
+                <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/nacs-adapter-adapters-1-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                <img class="image-day" src="../../../Resources/Images/day/nacs-adapter-adapters-1-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                <img class="image-night" src="../../../Resources/Images/night/nacs-adapter-adapters-1-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                <!-- LB note (7/3/25): to get caution + entire start charge session steps on one page in English (en-US and en-CA) PDFs add style="margin-top: -3pt;margin-bottom: -13pt;" to below image tag-->
+            </p>
+            <ul>
+                <li>
+                    <p>N'utilisez pas de rallonge ou de câble avec un chargeur rapide en courant continu, comme un Superchargeur Tesla. L'utilisation d'une rallonge peut endommager le véhicule ou les biens. </p>
+                </li>
+                <li>
+                    <p>L'utilisation d'un chargeur AC non J1772 avec un adaptateur peut provoquer une surchauffe qui affecte les performances de charge AC du véhicule.</p>
+                </li>
+                <li>
+                    <p>Tout dommage causé par l'utilisation d'un équipement de charge non autorisé ou incompatible n'est pas couvert par la garantie limitée du nouveau véhicule.</p>
+                </li>
+            </ul>
+        </div>
+        <!-- LB note (7/3/25): to get caution + entire start charge session steps on one page in English (en-US and en-CA) PDFs add style="margin-top: -1pt;" to below p tag-->
+        <p class="KeepWithNext">Démarrez une session de charge comme suit :</p>
+        <ol style="page-break-inside:avoid;">
+            <li>
+                <p>Stationnez-vous au chargeur et mettez le véhicule en mode veille. <b>P</b> (Parc).</p>
+            </li>
+            <li>
+                <p>Ouvrez la porte du port de charge. Aller à <b>Énergie <img src="../../../Resources/Images/Icons/day/app-energy-off-inline-day.svg" alt="application énergie" class=" image-inline-day" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-energy-off-inline-night.svg" alt="application énergie" class=" image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> > Recharge > Ouvrir le port de charge</b> sur l'écran central ou touchez le capteur de la porte du port de charge.</p>
+            </li>
+            <li>
+                <p>Prenez le câble de charge.</p>
+                <ul>
+                    <li>
+                        <p>Si vous utilisez un chargeur public, suivez les instructions du tiers pour libérer le câble de charge et commencer à charger.</p>
+                    </li>
+                    <li>
+                        <p>Si vous utilisez votre chargeur portable, branchez-le sur une prise électrique avant d'insérer la prise dans le véhicule.</p>
+                    </li>
+                    <li>
+                        <p>Si vous utilisez un chargeur rapide CC, tirez vers le bas le couvercle du port de charge CC du véhicule avant d'insérer la prise dans le véhicule.</p>
+                    </li>
+                    <li>
+                        <p>Si vous utilisez un chargeur rapide CC NACS, connectez l'adaptateur CC NACS à la prise avant d'insérer la prise dans le véhicule.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>Alignez la prise de charge sur le port de charge du véhicule. Insérez complètement la prise dans le port. Le véhicule commence à se charger automatiquement.</p>
+            </li>
+        </ol>
+    </body>
+</html>
