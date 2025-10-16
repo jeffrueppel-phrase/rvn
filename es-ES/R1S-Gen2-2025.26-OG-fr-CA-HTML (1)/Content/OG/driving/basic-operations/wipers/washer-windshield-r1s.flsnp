@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+    </head>
+    <body>
+        <p class="KeepWithNext">Mantenga presionado el <MadCap:conditionalText MadCap:conditions="R1VehicleConditions.R1S">superior </MadCap:conditionalText>botón de la lavadora <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_washer_fluid_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/wiper-washer-front-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web" /><img class="image-inline-night" src="../../../../Resources/Images/Icons/night/wiper-washer-front-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web" /> para lavar el parabrisas delantero. Suelte el botón para detener la pulverización del líquido limpiador. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/stalk-wiper-light-v06-front-washer-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-front-washer-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-front-washer-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <div class="note">
+            <p>Presione rápidamente y suelte el botón de la escobilla para hacer una sola pasada sin líquido limpiador.</p>
+        </div>
+    </body>
+</html>
