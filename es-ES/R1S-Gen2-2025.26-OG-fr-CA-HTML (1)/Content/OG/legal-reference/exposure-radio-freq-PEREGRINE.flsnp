@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Daisy Luu">
+    <head>
+        <link href="../../Resources/TableStyles/txt-4col-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Los vehículos Rivian utilizan Wi-Fi<sup>®</sup>, <i>Bluetooth</i><sup>®</sup> y transmisores de radio celular (LTE/WCDMA/GSM) que emiten energía de radiofrecuencia (RF). Aunque estos dispositivos emiten niveles bajos de energía RF, mantenga una distancia mínima especificada entre el cuerpo humano y los dispositivos inalámbricos (y sus antenas) especificada en la tabla a continuación durante la operación para cumplir con las pautas de exposición a RF de la Comisión Federal de Comunicaciones de los Estados Unidos (FCC), Industria Canadá y Unión Europea. </p>
+        <p>Los dispositivos que emiten energía RF utilizados en los vehículos Rivian se enumeran a continuación según su distancia de <b>Exposición Máxima Permitida (MPE)</b> recomendada.</p>
+        <table class="TableStyle-txt-4col-table" style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/txt-4col-table.css');" cellspacing="0">
+            <col class="TableStyle-txt-4col-table-Column-Column1" style="width:35%;">
+            </col>
+            <col class="TableStyle-txt-4col-table-Column-Column2" style="width:20%;">
+            </col>
+            <col class="TableStyle-txt-4col-table-Column-Column3" style="width:20%;">
+            </col>
+            <col class="TableStyle-txt-4col-table-Column-Column4" style="width:25%;">
+            </col>
+            <thead>
+                <tr class="TableStyle-txt-4col-table-Head-Header1">
+                    <th class="TableStyle-txt-4col-table-HeadE-Column1-Header1">
+                        <p>Dispositivo Inalámbrico</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column2-Header1">
+                        <p>Modelo</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadE-Column3-Header1">
+                        <p>Distancia MPE</p>
+                    </th>
+                    <th class="TableStyle-txt-4col-table-HeadD-Column4-Header1">
+                        <p>Ubicación de la Antena</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Radar Automotriz de Largo Alcance</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>ARS5A</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:8,;measure.imperial-unit:in,;measure.metric-value:20,;measure.metric-unit:cm,"> </MadCap:snippetText>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Parachoques Frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Radares Automotrices de Corto Alcance</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>SRR6PS</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:8,;measure.imperial-unit:in,;measure.metric-value:20,;measure.metric-unit:cm,"> </MadCap:snippetText>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>Parachoques Frontal y Trasero</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">Módulo de Experiencia de Autonomía</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">AXM 2.0</td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:8,;measure.imperial-unit:in,;measure.metric-value:20,;measure.metric-unit:cm,"> </MadCap:snippetText>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Panel de Instrumentos</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body2">
+                        <p>Altavoz de Campamento</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body2">
+                        <p>RCS 0.9, 1.0</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body2">
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:8,;measure.imperial-unit:in,;measure.metric-value:20,;measure.metric-unit:cm,"> </MadCap:snippetText>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body2">
+                        <p>Consola Central*</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body1">
+                    <td class="TableStyle-txt-4col-table-BodyE-Column1-Body1">
+                        <p>Sistema de Acceso al Vehículo</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column2-Body1">
+                        <p>VAS 2.0</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyE-Column3-Body1">
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:8,;measure.imperial-unit:in,;measure.metric-value:20,;measure.metric-unit:cm,"> </MadCap:snippetText>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyD-Column4-Body1">
+                        <p>Pilares de la Puerta</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-4col-table-Body-Body2">
+                    <td class="TableStyle-txt-4col-table-BodyB-Column1-Body2">
+                        <p>Cargador Inalámbrico</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column2-Body2">
+                        <p>X10</p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyB-Column3-Body2">
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/imperial-metric.flsnp" MadCap:snippetVariables="measure.imperial-value:8,;measure.imperial-unit:in,;measure.metric-value:20,;measure.metric-unit:cm,"> </MadCap:snippetText>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-4col-table-BodyA-Column4-Body2">
+                        <p>Consola Central</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="table-footnote">
+            <ul class="Footnote">
+                <li>
+                    <p>El altavoz de campamento es extraíble de la consola central del vehículo. La distancia MPE debe ser desde la antena del altavoz del campamento, ya sea acoplada o desacoplada.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
