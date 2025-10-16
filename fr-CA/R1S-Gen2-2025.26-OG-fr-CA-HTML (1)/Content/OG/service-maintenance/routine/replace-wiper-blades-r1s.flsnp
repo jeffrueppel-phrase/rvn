@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S">
+    <head>
+    </head>
+    <body>
+        <h2>Lames de balai d'essuie-glace avant</h2>
+        <ol>
+            <li>
+                <p>Assurez-vous que les essuie-glaces sont <b>Arrêt</b> et que le véhicule est en <b>P</b> (Stationnement).</p>
+            </li>
+            <li>
+                <p>Allez à <b>Paramètres <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-settings-on-inline-day.svg" alt="Icône des paramètres" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-settings-on-inline-night.svg" alt="Icône des paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> > Véhicule > Service</b>.</p>
+            </li>
+            <li>
+                <p>Activez <b>Service d'essuie-glace</b> pour déplacer les essuie-glaces hors de la position de stationnement.</p>
+            </li>
+            <li>
+                <p>Pliez les bras des essuie-glaces au niveau de la charnière si nécessaire. </p>
+            </li>
+            <li>
+                <p>Retirez les anciennes lames d'essuie-glace et remplacez-les par des lames hybrides en J. Placez les nouvelles lames sur le pare-brise.</p>
+                <div class="warning">
+                    <p>Pour éviter d'endommager le capot du véhicule, positionnez les deux lames d'essuie-glace sur le pare-brise avant de quitter le mode de service des essuie-glaces.</p>
+                </div>
+            </li>
+            <li>
+                <p>Désactivez <b>Service d'essuie-glace</b> depuis l'affichage central pour ramener les essuie-glaces à la position de stationnement.</p>
+            </li>
+        </ol>
+        <div class="note">
+            <p>Lorsque le véhicule est en mode de service des essuie-glaces, l'ouverture motorisée du coffre avant est désactivée pour éviter tout contact potentiel entre les bras des essuie-glaces et le capot. Vous pouvez toujours déverrouiller le coffre sur demande, mais il ne s'ouvrira pas automatiquement.</p>
+        </div>
+        <h2>Lame d'essuie-glace arrière</h2>
+        <ol>
+            <li>
+                <p>Assurez-vous que l'essuie-glace arrière est <b>Arrêt</b> et que le véhicule est en <b>P</b> (Stationnement).</p>
+            </li>
+            <li>
+                <p>Tirez l'essuie-glace loin de la vitre arrière d'environ 15 degrés.</p>
+                <p>
+                    <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/r1s-rear-wiper-lift-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                    <img class="image-day" src="../../../Resources/Images/day/r1s-rear-wiper-lift-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    <img class="image-night" src="../../../Resources/Images/night/r1s-rear-wiper-lift-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                </p>
+            </li>
+            <li>
+                <p>Tout en tenant la section centrale de l'essuie-glace d'une main, saisissez l'extrémité extérieure de l'essuie-glace et poussez-la loin de vous pour faire sauter la lame.</p>
+                <p>
+                    <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/r1s-rear-wiper-remove-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                    <img class="image-day" src="../../../Resources/Images/day/r1s-rear-wiper-remove-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    <img class="image-night" src="../../../Resources/Images/night/r1s-rear-wiper-remove-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                </p>
+            </li>
+            <li>
+                <p>Installez la lame de remplacement en l'enclenchant dans l'essuie-glace.</p>
+            </li>
+            <li>
+                <p>Placez la lame d'essuie-glace sur la vitre arrière.</p>
+            </li>
+        </ol>
+    </body>
+</html>
