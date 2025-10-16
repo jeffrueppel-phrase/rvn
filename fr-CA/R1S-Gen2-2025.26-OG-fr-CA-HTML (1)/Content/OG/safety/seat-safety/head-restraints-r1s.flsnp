@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2>Appuie-tête avant</h2>
+        <p>Le siège du conducteur et le siège passager sont équipés d'appuie-têtes intégrés. Les appuie-têtes ne sont pas réglables. </p>
+        <h2>Appuie-tête du siège central de la deuxième rangée</h2>
+        <p>Pour régler l'appuie-tête du siège central de la deuxième rangée, tirez vers le haut sur l'appuie-tête jusqu'à ce qu'il se verrouille en place. </p>
+        <div class="note">
+            <p>Les appuie-têtes des sièges latéraux de la deuxième rangée ne sont pas réglables. </p>
+        </div>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/head-restraints-v02-R1T-raise-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/head-restraints-v02-R1T-raise-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/head-restraints-v02-R1T-raise-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <p>Pour abaisser l'appuie-tête, appuyez sur le bouton situé au bas de la tige de l'appuie-tête gauche tout en poussant vers le bas sur le dessus de l'appuie-tête. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/head-restraints-v02-R1S-lower-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/head-restraints-v02-R1S-lower-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/head-restraints-v02-R1S-lower-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <!-- LB note 4/10/25: To get danger on one page with rest of content in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to p of danger below -->
+        <div class="danger-nonelectrical">
+            <p>Soulevez l'appuie-tête du siège central de la deuxième rangée jusqu'à sa position verrouillée avant qu'un passager n'occupe le siège pour aider à minimiser le risque de blessures (y compris les blessures au cou) en cas de collision. Le conducteur ne doit pas actionner le véhicule tant que l'appuie-tête n'est pas en position verrouillée.</p>
+        </div>
+        <h2>Appuie-tête des sièges extérieurs de la deuxième rangée</h2>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Retirez les appuie-têtes des sièges latéraux de la deuxième rangée en appuyant sur les boutons situés au bas des tiges de l'appuie-tête et en soulevant l'appuie-tête directement vers le haut.</p>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>Le démontage et la réinstallation des appuie-têtes des sièges latéraux de la deuxième rangée ne doivent être effectués que par du personnel de service qualifié.</p>
+        </div>
+        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-2ndrow-remove-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+        <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-2ndrow-remove-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-2ndrow-remove-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <p>Pour réinstaller l'appuie-tête, alignez les tiges avec les trous en haut du siège et poussez le haut de l'appuie-tête tout en bas jusqu'à ce qu'il se verrouille en place.</p>
+        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-2ndrow-install-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+        <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-2ndrow-install-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-2ndrow-install-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        <div class="danger-nonelectrical">
+            <p>Assurez-vous que les appuie-têtes des sièges latéraux de la deuxième rangée sont bien abaissés en position verrouillée avant qu'un passager n'occupe les sièges latéraux pour aider à minimiser le risque de blessures (y compris les blessures au cou) en cas de collision. Le conducteur ne doit pas actionner le véhicule tant que les appuie-têtes ne sont pas en position verrouillée.</p>
+        </div>
+        <h2 class="KeepWithNext">Appuie-tête des sièges de la troisième rangée</h2>
+        <p class="KeepWithNext">Tirez le verrou manuel à la première encoche pour abaisser l'appuie-tête d'un siège de la troisième rangée.</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-3rdrow-down-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                        <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-3rdrow-down-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-3rdrow-down-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/side-head-restraints-v03-r1s-3rdrow-up-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../Resources/Images/day/side-head-restraints-v03-r1s-3rdrow-up-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../Resources/Images/night/side-head-restraints-v03-r1s-3rdrow-up-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-nonelectrical">
+            <p>Soulevez les appuie-têtes de la troisième rangée en position verrouillée avant que les passagers n'occupent les sièges pour aider à minimiser le risque de blessures (y compris les blessures au cou) en cas de collision. Le conducteur ne doit pas actionner le véhicule tant que les appuie-têtes ne sont pas en position verrouillée.</p>
+        </div>
+    </body>
+</html>
