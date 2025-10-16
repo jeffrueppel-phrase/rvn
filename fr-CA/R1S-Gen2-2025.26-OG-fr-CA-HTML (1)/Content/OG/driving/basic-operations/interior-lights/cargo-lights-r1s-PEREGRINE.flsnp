@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Les feux de chargement illuminent l'espace de chargement arrière. Ces feux s'allument automatiquement lorsque le hayon s'ouvre dans des conditions de faible luminosité et s'éteignent automatiquement lorsque le hayon se ferme.</p>
+        <p>Pour allumer ou éteindre manuellement les feux de chargement, vous avez deux options : </p>
+        <ul>
+            <li>
+                <p>Choisissez <b>Véhicule</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Icône de véhicule" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Icône de véhicule" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> à partir de la barre d'état sur l'écran central. Choisissez <b>Lumières</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/lighting/ic_lighting_master_light_20_unselected.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText><img src="../../../../Resources/Images/Icons/day/ui-icons-qc-lighting-unselected-inline-day.svg" class="image-inline-day" alt="Icône des feux de hayon" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/ui-icons-qc-lighting-unselected-inline-night.svg" class="image-inline-night" alt="Icône des feux de hayon" MadCap:conditions="OutputTypeConditions.Web"/> pour allumer ou éteindre les feux de chargement et les feux du hayon. </p>
+            </li>
+            <li>
+                <p>Utilisez le toucher pour contrôler les feux de chargement. </p>
+            </li>
+        </ul>
+    </body>
+</html>
