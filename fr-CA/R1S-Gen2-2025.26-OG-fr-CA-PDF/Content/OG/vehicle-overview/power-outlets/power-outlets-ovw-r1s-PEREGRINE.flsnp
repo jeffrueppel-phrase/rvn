@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Les prises de courant suivantes sont disponibles dans le véhicule :</p>
+        <ul>
+            <li>
+                <p>12 V</p>
+            </li>
+            <li>
+                <p>120 V</p>
+            </li>
+            <li>
+                <p>USB-C</p>
+            </li>
+            <li>
+                <p>
+                    <a href="../../phone-media/device-charging/wireless-charger.htm">Chargeur sans fil</a>
+                </p>
+            </li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Utilisez les prises USB-C dans le compartiment de rangement de la console centrale pour charger et stocker des données, telles que des séquences de sécurité provenant du <a href="../../storage-security/security/gear-guard-video/about-gear-guard-video.htm">Gear Guard</a>. Ces ports USB-C peuvent supporter jusqu'à 60 W par port, avec une capacité maximale totale de 67,5 W pour deux ports.</p>
+                </li>
+                <li>
+                    <p>Utilisez les prises USB-C à l'arrière des appuie-têtes, sous l'écran d'affichage arrière, et près des accoudoirs des sièges arrière extérieurs uniquement pour la charge. Ils sont mieux adaptés aux petits appareils électroniques tels qu'un téléphone ou une tablette. Ces ports USB-C peuvent charger un maximum de 15 W par port, avec une capacité maximale totale de 30 W.</p>
+                </li>
+                <li>
+                    <p>Selon votre véhicule, toutes les prises peuvent ne pas être disponibles.</p>
+                </li>
+            </ul>
+        </div>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <!-- power-outlets-v04-vehicle-R1S -->
+            <img src="../../../Resources/Images/print/power-outlets-vehicle-r1s-peregrine-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/120-v-gear-tunnel-danger.flsnp" />
+        <table class="TableStyle-callout-table" style="margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Prise</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>État de l'alimentation</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>120 V</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>L'alimentation est désactivée par défaut. Après les avoir activées depuis l'application <b>Énergie</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/energy/ic_energy_charging_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/energy/ic_energy_charging_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-energy-off-inline-print.svg" alt="application d'énergie" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> sur l'écran central, elles restent toutes allumées.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">
+                        <p>12 V</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">
+                        <p>L'alimentation est désactivée lorsque le véhicule n'est pas utilisé et que les prises de 120 V sont éteintes. L'alimentation est activée pendant que le véhicule est en cours d'utilisation. La puissance de la prise de 12 V peut être étendue en activant les prises de 120 V.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/120-v-max-power.flsnp" />
+    </body>
+</html>
