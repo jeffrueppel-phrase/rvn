@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.June Lee">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithPrevious">
+            <img src="../../../Resources/Images/print/exterior-lights-peregrine-front-rear-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="Feux avant et arrière"/>
+        </p>
+        <table style="page-break-inside:auto; margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Article</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Nom</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Phares
+					</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Les feux à l’avant du véhicule projettent un faisceau large pour que vous puissiez voir la route, les objets et les piétons la nuit.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Barres lumineuses centrales
+					</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Les barres lumineuses à l'avant et à l'arrière du véhicule indiquent l' <a href="../../charging-range/charging/charge-status.htm">état de charge</a>. </p>
+                        <p>Lorsque le véhicule est en charge, les barres lumineuses clignotent en vert, un segment à la fois. Les segments qui restent verts indiquent le niveau de charge.</p>
+                        <p>Lorsque le véhicule est complètement chargé, les barres lumineuses restent vertes.</p>
+                        <p>Lorsque le véhicule est verrouillé, les barres lumineuses s'éteignent.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Feux arrière</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Les feux rouges à l’arrière du véhicule permettent aux autres conducteurs de voir le véhicule la nuit.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">4</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Clignotants</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Les clignotants avant orange et les clignotants arrière rouges avertissent les autres conducteurs que vous prévoyez de tourner ou de changer de voie.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">5</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Feux de freinage</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">Des feux rouges à l’arrière du véhicule et des bandes lumineuses rouges au-dessus de la lunette arrière alertent les autres conducteurs lorsque le véhicule ralentit ou s’arrête. </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">6</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Feux de brouillard</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Les feux antibrouillard arrière permettent aux autres conducteurs de voir le véhicule en cas de brouillard.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">7</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Feux de recul</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">Des feux blancs à l'arrière du véhicule alertent les autres conducteurs que le véhicule est en marche arrière et qu'il peut reculer.</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">8</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Feux de jour ou feux de stationnement</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">Les feux à l'avant et sur les côtés du véhicule le rendent plus visible pour les autres conducteurs pendant que vous conduisez ou le garez. Les feux de jour sont plus lumineux que les feux de stationnement.
+					</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">9</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Feux de guidage</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Les feux à l’avant et à l’arrière du véhicule vous aident, ainsi que vos passagers, à voir les environs la nuit. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">10</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">
+                        <a name="HazardLights"> </a>Feux de détresse</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Les clignotants avant orange et arrière rouges clignotent pour alerter les autres conducteurs d'un danger ou d'une urgence.</p>
+                        <p>En cas d'urgence ou de dysfonctionnement, appuyez sur le bouton <b>des feux de détresse</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/roadside-assistance-v03-hazard-inline-print.svg" alt="Bouton des feux de détresse" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> sur la console de pavillon pour allumer les <a href="../../driving/basic-operations/exterior-lights/hazard-lights.htm">feux de détresse</a> et alerter les véhicules environnants.</p>
+                        <p>
+                            <img src="../../../Resources/Images/print/roadside-assistance-peregrine-hazard-button-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body1">11</td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body1">Projecteurs</td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body1">
+                        <p>Les lumières derrière les rétroviseurs latéraux vous permettent de visualiser facilement la zone devant votre véhicule lorsqu'il fait sombre à l'extérieur. Choisissez <b>le camping</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_camping_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_camping_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-camp-mode-off-inline-print.svg" alt="Icône de camping" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> dans le menu, ou choisissez <b>Véhicule</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Icône de véhicule" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> à partir de la barre d’état sur l’écran central. Choisissez ensuite un <b>projecteur</b>, <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_lh.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_lh.svg" /><img src="../../../Resources/Images/Icons/print/camp-mode-flood-lights-peregrine-driver-inline-print.svg" class="icon-in-line" alt="Icône de projecteur" MadCap:conditions=" OutputTypeConditions.Print-all"/> ou <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_rh.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_rh.svg" /><img src="../../../Resources/Images/Icons/print/camp-mode-flood-lights-peregrine-passenger-inline-print.svg" class="icon-in-line" alt="Icône de projecteur" MadCap:conditions=" OutputTypeConditions.Print-all"/>, pour allumer ou éteindre un projecteur.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
