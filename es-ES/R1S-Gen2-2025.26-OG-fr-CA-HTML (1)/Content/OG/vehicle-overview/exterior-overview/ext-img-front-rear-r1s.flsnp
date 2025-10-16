@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/exterior-overview-peregrine-R1S-front-rear-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/exterior-overview-peregrine-R1S-front-rear-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+            </img>
+            <img class="image-night" src="../../../Resources/Images/night/exterior-overview-peregrine-R1S-front-rear-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+            </img>
+        </p>
+        <table style="width:100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" class="TableStyle-callout-table" cellspacing="0" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <col class="TableStyle-callout-table-Column-Column1" MadCap:conditions="R1VehicleConditions.R1S">
+            </col>
+            <col class="TableStyle-callout-table-Column-Column2" MadCap:conditions="R1VehicleConditions.R1S">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1" MadCap:conditions="">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Artículo</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Cámara frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Sensores ultrasónicos</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Maletero delantero</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Botón del maletero delantero (oculto)</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>5</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Cámara de vista envolvente frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">
+                        <p>6</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Sensor de radar frontal</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>7</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>Enganche de remolque</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">8</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">
+                        <p>Sensores de esquina</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">9</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Puerta trasera</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body2">10</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body2">Portón trasero</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body1" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">11</td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">Cámara de vista envolvente trasera</td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">12</td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">Cámara interior</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note" MadCap:conditions="RegionSpecificConditions.CA">
+            <p>Todos los vehículos se envían con soportes de matrícula instalados en la parte trasera, y se instalan en la parte delantera a petición. Si su vehículo no tiene un soporte de matrícula delantera instalado, y le gustaría tener uno, o si es requerido por ley en su provincia, por favor <a href="../../customer-service/customer-service.htm">contacte con Rivian</a>. </p>
+        </div>
+        <div class="caution">
+            <p>
+                La instalación de un soporte de matrícula delantera requiere el uso de herramientas y sujetadores especiales. No recomendamos instalar el soporte usted mismo, ya que una instalación incorrecta puede causar daños al vehículo.</p>
+        </div>
+    </body>
+</html>
