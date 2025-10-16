@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S,ai-config.ai-verbatim">
+    <head>
+        <link href="../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <h2>Reposacabezas del asiento delantero</h2>
+        <p>El asiento del conductor y el asiento del pasajero están equipados con reposacabezas integrados. Los reposacabezas no son ajustables. </p>
+        <h2>Reposacabezas del asiento central de la segunda fila</h2>
+        <p>Para ajustar el reposacabezas del asiento central de la segunda fila, tire hacia arriba del reposacabezas hasta que se bloquee en su lugar. </p>
+        <div class="note">
+            <p>Los reposacabezas de los asientos exteriores de la segunda fila no son ajustables. </p>
+        </div>
+        <p>
+            <img src="../../../Resources/Images/print/head-restraints-v02-R1T-raise-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="margin-top: -5pt;margin-bottom: -2pt;" />
+        </p>
+        <p>Para bajar el reposacabezas, presione el botón en la parte inferior de la varilla del reposacabezas izquierdo mientras empuja hacia abajo la parte superior del reposacabezas. </p>
+        <p>
+            <img src="../../../Resources/Images/print/head-restraints-v02-R1S-lower-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" style="margin-top: -2pt;margin-bottom: -5pt;" />
+        </p>
+        <!-- LB note 4/10/25: To get danger on one page with rest of content in French (fr-CA), add style="margin-top: -10pt;margin-bottom: -10pt;" to p of danger below -->
+        <div class="danger-nonelectrical">
+            <p>Levante el reposacabezas del asiento central de la segunda fila en su posición bloqueada antes de que un pasajero ocupe el asiento para ayudar a minimizar el riesgo de lesiones (incluidas lesiones en el cuello) en caso de un accidente. El conductor no debe operar el vehículo hasta que el reposacabezas esté en la posición bloqueada.</p>
+        </div>
+        <h2>Reposacabezas de los asientos exteriores de la segunda fila</h2>
+        <p MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">Retire los reposacabezas de los asientos exteriores de la segunda fila presionando los botones en la parte inferior de las varillas del reposacabezas y levantando el reposacabezas hacia arriba.</p>
+        <div class="caution alert-padding" MadCap:conditions="R1GuideSpecificConditions.OwnersGuide">
+            <p>La extracción y reinstalación de los reposacabezas de los asientos exteriores de la segunda fila solo debe ser realizada por personal de servicio calificado.</p>
+        </div>
+        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-2ndrow-remove-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+        <p>Para reinstalar el reposacabezas, alinee las varillas con los agujeros en la parte superior del asiento y empuje la parte superior del reposacabezas hacia abajo hasta que se bloquee en su lugar.</p>
+        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-2ndrow-install-print.svg" MadCap:conditions="OutputTypeConditions.Print-all,R1GuideSpecificConditions.OwnersGuide" />
+        <div class="danger-nonelectrical">
+            <p>Asegúrese de que los reposacabezas de los asientos exteriores de la segunda fila estén completamente bajados en la posición bloqueada antes de que un pasajero ocupe los asientos exteriores para ayudar a minimizar el riesgo de lesiones (incluidas lesiones en el cuello) en caso de un accidente. El conductor no debe operar el vehículo hasta que los reposacabezas estén en la posición bloqueada.</p>
+        </div>
+        <h2 class="KeepWithNext">Reposacabezas de los asientos de la tercera fila</h2>
+        <p class="KeepWithNext">Tire del pestillo manual hasta la primera muesca para plegar un reposacabezas del asiento de la tercera fila hacia abajo.</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <col class="TableStyle-img-img-table-Column-Column1" style="width: 50%;" MadCap:conditions="" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-3rdrow-down-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../Resources/Images/print/side-head-restraints-v03-r1s-3rdrow-up-print.svg" style="padding-left:10px;" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="danger-nonelectrical">
+            <p>Levante los reposacabezas de los asientos de la tercera fila en la posición bloqueada antes de que los pasajeros ocupen los asientos para ayudar a minimizar el riesgo de lesiones (incluidas lesiones en el cuello) en caso de un accidente. El conductor no debe operar el vehículo hasta que los reposacabezas estén en la posición bloqueada.</p>
+        </div>
+    </body>
+</html>
