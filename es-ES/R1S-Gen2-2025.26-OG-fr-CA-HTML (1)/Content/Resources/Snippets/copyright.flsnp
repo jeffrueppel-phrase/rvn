@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>Copyright</title>
+    </head>
+    <body>
+        <p>© <MadCap:variable name="General.Copyright" /> Rivian Automotive, S.L.U. Todos los derechos reservados. 
+
+</p>
+        <p>Toda la información contenida en este documento y todo el software de Rivian están sujetos a derechos de autor y otros derechos de propiedad intelectual de Rivian Automotive, LLC, sus filiales o sus licenciantes. Este material no puede ser modificado, reproducido ni copiado, ni en su totalidad ni en parte, sin el permiso previo por escrito de Rivian Automotive, LLC, sus filiales o sus licenciantes. Salvo que se indique lo contrario, todas las marcas comerciales son propiedad y están registradas por <MadCap:variable name="General.CompanyName" />, sus filiales o sus licenciantes en Estados Unidos y/u otros países. Visite <MadCap:conditionalText MadCap:conditions="OutputTypeConditions.In-Vehicle">https://www.rivian.com/legal/brand</MadCap:conditionalText> para conocer las marcas comerciales y marcas de servicio de Rivian.
+</p>
+    </body>
+</html>
