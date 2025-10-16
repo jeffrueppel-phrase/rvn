@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/img-img-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Utilisez le toucher pour contrôler les lumières de lecture. </p>
+        <p>Touchez une fois pour allumer à une luminosité partielle. Touchez une deuxième fois pour augmenter la luminosité et une troisième fois pour éteindre.</p>
+        <p class="KeepWithNext">Les lumières de lecture sont situées dans les zones suivantes :</p>
+        <ul>
+            <li>
+                <p>Console au plafond entre les sièges du conducteur et du passager</p>
+            </li>
+            <li>
+                <p>Côté au-dessus de la porte et de la zone de la fenêtre pour les sièges de la deuxième et de la troisième rangée</p>
+            </li>
+        </ul>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/img-img-table.css');" class="TableStyle-img-img-table" cellspacing="0">
+            <col class="TableStyle-img-img-table-Column-Column1" />
+            <col class="TableStyle-img-img-table-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-img-img-table-Body-Body1">
+                    <td class="TableStyle-img-img-table-BodyB-Column1-Body1">
+                        <p>
+                            <img src="../../../../Resources/Images/print/cabin-lights-peregrine-overhead-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="éclairage de plafond"/>
+                        </p>
+                    </td>
+                    <td class="TableStyle-img-img-table-BodyA-Column1-Body1">
+                        <p>
+                            <img src="../../../../Resources/Images/print/cabin-lights-peregrine-rear-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="éclairage latéral"/>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
