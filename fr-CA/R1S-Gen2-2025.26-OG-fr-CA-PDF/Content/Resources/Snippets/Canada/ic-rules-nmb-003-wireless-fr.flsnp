@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="RegulatoryConditions.HomologatedContent,LanguageConditions.fr,RegionSpecificConditions.CA">L'émetteur/récepteur exempt de licence contenu dans le présent appareil est conforme aux CNR d'Innovation, Sciences et Développement économique Canada applicables aux appareils radio exempts de licence. L'exploitation est autorisée aux deux conditions suivantes :</p>
+        <ol MadCap:conditions="RegulatoryConditions.HomologatedContent,LanguageConditions.fr,RegionSpecificConditions.CA">
+            <li>
+                <p>L'appareil ne doit pas causer de brouillage.</p>
+            </li>
+            <li>
+                <p>L'appareil doit accepter toute interférence radioélectrique subie, même si cette interférence est susceptible d'en compromettre le fonctionnement.</p>
+            </li>
+        </ol>
+    </body>
+</html>
