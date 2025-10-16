@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Le toit en verre feuilleté durable bloque plus de 99,9 % des rayons ultraviolets (UV).</p>
+        <div class="warning">
+            <p>Le toit n'est pas porteur. Pour éviter tout dommage, ne placez aucun objet sur le toit. Pour transporter des articles sur le dessus de votre véhicule, installez et utilisez plutôt les barres transversales de chargement en option.</p>
+        </div>
+        <p>Il y a deux options :</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Toiture en verre standard :</b> Une teinte fixe fournit un seul niveau d'opacité.</p>
+            </li>
+            <li>
+                <p>
+                    <b>Toit en verre dynamique :</b> Une brume variable offre deux états d'opacité, activé ou désactivé. Pour éclaircir ou assombrir le toit, choisissez <b>Véhicule</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-vehicle-off-inline-day.svg" alt="Icône de véhicule" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-vehicle-off-inline-night.svg" alt="Icône de véhicule" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> à partir de la barre d’état sur l’écran central. Choisir <span class="nonbreaking"><b>Toit</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_dynamic_glass_roof_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/controls-pdlc-inline-day.svg" alt="icône de toit en verre dynamique" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/controls-pdlc-inline-night.svg" alt="icône de toit en verre dynamique" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> pour changer l'état d'opacité. <br /></p>
+            </li>
+        </ul>
+    </body>
+</html>
