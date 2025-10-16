@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.June Lee">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table-3col.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>
+            <img src="../../../Resources/Images/print/exterior-lights-peregrine-side-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" alt="Luces laterales"/>
+        </p>
+        <table style="page-break-inside:auto;width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table-3col.css');" class="TableStyle-callout-table-3col" cellspacing="0">
+            <col class="TableStyle-callout-table-3col-Column-Column1">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column2">
+            </col>
+            <col class="TableStyle-callout-table-3col-Column-Column3">
+            </col>
+            <thead>
+                <tr class="TableStyle-callout-table-3col-Head-Header1">
+                    <th class="TableStyle-callout-table-3col-HeadE-Column1-Header1">
+                        <p>Artículo</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadE-Column2-Header1">
+                        <p>Nombre</p>
+                    </th>
+                    <th class="TableStyle-callout-table-3col-HeadD-Column3-Header1">
+                        <p>Descripción</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Barras de luz centrales</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Las barras de luz en la parte delantera y trasera del vehículo indican el <a href="../../charging-range/charging/charge-status.htm">estado de cargo</a>. </p>
+                        <p>Cuando el vehículo está cargando, las barras luminosas parpadean en verde un segmento a la vez. Los segmentos que permanecen en verde indican el nivel de carga.</p>
+                        <p>Cuando el vehículo está completamente cargado, las barras luminosas permanecen en verde.</p>
+                        <p>Cuando el vehículo está bloqueado, las barras luminosas se apagan.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">2</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Señales de giro</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Las señales de giro delanteras ámbar y las señales de giro traseras rojas alertan a otros conductores de que tiene la intención de girar o cambiar de carril.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">3</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Luces de freno</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">Las luces rojas en la parte trasera del vehículo y las tiras de luz roja sobre la ventana trasera alertan a otros conductores cuando el vehículo reduce la velocidad o se detiene. </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">4</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Indicadores laterales delanteros y traseros</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Las luces y los marcadores reflectantes hacen que el vehículo sea más visible para otros conductores durante el día y la noche.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">5</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Luces de conducción diurna o luces de estacionamiento</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">Las luces en la parte delantera y lateral del vehículo lo hacen más visible para otros conductores mientras conduce o lo estaciona. Las luces de conducción diurna son más brillantes que las luces de estacionamiento.
+					</td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body2">6</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body2">Luces de entrada</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body2">
+                        <p>Los espejos laterales proyectan el logotipo de Rivian Compass para iluminar el suelo cuando desbloquea el vehículo.</p>
+                        <p>Nota lo siguiente:</p>
+                        <ul>
+                            <li>
+                                <p>Si está habilitada, la configuración de luces de entrada enciende las luces de entrada cuando desbloquea el vehículo.</p>
+                            </li>
+                            <li>
+                                <p>La configuración de la secuencia de iluminación enciende las luces de acceso cuando desbloquea su vehículo desde una proximidad cercana.</p>
+                            </li>
+                            <li>
+                                <p>Si habilita el desbloqueo o el bloqueo de proximidad, las luces de acceso se encienden cuando se acerca al vehículo.</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body1">
+                    <td class="TableStyle-callout-table-3col-BodyE-Column1-Body1">7</td>
+                    <td class="TableStyle-callout-table-3col-BodyE-Column2-Body1">Luces de emergencia</td>
+                    <td class="TableStyle-callout-table-3col-BodyD-Column3-Body1">
+                        <p>Las señales de giro delanteras ámbar y traseras rojas parpadean para alertar a otros conductores de un peligro o emergencia.</p>
+                        <p>En caso de emergencia o mal funcionamiento, presione el botón <b>Luces de emergencia</b> . <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/misc/ic_misc_hazard_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/roadside-assistance-v03-hazard-inline-print.svg" alt="Botón de luces de emergencia" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> en la consola superior para encenderlo <a href="../../driving/basic-operations/exterior-lights/hazard-lights.htm">luces de emergencia</a> y avise a los vehículos circundantes.</p>
+                        <p>
+                            <img src="../../../Resources/Images/print/roadside-assistance-peregrine-hazard-button-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-3col-Body-Body2" MadCap:conditions="">
+                    <td class="TableStyle-callout-table-3col-BodyB-Column1-Body2">8</td>
+                    <td class="TableStyle-callout-table-3col-BodyB-Column2-Body2">Luces de inundación</td>
+                    <td class="TableStyle-callout-table-3col-BodyA-Column3-Body2">
+                        <p>Las luces detrás de los espejos laterales le permiten ver fácilmente el área frente a su vehículo cuando está oscuro afuera. Elija <b>Acampar</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_camping_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/hardware_and_cameras/ic_hardware_and_cameras_camping_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-camp-mode-off-inline-print.svg" alt="Ícono de camping" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> desde el menú, o elija <b>Vehículo</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/vehicle/ic_vehicle_front_view_20_unselected.svg" /><img src="../../../Resources/Images/Icons/print/app-vehicle-off-inline-print.svg" alt="Ícono del vehículo" class="icon-in-line" MadCap:conditions="OutputTypeConditions.Print-all"/> en la barra de estado en la pantalla central. Luego, elija una <b>Flood Light</b>, <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_lh.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_lh.svg" /><img src="../../../Resources/Images/Icons/print/camp-mode-flood-lights-peregrine-driver-inline-print.svg" class="icon-in-line" alt="icono de luces de inundación" MadCap:conditions=" OutputTypeConditions.Print-all"/> o <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_rh.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../Resources/Images/Icons/inline/lighting/ic_lighting_camping_lights_20_unselected_rh.svg" /><img src="../../../Resources/Images/Icons/print/camp-mode-flood-lights-peregrine-passenger-inline-print.svg" class="icon-in-line" alt="icono de luces de inundación" MadCap:conditions=" OutputTypeConditions.Print-all"/>, para encender o apagar una luz de inundación.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
