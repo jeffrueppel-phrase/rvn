@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1PlatformConditions.R1Peregrine,R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Karin Hepler">
+    <head>
+        <link href="../../../../Resources/TableStyles/txt-diff-col-width-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p MadCap:conditions="R1VehicleConditions.R1S">
+            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/online/keyfob-2.0-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../../Resources/Images/day/keyfob-2.0-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+            </img>
+            <img class="image-night" src="../../../../Resources/Images/night/keyfob-2.0-R1S-night.svg" MadCap:conditions="R1VehicleConditions.R1S, OutputTypeConditions.Web">
+            </img>
+        </p>
+        <table style="page-break-inside:auto; width: 100%;mc-table-style: url('../../../../Resources/TableStyles/txt-diff-col-width-table.css');" class="TableStyle-txt-diff-col-width-table" cellspacing="0" MadCap:conditions="R1VehicleConditions.R1S">
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 15%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 20%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <col style="width: 35%;" class="TableStyle-txt-diff-col-width-table-Column-Column1" MadCap:conditions="">
+            </col>
+            <thead>
+                <tr class="TableStyle-txt-diff-col-width-table-Head-Header1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Número</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1">
+                        <p>Descripción</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadE-Column1-Header1" colspan="2">
+                        <p>Secuencia de botones</p>
+                    </th>
+                    <th class="TableStyle-txt-diff-col-width-table-HeadD-Column1-Header1">
+                        <p>Función</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Maletero delantero</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Doble pulsación
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Abrir o cerrar el maletero delantero.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Pulsar y luego doble pulsar						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Pulsación única para pausar el maletero delantero en movimiento. Doble pulsación para cambiar de dirección.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Puerta trasera</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Doble pulsación
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Abrir la puerta trasera.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2"> </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Pulsar y luego doble pulsar						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Pulsación única para pausar la puerta trasera en movimiento. Doble pulsación para cambiar de dirección.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Bloquear</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Pulsar
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Bloquear todas las puertas.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Doble pulsación
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Bloquear todas las puertas.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dash-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dash-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dash-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Mantener</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Activar la alarma de pánico.</p>
+                        <p>Pulsar <b>Desbloquear</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/vehicle_controls/ic_vehicle_controls_lock_unlock_20_unselected_unlocked.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/unlock-inline-day.svg" alt="Icono de desbloqueo" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/unlock-inline-night.svg" alt="Icono de desbloqueo" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> en el llavero para detener la alarma.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dash-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dash-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dash-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>Presiona y luego mantén presionado</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Cierra todas las puertas y sube todas las ventanas.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>4</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>Desbloquear</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body1">
+                        <p> Pulsar
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body1">
+                        <p>Desbloquear la puerta del conductor o todas las puertas.</p>
+                        <p>Configura esta opción desde la pantalla central.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body2" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dot-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dot-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dot-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyE-Column1-Body2">
+                        <p> Doble pulsación
+						</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyD-Column1-Body2">
+                        <p>Desbloquear todas las puertas.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-txt-diff-col-width-table-Body-Body1" MadCap:conditions="R1VehicleConditions.R1S">
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online" src="../../../../Resources/Images/Icons/online/button-press-patterns-v01-dot-dash-inline-online.flsnp"></MadCap:snippetText>
+                            <img class=" image-inline-day " src="../../../../Resources/Images/Icons/day/button-press-patterns-v01-dot-dash-inline-day.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                            <img class="image-inline-night" src="../../../../Resources/Images/Icons/night/button-press-patterns-v01-dot-dash-inline-night.svg" MadCap:conditions="OutputTypeConditions.Web">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyB-Column1-Body1">
+                        <p>Presiona y luego mantén presionado</p>
+                    </td>
+                    <td class="TableStyle-txt-diff-col-width-table-BodyA-Column1-Body1">
+                        <p>Desbloquear todas las puertas y bajar todas las ventanas.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
