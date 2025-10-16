@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+        <link href="../../../Resources/TableStyles/callout-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Los siguientes enchufes de corriente están disponibles en el vehículo:</p>
+        <ul>
+            <li>
+                <p>12 V</p>
+            </li>
+            <li>
+                <p>120 V</p>
+            </li>
+            <li>
+                <p>USB-C</p>
+            </li>
+            <li>
+                <p>
+                    <a href="../../phone-media/device-charging/wireless-charger.htm">Cargador Inalámbrico</a>
+                </p>
+            </li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>
+                    <p>Utiliza los enchufes USB-C dentro del compartimento de almacenamiento de la consola central para cargar y almacenar datos, como grabaciones de seguridad del <a href="../../storage-security/security/gear-guard-video/about-gear-guard-video.htm">Gear Guard</a>. Estos puertos USB-C pueden soportar hasta 60 W de un solo puerto, con una capacidad máxima total de 67.5 W para dos puertos.</p>
+                </li>
+                <li>
+                    <p>Utiliza los enchufes USB-C en la parte trasera de los reposacabezas, debajo de la pantalla de visualización trasera y cerca de los reposabrazos de los asientos traseros exteriores solo para cargar. Son más adecuados para dispositivos electrónicos más pequeños, como un teléfono o una tableta. Estos puertos USB-C pueden cargar un máximo de 15 W de un solo puerto, con una capacidad máxima total de 30 W.</p>
+                </li>
+                <li>
+                    <p>Dependiendo de tu vehículo, no todos los enchufes pueden estar disponibles.</p>
+                </li>
+            </ul>
+        </div>
+        <p MadCap:conditions="R1PlatformConditions.R1Peregrine">
+            <!-- power-outlets-v04-vehicle-R1S --> <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/power-outlets-vehicle-r1s-peregrine-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/power-outlets-vehicle-r1s-peregrine-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/power-outlets-vehicle-r1s-peregrine-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/120-v-gear-tunnel-danger.flsnp" />
+        <table class="TableStyle-callout-table" style="margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../Resources/TableStyles/callout-table.css');" cellspacing="0">
+            <col class="TableStyle-callout-table-Column-Column1" style="width: 15%;" />
+            <col class="TableStyle-callout-table-Column-Column2" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-callout-table-Head-Header1">
+                    <th class="TableStyle-callout-table-HeadE-Column1-Header1">
+                        <p>Enchufe</p>
+                    </th>
+                    <th class="TableStyle-callout-table-HeadD-Column2-Header1">
+                        <p>Estado de Energía</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-callout-table-Body-Body1">
+                    <td class="TableStyle-callout-table-BodyE-Column1-Body1">
+                        <p>120 V</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyD-Column2-Body1">
+                        <p>La energía está apagada por defecto. Después de encenderlos desde la <b>aplicación de Energía</b> <MadCap:snippetText class="image-online-inline" src="../../../Resources/Images/Icons/inline/energy/ic_energy_charging_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../Resources/Images/Icons/day/app-energy-off-inline-day.svg" alt="aplicación de energía" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../Resources/Images/Icons/night/app-energy-off-inline-night.svg" alt="aplicación de energía" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/> en la pantalla central, todos permanecen encendidos.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-callout-table-Body-Body2">
+                    <td class="TableStyle-callout-table-BodyB-Column1-Body2">
+                        <p>12 V</p>
+                    </td>
+                    <td class="TableStyle-callout-table-BodyA-Column2-Body2">
+                        <p>La energía está apagada cuando el vehículo no se está utilizando y los enchufes de 120 V están apagados. La energía está encendida mientras el vehículo está en uso. La energía del enchufe de 12 V se puede extender encendiendo los enchufes de 120 V.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/120-v-max-power.flsnp" />
+    </body>
+</html>
