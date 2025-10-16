@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Aller à <span class="nonbreaking"> <b>Paramètres</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icône Paramètres" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icône Paramètres" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> > <b>Véhicule</b> > <b>Écrans et éclairage</b> sur l'écran central pour accéder aux commandes et réglages suivants :	</p>
+        <ul>
+            <li>
+                <p>
+                    <b>Éclairage d'accentuation :</b> Allumez les feux d'accentuation dans des conditions de faible luminosité ou éteignez les feux d'appoint. </p>
+                <ul>
+                    <li>
+                        <p>
+                            <b>Thème :</b> Vous pouvez choisir un thème d'éclairage différent pour changer la couleur des lumières d'accentuation. </p>
+                        <p>Choisissez le thème actuel ; un panneau apparaît et affiche d'autres options. Choisissez un thème différent pour l'afficher en aperçu. </p>
+                        <p>Par défaut, le véhicule joue également le son correspondant ; vous pouvez choisir <span class="nonbreaking"> <b>Volume</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/system/ic_system_volume_20_unselected_0.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-volume-on-inline-day.svg" alt="Bouton Volume" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-volume-on-inline-night.svg" alt="Bouton Volume" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> pour le mettre en sourdine.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <b>Luminosité :</b> Lorsque les voyants d'accentuation sont allumés, utilisez le curseur pour régler leur luminosité.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <b>Lumières allumées lorsque les portes s'ouvrent :</b> Allumez <b>les lumières lorsque les portes s'ouvrent</b> ou s'éteignent. Si les voyants sont allumés lorsque les portes sont ouvertes, le véhicule allume automatiquement les feux de cabine dans n'importe quelle rangée avec une porte ouverte dans des conditions de faible luminosité.</p>
+                <div class="note">
+                    <p>Si vous ouvrez une porte arrière, les feux de cabine des deuxième et troisième rangées s'allument.</p>
+                </div>
+            </li>
+            <li>
+                <p>
+                    <b>Lumières allumées sur le parc :</b> Allumez <b>les lumières lorsque le stationnement</b> est allumé ou éteint. Si l'éclairage sur le stationnement est allumé, le véhicule allume automatiquement les feux de cabine lorsque vous déplacez le véhicule vers le parc dans des conditions de faible luminosité. </p>
+            </li>
+            <li>
+                <p>
+                    <b>Luminosité des feux de plafond :</b> Utilisez le curseur pour régler la luminosité des feux de plafond.</p>
+            </li>
+            <li>
+                <b>Luminosité de l'éclairage du chariots élévateurs :</b> Lorsque le pate de levage est ouvert, utilisez le curseur pour régler la luminosité des feux du pate de levage.</li>
+        </ul>
+    </body>
+</html>
