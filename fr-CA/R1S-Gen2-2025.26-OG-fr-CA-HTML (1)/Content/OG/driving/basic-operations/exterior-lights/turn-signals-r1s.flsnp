@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+        <link href="../../../../Resources/TableStyles/proc-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
+    </head>
+    <body>
+        <p>Utilisez la tige lumineuse sur le côté gauche du volant pour contrôler les clignotants. </p>
+        <h2>Commandes de la tige de l'éclairage</h2>
+        <p>Pour faire clignoter les clignotants en cas de changement de voie, poussez légèrement la tige des feux vers le haut ou vers le bas selon la direction du changement de voie. Les clignotants s'arrêtent automatiquement après qu'ils clignotent trois fois.</p>
+        <p>Pour faire clignoter en continu des clignotants, appuyez jusqu'à ce que la tige des feux clique. Pour arrêter les clignotants, effectuez l'une des opérations suivantes :</p>
+        <ul>
+            <li>
+                <p>Déplacez le volant et terminez le virage.</p>
+            </li>
+            <li>
+                <p>Poussez légèrement la tige de la lumière vers le haut ou vers le bas.</p>
+            </li>
+            <li>
+                <p>Poussez la tige du voyant dans la direction opposée au virage initial jusqu'à ce qu'elle clique. Cela déclenche également des clignotants continus dans la direction opposée.</p>
+            </li>
+        </ul>
+        <h2>Direction du virage</h2>
+        <table style="width: 100%;mc-table-style: url('../../../../Resources/TableStyles/proc-table.css');" class="TableStyle-proc-table" cellspacing="0">
+            <col class="TableStyle-proc-table-Column-Column1" />
+            <col class="TableStyle-proc-table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-proc-table-Body-Body1">
+                    <td class="TableStyle-proc-table-BodyB-Column1-Body1">
+                        <p>Appuyez sur la tige des feux vers le haut pour indiquer un virage à droite ou un changement de voie.</p>
+                        <p> Poussez la tige des feux vers le bas pour indiquer un virage à gauche ou un changement de voie.</p>
+                    </td>
+                    <td class="TableStyle-proc-table-BodyA-Column2-Body1">
+                        <p>
+                            <MadCap:snippetText class="image-online-large" src="../../../../Resources/Images/online/stalk-wiper-light-v06-light-turn-signal-R1S-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+                            <img class="image-day" src="../../../../Resources/Images/day/stalk-wiper-light-v06-light-turn-signal-R1S-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                            <img class="image-night" src="../../../../Resources/Images/night/stalk-wiper-light-v06-light-turn-signal-R1S-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
