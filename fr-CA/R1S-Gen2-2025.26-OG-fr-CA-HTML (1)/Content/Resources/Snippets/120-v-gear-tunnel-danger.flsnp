@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="danger-electrical">
+            <p MadCap:conditions="R1VehicleConditions.R1S">Les accessoires fournis par Rivian fonctionnent mieux avec votre véhicule. Pour réduire le risque d’incendie ou d’événement thermique, soyez prudent lorsque vous laissez des appareils non Rivian branchés et sans surveillance.</p>
+            <p MadCap:conditions="R1VehicleConditions.R1S">Ne laissez aucun objet obstruer les prises en cours d’utilisation.</p>
+        </div>
+    </body>
+</html>
