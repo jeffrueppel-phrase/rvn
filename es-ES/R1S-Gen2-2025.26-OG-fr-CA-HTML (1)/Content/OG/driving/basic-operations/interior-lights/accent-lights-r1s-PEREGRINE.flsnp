@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.June Lee" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');" MadCap:conditions="R1VehicleConditions.R1S,R1PlatformConditions.R1Peregrine">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <p class="KeepWithNext">Las luces de acento se encuentran en las siguientes áreas:</p>
+        <ul>
+            <li>
+                <p>Zonas de los pies delanteros</p>
+            </li>
+            <li>
+                <p>Bolsillos de las puertas</p>
+            </li>
+            <li>
+                <p>Tablero</p>
+            </li>
+            <li>
+                <p>Consola central</p>
+            </li>
+            <li>
+                <p>Moldura de la puerta</p>
+            </li>
+        </ul>
+        <p>Para encender las luces de acento en condiciones de poca luz o apagarlas, ve a <span class="nonbreaking"><b>Configuración</b> <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/misc/ic_misc_settings_20_unselected.flsnp"></MadCap:snippetText><img class="image-inline-day" src="../../../../Resources/Images/Icons/day/app-settings-off-inline-day.svg" alt="Icono de configuración" MadCap:conditions="OutputTypeConditions.Web"/><img src="../../../../Resources/Images/Icons/night/app-settings-off-inline-night.svg" alt="Icono de configuración" class="image-inline-night" MadCap:conditions="OutputTypeConditions.Web"/></span> > <b>Vehículo</b> > <b>Pantallas y Iluminación</b> en la pantalla central. </p>
+        <p>Cuando las luces de acento están encendidas, puedes ajustar su brillo.</p>
+    </body>
+</html>
