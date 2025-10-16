@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="caution">
+            <ul>
+                <li>
+                    <p>No utilices un enchufe para alimentar ningún dispositivo que requiera más de 1,500 W (1.5 kW) de potencia. Si los circuitos de 120 V se sobrecargan, se corta la energía. Desenchufa los dispositivos antes de volver a encender los enchufes.</p>
+                </li>
+                <li>
+                    <p>No utilices más de un dispositivo de alta potencia al mismo tiempo. Los enchufes de 120 V comparten los 1,500 W (1.5 kW) de potencia.</p>
+                </li>
+                <li>
+                    <p>Dejar los enchufes de 120 V encendidos reduce la autonomía de tu vehículo, incluso si no hay dispositivos conectados.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
