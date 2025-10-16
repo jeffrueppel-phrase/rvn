@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:fileTags="TechPubsAuthors.Karin Hepler" MadCap:conditions="R1VehicleConditions.R1S" style="mc-template-page: url('../../../../Resources/MasterPages/H4-Topics.flmsp');">
+    <head>
+    </head>
+    <body>
+        <p class="KeepWithNext">Presione y mantenga presionado el botón <MadCap:conditionalText MadCap:conditions="R1VehicleConditions.R1S">superior </MadCap:conditionalText>del limpiaparabrisas <MadCap:snippetText class="image-online-inline" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_washer_fluid_20_unselected.flsnp"></MadCap:snippetText><img class="image-print-inline" MadCap:conditions="OutputTypeConditions.Print-all" src="../../../../Resources/Images/Icons/inline/ttales_lights_wipers/ic_telltales_lights_and_wipers_washer_fluid_20_unselected.svg" /><img class="icon-in-line" src="../../../../Resources/Images/Icons/print/wiper-washer-front-inline-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" /> para lavar el parabrisas delantero. Suelte el botón para detener la pulverización del líquido limpiaparabrisas. </p>
+        <p>
+            <img src="../../../../Resources/Images/print/stalk-wiper-light-v06-front-washer-R1S-print.svg" MadCap:conditions="OutputTypeConditions.Print-all" />
+        </p>
+        <div class="note">
+            <p>Presione y suelte rápidamente el botón del limpiaparabrisas para hacer un solo barrido sin líquido limpiaparabrisas.</p>
+        </div>
+    </body>
+</html>
