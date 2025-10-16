@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Import.Import-Global">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <p>
+                            <img src="../Images/print/Rivian_wordmark_black_053024.svg" style="display: inline-block; height: 14px;" />
+                        </p>
+                    </td>
+                    <td>
+                        <p style="text-align: right;">
+                            <img src="../Images/print/Rivian_compass_yellow_053024.svg" style="display: inline-block; height: 48px; margin-right: -10px" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
