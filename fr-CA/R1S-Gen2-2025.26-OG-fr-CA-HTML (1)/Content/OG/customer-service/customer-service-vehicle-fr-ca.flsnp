@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="RegionSpecificConditions.CA,ai-config.ai-verbatim,LanguageConditions.fr">
+    <head>
+        <link href="../../Resources/TableStyles/contact-table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="margin-left: 0;margin-right: auto;max-width: 840px;mc-table-style: url('../../Resources/TableStyles/contact-table.css');" class="TableStyle-contact-table" cellspacing="0">
+            <col class="TableStyle-contact-table-Column-Column1" style="width: 48%;" />
+            <col class="TableStyle-contact-table-Column-Column2" style="width: 5%;" />
+            <col class="TableStyle-contact-table-Column-Column3" style="width: 47%;" />
+            <tbody>
+                <tr class="TableStyle-contact-table-Body-Body1">
+                    <td class="TableStyle-contact-table-BodyE-Column1-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Centre de relation client</h3>
+                        <p MadCap:conditions="OutputTypeConditions.In-Vehicle">(844) RIVIAN1 / (844) 748-4261<br />rivian.com/fr-CA/support/contact<br /></p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyE-Column2-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyD-Column3-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Assistance routière 24h/24 et 7j/7 </h3>
+                        <p MadCap:conditions="OutputTypeConditions.In-Vehicle">(844) RIVIAN1 / (844) 748-4261</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-contact-table-Body-Body1">
+                    <td class="TableStyle-contact-table-BodyB-Column1-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Assurance </h3>
+                        <p MadCap:conditions="OutputTypeConditions.In-Vehicle">insurancesupport@rivian.com</p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyB-Column2-Body1">
+                        <p> </p>
+                    </td>
+                    <td class="TableStyle-contact-table-BodyA-Column3-Body1">
+                        <h3 class="noTOC" style="border-bottom: 1px solid var(--Primary);padding-bottom:5px;padding-top:5px;">Service 24h/24 et 7j/7 </h3>
+                        <p MadCap:conditions="OutputTypeConditions.In-Vehicle">(844) RIVIAN1 / (844) 748-4261<br />rivian.com/fr-CA/support/service</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
