@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="R1VehicleConditions.R1S" MadCap:fileTags="TechPubsAuthors.Emily Flegal">
+    <head>
+    </head>
+    <body>
+        <div class="danger-nonelectrical">
+            <p>Des tapis protecteurs mal installés peuvent interférer avec la pédale de frein ou d’accélérateur pendant que vous conduisez et peuvent entraîner une perte de contrôle du véhicule.</p>
+            <ul>
+                <li>
+                    <p>N’utilisez que des tapis protecteurs conçus pour votre véhicule spécifique. N’utilisez jamais de tapis de sol conçus pour d’autres modèles ou des véhicules d’une année modèle différente, même s’il s’agit de véritables tapis de sol Rivian.</p>
+                </li>
+                <li>
+                    <p>Assurez-vous que les tapis de sol sont correctement fixés au sol. Cela maintient les tapis en place afin qu’ils ne glissent pas ou ne se soulèvent pas des coins pendant que vous conduisez. Les tapis de sol doivent être inspectés périodiquement pour s’assurer qu’ils sont correctement installés.</p>
+                </li>
+                <li>
+                    <p>Un seul tapis de sol doit être installé dans chaque position. N’empilez jamais de tapis de sol les uns sur les autres (par exemple, n’empilez jamais de tapis de sol toutes saisons sur un tapis de sol recouvert de moquette).</p>
+                </li>
+                <li>
+                    <p>Installez les tapis de sol avec le bon côté vers le haut. N’installez jamais les tapis de sol à l’envers ou le bas vers le haut.</p>
+                </li>
+                <li>
+                    <p>Effectuez ce test de sécurité après l’installation d’un nouveau tapis de sol. Avant de conduire, et lorsque le véhicule est en <b>P</b> (Park), enfoncez complètement chaque pédale vers le sol pour vous assurer que le tapis de sol n’interfère pas avec la pédale de frein ou d’accélérateur.</p>
+                </li>
+                <li>
+                    <p>Le non-respect de ces avertissements peut entraîner une collision, des dommages matériels, des blessures graves ou la mort.</p>
+                </li>
+            </ul>
+        </div>
+        <div class="danger-nonelectrical">
+            <p>
+			Les tapis protecteurs des années modèles 2022 à 2024 peuvent potentiellement interférer avec la pédale d’accélérateur lorsqu’ils sont installés sur un véhicule 2025 ou plus récent. N’installez pas de tapis protecteurs 2022-2024 sur un véhicule 2025 ou plus récent.</p>
+        </div>
+        <p class="KeepWithNext">Les tapis de sol se fixent au sol à l’aide de boutons-poussoirs. Les tapis avant ont une languette à chaque coin inférieur. Les tapis arrière ont trois languettes de poussée sur le côté. </p>
+        <p>
+            <MadCap:snippetText class="image-online" src="../../../Resources/Images/online/r1s-all-weather-floor-mats-v01-online.flsnp" MadCap:conditions="OutputTypeConditions.Web"></MadCap:snippetText>
+            <img class="image-day" src="../../../Resources/Images/day/r1s-all-weather-floor-mats-v01-day.svg" MadCap:conditions="OutputTypeConditions.Web" />
+            <img class="image-night" src="../../../Resources/Images/night/r1s-all-weather-floor-mats-v01-night.svg" MadCap:conditions="OutputTypeConditions.Web" />
+        </p>
+        <h2>Retirez les tapis de sol</h2>
+        <ol class="KeepTogether">
+            <li>
+                <p>Tirez fermement sur une section du tapis de sol près d’une languette de pression. </p>
+            </li>
+            <li>
+                <p>Retirez une languette à la fois. </p>
+            </li>
+        </ol>
+        <h2>Fixez les tapis de sol</h2>
+        <ol class="KeepTogether">
+            <li>
+                <p>Alignez les tapis de sol avec les languettes sur le sol. Assurez-vous que les languettes se trouvent au-dessus des languettes correspondantes.</p>
+            </li>
+            <li>
+                <p>Appuyez fermement pour enclencher les boutons-poussoirs en place un par un. </p>
+            </li>
+        </ol>
+        <h2>Nettoyez les tapis de sol</h2>
+        <p>Secouez ou passez l’aspirateur sur les tapis de sol pour enlever tous les débris. Les tapis de sol peuvent être lavés avec de l’eau et des solutions de nettoyage courantes telles que du savon doux ou un détachant pour tapis. </p>
+    </body>
+</html>
